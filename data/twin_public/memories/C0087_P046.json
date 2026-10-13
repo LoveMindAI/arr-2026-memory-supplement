@@ -1,0 +1,23 @@
+{
+ "call": "C0087",
+ "person": "P046",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Talking about our dads' old jobs. Hers was a miner.",
+  "reason": "It felt like real common ground, honestly.",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

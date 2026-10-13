@@ -1,0 +1,57 @@
+{
+ "session": "S27",
+ "rater": "P142",
+ "ok": true,
+ "ratings": {
+  "P141": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "He looks tired and perhaps a bit disorganised with the dog toy on the floor."
+  },
+  "P143": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "She seems tidy and polite, though she might be a bit too concerned with appearances."
+  },
+  "P144": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He looks sensible and is obviously trying to improve himself through study."
+  },
+  "P145": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "He appears relaxed but perhaps a bit too casual sitting with a laptop on his knees."
+  },
+  "P146": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "His filing system is labelled and his office is in order. I would trust him to be efficient."
+  }
+ }
+}

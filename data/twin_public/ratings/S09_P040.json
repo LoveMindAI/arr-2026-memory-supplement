@@ -1,0 +1,47 @@
+{
+ "session": "S09",
+ "rater": "P040",
+ "ok": true,
+ "ratings": {
+  "P039": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "reminds me of a lady at the kids school she seems lovely tbh"
+  },
+  "P041": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like she knows what shes doing very professional sort of style"
+  },
+  "P042": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "really nice smile love her nails as well lol"
+  },
+  "P043": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like she might be a bit shy like me but nice"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0400",
+ "person": "P197",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Just how easy she was to chat to, she kept asking me questions back and we laughed loads.",
+  "reason": "Felt like chatting to a mate, not a stranger tbh :)",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

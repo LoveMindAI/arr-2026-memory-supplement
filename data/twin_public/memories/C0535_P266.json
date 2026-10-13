@@ -1,0 +1,23 @@
+{
+ "call": "C0535",
+ "person": "P266",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 34,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we basically talked sparky stuff the whole call, dan and his van, going self employed, trade accounts and discounts. didnt realise hes actually a final year apprentice electrician, got his am2 assessment coming up",
+  "reason": "cos its literally dans world so it was easy to chat about, felt like i could actually help him tbh",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

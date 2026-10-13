@@ -1,0 +1,57 @@
+{
+ "session": "S35",
+ "rater": "P189",
+ "ok": true,
+ "ratings": {
+  "P184": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He looks very kind, like he would be easy to talk to and very jolly. A grandfatherly man."
+  },
+  "P185": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks very polite and modest. I see she has a cross and likes things neat, so I think we would get on."
+  },
+  "P186": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "He looks a little bit tired or perhaps bored. He reminds me of my son when he is working too hard."
+  },
+  "P187": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He looks very professional and organized with his files. A very reliable young man, I think."
+  },
+  "P188": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She reminds me of some of the ladies at church. She looks quiet but very sensible and hard-working."
+  }
+ }
+}

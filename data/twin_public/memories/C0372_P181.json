@@ -1,0 +1,23 @@
+{
+ "call": "C0372",
+ "person": "P181",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when nicola said her mum had an OT come out and put a rail by her front step",
+  "reason": "because its literally what i do on placement, nice hearing it actually made a difference for someone, made me feel chuffed tbh",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

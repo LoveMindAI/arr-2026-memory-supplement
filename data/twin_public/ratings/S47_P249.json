@@ -1,0 +1,57 @@
+{
+ "session": "S47",
+ "rater": "P249",
+ "ok": true,
+ "ratings": {
+  "P246": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks really nice, sort of quiet but creative w/ the cat there lol"
+  },
+  "P247": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 0,
+   "gut": "reminds me of liam when he's had a long day, bit serious like"
+  },
+  "P248": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "properly organized, looks like the type who'd get the job done"
+  },
+  "P250": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "very like me tbh, even the clothes airer in the back haha"
+  },
+  "P251": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "lush smile, looks like she'd be easy to chat to"
+  }
+ }
+}

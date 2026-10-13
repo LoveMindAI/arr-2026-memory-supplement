@@ -1,0 +1,57 @@
+{
+ "session": "S05",
+ "rater": "P020",
+ "ok": true,
+ "ratings": {
+  "P019": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "He seems sort of confident, maybe a little loud"
+  },
+  "P021": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "A bit reserved, she looks like she might be quite practical"
+  },
+  "P022": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "Polite enough, he seems quite organised with his calendar there"
+  },
+  "P023": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She looks very kind and we both seem to like textiles"
+  },
+  "P024": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Warm and approachable, she reminds me a bit of the ladies at church"
+  }
+ }
+}

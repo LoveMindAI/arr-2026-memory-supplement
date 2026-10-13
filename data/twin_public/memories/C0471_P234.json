@@ -1,0 +1,25 @@
+{
+ "call": "C0471",
+ "person": "P234",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 12,
+  "reason": 29
+ },
+ "ok": true,
+ "answers": {
+  "moment": "His phone lit up below the camera, he glanced at it then flipped it face down",
+  "reason": "It was while I was going on about my team and I thought great, he's bored lol. Fair play for turning it over though, Maisie would never do that tbh",
+  "timing": 70
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0471",
+  "turn": 21,
+  "line_text": "Erm, honestly? Targets. Head office want the figures up every month, and I lie awake thinking about it sometimes. And complaints. I had a landlord ring me at nine o'clock on a Sunday night about a dripping tap. On a Sunday!",
+  "who": "Tomasz",
+  "what": "A phone on the desk just below the camera lights up the lower edge of the frame. Tomasz looks down at it for about two seconds, reaches out of shot, and the glow disappears as he turns it face down. Then he looks back at the camera."
+ }
+}

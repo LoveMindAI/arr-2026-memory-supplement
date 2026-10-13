@@ -1,0 +1,23 @@
+{
+ "call": "C0540",
+ "person": "P275",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When she said her friend lives on one of the new estates near her in Sittingbourne and the garden's a puddle you could keep ducks in.",
+  "reason": "It's basically what my dissertation is about. Sounded like clay ground and bad soakaways, so it stuck with me.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

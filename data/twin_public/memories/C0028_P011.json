@@ -1,0 +1,23 @@
+{
+ "call": "C0028",
+ "person": "P011",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he was just really chatty the whole way through, kem cho straight away, jokes about my gujarati, the twins hoodie thing. didnt know he does moped deliveries evenings on top of the factory",
+  "reason": "felt like talking to one of my cousins tbh, easy going, and he barely stopped to breathe ha",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

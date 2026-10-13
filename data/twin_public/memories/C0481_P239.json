@@ -1,0 +1,23 @@
+{
+ "call": "C0481",
+ "person": "P239",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 52
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he talked very fast and kept asking me questions the whole time",
+  "reason": "i think because he was very confident and quick like he was in charge of the call, i didnt have to think what to say next. reminded me of my cousins husband thats why i said it. he was friendly tho and asked about my mum which was nice of him",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

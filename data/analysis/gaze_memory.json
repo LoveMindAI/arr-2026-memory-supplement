@@ -1,0 +1,331 @@
+{
+ "n_rememberers": 292,
+ "n_reports": 1048,
+ "features": {
+  "all:self_away": {
+   "inside_minus_outside": -0.0154,
+   "ci95": [
+    -0.0225,
+    -0.0078
+   ],
+   "n_people": 292
+  },
+  "all:self_absyaw": {
+   "inside_minus_outside": -0.3944,
+   "ci95": [
+    -0.5501,
+    -0.2437
+   ],
+   "n_people": 292
+  },
+  "all:self_lookout": {
+   "inside_minus_outside": -0.001,
+   "ci95": [
+    -0.0027,
+    0.0008
+   ],
+   "n_people": 292
+  },
+  "all:self_blink": {
+   "inside_minus_outside": -0.0074,
+   "ci95": [
+    -0.0121,
+    -0.0031
+   ],
+   "n_people": 292
+  },
+  "all:partner_away": {
+   "inside_minus_outside": 0.0105,
+   "ci95": [
+    0.0014,
+    0.0194
+   ],
+   "n_people": 292
+  },
+  "all:partner_absyaw": {
+   "inside_minus_outside": 0.2785,
+   "ci95": [
+    0.1022,
+    0.458
+   ],
+   "n_people": 292
+  },
+  "all:partner_lookout": {
+   "inside_minus_outside": 0.0037,
+   "ci95": [
+    0.0022,
+    0.0053
+   ],
+   "n_people": 292
+  },
+  "all:partner_blink": {
+   "inside_minus_outside": -0.0072,
+   "ci95": [
+    -0.0121,
+    -0.0023
+   ],
+   "n_people": 292
+  },
+  "rememberer_speaking:self_away": {
+   "inside_minus_outside": -0.0089,
+   "ci95": [
+    -0.0202,
+    0.0027
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_absyaw": {
+   "inside_minus_outside": -0.1075,
+   "ci95": [
+    -0.3555,
+    0.1204
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_lookout": {
+   "inside_minus_outside": 0.0002,
+   "ci95": [
+    -0.0022,
+    0.0024
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_blink": {
+   "inside_minus_outside": -0.0067,
+   "ci95": [
+    -0.0145,
+    0.0015
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_away": {
+   "inside_minus_outside": -0.0052,
+   "ci95": [
+    -0.0162,
+    0.0059
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_absyaw": {
+   "inside_minus_outside": -0.2178,
+   "ci95": [
+    -0.4241,
+    -0.0033
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_lookout": {
+   "inside_minus_outside": 0.0009,
+   "ci95": [
+    -0.0015,
+    0.0033
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_blink": {
+   "inside_minus_outside": -0.0036,
+   "ci95": [
+    -0.0105,
+    0.0029
+   ],
+   "n_people": 283
+  },
+  "partner_speaking:self_away": {
+   "inside_minus_outside": -0.0185,
+   "ci95": [
+    -0.0271,
+    -0.0097
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_absyaw": {
+   "inside_minus_outside": -0.4935,
+   "ci95": [
+    -0.6905,
+    -0.3058
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_lookout": {
+   "inside_minus_outside": -0.0007,
+   "ci95": [
+    -0.0028,
+    0.0014
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_blink": {
+   "inside_minus_outside": -0.0063,
+   "ci95": [
+    -0.0121,
+    -0.0005
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_away": {
+   "inside_minus_outside": 0.0277,
+   "ci95": [
+    0.0151,
+    0.0396
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_absyaw": {
+   "inside_minus_outside": 0.6575,
+   "ci95": [
+    0.4365,
+    0.8944
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_lookout": {
+   "inside_minus_outside": 0.0056,
+   "ci95": [
+    0.0033,
+    0.0078
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_blink": {
+   "inside_minus_outside": -0.0088,
+   "ci95": [
+    -0.0159,
+    -0.0019
+   ],
+   "n_people": 290
+  },
+  "rememberer_speaking_lenmatched:self_away": {
+   "inside_minus_outside": -0.015,
+   "ci95": [
+    -0.0335,
+    0.0033
+   ],
+   "n_people": 271
+  },
+  "rememberer_speaking_lenmatched:self_absyaw": {
+   "inside_minus_outside": -0.2338,
+   "ci95": [
+    -0.5556,
+    0.0841
+   ],
+   "n_people": 271
+  },
+  "rememberer_speaking_lenmatched:self_lookout": {
+   "inside_minus_outside": 0.001,
+   "ci95": [
+    -0.002,
+    0.004
+   ],
+   "n_people": 271
+  },
+  "rememberer_speaking_lenmatched:self_blink": {
+   "inside_minus_outside": -0.0102,
+   "ci95": [
+    -0.0212,
+    0.0003
+   ],
+   "n_people": 271
+  },
+  "rememberer_speaking_lenmatched:partner_away": {
+   "inside_minus_outside": -0.0068,
+   "ci95": [
+    -0.0201,
+    0.007
+   ],
+   "n_people": 271
+  },
+  "rememberer_speaking_lenmatched:partner_absyaw": {
+   "inside_minus_outside": -0.1985,
+   "ci95": [
+    -0.4634,
+    0.0735
+   ],
+   "n_people": 271
+  },
+  "rememberer_speaking_lenmatched:partner_lookout": {
+   "inside_minus_outside": -0.0004,
+   "ci95": [
+    -0.0038,
+    0.003
+   ],
+   "n_people": 271
+  },
+  "rememberer_speaking_lenmatched:partner_blink": {
+   "inside_minus_outside": -0.0014,
+   "ci95": [
+    -0.0105,
+    0.0075
+   ],
+   "n_people": 271
+  },
+  "partner_speaking_lenmatched:self_away": {
+   "inside_minus_outside": -0.0078,
+   "ci95": [
+    -0.0227,
+    0.0075
+   ],
+   "n_people": 258
+  },
+  "partner_speaking_lenmatched:self_absyaw": {
+   "inside_minus_outside": -0.1068,
+   "ci95": [
+    -0.4129,
+    0.189
+   ],
+   "n_people": 258
+  },
+  "partner_speaking_lenmatched:self_lookout": {
+   "inside_minus_outside": 0.0016,
+   "ci95": [
+    -0.0012,
+    0.0045
+   ],
+   "n_people": 258
+  },
+  "partner_speaking_lenmatched:self_blink": {
+   "inside_minus_outside": -0.0096,
+   "ci95": [
+    -0.0196,
+    0.0008
+   ],
+   "n_people": 258
+  },
+  "partner_speaking_lenmatched:partner_away": {
+   "inside_minus_outside": 0.0223,
+   "ci95": [
+    0.003,
+    0.0413
+   ],
+   "n_people": 258
+  },
+  "partner_speaking_lenmatched:partner_absyaw": {
+   "inside_minus_outside": 0.3501,
+   "ci95": [
+    -0.0023,
+    0.6721
+   ],
+   "n_people": 258
+  },
+  "partner_speaking_lenmatched:partner_lookout": {
+   "inside_minus_outside": 0.0053,
+   "ci95": [
+    0.0021,
+    0.0086
+   ],
+   "n_people": 258
+  },
+  "partner_speaking_lenmatched:partner_blink": {
+   "inside_minus_outside": -0.016,
+   "ci95": [
+    -0.0251,
+    -0.0069
+   ],
+   "n_people": 258
+  }
+ },
+ "mean_away_rate": {
+  "self": 0.0969,
+  "partner": 0.0987
+ },
+ "definition": "analysis/gaze/<perspectiveID>.npz from gaze_extract.py (5 fps; MediaPipe face landmarks; per person: face found,\nhead yaw/pitch, eye-look blendshapes). On a video call we can't tell \"looking at the partner\" from \"looking at the screen\",\nso the measure is LOOKING AWAY FROM THE SCREEN, per frame:\n  away = face not found, or |yaw - person's call median| > 15 deg, or |pitch - median| > 15 deg,\n         or max(eyeLookOut*, eyeLookUp*, eyeLookDown*) - person's call median > 0.3   (eye direction without head turn)\nThresholds are fixed here before looking at memory labels.\nPer turn (from the transcript turn start to the next turn's start): the rememberer's away rate and the partner's, plus\nmean |yaw|, eye-look-out, blink. Every feature is centered within the person's call (their own baseline)."
+}

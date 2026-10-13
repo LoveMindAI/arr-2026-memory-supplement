@@ -1,0 +1,23 @@
+{
+ "call": "C0089",
+ "person": "P048",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "He asked, a bit sheepishly, whether over-planning his trips was alright.",
+  "reason": "It's exactly how I work (and what clients pay me for). Felt oddly familiar.",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

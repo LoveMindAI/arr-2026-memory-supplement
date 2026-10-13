@@ -1,0 +1,23 @@
+{
+ "call": "C0109",
+ "person": "P051",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we both ended up admitting we dont finish things because then you have to decide if theyre any good, felt like a proper conversation tbh",
+  "reason": "its exactly what i worry about with the paintings, hit home",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

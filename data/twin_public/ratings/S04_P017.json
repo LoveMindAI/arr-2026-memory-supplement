@@ -1,0 +1,37 @@
+{
+ "session": "S04",
+ "rater": "P017",
+ "ok": true,
+ "ratings": {
+  "P015": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "She seems very warm and reminds me of some of the senior nurses on my ward. I think she would be easy to talk to."
+  },
+  "P016": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "He looks relaxed and polite. His home seems tidy, which I appreciate, but I do not have a strong impression yet."
+  },
+  "P018": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He appears professional and organised. I noticed the books and the drawing, which suggests he is quite grounded."
+  }
+ }
+}

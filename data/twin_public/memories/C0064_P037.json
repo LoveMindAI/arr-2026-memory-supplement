@@ -1,0 +1,23 @@
+{
+ "call": "C0064",
+ "person": "P037",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her going on about the bubble tea shops, wants a third one in exeter",
+  "reason": "didnt expect someone on 12 hours a week wanting more tbh",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

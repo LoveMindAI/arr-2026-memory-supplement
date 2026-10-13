@@ -1,0 +1,23 @@
+{
+ "call": "C0425",
+ "person": "P209",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "He talked straight the whole time no complaining no pretending everything is fine.",
+  "reason": "Most people with troubles like his either moan or hide it. He just told me plainly and laughed. I respect that.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,25 @@
+{
+ "call": "C0356",
+ "person": "P170",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 9,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "cocker spaniel nicked the tennis ball out its bed, she never looked round",
+  "reason": "made me laugh tbh, she just carried on",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0356",
+  "turn": 19,
+  "line_text": "Gemma: I just mean, put your numbers in front of them. Don't wait for them to notice. They won't.",
+  "who": "Gemma",
+  "what": "A brown-and-white cocker spaniel walks into the bottom right of Gemma's frame, picks the tennis ball out of the grey dog bed in its mouth and trots back out of shot, while Gemma keeps talking and doesn't look round."
+ }
+}

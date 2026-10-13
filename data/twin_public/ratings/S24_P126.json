@@ -1,0 +1,37 @@
+{
+ "session": "S24",
+ "rater": "P126",
+ "ok": true,
+ "ratings": {
+  "P125": {
+   "photo": 1,
+   "friendly": 2,
+   "like": 3,
+   "trust": 3,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "looks like boy who doesnt want to work just plays games all day"
+  },
+  "P127": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 4,
+   "pair": 1,
+   "gut": "happy teacher man with dog probably talks too much but seems alright"
+  },
+  "P128": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks serious like me knows what he is doing and supports football"
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S39",
+ "rater": "P208",
+ "ok": true,
+ "ratings": {
+  "P204": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "She looks very pretty and friendly, maybe likes to chat lol. Her house is very tidy."
+  },
+  "P205": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks like she could be my friend at work. Very normal kitchen and nice smile."
+  },
+  "P206": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He looks tired and maybe has health problems but very sensible and kind."
+  },
+  "P207": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Bit serious but he looks like he knows what he is doing. Engineering guy probably."
+  },
+  "P209": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like she had a long shift and just wants to get on with it. I understand that."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0024",
+ "person": "P012",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 28
+ },
+ "ok": true,
+ "answers": {
+  "moment": "whole call he was saying me too same thing, like everything i say he knows already. very easy talk",
+  "reason": "it feel like talking to somebody from my own line at work or my cousin. no need to explain anything. dont happen much with stranger so i remember it",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

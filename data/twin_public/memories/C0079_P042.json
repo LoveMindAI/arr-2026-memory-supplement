@@ -1,0 +1,23 @@
+{
+ "call": "C0079",
+ "person": "P042",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we chatted mums kids and telly, her cats called biscuit",
+  "reason": "felt easy like we was mates already tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S23",
+ "rater": "P121",
+ "ok": true,
+ "ratings": {
+  "P119": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "proper lush vibe, looks like she'd be good for a laugh and she's got a dog too!!"
+  },
+  "P120": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "bit serious maybe? looks dead clever though, probably good for a group project"
+  },
+  "P122": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "looks like someone id know from home, dead friendly and tidy kitchen as well"
+  },
+  "P123": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks a bit nervous bless her, like me before an exam lol"
+  },
+  "P124": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 0,
+   "gut": "seems nice but maybe a bit quiet for me, she looks knackered too poor dab"
+  }
+ }
+}

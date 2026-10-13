@@ -1,0 +1,23 @@
+{
+ "call": "C0225",
+ "person": "P103",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she told me about her old staffy duchess, back legs going, and hydrotherapy being forty quid a go so thats out",
+  "reason": "made me think of our old dog and the ramp my stepdad built him, felt like i could actualy help",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

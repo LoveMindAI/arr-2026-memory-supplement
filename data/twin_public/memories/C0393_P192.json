@@ -1,0 +1,23 @@
+{
+ "call": "C0393",
+ "person": "P192",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Talking about mums near the end, I said about my mum alone in Lithuania and felt bit sad",
+  "reason": "because I worry about my mum all the time and she was very kind about it",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

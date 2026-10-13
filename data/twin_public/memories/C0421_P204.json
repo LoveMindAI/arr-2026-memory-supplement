@@ -1,0 +1,23 @@
+{
+ "call": "C0421",
+ "person": "P204",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 53,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we was talking about cricket and i was telling about pakistan india matches at my in laws, nobody allowed to talk, my father in law shouting at the telly and mother in law praying lol. we was both laughing so much and then we joked about the forty minutes thing again like with the makeup video",
+  "reason": "because it was funny and felt normal, like talking to someone from home tbh",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

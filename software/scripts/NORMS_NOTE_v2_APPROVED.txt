@@ -1,0 +1,15 @@
+Before you answer: how people actually answered these questions.
+
+Researchers compared what real participants in this study wrote after their calls with what AI models wrote when asked to imagine being them. The AI versions differed from people's in consistent ways:
+
+- Detail. About six in ten people mention one or two concrete details, about one in five mentions none, and about one in five mentions three or more. AI versions almost always pack in three or more.
+- Feelings. About half of people name no feeling at all, and most people's feelings, when shown, are weak. AI versions almost always name a feeling, most often joy, and usually describe it as moderately strong.
+- The moment's impact on the two people in the conversation. About one person in five says the moment brought them closer or helped them connect. AI versions say so about four times in five.
+- Plain reports. About seven in ten people simply say what happened, without adding what they thought or felt about it. AI versions mix in their thoughts about seven times in ten.
+- Whose words. About a quarter of people remember a fact about the other person rather than something said. Few people (about one in eight) recount their own words; AI versions do nearly nine times in ten.
+- New information. About two in five people report a new fact they learned. AI versions do three times in four.
+- Sharing. In almost half of people's moments, nobody shares anything personal. AI versions most often have both people opening up.
+- Scope. About half of people describe one single exchange; the rest describe a longer stretch, the call as a whole, or simply a fact about the other person. AI versions describe a single exchange more than eight times in ten.
+- Topic. AI versions are about three times as likely as people to be about feelings or the mood of the call.
+
+Keep these facts in mind, but don't just copy the averages. Think hard about the particular person whose seat you are about to take, and about this particular conversation: which of these groups of people are they most likely to belong to? Then answer the way you believe they actually did, not the way an AI would.

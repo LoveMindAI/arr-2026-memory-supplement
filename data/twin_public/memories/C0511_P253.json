@@ -1,0 +1,23 @@
+{
+ "call": "C0511",
+ "person": "P253",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 25,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When she was telling me off about my meal prep, saying chicken and rice every day is sad food and I need proper food instead. Made me laugh.",
+  "reason": "It was dead funny and honest, sounded exactly like something my mum would say.",
+  "timing": 72
+ },
+ "requires_av": false,
+ "av_event": null
+}

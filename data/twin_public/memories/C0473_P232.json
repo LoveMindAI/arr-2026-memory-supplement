@@ -1,0 +1,23 @@
+{
+ "call": "C0473",
+ "person": "P232",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Us both admitting we over-check travel stuff",
+  "reason": "It was funny how similar we were, I genuinely do print everything tbh, so it felt very relatable",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

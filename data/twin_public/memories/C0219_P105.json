@@ -1,0 +1,23 @@
+{
+ "call": "C0219",
+ "person": "P105",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she was on about her aunties always going when when about kids, shes been married 8 years to imran hes a taxi driver. they dont let it drop she said",
+  "reason": "know what thats like tbh",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

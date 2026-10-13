@@ -1,0 +1,23 @@
+{
+ "call": "C0371",
+ "person": "P182",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 34
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She said I was very straight to the point.",
+  "reason": "People usually mean that as a criticism, so I was waiting for the rest of it. She said she liked it, which I did not expect. I suppose it stayed with me for that reason.",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

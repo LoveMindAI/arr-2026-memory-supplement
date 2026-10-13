@@ -1,0 +1,23 @@
+{
+ "call": "C0533",
+ "person": "P269",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We kept finding things in common; he's actually been to Istanbul.",
+  "reason": "It's rare to have that much overlap with a total stranger.",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

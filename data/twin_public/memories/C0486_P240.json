@@ -1,0 +1,23 @@
+{
+ "call": "C0486",
+ "person": "P240",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got talking about heat pumps and why they don't really work in older houses without insulation.",
+  "reason": "It's something I deal with at work and think about a lot. It was good to explain it properly to someone who actually wanted to know.",
+  "timing": 20
+ },
+ "requires_av": false,
+ "av_event": null
+}

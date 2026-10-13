@@ -1,0 +1,23 @@
+{
+ "call": "C0583",
+ "person": "P291",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 73,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she was on about her eldest wanting to go to uni in manchester and she was dreading it. said shes her best one, not that your meant to say that, and shes the only one that helps. then she said her mum had a stroke at sixty so she keeps thinking what if summat happens and her daughters not there. i didnt know any of that, she seemed quiet at first",
+  "reason": "cos it was the same as me with kieran going and my mum. didnt expect it from her, she opened up a bit",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

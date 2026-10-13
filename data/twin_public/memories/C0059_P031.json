@@ -1,0 +1,25 @@
+{
+ "call": "C0059",
+ "person": "P031",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 12,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "girl come in behind him and nicked the charger off his shelf lol",
+  "reason": "made me laugh, my daughter used to do that to my son",
+  "timing": 45
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0059",
+  "turn": 23,
+  "line_text": "Isaac: Nah, that sounds actually sick. I'd go to that. I'm kind of into, like, big events and buildings and stuff, I take a lot of photos.",
+  "who": "Isaac",
+  "what": "The bedroom door behind Isaac opens and a teenage girl (his sister) leans in, unplugs a phone charger from the socket by his shelf, and leaves again; Isaac's eyes flick sideways towards her for a second while he keeps talking."
+ }
+}

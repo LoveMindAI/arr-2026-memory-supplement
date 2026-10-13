@@ -1,0 +1,23 @@
+{
+ "call": "C0025",
+ "person": "P010",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 65
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she said every rule got a story behind it",
+  "reason": "because i always say rules are pointless and normally people just agree or they dont care... she said it nice but she didnt agree, someone got hurt once she said. made me think about the guard on the flow wrap, maybe some guy lost a finger before i come there who knows. i still think half are from office guys but yeah it stuck in my head",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

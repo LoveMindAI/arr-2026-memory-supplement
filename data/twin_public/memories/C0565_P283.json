@@ -1,0 +1,23 @@
+{
+ "call": "C0565",
+ "person": "P283",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 2,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Our barm debate!",
+  "reason": "It was just a proper laugh tbh, felt like we'd known each other ages and neither of us was backing down lol",
+  "timing": 10
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0307",
+ "person": "P147",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 33
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said about me back and she just said oh thats rubbish sorry",
+  "reason": "i was a bit worried about saying im out of work to someone i dont know, i dont like saying it usually, but she was dead nice about it and didnt make it awkward so it stuck tbh",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

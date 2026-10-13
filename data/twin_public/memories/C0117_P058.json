@@ -1,0 +1,23 @@
+{
+ "call": "C0117",
+ "person": "P058",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto me living back with my parents and saving for a deposit. I was a bit embarrassed bringing it up, but came away feeling better about it.",
+  "reason": "It's something I worry about, and he didn't make it awkward.",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

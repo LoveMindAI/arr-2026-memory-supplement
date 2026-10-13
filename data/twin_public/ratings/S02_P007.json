@@ -1,0 +1,37 @@
+{
+ "session": "S02",
+ "rater": "P007",
+ "ok": true,
+ "ratings": {
+  "P006": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks dead friendly, reminds me a bit of hannah or my sister tbh"
+  },
+  "P008": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 6,
+   "pair": 1,
+   "gut": "spurs fan but seems like a normal bloke, prob got a lot in common"
+  },
+  "P009": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "seems a bit more serious and clever, prob not got much to talk about"
+  }
+ }
+}

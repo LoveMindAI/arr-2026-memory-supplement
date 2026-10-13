@@ -1,0 +1,23 @@
+{
+ "call": "C0237",
+ "person": "P113",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 25,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got talking about church and the special services from back home. I ended up telling her all about Simbang A5 and the four o'clock Masses!",
+  "reason": "It gave me goosebumps tbh. Faith and home mean a lot to me, and it felt really genuine.",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

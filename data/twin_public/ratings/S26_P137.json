@@ -1,0 +1,57 @@
+{
+ "session": "S26",
+ "rater": "P137",
+ "ok": true,
+ "ratings": {
+  "P135": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks very kind and warm. I imagine we would have a nice chat about gardening or our families."
+  },
+  "P136": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "A very sensible and tidy person, I think. She seems quite modest, which I appreciate."
+  },
+  "P138": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 0,
+   "gut": "She looks quite serious and perhaps a bit impatient. I might find her a little bit intimidating."
+  },
+  "P139": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She seems like someone I would see at my book group. Quiet and probably quite thoughtful."
+  },
+  "P140": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "He looks a bit tired and perhaps frustrated with the technology. I don't think we would have much in common."
+  }
+ }
+}

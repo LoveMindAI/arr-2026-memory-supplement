@@ -1,0 +1,398 @@
+{
+ "history vs none (all models)": {
+  "same_focus": {
+   "person": {
+    "models": 13,
+    "up": 11,
+    "down": 0,
+    "mean": 0.052,
+    "mean_width": 0.062
+   },
+   "session": {
+    "models": 13,
+    "up": 12,
+    "down": 0,
+    "mean": 0.052,
+    "mean_width": 0.06
+   }
+  },
+  "same_reason": {
+   "person": {
+    "models": 13,
+    "up": 12,
+    "down": 0,
+    "mean": 0.048,
+    "mean_width": 0.058
+   },
+   "session": {
+    "models": 13,
+    "up": 11,
+    "down": 0,
+    "mean": 0.048,
+    "mean_width": 0.058
+   }
+  },
+  "similarity": {
+   "person": {
+    "models": 13,
+    "up": 11,
+    "down": 0,
+    "mean": 0.03,
+    "mean_width": 0.037
+   },
+   "session": {
+    "models": 13,
+    "up": 11,
+    "down": 0,
+    "mean": 0.03,
+    "mean_width": 0.036
+   }
+  },
+  "event_match": {
+   "person": {
+    "models": 13,
+    "up": 6,
+    "down": 0,
+    "mean": 0.028,
+    "mean_width": 0.055
+   },
+   "session": {
+    "models": 13,
+    "up": 6,
+    "down": 0,
+    "mean": 0.028,
+    "mean_width": 0.052
+   }
+  }
+ },
+ "own vs stranger history": {
+  "same_focus": {
+   "person": {
+    "models": 5,
+    "up": 3,
+    "down": 0,
+    "mean": 0.046,
+    "mean_width": 0.052
+   },
+   "session": {
+    "models": 5,
+    "up": 3,
+    "down": 0,
+    "mean": 0.046,
+    "mean_width": 0.049
+   }
+  },
+  "same_reason": {
+   "person": {
+    "models": 5,
+    "up": 5,
+    "down": 0,
+    "mean": 0.059,
+    "mean_width": 0.051
+   },
+   "session": {
+    "models": 5,
+    "up": 5,
+    "down": 0,
+    "mean": 0.059,
+    "mean_width": 0.05
+   }
+  },
+  "similarity": {
+   "person": {
+    "models": 5,
+    "up": 2,
+    "down": 0,
+    "mean": 0.022,
+    "mean_width": 0.034
+   },
+   "session": {
+    "models": 5,
+    "up": 2,
+    "down": 0,
+    "mean": 0.022,
+    "mean_width": 0.03
+   }
+  },
+  "event_match": {
+   "person": {
+    "models": 5,
+    "up": 2,
+    "down": 0,
+    "mean": 0.02,
+    "mean_width": 0.05
+   },
+   "session": {
+    "models": 5,
+    "up": 2,
+    "down": 0,
+    "mean": 0.02,
+    "mean_width": 0.042
+   }
+  }
+ },
+ "stranger history vs none": {
+  "same_focus": {
+   "person": {
+    "models": 5,
+    "up": 1,
+    "down": 0,
+    "mean": 0.01,
+    "mean_width": 0.047
+   },
+   "session": {
+    "models": 5,
+    "up": 1,
+    "down": 0,
+    "mean": 0.01,
+    "mean_width": 0.047
+   }
+  },
+  "same_reason": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 2,
+    "mean": -0.015,
+    "mean_width": 0.042
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 2,
+    "mean": -0.015,
+    "mean_width": 0.041
+   }
+  },
+  "similarity": {
+   "person": {
+    "models": 5,
+    "up": 2,
+    "down": 0,
+    "mean": 0.007,
+    "mean_width": 0.028
+   },
+   "session": {
+    "models": 5,
+    "up": 2,
+    "down": 0,
+    "mean": 0.007,
+    "mean_width": 0.027
+   }
+  },
+  "event_match": {
+   "person": {
+    "models": 5,
+    "up": 2,
+    "down": 0,
+    "mean": 0.007,
+    "mean_width": 0.041
+   },
+   "session": {
+    "models": 5,
+    "up": 2,
+    "down": 0,
+    "mean": 0.007,
+    "mean_width": 0.038
+   }
+  }
+ },
+ "stranger written profile vs none": {
+  "same_focus": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.054,
+    "mean_width": 0.047
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.054,
+    "mean_width": 0.047
+   }
+  },
+  "same_reason": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 5,
+    "mean": -0.069,
+    "mean_width": 0.045
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 5,
+    "mean": -0.069,
+    "mean_width": 0.044
+   }
+  },
+  "similarity": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 5,
+    "mean": -0.034,
+    "mean_width": 0.027
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 5,
+    "mean": -0.034,
+    "mean_width": 0.029
+   }
+  },
+  "event_match": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.04,
+    "mean_width": 0.04
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.04,
+    "mean_width": 0.042
+   }
+  }
+ },
+ "own vs stranger written profile": {
+  "same_focus": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 1,
+    "mean": -0.01,
+    "mean_width": 0.049
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 1,
+    "mean": -0.01,
+    "mean_width": 0.049
+   }
+  },
+  "same_reason": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 0,
+    "mean": 0.003,
+    "mean_width": 0.046
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 0,
+    "mean": 0.003,
+    "mean_width": 0.041
+   }
+  },
+  "similarity": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 0,
+    "mean": 0.002,
+    "mean_width": 0.028
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 0,
+    "mean": 0.002,
+    "mean_width": 0.027
+   }
+  },
+  "event_match": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 0,
+    "mean": 0.004,
+    "mean_width": 0.041
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 0,
+    "mean": 0.004,
+    "mean_width": 0.04
+   }
+  }
+ },
+ "woven profile vs none": {
+  "same_focus": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 5,
+    "mean": -0.076,
+    "mean_width": 0.049
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 5,
+    "mean": -0.076,
+    "mean_width": 0.046
+   }
+  },
+  "same_reason": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.045,
+    "mean_width": 0.047
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.045,
+    "mean_width": 0.044
+   }
+  },
+  "similarity": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.025,
+    "mean_width": 0.028
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.025,
+    "mean_width": 0.027
+   }
+  },
+  "event_match": {
+   "person": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.024,
+    "mean_width": 0.041
+   },
+   "session": {
+    "models": 5,
+    "up": 0,
+    "down": 4,
+    "mean": -0.024,
+    "mean_width": 0.04
+   }
+  }
+ }
+}

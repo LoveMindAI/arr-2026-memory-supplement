@@ -1,0 +1,23 @@
+{
+ "call": "C0362",
+ "person": "P176",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 28
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto essays and deadlines and i tried to blag it then ended up admitting the resubmits, we both just laughed about it tbh",
+  "reason": "cos i got caught out, normally i can talk my way round stuff but that time i couldnt and it was kinda funny, felt more real than the rest ngl",
+  "timing": 95
+ },
+ "requires_av": false,
+ "av_event": null
+}

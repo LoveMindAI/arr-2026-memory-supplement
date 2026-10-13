@@ -1,0 +1,25 @@
+{
+ "call": "C0152",
+ "person": "P073",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 10,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "asked about kids, his smile just dropped, looked down and away a sec",
+  "reason": "felt like i overstepped a bit tbh",
+  "timing": 85
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0152",
+  "turn": 30,
+  "line_text": "Not yet, no. Not yet. Hopefully, you know. Anyway, have you had the Somerset fella yet, Martin? Absolute legend.",
+  "who": "Daniel",
+  "what": "His broad smile drops for a moment and he looks down and to the side, away from the screen, for about two seconds before 'Anyway', then looks back up with the smile back on."
+ }
+}

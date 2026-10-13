@@ -1,0 +1,47 @@
+{
+ "session": "S30",
+ "rater": "P161",
+ "ok": true,
+ "ratings": {
+  "P159": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like she gets things done without any fuss"
+  },
+  "P160": {
+   "photo": 2,
+   "friendly": 2,
+   "like": 3,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks a bit grumpy or just wants the study to finish"
+  },
+  "P162": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "friendly enough, maybe talks a lot though"
+  },
+  "P163": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "proper and organised, like the customers who actually have their prescriptions ready"
+  }
+ }
+}

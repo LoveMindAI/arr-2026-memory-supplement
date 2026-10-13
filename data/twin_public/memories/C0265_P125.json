@@ -1,0 +1,23 @@
+{
+ "call": "C0265",
+ "person": "P125",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we mostly talked cars and haggling",
+  "reason": "didnt know he was a sparky tbh",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

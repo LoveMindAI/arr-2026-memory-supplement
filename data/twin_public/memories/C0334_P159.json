@@ -1,0 +1,23 @@
+{
+ "call": "C0334",
+ "person": "P159",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when alison told me about her grandson in leeds, hes just starting to talk and last time she saw him he said bus like two hundred times. she drives down every few weeks",
+  "reason": "it was so sweet and reminded me of the kids at nursery, i could just picture him lol",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

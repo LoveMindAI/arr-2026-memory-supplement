@@ -1,0 +1,23 @@
+{
+ "call": "C0037",
+ "person": "P020",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Hetal explaining her nine years doing alterations in Wembley, before the shop closed",
+  "reason": "It connected with my own work, and I thought straight away she'd suit a curtain workroom very well",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

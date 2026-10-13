@@ -1,0 +1,25 @@
+{
+ "call": "C0305",
+ "person": "P144",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 15,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "A little girl in pyjamas wandered in behind him, picked up the pink cushion off the settee and went back out.",
+  "reason": "He didn't turn round or mention it, just carried on talking. It felt like a proper glimpse of his home, sort of normal and nice.",
+  "timing": 65
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0305",
+  "turn": 26,
+  "line_text": "Weekends, er... fishing, mostly. Or the park with Ruby. She's eight, Kayleigh's daughter.",
+  "who": "Dean",
+  "what": "A young girl in pyjamas walks into the frame behind Dean, picks up the pink cushion from the grey settee and walks back out of shot. Dean doesn't turn round and carries on talking."
+ }
+}

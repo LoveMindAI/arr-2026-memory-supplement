@@ -1,0 +1,23 @@
+{
+ "call": "C0530",
+ "person": "P262",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 77
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit near the start talking about my gap from work.",
+  "reason": "it's the thing I feel most embarrassed about, so it sort of stuck. I was a bit nervous going in because I thought she looked intimidating in her photo, and she was quite direct, but not in a mean way really. it made my stomach drop a bit but it was honest, and I think I needed to hear it tbh. I've been thinking about it since the call ended. hope that makes sense.",
+  "timing": 15
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S20",
+ "rater": "P103",
+ "ok": true,
+ "ratings": {
+  "P102": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 4,
+   "trust": 4,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "proper energetic, maybe a bit too much for a monday morning lol"
+  },
+  "P104": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems nice, reminds me of my sisters mates, bit of a messy room like mine"
+  },
+  "P105": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks like shes just finished a long shift, i know that feeling mate"
+  },
+  "P106": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "straightforward and honest sort of face, reminds me of people back home"
+  },
+  "P107": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems calm and quiet, probably good to work with i reckon"
+  }
+ }
+}

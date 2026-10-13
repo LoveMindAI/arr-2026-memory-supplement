@@ -1,0 +1,23 @@
+{
+ "call": "C0476",
+ "person": "P240",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 27
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We found out both our wives are called Claire and both work part-time.",
+  "reason": "It was a proper coincidence, you don't expect that. Hadn't known his Claire works in HR. Stuck with me more than the work talk did, to be fair.",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

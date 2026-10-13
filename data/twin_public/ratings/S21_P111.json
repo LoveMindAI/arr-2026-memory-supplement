@@ -1,0 +1,57 @@
+{
+ "session": "S21",
+ "rater": "P111",
+ "ok": true,
+ "ratings": {
+  "P108": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks very chatty and warm, like someone I would talk to at the school gate or church."
+  },
+  "P109": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She looks like she just finished shift, bless her. Very honest face and reminds me of my friends at work."
+  },
+  "P110": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "A bit shy maybe? I would try to make her smile, but she looks like she wants to be left alone."
+  },
+  "P112": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Very calm and serious. I saw the icon on the wall, so I think we would have things in common."
+  },
+  "P113": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Such a lovely smile! She looks like a very kind person who helps others, very organised too."
+  }
+ }
+}

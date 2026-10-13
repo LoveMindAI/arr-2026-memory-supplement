@@ -1,0 +1,47 @@
+{
+ "session": "S32",
+ "rater": "P169",
+ "ok": true,
+ "ratings": {
+  "P170": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Looks a bit stressed, probably just wants to get on with things like I do."
+  },
+  "P171": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 4,
+   "trust": 3,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Bit of a lad, mess in the background makes him look a bit disorganized tbh."
+  },
+  "P172": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Nice house, looks like she looks after herself... probably quite sensible."
+  },
+  "P173": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Seems perfectly pleasant, reminds me of the admin girls at the surgery."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0256",
+ "person": "P120",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I asked whether she'd told them she wanted office manager, she hesitated and said the owner's daughter is sort of in that role already. That's quite a ceiling.",
+  "reason": "It explained her hesitation.",
+  "timing": 95
+ },
+ "requires_av": false,
+ "av_event": null
+}

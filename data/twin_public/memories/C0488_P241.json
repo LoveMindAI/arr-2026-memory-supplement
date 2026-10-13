@@ -1,0 +1,23 @@
+{
+ "call": "C0488",
+ "person": "P241",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we were having a proper laugh comparing how badly our five a side teams are doing",
+  "reason": "it was when it properly clicked tbh, felt like chatting to a mate rather than a stranger",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

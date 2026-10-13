@@ -1,0 +1,23 @@
+{
+ "call": "C0581",
+ "person": "P287",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We was talking about the little hats I crochet for the prem babies at QA, then we got onto her son Alfie, hes eight",
+  "reason": "It made me feel like my hats really do matter to someone, got me a bit choked to be honest",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

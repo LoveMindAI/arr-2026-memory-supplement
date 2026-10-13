@@ -1,0 +1,23 @@
+{
+ "call": "C0558",
+ "person": "P282",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto what we call things, cobs and tea versus dinner and all that, and we both had a proper laugh about it",
+  "reason": "It was the bit where it stopped feeling like a study and we were just having a natter lol",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

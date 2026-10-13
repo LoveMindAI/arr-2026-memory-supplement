@@ -1,0 +1,23 @@
+{
+ "call": "C0581",
+ "person": "P288",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Her worrying that asking for help would make her look incapable.",
+  "reason": "It reminded me of my mum, and I really wanted her to stick up for herself.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

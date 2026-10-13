@@ -1,0 +1,47 @@
+{
+ "session": "S49",
+ "rater": "P260",
+ "ok": true,
+ "ratings": {
+  "P256": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "proper smart and organized, looks like she'd know all the answers and actually listen yeah"
+  },
+  "P257": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks shattered tbh, like shes had a proper long day with the kids and just wants a sit down lol"
+  },
+  "P258": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "dead friendly like someone youd chat to down the pub, proper outdoorsy vibe with the dog stuff"
+  },
+  "P259": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "wait he looks like my supervisor! proper leisure centre vibes, bet he's reliable and good for a laugh"
+  }
+ }
+}

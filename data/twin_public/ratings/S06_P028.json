@@ -1,0 +1,37 @@
+{
+ "session": "S06",
+ "rater": "P028",
+ "ok": true,
+ "ratings": {
+  "P025": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "erm she looks a bit serious tbh like a teacher or something but very sensible and reliable, like you could trust her with anything important do you know what i mean? x"
+  },
+  "P026": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "really nice smile and looks like he knows what hes doing with all those big books behind him lol, very smart and polite looking guy"
+  },
+  "P027": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like a laugh and quite relaxed, reminds me of some of the blokes i grew up with in lewisham tbh, very normal sort of face innit x"
+  }
+ }
+}

@@ -1,0 +1,1646 @@
+{
+ "file": "A1_publicstandin_v3.5",
+ "mode": "code",
+ "codebook": "3.5.1",
+ "saved_at": "2026-10-12T04:13:33.366Z",
+ "coder": "A1",
+ "codes": {
+  "S001": {
+   "topic": [
+    "HOBBIES_INTERESTS_MEDIA"
+   ],
+   "remembered": [
+    "REPORTER_SAID_OR_DID"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "ONE_MOMENT",
+   "details": 2,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "REPORTER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "BOREDOM",
+    "RELIEF"
+   ],
+   "intensity": 2,
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 5,
+    "other_behavior": 1
+   },
+   "reason": {
+    "about": [
+     "ME"
+    ],
+    "details": [
+     "MY_FEELINGS",
+     "MY_LIFE"
+    ]
+   },
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S002": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "SURPRISE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 1,
+    "other_behavior": 5
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "PARTNER_LIFE",
+     "UNEXPECTED"
+    ]
+   },
+   "matters_for": [
+    "NONE"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S003": {
+   "topic": [
+    "FEELINGS_MOOD"
+   ],
+   "remembered": [
+    "REPORTER_SAID_OR_DID"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "ONE_MOMENT",
+   "details": 1,
+   "moment_text": "BOTH",
+   "shared_by": "NOBODY",
+   "personal_kinds": [
+    "NOTHING"
+   ],
+   "feelings": [
+    "GUILT"
+   ],
+   "intensity": 2,
+   "appraisal": {
+    "pleasant": 1,
+    "unpleasant": 3
+   },
+   "reason": {
+    "about": [
+     "ME"
+    ],
+    "details": [
+     "MY_FEELINGS"
+    ]
+   },
+   "matters_for": [
+    "NONE"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S004": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE",
+    "PLANS_EVENTS"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL",
+    "THOUGHTS_EVENTS_PLANS"
+   ],
+   "feelings": [
+    "SADNESS"
+   ],
+   "intensity": 2,
+   "appraisal": {
+    "pleasant": 1,
+    "unpleasant": 3,
+    "own_behavior": 3,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "PARTNER_LIFE",
+     "EMOTION",
+     "BEHAVIOUR"
+    ]
+   },
+   "matters_for": [
+    "NONE"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S005": {
+   "topic": [
+    "PARTNER_IMPRESSION",
+    "FEELINGS_MOOD"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 0,
+   "moment_text": "BOTH",
+   "shared_by": "NOBODY",
+   "personal_kinds": [
+    "NOTHING"
+   ],
+   "feelings": [
+    "JOY"
+   ],
+   "intensity": 4,
+   "appraisal": {
+    "pleasant": 5,
+    "unpleasant": 1,
+    "own_behavior": 4,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S006": {
+   "topic": [
+    "FEELINGS_MOOD",
+    "PARTNER_IMPRESSION"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "ONE_MOMENT",
+   "details": 2,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL",
+    "THOUGHTS_INTIMATE"
+   ],
+   "feelings": [
+    "RELIEF"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S007": {
+   "topic": [
+    "PLACE_TRAVEL",
+    "PARTNER_IMPRESSION",
+    "FEELINGS_MOOD"
+   ],
+   "remembered": [
+    "DID_TOGETHER",
+    "REPORTER_THOUGHT"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL",
+    "THOUGHTS_EVENTS_PLANS",
+    "THOUGHTS_INTIMATE"
+   ],
+   "feelings": [
+    "RELIEF"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "US",
+     "OTHER"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "reason_other": "another participant",
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S008": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE",
+    "HOBBIES_INTERESTS_MEDIA",
+    "PARTNER_IMPRESSION"
+   ],
+   "remembered": [
+    "PARTNER_FACT_OR_QUALITY"
+   ],
+   "new_info": "YES",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 2,
+   "moment_text": "BOTH",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "RELIEF",
+    "SURPRISE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "PARTNER_LIFE",
+     "UNEXPECTED",
+     "BEHAVIOUR"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S009": {
+   "topic": [
+    "PLACE_TRAVEL"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "STRETCH",
+   "details": 1,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "SURPRISE"
+   ],
+   "intensity": 2,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 3
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "NONE"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S010": {
+   "topic": [
+    "HOBBIES_INTERESTS_MEDIA",
+    "FAMILY_RELATIONSHIPS_PETS"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "JOY"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 5,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "ME",
+     "US"
+    ],
+    "details": [
+     "MY_LIFE",
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S011": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "YES",
+   "extent": "STRETCH",
+   "details": 3,
+   "moment_text": "BOTH",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "SURPRISE",
+    "PRIDE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 5,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S012": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE",
+    "HOBBIES_INTERESTS_MEDIA"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 2,
+   "moment_text": "BOTH",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "PRIDE",
+    "RELIEF",
+    "TRUST"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S013": {
+   "topic": [
+    "FAMILY_RELATIONSHIPS_PETS"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 2,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "OTHER"
+   ],
+   "feelings_other": "nostalgia, connection",
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 2,
+    "unpleasant": 3,
+    "own_behavior": 1,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "PARTNER_LIFE",
+     "EMOTION",
+     "UNDERSTOOD"
+    ]
+   },
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S014": {
+   "topic": [
+    "HOBBIES_INTERESTS_MEDIA"
+   ],
+   "remembered": [
+    "PARTNER_FACT_OR_QUALITY"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "SURPRISE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 4,
+    "other_behavior": 3
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "PARTNER_LIFE",
+     "UNEXPECTED"
+    ]
+   },
+   "matters_for": [
+    "NONE"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S015": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "SURPRISE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 5
+   },
+   "reason": {
+    "about": [
+     "PARTNER",
+     "ME"
+    ],
+    "details": [
+     "PARTNER_LIFE",
+     "BEHAVIOUR",
+     "MY_LIFE"
+    ]
+   },
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S016": {
+   "topic": [
+    "PARTNER_IMPRESSION",
+    "FEELINGS_MOOD"
+   ],
+   "remembered": [
+    "PARTNER_FACT_OR_QUALITY"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 2,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "SURPRISE",
+    "JOY"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "BEHAVIOUR",
+     "EMOTION"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S017": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "NO",
+   "extent": "ONE_MOMENT",
+   "details": 2,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "NONE"
+   ],
+   "intensity": "CANT_TELL",
+   "appraisal": {
+    "pleasant": "CANT_TELL",
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "NO_REASON"
+    ],
+    "details": []
+   },
+   "matters_for": [
+    "NONE"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S018": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE",
+    "PLANS_EVENTS"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL",
+    "THOUGHTS_EVENTS_PLANS"
+   ],
+   "feelings": [
+    "OTHER"
+   ],
+   "feelings_other": "nostalgia",
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 1,
+    "other_behavior": 5
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "PARTNER_LIFE",
+     "EMOTION"
+    ]
+   },
+   "matters_for": [
+    "NONE"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S019": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE",
+    "PLACE_TRAVEL",
+    "FAMILY_RELATIONSHIPS_PETS"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID",
+    "PARTNER_FACT_OR_QUALITY"
+   ],
+   "new_info": "YES",
+   "extent": "STRETCH",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "JOY",
+    "TRUST"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S020": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "CANT_TELL"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "STRETCH",
+   "details": 1,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "REPORTER",
+   "personal_kinds": [
+    "INFO_GENERAL",
+    "THOUGHTS_EVENTS_PLANS"
+   ],
+   "feelings": [
+    "NONE"
+   ],
+   "intensity": "CANT_TELL",
+   "appraisal": {
+    "pleasant": "CANT_TELL",
+    "unpleasant": "CANT_TELL",
+    "own_behavior": 3,
+    "other_behavior": "CANT_TELL"
+   },
+   "reason": {
+    "about": [
+     "ME"
+    ],
+    "details": [
+     "MY_LIFE"
+    ]
+   },
+   "matters_for": [
+    "FUTURE"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S021": {
+   "topic": [
+    "FEELINGS_MOOD"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 0,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "NOBODY",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "JOY"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 5,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 3
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S022": {
+   "topic": [
+    "FAMILY_RELATIONSHIPS_PETS",
+    "PLANS_EVENTS",
+    "HEALTH_WELLBEING"
+   ],
+   "remembered": [
+    "REPORTER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "STRETCH",
+   "details": 3,
+   "moment_text": "BOTH",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_REVEALING",
+    "FEELINGS_DEEP"
+   ],
+   "feelings": [
+    "SADNESS",
+    "GUILT",
+    "SHAME"
+   ],
+   "intensity": 4,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 2,
+    "own_behavior": 5,
+    "other_behavior": 2
+   },
+   "reason": {
+    "about": [
+     "ME"
+    ],
+    "details": [
+     "MY_LIFE",
+     "MY_FEELINGS"
+    ]
+   },
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S023": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "PARTNER_FACT_OR_QUALITY"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 1,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "GUILT"
+   ],
+   "intensity": 2,
+   "appraisal": {
+    "pleasant": "CANT_TELL",
+    "unpleasant": 2,
+    "own_behavior": 3,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "ME"
+    ],
+    "details": [
+     "MY_FEELINGS",
+     "MY_LIFE"
+    ]
+   },
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S024": {
+   "topic": [
+    "FEELINGS_MOOD"
+   ],
+   "remembered": [
+    "REPORTER_THOUGHT"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 0,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "NOBODY",
+   "personal_kinds": [
+    "NOTHING"
+   ],
+   "feelings": [
+    "JOY",
+    "RELIEF"
+   ],
+   "intensity": 4,
+   "appraisal": {
+    "pleasant": 5,
+    "unpleasant": 1,
+    "own_behavior": "CANT_TELL",
+    "other_behavior": "CANT_TELL"
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S025": {
+   "topic": [
+    "FEELINGS_MOOD",
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID",
+    "PARTNER_FACT_OR_QUALITY"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_REVEALING",
+    "THOUGHTS_INTIMATE"
+   ],
+   "feelings": [
+    "OTHER"
+   ],
+   "feelings_other": "empathy",
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 1,
+    "other_behavior": 5
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "UNDERSTOOD",
+     "PARTNER_LIFE",
+     "BEHAVIOUR"
+    ]
+   },
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S026": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE",
+    "HOBBIES_INTERESTS_MEDIA"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "ONE_MOMENT",
+   "details": 2,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "REPORTER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "JOY",
+    "TRUST"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 5,
+    "unpleasant": 1,
+    "own_behavior": 4,
+    "other_behavior": 3
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S027": {
+   "topic": [
+    "FEELINGS_MOOD"
+   ],
+   "remembered": [
+    "DID_TOGETHER",
+    "REPORTER_THOUGHT"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 0,
+   "moment_text": "THOUGHTS",
+   "shared_by": "NOBODY",
+   "personal_kinds": [
+    "NOTHING"
+   ],
+   "feelings": [
+    "JOY"
+   ],
+   "intensity": 4,
+   "appraisal": {
+    "pleasant": 5,
+    "unpleasant": 1,
+    "own_behavior": 4,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S028": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE",
+    "FAMILY_RELATIONSHIPS_PETS"
+   ],
+   "remembered": [
+    "REPORTER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "REPORTER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "PRIDE",
+    "RELIEF"
+   ],
+   "intensity": 4,
+   "appraisal": {
+    "pleasant": 5,
+    "unpleasant": 1,
+    "own_behavior": 4,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "ME"
+    ],
+    "details": [
+     "MY_LIFE",
+     "MY_FEELINGS"
+    ]
+   },
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S029": {
+   "topic": [
+    "HOBBIES_INTERESTS_MEDIA"
+   ],
+   "remembered": [
+    "PARTNER_FACT_OR_QUALITY"
+   ],
+   "new_info": "NO",
+   "extent": "STRETCH",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL",
+    "THOUGHTS_EVENTS_PLANS"
+   ],
+   "feelings": [
+    "SURPRISE",
+    "PRIDE"
+   ],
+   "intensity": 2,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 4,
+    "other_behavior": 3
+   },
+   "reason": {
+    "about": [
+     "ME",
+     "PARTNER"
+    ],
+    "details": [
+     "MY_LIFE",
+     "MY_FEELINGS",
+     "UNEXPECTED",
+     "UNDERSTOOD"
+    ]
+   },
+   "matters_for": [
+    "WHO_I_AM"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S030": {
+   "topic": [
+    "FAMILY_RELATIONSHIPS_PETS",
+    "FEELINGS_MOOD"
+   ],
+   "remembered": [
+    "PARTNER_FACT_OR_QUALITY",
+    "REPORTER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "STRETCH",
+   "details": 3,
+   "moment_text": "BOTH",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_REVEALING",
+    "FEELINGS_DEEP",
+    "THOUGHTS_EVENTS_PLANS"
+   ],
+   "feelings": [
+    "SADNESS",
+    "SURPRISE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 2,
+    "unpleasant": 3,
+    "own_behavior": 4,
+    "other_behavior": 5
+   },
+   "reason": {
+    "about": [
+     "PARTNER",
+     "ME"
+    ],
+    "details": [
+     "PARTNER_LIFE",
+     "UNEXPECTED",
+     "EMOTION",
+     "BEHAVIOUR",
+     "MY_LIFE"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S031": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "SURPRISE",
+    "RELIEF",
+    "TRUST"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "US",
+     "PARTNER"
+    ],
+    "details": [
+     "IN_COMMON",
+     "UNEXPECTED",
+     "BEHAVIOUR"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S032": {
+   "topic": [
+    "FAMILY_RELATIONSHIPS_PETS"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "BOTH",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "SURPRISE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 3
+   },
+   "reason": {
+    "about": [
+     "PARTNER",
+     "US"
+    ],
+    "details": [
+     "BEHAVIOUR",
+     "UNEXPECTED",
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S033": {
+   "topic": [
+    "FEELINGS_MOOD",
+    "PARTNER_IMPRESSION"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "NOT_AN_EVENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "FEELINGS_MILD"
+   ],
+   "feelings": [
+    "PRIDE",
+    "JOY",
+    "RELIEF"
+   ],
+   "intensity": 4,
+   "appraisal": {
+    "pleasant": 5,
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 5
+   },
+   "reason": {
+    "about": [
+     "ME"
+    ],
+    "details": [
+     "MY_LIFE",
+     "MY_FEELINGS"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S034": {
+   "topic": [
+    "FAMILY_RELATIONSHIPS_PETS",
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "NONE"
+   ],
+   "intensity": "CANT_TELL",
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 1,
+    "other_behavior": 5
+   },
+   "reason": {
+    "about": [
+     "ME",
+     "PARTNER"
+    ],
+    "details": [
+     "MY_LIFE",
+     "MY_FEELINGS",
+     "PARTNER_LIFE"
+    ]
+   },
+   "matters_for": [
+    "FUTURE"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S035": {
+   "topic": [
+    "HOBBIES_INTERESTS_MEDIA",
+    "WORK_EDUCATION_SERVICE"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID",
+    "REPORTER_SAID_OR_DID"
+   ],
+   "new_info": "YES",
+   "extent": "ONE_MOMENT",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "RELIEF"
+   ],
+   "intensity": 2,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "PARTNER_LIFE"
+    ]
+   },
+   "matters_for": [
+    "FUTURE"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S036": {
+   "topic": [
+    "WORK_EDUCATION_SERVICE",
+    "FEELINGS_MOOD",
+    "PARTNER_IMPRESSION"
+   ],
+   "remembered": [
+    "PARTNER_FACT_OR_QUALITY",
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 3,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "PARTNER",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "SURPRISE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 5
+   },
+   "reason": {
+    "about": [
+     "PARTNER"
+    ],
+    "details": [
+     "UNEXPECTED",
+     "BEHAVIOUR"
+    ]
+   },
+   "matters_for": [
+    "NONE"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S037": {
+   "topic": [
+    "PLACE_TRAVEL"
+   ],
+   "remembered": [
+    "PARTNER_FACT_OR_QUALITY"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 3,
+   "moment_text": "BOTH",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "RELIEF"
+   ],
+   "intensity": 2,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 3
+   },
+   "reason": {
+    "about": [
+     "US"
+    ],
+    "details": [
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "YES"
+  },
+  "S038": {
+   "topic": [
+    "FEELINGS_MOOD",
+    "HOBBIES_INTERESTS_MEDIA"
+   ],
+   "remembered": [
+    "PARTNER_SAID_OR_DID"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "ONE_MOMENT",
+   "details": 2,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "NOBODY",
+   "personal_kinds": [
+    "FEELINGS_MILD"
+   ],
+   "feelings": [
+    "SADNESS",
+    "SURPRISE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 3,
+    "unpleasant": "CANT_TELL",
+    "own_behavior": 3,
+    "other_behavior": 5
+   },
+   "reason": {
+    "about": [
+     "PARTNER",
+     "US"
+    ],
+    "details": [
+     "BEHAVIOUR",
+     "EMOTION",
+     "IN_COMMON"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S039": {
+   "topic": [
+    "HOBBIES_INTERESTS_MEDIA"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "STRETCH",
+   "details": 2,
+   "moment_text": "WHAT_HAPPENED",
+   "shared_by": "NOBODY",
+   "personal_kinds": [
+    "NOTHING"
+   ],
+   "feelings": [
+    "SURPRISE",
+    "RELIEF"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 2,
+    "other_behavior": 4
+   },
+   "reason": {
+    "about": [
+     "PARTNER",
+     "US",
+     "ME"
+    ],
+    "details": [
+     "UNEXPECTED",
+     "IN_COMMON",
+     "MY_LIFE"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  },
+  "S040": {
+   "topic": [
+    "FAMILY_RELATIONSHIPS_PETS",
+    "HOBBIES_INTERESTS_MEDIA"
+   ],
+   "remembered": [
+    "DID_TOGETHER"
+   ],
+   "new_info": "NOT_ABOUT_INFORMATION",
+   "extent": "WHOLE_CALL_OR_PATTERN",
+   "details": 3,
+   "moment_text": "BOTH",
+   "shared_by": "BOTH",
+   "personal_kinds": [
+    "INFO_GENERAL"
+   ],
+   "feelings": [
+    "RELIEF",
+    "PRIDE"
+   ],
+   "intensity": 3,
+   "appraisal": {
+    "pleasant": 4,
+    "unpleasant": 1,
+    "own_behavior": 3,
+    "other_behavior": 3
+   },
+   "reason": {
+    "about": [
+     "US",
+     "ME"
+    ],
+    "details": [
+     "IN_COMMON",
+     "MY_LIFE"
+    ]
+   },
+   "matters_for": [
+    "CONNECTION"
+   ],
+   "bigger_meaning": "NO"
+  }
+ },
+ "notes": {},
+ "questions": ""
+}

@@ -1,0 +1,14 @@
+{
+ "facet_pooled_ccc": 0.756,
+ "facet_median_reader_ccc": 0.81,
+ "domain_pooled_ccc": 0.81,
+ "ai_pooled_ccc_same_people": {
+  "luna": 0.966,
+  "deepseek": 0.953
+ },
+ "n_facet_reads": 9,
+ "n_facet_profiles": 5,
+ "n_domain_reads": 6,
+ "n_domain_profiles": 3,
+ "note": "per-reader and per-profile diagnostics withheld; pooled values and counts only"
+}

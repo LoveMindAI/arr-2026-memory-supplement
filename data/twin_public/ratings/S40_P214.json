@@ -1,0 +1,57 @@
+{
+ "session": "S40",
+ "rater": "P214",
+ "ok": true,
+ "ratings": {
+  "P210": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like a teacher, probably organized tbh"
+  },
+  "P211": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 4,
+   "comp": 4,
+   "sim": 6,
+   "pair": 1,
+   "gut": "vibes are similar, sports fan and decent setup"
+  },
+  "P212": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "too bubbly for me after a night shift"
+  },
+  "P213": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a manager, gets things done"
+  },
+  "P215": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "seems a bit tired, n/a for a fast task"
+  }
+ }
+}

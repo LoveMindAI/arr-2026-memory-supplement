@@ -1,0 +1,23 @@
+{
+ "call": "C0523",
+ "person": "P265",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 48,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto the robin drawing on her wall behind her. we talked about whether shed ever sell them and i went off a bit about asking for money. didnt know she actually did all that herself, birds and plants mostly, its decent stuff tbh",
+  "reason": "was the only bit that wasnt small talk really, and i actually had an opinion on it",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

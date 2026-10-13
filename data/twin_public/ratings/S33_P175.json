@@ -1,0 +1,47 @@
+{
+ "session": "S33",
+ "rater": "P175",
+ "ok": true,
+ "ratings": {
+  "P174": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "looks like she's just finished a long shift, bless her. very relatable with the dog bed in the corner and the fleece!"
+  },
+  "P176": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "reminds me so much of my joe and his messy flat! he looks like he'd be good fun to chat to, even if he's a bit scattered."
+  },
+  "P177": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "very sensible and calm. reminds me of mark actually, especially with the piano and the proper books."
+  },
+  "P178": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "oh she looks lovely and very outdoorsy! love the dog lead on the hook - probably got a lot in common with her."
+  }
+ }
+}

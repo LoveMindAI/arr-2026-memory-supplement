@@ -1,0 +1,23 @@
+{
+ "call": "C0447",
+ "person": "P217",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we was talking about losing residents and sitting crying in the car after",
+  "reason": "cos i never told no one at work about that tbh, felt weird saying it",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

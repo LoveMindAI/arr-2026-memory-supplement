@@ -1,0 +1,23 @@
+{
+ "call": "C0143",
+ "person": "P068",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I said I'd turned down management twice, Jibin said it was the opposite for him. He wants principal engineer or technical lead and reckons he's overdue.",
+  "reason": "Made me think about my own career a bit, if I'm honest",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

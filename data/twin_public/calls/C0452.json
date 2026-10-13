@@ -1,0 +1,21 @@
+{
+ "id": "C0452",
+ "session": "S42",
+ "round": 1,
+ "A": "P224",
+ "B": "P222",
+ "names": {
+  "A": "Gareth",
+  "B": "Donna"
+ },
+ "turns": 39,
+ "av_event": {
+  "turn": 33,
+  "line_text": "No. Close enough. The house is quieter, though.",
+  "who": "Gareth",
+  "what": "Before speaking, Gareth looks away to his left towards the window for about three seconds with his lips pressed together, then looks back at the screen."
+ },
+ "words": 406,
+ "ok": true,
+ "text": "A: Hello. Can you hear me?\nB: Yeah. Hiya.\nA: I'm Gareth.\nB: Donna.\nA: Right. Er, where are you based?\nB: Plumstead. South-east London.\nA: I'm in Andover. Hampshire.\nB: Okay.\nA: Did you get on alright with the puzzle?\nB: Not really. I got bored. I just sort of put anything in by the end.\nA: Fair enough. I took too long over mine, to be honest.\nB: Right.\nA: What do you do, work-wise?\nB: Erm, nothing at the minute. I was cleaning offices, early mornings, but the contract ended. So I'm looking. Sort of.\nA: Early mornings. I'm the same, I'm in for the six o'clock handover most days. Warehousing. It's the best bit of the day, before everyone starts phoning you.\nB: Yeah, that's what I liked. Nobody about. Headphones in.\nA: We've got cleaners in on the early shift. Good ones are hard to find, honestly. Half the agency people don't turn up.\nB: Well, I'd turn up. I'm alright once I'm there. It's the admin bit I'm rubbish at. Texts about shifts and that.\nA: Sorry, the admin?\nB: Like, they change your shift by text and I don't see it. Do you know what I mean?\nA: Yeah. We've had that. Er, have you got family?\nB: Two kids. Kyle's sixteen, doing his GCSEs. Mia's eleven.\nA: Mine's sixteen as well, Josh. GCSEs. Mocks soon.\nB: Is he revising?\nA: He says he is. His phone's in his hand every time I go in.\nB: With Kyle it's the PlayStation. Till two in the morning. I keep saying to him, you was the one who said you wanted to do the electrician course, so you need the grades. He just goes \"yeah, yeah\". I don't want him drifting, you know. I left with nothing much and I don't want that for him.\nA: No. Er, with Josh, I'm not home enough to keep on at him, to be honest. My wife does most of it. I'm out early and back late. You sort of miss things.\nB: At least you're working, though.\nA: Yeah. That's true.\nB: Have you got any others?\nA: A daughter, nineteen. She's at uni in Southampton. She comes back most holidays.\nB: That's not far.\nA: No. Close enough. The house is quieter, though.\nB: Mine's never quiet. My mum's ringing five times a day, Mia's shouting about where her blazer's gone.\nA: Do you follow football at all?\nB: Not really. Charlton, cos my dad did. Kyle has it on.\nA: Charlton. Could be worse. I'm Southampton, so I can't say much after Saturday.\nB: Was it bad?\nA: Yeah. Poor."
+}

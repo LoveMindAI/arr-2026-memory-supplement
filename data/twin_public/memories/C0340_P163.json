@@ -1,0 +1,23 @@
+{
+ "call": "C0340",
+ "person": "P163",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I mentioned my mam had died, and then changed the subject to church rather quickly.",
+  "reason": "I don't usually mention her.",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

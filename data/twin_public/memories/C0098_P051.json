@@ -1,0 +1,23 @@
+{
+ "call": "C0098",
+ "person": "P051",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked for a while about her work at the care home, didnt know shed started after looking after her mum, then we got onto getting attached",
+  "reason": "felt like a proper conversation tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

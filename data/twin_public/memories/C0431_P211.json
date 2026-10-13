@@ -1,0 +1,23 @@
+{
+ "call": "C0431",
+ "person": "P211",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 2,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Just the overall chat",
+  "reason": "Felt like I already knew her tbh - loads of overlap with my own life, so it was really easy and natural",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

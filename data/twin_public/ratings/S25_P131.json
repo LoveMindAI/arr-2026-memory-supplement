@@ -1,0 +1,57 @@
+{
+ "session": "S25",
+ "rater": "P131",
+ "ok": true,
+ "ratings": {
+  "P129": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like he works in an office, decent enough chap"
+  },
+  "P130": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems like a laugh, nice dog as well"
+  },
+  "P132": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "very organized sort, quiet but reliable i reckon"
+  },
+  "P133": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "reminds me of a few blokes i know, down to earth"
+  },
+  "P134": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks busy like my michelle, got her act together"
+  }
+ }
+}

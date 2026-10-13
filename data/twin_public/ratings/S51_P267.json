@@ -1,0 +1,47 @@
+{
+ "session": "S51",
+ "rater": "P267",
+ "ok": true,
+ "ratings": {
+  "P266": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 3,
+   "trust": 4,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit posh for me, looks like she spends a lot of time on her phone tbh"
+  },
+  "P268": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems like a decent lad, got his work gear there so probably a hard worker"
+  },
+  "P269": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "looks smart, probably does well at school and that"
+  },
+  "P270": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 6,
+   "pair": 1,
+   "gut": "yeah he looks alright, likes his footy and got a dog so he's probably sound"
+  }
+ }
+}

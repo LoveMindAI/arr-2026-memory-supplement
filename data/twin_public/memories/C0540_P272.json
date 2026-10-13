@@ -1,0 +1,23 @@
+{
+ "call": "C0540",
+ "person": "P272",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 31,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i was going on about my knees and the parking and my lady who wants her porridge, i was talking a lot and he was quiet listening, i thought am i boring him..",
+  "reason": "because i always do that, rabbit on",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

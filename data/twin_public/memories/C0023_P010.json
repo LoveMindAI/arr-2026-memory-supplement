@@ -1,0 +1,23 @@
+{
+ "call": "C0023",
+ "person": "P010",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 65
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we was arguing about cricket and that dropped catch last night",
+  "reason": "because cricket is my thing, i can talk all day about it... we both got into it proper, like guys in the park on sunday not some study call. i was still angry about that catch, was shouting at tv last night and wife telling me off lol. rest of call i was going everywhere but that bit we was both on same page",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

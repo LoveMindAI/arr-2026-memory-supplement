@@ -1,0 +1,47 @@
+{
+ "session": "S07",
+ "rater": "P033",
+ "ok": true,
+ "ratings": {
+  "P029": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "proper professional vibes and he likes lisbon so we'd get on ngl"
+  },
+  "P030": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems chill and decent at tech plus he likes football too even if its chelsea"
+  },
+  "P031": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "just looks like a normal dad tbh probably sound but maybe not for the task"
+  },
+  "P032": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 5,
+   "trust": 7,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "reminds me of some of the uncles at church very polite and reliable"
+  }
+ }
+}

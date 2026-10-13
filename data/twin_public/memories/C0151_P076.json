@@ -1,0 +1,23 @@
+{
+ "call": "C0151",
+ "person": "P076",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got talking about putting grab rails up on plasterboard walls and keeping things still up",
+  "reason": "Close to my work",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

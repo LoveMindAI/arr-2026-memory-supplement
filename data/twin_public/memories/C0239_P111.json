@@ -1,0 +1,23 @@
+{
+ "call": "C0239",
+ "person": "P111",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She said I'm easy to talk to.",
+  "reason": "She was quiet, so it made me really chuffed :)",
+  "timing": 95
+ },
+ "requires_av": false,
+ "av_event": null
+}

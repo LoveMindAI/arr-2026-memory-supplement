@@ -1,0 +1,57 @@
+{
+ "session": "S15",
+ "rater": "P074",
+ "ok": true,
+ "ratings": {
+  "P073": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "bit serious... looks like a tech man from london sort of way... nice poster though"
+  },
+  "P075": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "proper rugby man i reckon... looks a bit fed up but probably good for a pint"
+  },
+  "P076": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "very calm and kind eyes... reminds me of the art teachers at my old place"
+  },
+  "P077": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 7,
+   "sim": 2,
+   "pair": 0,
+   "gut": "spurs fan so not sure about his judgment... a bit too neat and tidy for me tbh"
+  },
+  "P078": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "proper friendly sort... got a dog and a messy kitchen like ours... reminds me of my karen"
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "call": "C0452",
+ "person": "P222",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 22,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "after i said about kyle he looked off to the window few seconds lips pressed together then come back n said hes not home enough",
+  "reason": "seemed like it got to him a bit, not as stern as he looked in the photo",
+  "timing": 58
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0452",
+  "turn": 33,
+  "line_text": "No. Close enough. The house is quieter, though.",
+  "who": "Gareth",
+  "what": "Before speaking, Gareth looks away to his left towards the window for about three seconds with his lips pressed together, then looks back at the screen."
+ }
+}

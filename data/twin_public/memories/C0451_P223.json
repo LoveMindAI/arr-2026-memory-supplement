@@ -1,0 +1,23 @@
+{
+ "call": "C0451",
+ "person": "P223",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We just chatted about work and pets really. It was easier than I expected.",
+  "reason": "I'm usually a bit nervous talking to people I don't know but it didn't feel awkward. Nice to talk about something I actually know.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

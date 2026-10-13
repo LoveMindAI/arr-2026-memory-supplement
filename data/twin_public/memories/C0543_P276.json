@@ -1,0 +1,23 @@
+{
+ "call": "C0543",
+ "person": "P276",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 4,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "just how easy it felt",
+  "reason": "she were dead easy to talk to and we kept having stuff in common, felt like chatting to someone id known ages lol",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S11",
+ "rater": "P052",
+ "ok": true,
+ "ratings": {
+  "P050": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like he has a laugh tbh"
+  },
+  "P051": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit posh and sort of impatient"
+  },
+  "P053": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems like a steady bloke"
+  },
+  "P054": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "reminds me of my mum"
+  },
+  "P055": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "quite quiet and probably smart"
+  }
+ }
+}

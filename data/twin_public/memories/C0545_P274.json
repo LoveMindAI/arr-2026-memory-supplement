@@ -1,0 +1,23 @@
+{
+ "call": "C0545",
+ "person": "P274",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we talked about me leaving university early.",
+  "reason": "I don't usually bring that up with someone I've only just met. It felt easy to be honest about it, which surprised me a bit tbh.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

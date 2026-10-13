@@ -1,0 +1,23 @@
+{
+ "call": "C0090",
+ "person": "P049",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 26,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Joanne told me she is kitchen assistant at a primary school and thinks about an art class or teaching assistant course. She said my advice was what she needed.",
+  "reason": "I felt the same fear before Access course, that it is too late. It was good that my experience could help somebody.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

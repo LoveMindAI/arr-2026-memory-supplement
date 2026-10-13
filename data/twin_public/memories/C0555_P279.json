@@ -1,0 +1,23 @@
+{
+ "call": "C0555",
+ "person": "P279",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 25
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto football and that, both of us moaning about people arguing over decisions, like my five a side lot every week",
+  "reason": "cause it was the only bit that felt like a normal convo tbh, rest was questions back and forth, football is easy to chat about",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

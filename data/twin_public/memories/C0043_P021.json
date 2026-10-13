@@ -1,0 +1,23 @@
+{
+ "call": "C0043",
+ "person": "P021",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We just talked sewing the whole time really, easy chat",
+  "reason": "felt like talking to someone who gets it tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

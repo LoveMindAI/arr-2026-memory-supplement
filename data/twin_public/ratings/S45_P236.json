@@ -1,0 +1,57 @@
+{
+ "session": "S45",
+ "rater": "P236",
+ "ok": true,
+ "ratings": {
+  "P237": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like surveyor or something, serious guy with his files organized, probably good partner for task tbh"
+  },
+  "P238": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 4,
+   "comp": 3,
+   "sim": 3,
+   "pair": 0,
+   "gut": "bit of a mess to be fair, looks like he just woke up in uni halls, not sure id trust him with numbers"
+  },
+  "P239": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "quiet lady, reminds me bit of my mum actually, probably nice but maybe not aggressive enough for getting things done"
+  },
+  "P240": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "working man, got kids and stuff so he knows about real life, looks like he gets on with it"
+  },
+  "P241": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "into his fitness which is good, looks like london professional type, probably easy to talk to"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0004",
+ "person": "P004",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 43,
+  "reason": 59
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When Darren told me about Bridgwater Carnival in November. Huge carts covered in thousands of bulbs, some a hundred feet long, built in sheds by people in their spare time. He said he used to help build them with his uncle. Then the call ended.",
+  "reason": "I didnt expect it at all, I had him down as more pub and cricket. The engineering side got me straight away, how you get something that long round a corner, the wiring etc. He said I'd love it, and he was right. Bit annoyed the time ran out just when it got interesting.",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

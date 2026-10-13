@@ -1,0 +1,23 @@
+{
+ "call": "C0334",
+ "person": "P163",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We laughed together about little ones repeating the same words.",
+  "reason": "It reminded me of my grandson.",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

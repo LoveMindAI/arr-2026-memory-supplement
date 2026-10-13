@@ -1,0 +1,25 @@
+{
+ "call": "C0560",
+ "person": "P281",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 32,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "while she were going on about modern art being a con, an older woman, prob her mum, came in behind her, filled the kettle and flicked it on then walked off, could hear it rumbling",
+  "reason": "made me laugh tbh, proper normal kitchen stuff going on behind her, my mum does exactly that at home every time im on the phone",
+  "timing": 60
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0560",
+  "turn": 12,
+  "line_text": "I just clicked on stuff till it went away, to be honest.",
+  "who": "Kerry",
+  "what": "An older woman (Kerry's mum) walks into the kitchen behind Kerry, fills the kettle at the counter and switches it on, then walks back out of frame; the kettle starts to rumble faintly on the audio."
+ }
+}

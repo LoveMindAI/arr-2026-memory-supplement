@@ -1,0 +1,23 @@
+{
+ "call": "C0572",
+ "person": "P291",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 71,
+  "reason": 35
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said about taking mum to all her appointments and my sister always being busy, joanne went a bit quiet and said she looked after her mum at the end, it was a long illness and it was mostly her doing it. said michelle helped where she could but then she just went you know and stopped. then she said sorry thats a bit heavy for three minutes",
+  "reason": "cos thats exactly whats going on with me and my sister and mum. didnt expect to get that off a stranger tbh, she just got it straight away without me having to explain",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

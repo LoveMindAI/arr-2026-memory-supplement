@@ -1,0 +1,47 @@
+{
+ "session": "S33",
+ "rater": "P177",
+ "ok": true,
+ "ratings": {
+  "P174": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Professional and steady; looks like she'd just get on with it without any fuss."
+  },
+  "P175": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "A very warm presence\u2014her kitchen and prints remind me quite a bit of our house in Lewes."
+  },
+  "P176": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 4,
+   "trust": 3,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Seems a bit disorganized, to be honest; reminds me of my son's flat during his university days."
+  },
+  "P178": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Sensible and inquisitive\u2014I noticed the plastering, sort of a fellow DIY enthusiast perhaps."
+  }
+ }
+}

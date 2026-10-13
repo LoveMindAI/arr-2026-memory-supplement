@@ -1,0 +1,23 @@
+{
+ "call": "C0480",
+ "person": "P238",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 28
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when gareth said good plasterers are hard to get on site and theyre always waiting on them",
+  "reason": "cos ive been on about doing a plastering course for ages and he actually works on builds so ngl it was tidy hearing someone who knows say theres work in it",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

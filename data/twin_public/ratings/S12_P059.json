@@ -1,0 +1,57 @@
+{
+ "session": "S12",
+ "rater": "P059",
+ "ok": true,
+ "ratings": {
+  "P056": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Looks like a busy academic or a dev\u2014a bit wary, but definitely knows her stuff."
+  },
+  "P057": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 5,
+   "pair": 0,
+   "gut": "Got a bit of a gym lad vibe with the pull-up bar, maybe a bit quiet?"
+  },
+  "P058": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Hiking map and stone bookends\u2014seems like a decent, practical sort of bloke."
+  },
+  "P060": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Interior design is actually decent\u2014seems bright and easy to talk to, right?"
+  },
+  "P061": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 3,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Reminds me of a site manager waiting for a meeting to end\u2014bit impatient."
+  }
+ }
+}

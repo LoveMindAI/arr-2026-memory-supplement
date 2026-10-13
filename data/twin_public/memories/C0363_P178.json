@@ -1,0 +1,25 @@
+{
+ "call": "C0363",
+ "person": "P178",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 15,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "He laughed about the Croatia credit card, then the grin dropped & he looked away for approx 2 secs",
+  "reason": "Didn't match the jokey tone. Looked like the debt actually bothers him",
+  "timing": 65
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0363",
+  "turn": 27,
+  "line_text": "Iceland's sick. I went to a festival in Croatia a couple of years back. Stuck it on a credit card, still paying it off, ha.",
+  "who": "Callum",
+  "what": "Right after the short laugh his lopsided grin drops. He looks down and off to the side, away from the screen, for about two seconds with a flat expression, then looks back up at the camera."
+ }
+}

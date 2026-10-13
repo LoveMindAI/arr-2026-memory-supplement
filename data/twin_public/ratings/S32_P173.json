@@ -1,0 +1,47 @@
+{
+ "session": "S32",
+ "rater": "P173",
+ "ok": true,
+ "ratings": {
+  "P169": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like she knows what she's doing and doesn't suffer fools, to be honest."
+  },
+  "P170": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Reminds me of my husband Dan after a long day at work."
+  },
+  "P171": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "Friendly enough but a bit more relaxed than I usually am."
+  },
+  "P172": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Seems efficient and organized, probably quite reliable."
+  }
+ }
+}

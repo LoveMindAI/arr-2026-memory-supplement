@@ -1,0 +1,23 @@
+{
+ "call": "C0306",
+ "person": "P150",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit where we got onto footy and going the match, it was the first time it properly felt like a back and forth chat rather than me just going on lol",
+  "reason": "footy always gets people talking tbh, thats when it clicked a bit",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

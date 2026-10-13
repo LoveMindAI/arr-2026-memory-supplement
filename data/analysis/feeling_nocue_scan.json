@@ -1,0 +1,204 @@
+{
+ "counts_all": {
+  "False|False": 853,
+  "True|False": 171,
+  "False|True": 46,
+  "True|True": 77
+ },
+ "counts_media_sample": {
+  "other": 239,
+  "feeling_vibe_no_cue": 77,
+  "feeling_vibe_cued": 43
+ },
+ "gain": {
+  "audio|similarity|other": {
+   "mean": -0.005,
+   "lo": -0.023,
+   "hi": 0.014,
+   "n": 1434,
+   "people": 239
+  },
+  "audio|similarity|feeling_vibe_no_cue": {
+   "mean": 0.015,
+   "lo": 0.006,
+   "hi": 0.024,
+   "n": 450,
+   "people": 77
+  },
+  "audio|similarity|feeling_vibe_cued": {
+   "mean": -0.007,
+   "lo": -0.044,
+   "hi": 0.029,
+   "n": 258,
+   "people": 43
+  },
+  "audio|same_focus|other": {
+   "mean": -0.008,
+   "lo": -0.031,
+   "hi": 0.015,
+   "n": 1434,
+   "people": 239
+  },
+  "audio|same_focus|feeling_vibe_no_cue": {
+   "mean": 0.02,
+   "lo": -0.02,
+   "hi": 0.057,
+   "n": 450,
+   "people": 77
+  },
+  "audio|same_focus|feeling_vibe_cued": {
+   "mean": 0.0,
+   "lo": -0.065,
+   "hi": 0.062,
+   "n": 258,
+   "people": 43
+  },
+  "audio|event_match|other": {
+   "mean": -0.009,
+   "lo": -0.037,
+   "hi": 0.018,
+   "n": 1434,
+   "people": 239
+  },
+  "audio|event_match|feeling_vibe_no_cue": {
+   "mean": 0.004,
+   "lo": -0.004,
+   "hi": 0.017,
+   "n": 450,
+   "people": 77
+  },
+  "audio|event_match|feeling_vibe_cued": {
+   "mean": 0.001,
+   "lo": -0.052,
+   "hi": 0.057,
+   "n": 258,
+   "people": 43
+  },
+  "text_audio|similarity|other": {
+   "mean": -0.009,
+   "lo": -0.023,
+   "hi": 0.003,
+   "n": 1434,
+   "people": 239
+  },
+  "text_audio|similarity|feeling_vibe_no_cue": {
+   "mean": 0.01,
+   "lo": 0.0,
+   "hi": 0.02,
+   "n": 445,
+   "people": 77
+  },
+  "text_audio|similarity|feeling_vibe_cued": {
+   "mean": -0.021,
+   "lo": -0.057,
+   "hi": 0.014,
+   "n": 258,
+   "people": 43
+  },
+  "text_audio|same_focus|other": {
+   "mean": -0.009,
+   "lo": -0.032,
+   "hi": 0.013,
+   "n": 1433,
+   "people": 239
+  },
+  "text_audio|same_focus|feeling_vibe_no_cue": {
+   "mean": -0.004,
+   "lo": -0.041,
+   "hi": 0.032,
+   "n": 445,
+   "people": 77
+  },
+  "text_audio|same_focus|feeling_vibe_cued": {
+   "mean": -0.037,
+   "lo": -0.099,
+   "hi": 0.017,
+   "n": 258,
+   "people": 43
+  },
+  "text_audio|event_match|other": {
+   "mean": -0.006,
+   "lo": -0.025,
+   "hi": 0.014,
+   "n": 1434,
+   "people": 239
+  },
+  "text_audio|event_match|feeling_vibe_no_cue": {
+   "mean": 0.01,
+   "lo": -0.003,
+   "hi": 0.028,
+   "n": 445,
+   "people": 77
+  },
+  "text_audio|event_match|feeling_vibe_cued": {
+   "mean": -0.019,
+   "lo": -0.065,
+   "hi": 0.026,
+   "n": 258,
+   "people": 43
+  },
+  "text_audio_video|similarity|other": {
+   "mean": -0.023,
+   "lo": -0.04,
+   "hi": -0.007,
+   "n": 1431,
+   "people": 239
+  },
+  "text_audio_video|similarity|feeling_vibe_no_cue": {
+   "mean": 0.007,
+   "lo": -0.002,
+   "hi": 0.017,
+   "n": 446,
+   "people": 77
+  },
+  "text_audio_video|similarity|feeling_vibe_cued": {
+   "mean": -0.038,
+   "lo": -0.087,
+   "hi": 0.007,
+   "n": 258,
+   "people": 43
+  },
+  "text_audio_video|same_focus|other": {
+   "mean": -0.026,
+   "lo": -0.049,
+   "hi": -0.003,
+   "n": 1431,
+   "people": 239
+  },
+  "text_audio_video|same_focus|feeling_vibe_no_cue": {
+   "mean": -0.018,
+   "lo": -0.062,
+   "hi": 0.027,
+   "n": 446,
+   "people": 77
+  },
+  "text_audio_video|same_focus|feeling_vibe_cued": {
+   "mean": -0.066,
+   "lo": -0.142,
+   "hi": -0.003,
+   "n": 258,
+   "people": 43
+  },
+  "text_audio_video|event_match|other": {
+   "mean": -0.027,
+   "lo": -0.052,
+   "hi": -0.004,
+   "n": 1431,
+   "people": 239
+  },
+  "text_audio_video|event_match|feeling_vibe_no_cue": {
+   "mean": 0.005,
+   "lo": -0.006,
+   "hi": 0.022,
+   "n": 446,
+   "people": 77
+  },
+  "text_audio_video|event_match|feeling_vibe_cued": {
+   "mean": -0.052,
+   "lo": -0.125,
+   "hi": 0.014,
+   "n": 258,
+   "people": 43
+  }
+ }
+}

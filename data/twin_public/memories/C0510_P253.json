@@ -1,0 +1,23 @@
+{
+ "call": "C0510",
+ "person": "P253",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Right at the start when I joked we'd both turned up in the same work uniform.",
+  "reason": "Good icebreaker to be fair, set the tone nicely.",
+  "timing": 5
+ },
+ "requires_av": false,
+ "av_event": null
+}

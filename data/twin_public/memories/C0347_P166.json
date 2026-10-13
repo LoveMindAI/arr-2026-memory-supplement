@@ -1,0 +1,23 @@
+{
+ "call": "C0347",
+ "person": "P166",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 57,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "honestly the whole call just felt really easy, like we kept finding things we both cared about. we went from science stuff and checking things over and over to faith and family stuff, and it didn't feel awkward even though it got quite deep for three minutes. i didn't feel like i was rambling or saying too much, which is rare for me tbh",
+  "reason": "because it felt like we actually connected, not just polite small talk",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

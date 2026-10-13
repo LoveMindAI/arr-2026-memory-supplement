@@ -1,0 +1,47 @@
+{
+ "session": "S08",
+ "rater": "P038",
+ "ok": true,
+ "ratings": {
+  "P034": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "looks a bit moody to be honest"
+  },
+  "P035": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks decent enough like he gets on with it"
+  },
+  "P036": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "seems polite and has her head screwed on"
+  },
+  "P037": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 4,
+   "pair": 0,
+   "gut": "dont know er looks a bit fed up"
+  }
+ }
+}

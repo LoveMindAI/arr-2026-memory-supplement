@@ -1,0 +1,23 @@
+{
+ "call": "C0490",
+ "person": "P245",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We mostly talked about work and both having to sort out other people's messy paperwork. Turns out he does mapping for a water company in Nottingham.",
+  "reason": "It's the part I've got opinions on. Felt like proper common ground.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

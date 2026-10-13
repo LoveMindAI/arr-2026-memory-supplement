@@ -1,0 +1,23 @@
+{
+ "call": "C0143",
+ "person": "P071",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Neil said he turned down senior management twice. Didnt fancy the meetings.",
+  "reason": "Surprised me tbh. I'm chasing promotion and he just turned it down twice, quite happily.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

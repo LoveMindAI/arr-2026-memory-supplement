@@ -1,0 +1,57 @@
+{
+ "session": "S45",
+ "rater": "P241",
+ "ok": true,
+ "ratings": {
+  "P236": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like a young professional tbh, probably decent at his job."
+  },
+  "P237": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "properly organized, reminds me of my dad's office vibes."
+  },
+  "P238": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 7,
+   "pair": 1,
+   "gut": "looks like a sound guy, room looks like half my mates' places."
+  },
+  "P239": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "seems nice but kind of tired, maybe a bit quiet."
+  },
+  "P240": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "serious guy, bet he gets his bit of the work done properly."
+  }
+ }
+}

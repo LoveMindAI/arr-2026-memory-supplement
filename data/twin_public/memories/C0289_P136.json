@@ -1,0 +1,23 @@
+{
+ "call": "C0289",
+ "person": "P136",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 57,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The moment we found out we both do Pilates on a Tuesday. We laughed about how it is only stretching but somehow we are both completely shattered afterwards. I hadn't known before, that she goes in the morning while I go in the evening with a friend from work, so we are sort of Pilates twins at different times.",
+  "reason": "It was such a funny coincidence, it made me feel connected.",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

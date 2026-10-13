@@ -1,0 +1,23 @@
+{
+ "call": "C0009",
+ "person": "P001",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 37,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto our parents. We were both sort of in the same place, looking after someone going downhill. I hadn't known her dad had a stroke last year. We both went a bit quiet after.",
+  "reason": "It's close to home.",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

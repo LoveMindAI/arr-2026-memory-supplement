@@ -1,0 +1,57 @@
+{
+ "session": "S27",
+ "rater": "P141",
+ "ok": true,
+ "ratings": {
+  "P142": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "looks like she knows her stuff tbh"
+  },
+  "P143": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 1,
+   "pair": 0,
+   "gut": "bit too posh for me"
+  },
+  "P144": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems alright probably just wants to get it done"
+  },
+  "P145": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 5,
+   "trust": 4,
+   "comp": 3,
+   "sim": 5,
+   "pair": 1,
+   "gut": "supports the wrong team but looks sound"
+  },
+  "P146": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "works in a similar sort of place ye"
+  }
+ }
+}

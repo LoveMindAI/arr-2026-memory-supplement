@@ -1,0 +1,23 @@
+{
+ "call": "C0025",
+ "person": "P013",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 88,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "I don't think there was one single moment for me, it was more the feeling of the whole call. It was really easy & quick, lots of laughing, and I didn't have to work hard to keep it going (usually with strangers I'm the one filling the silences). I ended up laughing at myself quite a lot about being the spreadsheet person. There was one bit where I worried I sounded a bit too 'ward pharmacist' and preachy, but it passed fast.  Overall very warm, like chatting to a neighbour :)",
+  "reason": "It felt so relaxed compared to what I expected, honestly.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

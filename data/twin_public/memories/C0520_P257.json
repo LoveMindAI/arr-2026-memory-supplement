@@ -1,0 +1,25 @@
+{
+ "call": "C0520",
+ "person": "P257",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 17,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "woman in a dark work top come in behind him grabbed the kettle and went, he glanced round still talking",
+  "reason": "dunno just nosey lol, wondered if that was claire, nobody said nothing so i was watching that instead",
+  "timing": 80
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0520",
+  "turn": 12,
+  "line_text": "Not of my own. Claire's got a lad, he's twenty, moved to Bristol last year. Still comes back every Sunday for his dinner, mind. And takes half the fridge back with him.",
+  "who": "Darren",
+  "what": "A woman in a dark work top walks through the kitchen doorway behind him, picks up the kettle from the worktop and walks back out of frame; Darren glances over his shoulder at her briefly while still talking."
+ }
+}

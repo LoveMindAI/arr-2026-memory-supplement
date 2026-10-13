@@ -1,0 +1,57 @@
+{
+ "session": "S52",
+ "rater": "P274",
+ "ok": true,
+ "ratings": {
+  "P271": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks lovely, a bit like some of the students we get on the wards. Very organised with her bird chart, I think."
+  },
+  "P272": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Reminds me of my mum's friends, really warm and someone you could have a proper chat and a cuppa with."
+  },
+  "P273": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Seems like a nice, sensible lad. He looks quite relaxed and easy to talk to, probably quite helpful."
+  },
+  "P275": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "A bit serious maybe, sorry, but he looks like he's working hard on his degree. Very focused on the task."
+  },
+  "P276": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks fun and very relatable with the messy bun and the dog toy, I've got plenty of those at home!"
+  }
+ }
+}

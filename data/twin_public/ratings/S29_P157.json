@@ -1,0 +1,57 @@
+{
+ "session": "S29",
+ "rater": "P157",
+ "ok": true,
+ "ratings": {
+  "P153": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "reminds me of Rob, looks a bit tired after a long day at work but decent"
+  },
+  "P154": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks really friendly, like someone i'd chat to at parkrun, love the cat too"
+  },
+  "P155": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks very sensible and quiet, probably quite organized with all those maps"
+  },
+  "P156": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks a bit stressed tbh, like her house is as busy as mine! she'd be interesting"
+  },
+  "P158": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "really lovely smile, seems very warm and approachable, kind of person you'd get on with"
+  }
+ }
+}

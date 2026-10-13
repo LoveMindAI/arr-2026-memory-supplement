@@ -1,0 +1,23 @@
+{
+ "call": "C0251",
+ "person": "P121",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "talking books, she actually agreed with me that loads of literary stuff is just slow lol",
+  "reason": "thought shed be all serious and snobby about it from her photo, but she wasnt",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

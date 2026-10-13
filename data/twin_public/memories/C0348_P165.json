@@ -1,0 +1,23 @@
+{
+ "call": "C0348",
+ "person": "P165",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 42
+ },
+ "ok": true,
+ "answers": {
+  "moment": "him saying you just sit there and nothings your problem, v quietly",
+  "reason": "it sort of landed tbh, its exactly what i want after a night on call and never get. he said it so flatly, like he really needed it, and i think thats the knackered club thing again lol. it stuck with me more than the jokes",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

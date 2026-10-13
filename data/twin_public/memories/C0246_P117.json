@@ -1,0 +1,23 @@
+{
+ "call": "C0246",
+ "person": "P117",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we talked about our parents getting older and how hard it is sometimes.",
+  "reason": "It's what I worry about most, so it stuck with me.",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

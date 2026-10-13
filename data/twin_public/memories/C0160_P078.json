@@ -1,0 +1,23 @@
+{
+ "call": "C0160",
+ "person": "P078",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 38,
+  "reason": 27
+ },
+ "ok": true,
+ "answers": {
+  "moment": "just how easy he was to chat to really, i thought hed be all posh and serious but he wasnt, he told me his mum was a school receptionist who knew every kid in the building, which I didnt expect",
+  "reason": "i'd sort of judged him off his picture as one of the organised ones lol, and he turned out really down to earth and nice about my sticky notes",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

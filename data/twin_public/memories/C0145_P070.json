@@ -1,0 +1,23 @@
+{
+ "call": "C0145",
+ "person": "P070",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Near the end we got talking about our families, missing the kids and worrying about our mums, and I nearly started crying!",
+  "reason": "Because it's what's on my mind lately, and it felt really genuine between us.",
+  "timing": 88
+ },
+ "requires_av": false,
+ "av_event": null
+}

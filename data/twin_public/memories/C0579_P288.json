@@ -1,0 +1,23 @@
+{
+ "call": "C0579",
+ "person": "P288",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 4,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Talking about her daughter's uni plans.",
+  "reason": "Her eldest would be first in the family to go, like me.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

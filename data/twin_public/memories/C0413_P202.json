@@ -1,0 +1,23 @@
+{
+ "call": "C0413",
+ "person": "P202",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 35,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "just the whole call really, she was dead quiet and kept saying sorry but she was actually lovely, cleans on the wards at a hospital in basingstoke from half five and rings her mum every night",
+  "reason": "she surprised me tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

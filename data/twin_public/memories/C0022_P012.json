@@ -1,0 +1,23 @@
+{
+ "call": "C0022",
+ "person": "P012",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 31
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we talk about growing things in pots and garden, i was telling about my chillies doing well this year",
+  "reason": "because i like talking about my chillies and she was very interested and happy about it too. it felt easy like talking to neighbour not like study. i was relaxed then",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

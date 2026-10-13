@@ -1,0 +1,23 @@
+{
+ "call": "C0230",
+ "person": "P113",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Honestly the whole call just felt like chatting to an old mate from work!",
+  "reason": "We clicked straight away and it never once felt awkward, which surprised me haha.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

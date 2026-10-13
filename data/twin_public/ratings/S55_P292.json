@@ -1,0 +1,57 @@
+{
+ "session": "S55",
+ "rater": "P292",
+ "ok": true,
+ "ratings": {
+  "P287": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "reminds me of my mam tbh"
+  },
+  "P288": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit posh maybe"
+  },
+  "P289": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like a laugh"
+  },
+  "P290": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks a bit stressed"
+  },
+  "P291": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "seems normal enough sort of like people round here"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "session": "S22",
+ "rater": "P118",
+ "ok": true,
+ "ratings": {
+  "P114": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "bit guarded but looks normal, probably just wants to get the task over with tbh"
+  },
+  "P115": {
+   "photo": 2,
+   "friendly": 2,
+   "like": 3,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like she knows her stuff and wont mess about, id trust her to do the work x"
+  },
+  "P116": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 5,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit too much for me lol, seems like she'd talk your ear off while im trying to focus"
+  },
+  "P117": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 4,
+   "trust": 6,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "reminds me of the ladies at the school gate, sweet but probably a bit slow on the tech side"
+  }
+ }
+}

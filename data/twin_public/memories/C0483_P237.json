@@ -1,0 +1,23 @@
+{
+ "call": "C0483",
+ "person": "P237",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Him asking what I actually do day to day.",
+  "reason": "Most people switch off at QS. He seemed properly interested in the detail.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

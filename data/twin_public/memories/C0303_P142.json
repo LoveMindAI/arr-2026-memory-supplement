@@ -1,0 +1,23 @@
+{
+ "call": "C0303",
+ "person": "P142",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 53,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When Liam told me about the graphics card. He buys broken electronics on Marketplace and fixes them to sell on. He paid ninety pounds for one, the fan was dead, a new fan cost a fiver, and he will sell it for two hundred and fifty. I asked if the seller knew. He said no.",
+  "reason": "It sat uncomfortably with me. I wouldn't want that in my books, business or not.",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S12",
+ "rater": "P056",
+ "ok": true,
+ "ratings": {
+  "P057": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like he just wants to get on with it tbh, looks like half the lads in dev"
+  },
+  "P058": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems decent enough, reminds me of some of the blokes mark works with"
+  },
+  "P059": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 4,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "a bit too keen, probably asks too many questions in stand ups"
+  },
+  "P060": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "house is very tidy, probably quite organized which makes me a bit nervous"
+  },
+  "P061": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks like he knows what he's doing, no fuss, reminds me of my dad a bit"
+  }
+ }
+}

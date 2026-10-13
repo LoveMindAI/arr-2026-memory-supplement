@@ -1,0 +1,23 @@
+{
+ "call": "C0230",
+ "person": "P108",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Rowena was so chatty and warm throughout, and she's a tissue viability nurse!",
+  "reason": "We just clicked, both NHS and singers.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

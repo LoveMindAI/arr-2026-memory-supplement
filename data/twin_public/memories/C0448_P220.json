@@ -1,0 +1,23 @@
+{
+ "call": "C0448",
+ "person": "P220",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 26,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he was just really cheery the whole call, kept laughing at stuff i said even when i was being a bit blunt, didnt seem bothered at all tbh",
+  "reason": "people usually get a bit funny with me when im blunt",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

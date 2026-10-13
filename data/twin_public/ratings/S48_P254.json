@@ -1,0 +1,37 @@
+{
+ "session": "S48",
+ "rater": "P254",
+ "ok": true,
+ "ratings": {
+  "P252": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "tbh she looks like a proper sweet mum, probably brings the good snacks lol"
+  },
+  "P253": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "vibes are giving josh's work mates, kind of a corporate gym bro but seems chill"
+  },
+  "P255": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 7,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "reminds me of my dad's friends tbh, very serious and probably wants to talk about uni"
+  }
+ }
+}

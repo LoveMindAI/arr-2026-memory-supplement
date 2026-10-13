@@ -1,0 +1,47 @@
+{
+ "session": "S16",
+ "rater": "P083",
+ "ok": true,
+ "ratings": {
+  "P079": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a sound bloke, loves a book and a map so wed probably get on fine tbh"
+  },
+  "P080": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "bit nervous maybe? reminds me of people from back home, bet shes nice when she gets going"
+  },
+  "P081": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "proper friendly face, reminds me of my dad actually, looks like hed have some decent stories"
+  },
+  "P082": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "really warm vibes, looks dead organized and easy to talk to, like one of the mums at nadias school"
+  }
+ }
+}

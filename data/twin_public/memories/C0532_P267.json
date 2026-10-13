@@ -1,0 +1,25 @@
+{
+ "call": "C0532",
+ "person": "P267",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 21,
+  "reason": 28
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said gemma was carrying everything his grin went, he looked down and away rubbing his beard few seconds then carried on",
+  "reason": "dunno, he was all jokes the rest of it so it stood out, made me think hes been through the same feeling useless thing and it still gets him a bit",
+  "timing": 45
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0532",
+  "turn": 15,
+  "line_text": "I know how that feels, mate, honestly. First year I was off I felt proper useless. You get used to it. Not saying it's right, but you do. What you looking at doing, then, anything?",
+  "who": "Mark",
+  "what": "Mark's grin drops and he looks down and away from the camera for a few seconds, rubbing his stubble, before looking back at the screen and carrying on."
+ }
+}

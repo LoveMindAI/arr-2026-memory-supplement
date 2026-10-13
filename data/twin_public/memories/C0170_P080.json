@@ -1,0 +1,23 @@
+{
+ "call": "C0170",
+ "person": "P080",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we was talking caravan holidays, she goes talacre which is right next to prestatyn lol",
+  "reason": "we go prestatyn every year so it felt like proper common ground",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

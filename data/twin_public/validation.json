@@ -1,0 +1,132 @@
+{
+ "n_memories": 1166,
+ "n_calls": 583,
+ "moment_words": {
+  "standin": {
+   "p10": 8.0,
+   "p25": 12.0,
+   "p50": 18.0,
+   "p75": 27.0,
+   "p90": 38.0
+  },
+  "target": {
+   "p5": 5.0,
+   "p10": 6.0,
+   "p25": 10.0,
+   "p50": 16.0,
+   "p75": 24.0,
+   "p90": 36.0,
+   "p95": 45.0
+  },
+  "standin_split": {
+   "between_person_sd": 0.5147005802459508,
+   "within_person_sd": 0.2718246376317669
+  },
+  "target_split": {
+   "between_person_sd": 0.5233675937523347,
+   "within_person_sd": 0.3333649510016532
+  }
+ },
+ "reason_words": {
+  "standin": {
+   "p10": 6.0,
+   "p25": 8.0,
+   "p50": 13.0,
+   "p75": 20.0,
+   "p90": 29.0
+  },
+  "target": {
+   "p5": 4.0,
+   "p10": 5.0,
+   "p25": 8.0,
+   "p50": 12.0,
+   "p75": 18.0,
+   "p90": 26.0,
+   "p95": 32.0
+  },
+  "standin_split": {
+   "between_person_sd": 0.5016494807364886,
+   "within_person_sd": 0.2912161750058674
+  },
+  "target_split": {
+   "between_person_sd": 0.4643249203973304,
+   "within_person_sd": 0.34694111737625005
+  }
+ },
+ "turns_per_call": {
+  "standin": {
+   "p10": 27.0,
+   "p25": 29.0,
+   "p50": 31.0,
+   "p75": 34.0,
+   "p90": 38.0
+  },
+  "target": {
+   "p5": 19.0,
+   "p10": 20.0,
+   "p25": 24.0,
+   "p50": 30.0,
+   "p75": 35.0,
+   "p90": 39.0,
+   "p95": 42.0
+  }
+ },
+ "words_per_call": {
+  "standin": {
+   "p10": 416.4,
+   "p25": 454.5,
+   "p50": 500.0,
+   "p75": 551.0,
+   "p90": 602.8000000000001
+  },
+  "target": {
+   "p5": 399.05,
+   "p10": 440.1,
+   "p25": 500.0,
+   "p50": 570.0,
+   "p75": 623.75,
+   "p90": 682.9,
+   "p95": 708.9499999999999
+  }
+ },
+ "memory_types": {
+  "shared_stretch": {
+   "n_memories_coded": 565,
+   "standin": {
+    "scope:one_moment": 0.4150442477876106,
+    "scope:stretch": 0.4433628318584071,
+    "what:did_together": 0.6247787610619469,
+    "what:partner_said_or_did": 0.4044247787610619,
+    "new_fact": 0.36460176991150445
+   },
+   "target": {
+    "scope:one_moment": 0.33,
+    "scope:stretch": 0.48,
+    "what:did_together": 0.61,
+    "what:partner_said_or_did": 0.22,
+    "new_fact": 0.25
+   },
+   "share_people": 0.5119453924914675,
+   "target_share": 0.5133079847908745
+  },
+  "what_they_were_told": {
+   "n_memories_coded": 546,
+   "standin": {
+    "scope:one_moment": 0.6217948717948718,
+    "scope:stretch": 0.18406593406593408,
+    "what:did_together": 0.22802197802197802,
+    "what:partner_said_or_did": 0.7115384615384616,
+    "new_fact": 0.7032967032967034
+   },
+   "target": {
+    "scope:one_moment": 0.65,
+    "scope:stretch": 0.16,
+    "what:did_together": 0.2,
+    "what:partner_said_or_did": 0.62,
+    "new_fact": 0.72
+   },
+   "share_people": 0.4880546075085324,
+   "target_share": 0.4866920152091255
+  }
+ }
+}

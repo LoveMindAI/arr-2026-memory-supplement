@@ -1,0 +1,23 @@
+{
+ "call": "C0093",
+ "person": "P049",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 51,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When Gareth told me about his job. He is travel consultant, he plans tailor-made trips, mostly to Japan and Asia. He said he wants to start his own business, so he is building a client list and working out the numbers. He said it is the same instinct as mine, get qualification, then make the jump.",
+  "reason": "I would say it surprised me. He compared his plan to my plan, but I did not see it the same way. I thought about it after.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0335",
+ "person": "P161",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when darren said he tells the managers no the seals arent right its not going out, and that its cost him team leader twice, he said it so flat",
+  "reason": "didnt expect that from his photo, he seemed grumpy but actually hes just stubborn like me",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

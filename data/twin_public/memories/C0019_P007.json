@@ -1,0 +1,23 @@
+{
+ "call": "C0019",
+ "person": "P007",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "talking about money, found out shes only sessional at the leisure centre, same boat as us really",
+  "reason": "deposit stuff is always on my mind tbh",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

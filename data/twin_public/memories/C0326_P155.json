@@ -1,0 +1,23 @@
+{
+ "call": "C0326",
+ "person": "P155",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We spent the last part talking about getting my old bike going again. I hadn't known he does up old bikes for his son and his friends.",
+  "reason": "It was genuinely useful; I've been putting off the bike for about a year. It felt like we could have kept going well past three minutes.",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

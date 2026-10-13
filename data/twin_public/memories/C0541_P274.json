@@ -1,0 +1,23 @@
+{
+ "call": "C0541",
+ "person": "P274",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we talked about work and found out he's an electrician, same as Rob.",
+  "reason": "It was a nice surprise finding something in common so early on. I'll tell Rob tonight, he'll be chuffed. Made it easier to chat, I think.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

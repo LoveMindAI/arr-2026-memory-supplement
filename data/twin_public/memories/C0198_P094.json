@@ -1,0 +1,23 @@
+{
+ "call": "C0198",
+ "person": "P094",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 38,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about the best bit of the job and i said about setting the lathe up and getting it spot on first time. then we talked about the firm i did me apprenticeship at being gone now",
+  "reason": "dont talk about that much. made me think of the old place and that",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0463",
+ "person": "P225",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 33
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her saying shed rather that than the weather",
+  "reason": "cos I'd just gone on about my mum and felt a bit daft for saying all that to a stranger, and she didnt make it awkward, she was just straight about it. that was nice tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

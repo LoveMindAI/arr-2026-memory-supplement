@@ -1,0 +1,1832 @@
+{
+ "claude-haiku-5.5": {
+  "people": {
+   "bigger_meaning=NO": {
+    "rate": 0.898,
+    "n": 1142,
+    "auc_gain": -0.0575
+   },
+   "bigger_meaning=YES": {
+    "rate": 0.102,
+    "n": 1142,
+    "auc_gain": -0.0575
+   },
+   "extent=LONGER": {
+    "rate": 0.345,
+    "n": 1142,
+    "auc_gain": 0.0172
+   },
+   "extent=NOT_AN_EVENT": {
+    "rate": 0.101,
+    "n": 1142,
+    "auc_gain": -0.0279
+   },
+   "extent=ONE_MOMENT": {
+    "rate": 0.554,
+    "n": 1142,
+    "auc_gain": 0.0137
+   },
+   "feelings=JOY": {
+    "rate": 0.151,
+    "n": 1134,
+    "auc_gain": 0.0737
+   },
+   "feelings=NONE": {
+    "rate": 0.593,
+    "n": 1134,
+    "auc_gain": 0.0229
+   },
+   "feelings=OTHER": {
+    "rate": 0.14,
+    "n": 1134,
+    "auc_gain": -0.0313
+   },
+   "feelings=SURPRISE": {
+    "rate": 0.087,
+    "n": 1134,
+    "auc_gain": -0.0017
+   },
+   "matters_for=CONNECTION": {
+    "rate": 0.223,
+    "n": 1141,
+    "auc_gain": -0.0283
+   },
+   "matters_for=NONE": {
+    "rate": 0.708,
+    "n": 1141,
+    "auc_gain": -0.0208
+   },
+   "moment_text=BOTH": {
+    "rate": 0.197,
+    "n": 1142,
+    "auc_gain": -0.0222
+   },
+   "moment_text=THOUGHTS": {
+    "rate": 0.07,
+    "n": 1142,
+    "auc_gain": -0.0985
+   },
+   "moment_text=WHAT_HAPPENED": {
+    "rate": 0.733,
+    "n": 1142,
+    "auc_gain": -0.0278
+   },
+   "new_info=NO": {
+    "rate": 0.428,
+    "n": 1142,
+    "auc_gain": 0.0182
+   },
+   "new_info=NOT_ABOUT_INFORMATION": {
+    "rate": 0.157,
+    "n": 1142,
+    "auc_gain": 0.0031
+   },
+   "new_info=YES": {
+    "rate": 0.415,
+    "n": 1142,
+    "auc_gain": -0.0225
+   },
+   "personal_kinds=FEELINGS_MILD": {
+    "rate": 0.053,
+    "n": 1120,
+    "auc_gain": -0.064
+   },
+   "personal_kinds=INFO_GENERAL": {
+    "rate": 0.454,
+    "n": 1120,
+    "auc_gain": -0.0536
+   },
+   "personal_kinds=INFO_REVEALING": {
+    "rate": 0.058,
+    "n": 1120,
+    "auc_gain": -0.0248
+   },
+   "personal_kinds=NOTHING": {
+    "rate": 0.463,
+    "n": 1120,
+    "auc_gain": -0.0775
+   },
+   "personal_kinds=THOUGHTS_EVENTS_PLANS": {
+    "rate": 0.052,
+    "n": 1120,
+    "auc_gain": 0.0404
+   },
+   "reason_first=CALL": {
+    "rate": 0.112,
+    "n": 1139,
+    "auc_gain": -0.0913
+   },
+   "reason_first=ME": {
+    "rate": 0.205,
+    "n": 1139,
+    "auc_gain": 0.0211
+   },
+   "reason_first=OTHER": {
+    "rate": 0.061,
+    "n": 1139,
+    "auc_gain": -0.1528
+   },
+   "reason_first=PARTNER": {
+    "rate": 0.349,
+    "n": 1139,
+    "auc_gain": -0.0094
+   },
+   "reason_first=US": {
+    "rate": 0.233,
+    "n": 1139,
+    "auc_gain": -0.0239
+   },
+   "remembered=DID_TOGETHER": {
+    "rate": 0.361,
+    "n": 1142,
+    "auc_gain": 0.0328
+   },
+   "remembered=PARTNER_FACT_OR_QUALITY": {
+    "rate": 0.212,
+    "n": 1142,
+    "auc_gain": -0.0784
+   },
+   "remembered=PARTNER_SAID_OR_DID": {
+    "rate": 0.442,
+    "n": 1142,
+    "auc_gain": -0.0562
+   },
+   "remembered=REPORTER_SAID_OR_DID": {
+    "rate": 0.106,
+    "n": 1142,
+    "auc_gain": -0.0191
+   },
+   "remembered=REPORTER_THOUGHT": {
+    "rate": 0.156,
+    "n": 1142,
+    "auc_gain": -0.0057
+   },
+   "remembered=SITUATION": {
+    "rate": 0.157,
+    "n": 1142,
+    "auc_gain": -0.0131
+   },
+   "shared_by=BOTH": {
+    "rate": 0.132,
+    "n": 1142,
+    "auc_gain": 0.0272
+   },
+   "shared_by=NOBODY": {
+    "rate": 0.471,
+    "n": 1142,
+    "auc_gain": -0.0617
+   },
+   "shared_by=PARTNER": {
+    "rate": 0.366,
+    "n": 1142,
+    "auc_gain": -0.0246
+   },
+   "topic=FAMILY_RELATIONSHIPS_PETS": {
+    "rate": 0.095,
+    "n": 1142,
+    "auc_gain": 0.0851
+   },
+   "topic=FEELINGS_MOOD": {
+    "rate": 0.114,
+    "n": 1142,
+    "auc_gain": -0.0656
+   },
+   "topic=HOBBIES_INTERESTS_MEDIA": {
+    "rate": 0.071,
+    "n": 1142,
+    "auc_gain": 0.0486
+   },
+   "topic=OTHER": {
+    "rate": 0.071,
+    "n": 1142,
+    "auc_gain": -0.1203
+   },
+   "topic=PARTNER_IMPRESSION": {
+    "rate": 0.156,
+    "n": 1142,
+    "auc_gain": -0.0403
+   },
+   "topic=PLACE_TRAVEL": {
+    "rate": 0.27,
+    "n": 1142,
+    "auc_gain": -0.0118
+   },
+   "topic=PLANS_EVENTS": {
+    "rate": 0.09,
+    "n": 1142,
+    "auc_gain": 0.0559
+   },
+   "topic=THE_STUDY_OR_CALL": {
+    "rate": 0.321,
+    "n": 1142,
+    "auc_gain": -0.0369
+   },
+   "topic=WORK_EDUCATION_SERVICE": {
+    "rate": 0.229,
+    "n": 1142,
+    "auc_gain": -0.0029
+   }
+  },
+  "no_card": {
+   "bigger_meaning=NO": {
+    "rate": 0.861,
+    "n": 5709,
+    "auc_gain": 0.0034
+   },
+   "bigger_meaning=YES": {
+    "rate": 0.139,
+    "n": 5709,
+    "auc_gain": 0.0034
+   },
+   "extent=LONGER": {
+    "rate": 0.139,
+    "n": 5710,
+    "auc_gain": -0.001
+   },
+   "extent=ONE_MOMENT": {
+    "rate": 0.861,
+    "n": 5710,
+    "auc_gain": -0.001
+   },
+   "feelings=JOY": {
+    "rate": 0.414,
+    "n": 5698,
+    "auc_gain": 0.0096
+   },
+   "feelings=NONE": {
+    "rate": 0.183,
+    "n": 5698,
+    "auc_gain": 0.007
+   },
+   "feelings=OTHER": {
+    "rate": 0.242,
+    "n": 5698,
+    "auc_gain": 0.0015
+   },
+   "feelings=RELIEF": {
+    "rate": 0.15,
+    "n": 5698,
+    "auc_gain": 0.0168
+   },
+   "feelings=SURPRISE": {
+    "rate": 0.214,
+    "n": 5698,
+    "auc_gain": -0.0107
+   },
+   "feelings=TRUST": {
+    "rate": 0.095,
+    "n": 5698,
+    "auc_gain": -0.0014
+   },
+   "matters_for=CONNECTION": {
+    "rate": 0.823,
+    "n": 5707,
+    "auc_gain": -0.0049
+   },
+   "matters_for=NONE": {
+    "rate": 0.162,
+    "n": 5707,
+    "auc_gain": -0.0135
+   },
+   "moment_text=BOTH": {
+    "rate": 0.639,
+    "n": 5710,
+    "auc_gain": 0.0083
+   },
+   "moment_text=WHAT_HAPPENED": {
+    "rate": 0.361,
+    "n": 5710,
+    "auc_gain": 0.0083
+   },
+   "new_info=NO": {
+    "rate": 0.198,
+    "n": 5710,
+    "auc_gain": 0.0123
+   },
+   "new_info=NOT_ABOUT_INFORMATION": {
+    "rate": 0.137,
+    "n": 5710,
+    "auc_gain": -0.0166
+   },
+   "new_info=YES": {
+    "rate": 0.665,
+    "n": 5710,
+    "auc_gain": -0.0119
+   },
+   "personal_kinds=FEELINGS_MILD": {
+    "rate": 0.218,
+    "n": 5700,
+    "auc_gain": 0.0144
+   },
+   "personal_kinds=INFO_GENERAL": {
+    "rate": 0.613,
+    "n": 5700,
+    "auc_gain": -0.0231
+   },
+   "personal_kinds=INFO_REVEALING": {
+    "rate": 0.19,
+    "n": 5700,
+    "auc_gain": 0.0412
+   },
+   "personal_kinds=NOTHING": {
+    "rate": 0.216,
+    "n": 5700,
+    "auc_gain": -0.0101
+   },
+   "personal_kinds=THOUGHTS_EVENTS_PLANS": {
+    "rate": 0.094,
+    "n": 5700,
+    "auc_gain": 0.029
+   },
+   "reason_first=CALL": {
+    "rate": 0.08,
+    "n": 5710,
+    "auc_gain": 0.0082
+   },
+   "reason_first=ME": {
+    "rate": 0.087,
+    "n": 5710,
+    "auc_gain": 0.054
+   },
+   "reason_first=PARTNER": {
+    "rate": 0.302,
+    "n": 5710,
+    "auc_gain": -0.0036
+   },
+   "reason_first=US": {
+    "rate": 0.52,
+    "n": 5710,
+    "auc_gain": 0.0008
+   },
+   "remembered=DID_TOGETHER": {
+    "rate": 0.532,
+    "n": 5710,
+    "auc_gain": 0.0026
+   },
+   "remembered=PARTNER_SAID_OR_DID": {
+    "rate": 0.945,
+    "n": 5710,
+    "auc_gain": -0.0071
+   },
+   "remembered=REPORTER_SAID_OR_DID": {
+    "rate": 0.842,
+    "n": 5710,
+    "auc_gain": 0.0161
+   },
+   "remembered=REPORTER_THOUGHT": {
+    "rate": 0.183,
+    "n": 5710,
+    "auc_gain": 0.0076
+   },
+   "shared_by=BOTH": {
+    "rate": 0.391,
+    "n": 5710,
+    "auc_gain": -0.0022
+   },
+   "shared_by=NOBODY": {
+    "rate": 0.219,
+    "n": 5710,
+    "auc_gain": 0.0046
+   },
+   "shared_by=PARTNER": {
+    "rate": 0.206,
+    "n": 5710,
+    "auc_gain": -0.0114
+   },
+   "shared_by=REPORTER": {
+    "rate": 0.185,
+    "n": 5710,
+    "auc_gain": 0.0102
+   },
+   "topic=FAMILY_RELATIONSHIPS_PETS": {
+    "rate": 0.146,
+    "n": 5710,
+    "auc_gain": 0.0664
+   },
+   "topic=FEELINGS_MOOD": {
+    "rate": 0.363,
+    "n": 5710,
+    "auc_gain": 0.0063
+   },
+   "topic=HOBBIES_INTERESTS_MEDIA": {
+    "rate": 0.092,
+    "n": 5710,
+    "auc_gain": 0.0491
+   },
+   "topic=OTHER": {
+    "rate": 0.054,
+    "n": 5710,
+    "auc_gain": -0.035
+   },
+   "topic=PARTNER_IMPRESSION": {
+    "rate": 0.082,
+    "n": 5710,
+    "auc_gain": 0.0011
+   },
+   "topic=PLACE_TRAVEL": {
+    "rate": 0.272,
+    "n": 5710,
+    "auc_gain": -0.0028
+   },
+   "topic=PLANS_EVENTS": {
+    "rate": 0.094,
+    "n": 5710,
+    "auc_gain": 0.005
+   },
+   "topic=THE_STUDY_OR_CALL": {
+    "rate": 0.389,
+    "n": 5710,
+    "auc_gain": -0.001
+   },
+   "topic=WORK_EDUCATION_SERVICE": {
+    "rate": 0.288,
+    "n": 5710,
+    "auc_gain": 0.0095
+   }
+  },
+  "scores_card": {
+   "bigger_meaning=NO": {
+    "rate": 0.713,
+    "n": 5709,
+    "auc_gain": 0.0148
+   },
+   "bigger_meaning=YES": {
+    "rate": 0.287,
+    "n": 5709,
+    "auc_gain": 0.0148
+   },
+   "extent=LONGER": {
+    "rate": 0.14,
+    "n": 5709,
+    "auc_gain": -0.0013
+   },
+   "extent=ONE_MOMENT": {
+    "rate": 0.86,
+    "n": 5709,
+    "auc_gain": -0.0013
+   },
+   "feelings=FEAR": {
+    "rate": 0.094,
+    "n": 5697,
+    "auc_gain": 0.1047
+   },
+   "feelings=JOY": {
+    "rate": 0.36,
+    "n": 5697,
+    "auc_gain": 0.0502
+   },
+   "feelings=NONE": {
+    "rate": 0.148,
+    "n": 5697,
+    "auc_gain": 0.0568
+   },
+   "feelings=OTHER": {
+    "rate": 0.292,
+    "n": 5697,
+    "auc_gain": 0.0099
+   },
+   "feelings=RELIEF": {
+    "rate": 0.218,
+    "n": 5697,
+    "auc_gain": 0.0535
+   },
+   "feelings=SURPRISE": {
+    "rate": 0.172,
+    "n": 5697,
+    "auc_gain": 0.02
+   },
+   "feelings=TRUST": {
+    "rate": 0.086,
+    "n": 5697,
+    "auc_gain": 0.0519
+   },
+   "matters_for=CONNECTION": {
+    "rate": 0.732,
+    "n": 5709,
+    "auc_gain": 0.0621
+   },
+   "matters_for=NONE": {
+    "rate": 0.152,
+    "n": 5709,
+    "auc_gain": 0.0374
+   },
+   "matters_for=WHO_I_AM": {
+    "rate": 0.296,
+    "n": 5709,
+    "auc_gain": 0.0174
+   },
+   "moment_text=BOTH": {
+    "rate": 0.664,
+    "n": 5709,
+    "auc_gain": 0.026
+   },
+   "moment_text=WHAT_HAPPENED": {
+    "rate": 0.335,
+    "n": 5709,
+    "auc_gain": 0.026
+   },
+   "new_info=NO": {
+    "rate": 0.239,
+    "n": 5709,
+    "auc_gain": 0.004
+   },
+   "new_info=NOT_ABOUT_INFORMATION": {
+    "rate": 0.157,
+    "n": 5709,
+    "auc_gain": -0.0028
+   },
+   "new_info=YES": {
+    "rate": 0.603,
+    "n": 5709,
+    "auc_gain": -0.0072
+   },
+   "personal_kinds=FEELINGS_MILD": {
+    "rate": 0.269,
+    "n": 5696,
+    "auc_gain": 0.0254
+   },
+   "personal_kinds=INFO_GENERAL": {
+    "rate": 0.585,
+    "n": 5696,
+    "auc_gain": -0.0007
+   },
+   "personal_kinds=INFO_REVEALING": {
+    "rate": 0.214,
+    "n": 5696,
+    "auc_gain": 0.0337
+   },
+   "personal_kinds=NOTHING": {
+    "rate": 0.214,
+    "n": 5696,
+    "auc_gain": -0.0021
+   },
+   "personal_kinds=THOUGHTS_EVENTS_PLANS": {
+    "rate": 0.099,
+    "n": 5696,
+    "auc_gain": 0.008
+   },
+   "reason_first=CALL": {
+    "rate": 0.063,
+    "n": 5709,
+    "auc_gain": 0.009
+   },
+   "reason_first=ME": {
+    "rate": 0.307,
+    "n": 5709,
+    "auc_gain": 0.0264
+   },
+   "reason_first=PARTNER": {
+    "rate": 0.233,
+    "n": 5709,
+    "auc_gain": 0.0099
+   },
+   "reason_first=US": {
+    "rate": 0.389,
+    "n": 5709,
+    "auc_gain": 0.0182
+   },
+   "remembered=DID_TOGETHER": {
+    "rate": 0.46,
+    "n": 5709,
+    "auc_gain": 0.0174
+   },
+   "remembered=PARTNER_SAID_OR_DID": {
+    "rate": 0.926,
+    "n": 5709,
+    "auc_gain": 0.0146
+   },
+   "remembered=REPORTER_SAID_OR_DID": {
+    "rate": 0.885,
+    "n": 5709,
+    "auc_gain": 0.0193
+   },
+   "remembered=REPORTER_THOUGHT": {
+    "rate": 0.257,
+    "n": 5709,
+    "auc_gain": 0.0414
+   },
+   "shared_by=BOTH": {
+    "rate": 0.363,
+    "n": 5709,
+    "auc_gain": 0.0031
+   },
+   "shared_by=NOBODY": {
+    "rate": 0.221,
+    "n": 5709,
+    "auc_gain": 0.0009
+   },
+   "shared_by=PARTNER": {
+    "rate": 0.177,
+    "n": 5709,
+    "auc_gain": -0.0033
+   },
+   "shared_by=REPORTER": {
+    "rate": 0.239,
+    "n": 5709,
+    "auc_gain": 0.0045
+   },
+   "topic=FAMILY_RELATIONSHIPS_PETS": {
+    "rate": 0.14,
+    "n": 5709,
+    "auc_gain": 0.0522
+   },
+   "topic=FEELINGS_MOOD": {
+    "rate": 0.393,
+    "n": 5709,
+    "auc_gain": 0.0119
+   },
+   "topic=HOBBIES_INTERESTS_MEDIA": {
+    "rate": 0.096,
+    "n": 5709,
+    "auc_gain": 0.0654
+   },
+   "topic=OTHER": {
+    "rate": 0.054,
+    "n": 5709,
+    "auc_gain": -0.0633
+   },
+   "topic=PARTNER_IMPRESSION": {
+    "rate": 0.085,
+    "n": 5709,
+    "auc_gain": 0.0149
+   },
+   "topic=PLACE_TRAVEL": {
+    "rate": 0.234,
+    "n": 5709,
+    "auc_gain": -0.0065
+   },
+   "topic=PLANS_EVENTS": {
+    "rate": 0.104,
+    "n": 5709,
+    "auc_gain": 0.0004
+   },
+   "topic=THE_STUDY_OR_CALL": {
+    "rate": 0.404,
+    "n": 5709,
+    "auc_gain": -0.0076
+   },
+   "topic=WORK_EDUCATION_SERVICE": {
+    "rate": 0.291,
+    "n": 5709,
+    "auc_gain": 0.0114
+   }
+  },
+  "narrative_card": {
+   "bigger_meaning=NO": {
+    "rate": 0.588,
+    "n": 5709,
+    "auc_gain": 0.0258
+   },
+   "bigger_meaning=YES": {
+    "rate": 0.412,
+    "n": 5709,
+    "auc_gain": 0.0258
+   },
+   "extent=LONGER": {
+    "rate": 0.115,
+    "n": 5709,
+    "auc_gain": -0.0001
+   },
+   "extent=ONE_MOMENT": {
+    "rate": 0.885,
+    "n": 5709,
+    "auc_gain": -0.0001
+   },
+   "feelings=FEAR": {
+    "rate": 0.063,
+    "n": 5704,
+    "auc_gain": 0.1654
+   },
+   "feelings=JOY": {
+    "rate": 0.351,
+    "n": 5704,
+    "auc_gain": 0.1899
+   },
+   "feelings=NONE": {
+    "rate": 0.168,
+    "n": 5704,
+    "auc_gain": 0.1307
+   },
+   "feelings=OTHER": {
+    "rate": 0.286,
+    "n": 5704,
+    "auc_gain": 0.0459
+   },
+   "feelings=RELIEF": {
+    "rate": 0.198,
+    "n": 5704,
+    "auc_gain": 0.0909
+   },
+   "feelings=SURPRISE": {
+    "rate": 0.14,
+    "n": 5704,
+    "auc_gain": 0.0233
+   },
+   "feelings=TRUST": {
+    "rate": 0.06,
+    "n": 5704,
+    "auc_gain": 0.0737
+   },
+   "matters_for=CONNECTION": {
+    "rate": 0.576,
+    "n": 5709,
+    "auc_gain": 0.1018
+   },
+   "matters_for=NONE": {
+    "rate": 0.18,
+    "n": 5709,
+    "auc_gain": 0.068
+   },
+   "matters_for=WHO_I_AM": {
+    "rate": 0.432,
+    "n": 5709,
+    "auc_gain": 0.021
+   },
+   "moment_text=BOTH": {
+    "rate": 0.698,
+    "n": 5709,
+    "auc_gain": 0.0405
+   },
+   "moment_text=WHAT_HAPPENED": {
+    "rate": 0.302,
+    "n": 5709,
+    "auc_gain": 0.0405
+   },
+   "new_info=NO": {
+    "rate": 0.255,
+    "n": 5709,
+    "auc_gain": 0.0174
+   },
+   "new_info=NOT_ABOUT_INFORMATION": {
+    "rate": 0.169,
+    "n": 5709,
+    "auc_gain": 0.0353
+   },
+   "new_info=YES": {
+    "rate": 0.576,
+    "n": 5709,
+    "auc_gain": 0.009
+   },
+   "personal_kinds=FEELINGS_MILD": {
+    "rate": 0.277,
+    "n": 5687,
+    "auc_gain": 0.0496
+   },
+   "personal_kinds=INFO_GENERAL": {
+    "rate": 0.559,
+    "n": 5687,
+    "auc_gain": 0.0153
+   },
+   "personal_kinds=INFO_REVEALING": {
+    "rate": 0.202,
+    "n": 5687,
+    "auc_gain": 0.0252
+   },
+   "personal_kinds=NOTHING": {
+    "rate": 0.23,
+    "n": 5687,
+    "auc_gain": -0.0003
+   },
+   "personal_kinds=THOUGHTS_EVENTS_PLANS": {
+    "rate": 0.101,
+    "n": 5687,
+    "auc_gain": -0.0277
+   },
+   "personal_kinds=THOUGHTS_INTIMATE": {
+    "rate": 0.052,
+    "n": 5687,
+    "auc_gain": 0.1202
+   },
+   "reason_first=CALL": {
+    "rate": 0.064,
+    "n": 5709,
+    "auc_gain": 0.0317
+   },
+   "reason_first=ME": {
+    "rate": 0.429,
+    "n": 5709,
+    "auc_gain": 0.048
+   },
+   "reason_first=PARTNER": {
+    "rate": 0.232,
+    "n": 5709,
+    "auc_gain": 0.0112
+   },
+   "reason_first=US": {
+    "rate": 0.265,
+    "n": 5709,
+    "auc_gain": 0.0475
+   },
+   "remembered=DID_TOGETHER": {
+    "rate": 0.395,
+    "n": 5709,
+    "auc_gain": 0.0386
+   },
+   "remembered=PARTNER_SAID_OR_DID": {
+    "rate": 0.929,
+    "n": 5709,
+    "auc_gain": 0.004
+   },
+   "remembered=REPORTER_SAID_OR_DID": {
+    "rate": 0.898,
+    "n": 5709,
+    "auc_gain": 0.0182
+   },
+   "remembered=REPORTER_THOUGHT": {
+    "rate": 0.278,
+    "n": 5709,
+    "auc_gain": 0.0546
+   },
+   "remembered=SITUATION": {
+    "rate": 0.051,
+    "n": 5709,
+    "auc_gain": 0.018
+   },
+   "shared_by=BOTH": {
+    "rate": 0.312,
+    "n": 5709,
+    "auc_gain": 0.0097
+   },
+   "shared_by=NOBODY": {
+    "rate": 0.237,
+    "n": 5709,
+    "auc_gain": 0.0058
+   },
+   "shared_by=PARTNER": {
+    "rate": 0.206,
+    "n": 5709,
+    "auc_gain": 0.018
+   },
+   "shared_by=REPORTER": {
+    "rate": 0.245,
+    "n": 5709,
+    "auc_gain": 0.0045
+   },
+   "topic=FAMILY_RELATIONSHIPS_PETS": {
+    "rate": 0.13,
+    "n": 5709,
+    "auc_gain": 0.0556
+   },
+   "topic=FEELINGS_MOOD": {
+    "rate": 0.397,
+    "n": 5709,
+    "auc_gain": 0.0358
+   },
+   "topic=HEALTH_WELLBEING": {
+    "rate": 0.051,
+    "n": 5709,
+    "auc_gain": 0.1395
+   },
+   "topic=HOBBIES_INTERESTS_MEDIA": {
+    "rate": 0.092,
+    "n": 5709,
+    "auc_gain": 0.0786
+   },
+   "topic=OTHER": {
+    "rate": 0.059,
+    "n": 5709,
+    "auc_gain": -0.0663
+   },
+   "topic=PARTNER_IMPRESSION": {
+    "rate": 0.105,
+    "n": 5709,
+    "auc_gain": 0.022
+   },
+   "topic=PLACE_TRAVEL": {
+    "rate": 0.233,
+    "n": 5709,
+    "auc_gain": 0.0357
+   },
+   "topic=PLANS_EVENTS": {
+    "rate": 0.095,
+    "n": 5709,
+    "auc_gain": 0.0405
+   },
+   "topic=THE_STUDY_OR_CALL": {
+    "rate": 0.416,
+    "n": 5709,
+    "auc_gain": 0.0005
+   },
+   "topic=WORK_EDUCATION_SERVICE": {
+    "rate": 0.287,
+    "n": 5709,
+    "auc_gain": 0.0042
+   }
+  }
+ },
+ "gpt-6-luna": {
+  "people": {
+   "bigger_meaning=NO": {
+    "rate": 0.844,
+    "n": 1142,
+    "auc_gain": -0.0729
+   },
+   "bigger_meaning=YES": {
+    "rate": 0.155,
+    "n": 1142,
+    "auc_gain": -0.0701
+   },
+   "extent=LONGER": {
+    "rate": 0.394,
+    "n": 1142,
+    "auc_gain": -0.015
+   },
+   "extent=NOT_AN_EVENT": {
+    "rate": 0.108,
+    "n": 1142,
+    "auc_gain": 0.0587
+   },
+   "extent=ONE_MOMENT": {
+    "rate": 0.497,
+    "n": 1142,
+    "auc_gain": 0.0099
+   },
+   "feelings=JOY": {
+    "rate": 0.188,
+    "n": 1141,
+    "auc_gain": 0.0771
+   },
+   "feelings=NONE": {
+    "rate": 0.485,
+    "n": 1141,
+    "auc_gain": -0.0069
+   },
+   "feelings=OTHER": {
+    "rate": 0.224,
+    "n": 1141,
+    "auc_gain": -0.0024
+   },
+   "feelings=SURPRISE": {
+    "rate": 0.075,
+    "n": 1141,
+    "auc_gain": -0.0273
+   },
+   "matters_for=CONNECTION": {
+    "rate": 0.166,
+    "n": 1016,
+    "auc_gain": 0.0352
+   },
+   "matters_for=NONE": {
+    "rate": 0.8,
+    "n": 1016,
+    "auc_gain": 0.0289
+   },
+   "moment_text=BOTH": {
+    "rate": 0.266,
+    "n": 1142,
+    "auc_gain": -0.0424
+   },
+   "moment_text=WHAT_HAPPENED": {
+    "rate": 0.685,
+    "n": 1142,
+    "auc_gain": -0.0483
+   },
+   "new_info=NO": {
+    "rate": 0.368,
+    "n": 1142,
+    "auc_gain": -0.0394
+   },
+   "new_info=NOT_ABOUT_INFORMATION": {
+    "rate": 0.157,
+    "n": 1142,
+    "auc_gain": -0.0291
+   },
+   "new_info=YES": {
+    "rate": 0.475,
+    "n": 1142,
+    "auc_gain": -0.0447
+   },
+   "personal_kinds=FEELINGS_MILD": {
+    "rate": 0.053,
+    "n": 1142,
+    "auc_gain": 0.0229
+   },
+   "personal_kinds=INFO_GENERAL": {
+    "rate": 0.51,
+    "n": 1142,
+    "auc_gain": -0.0212
+   },
+   "personal_kinds=INFO_REVEALING": {
+    "rate": 0.1,
+    "n": 1142,
+    "auc_gain": -0.0231
+   },
+   "personal_kinds=NOTHING": {
+    "rate": 0.379,
+    "n": 1142,
+    "auc_gain": -0.0083
+   },
+   "personal_kinds=THOUGHTS_EVENTS_PLANS": {
+    "rate": 0.085,
+    "n": 1142,
+    "auc_gain": 0.0381
+   },
+   "reason_first=CALL": {
+    "rate": 0.123,
+    "n": 1142,
+    "auc_gain": -0.0254
+   },
+   "reason_first=ME": {
+    "rate": 0.215,
+    "n": 1142,
+    "auc_gain": -0.0056
+   },
+   "reason_first=PARTNER": {
+    "rate": 0.349,
+    "n": 1142,
+    "auc_gain": -0.0259
+   },
+   "reason_first=US": {
+    "rate": 0.257,
+    "n": 1142,
+    "auc_gain": -0.0321
+   },
+   "remembered=DID_TOGETHER": {
+    "rate": 0.415,
+    "n": 1142,
+    "auc_gain": 0.0274
+   },
+   "remembered=PARTNER_FACT_OR_QUALITY": {
+    "rate": 0.356,
+    "n": 1142,
+    "auc_gain": 0.0054
+   },
+   "remembered=PARTNER_SAID_OR_DID": {
+    "rate": 0.495,
+    "n": 1142,
+    "auc_gain": -0.0147
+   },
+   "remembered=REPORTER_SAID_OR_DID": {
+    "rate": 0.155,
+    "n": 1142,
+    "auc_gain": -0.081
+   },
+   "remembered=REPORTER_THOUGHT": {
+    "rate": 0.187,
+    "n": 1142,
+    "auc_gain": -0.0494
+   },
+   "remembered=SITUATION": {
+    "rate": 0.132,
+    "n": 1142,
+    "auc_gain": -0.086
+   },
+   "shared_by=BOTH": {
+    "rate": 0.258,
+    "n": 1142,
+    "auc_gain": 0.0704
+   },
+   "shared_by=NOBODY": {
+    "rate": 0.379,
+    "n": 1142,
+    "auc_gain": -0.0135
+   },
+   "shared_by=PARTNER": {
+    "rate": 0.328,
+    "n": 1142,
+    "auc_gain": 0.0163
+   },
+   "topic=FAMILY_RELATIONSHIPS_PETS": {
+    "rate": 0.1,
+    "n": 1142,
+    "auc_gain": 0.0459
+   },
+   "topic=FEELINGS_MOOD": {
+    "rate": 0.151,
+    "n": 1142,
+    "auc_gain": -0.0068
+   },
+   "topic=HOBBIES_INTERESTS_MEDIA": {
+    "rate": 0.067,
+    "n": 1142,
+    "auc_gain": 0.0229
+   },
+   "topic=OTHER": {
+    "rate": 0.08,
+    "n": 1142,
+    "auc_gain": -0.0275
+   },
+   "topic=PARTNER_IMPRESSION": {
+    "rate": 0.174,
+    "n": 1142,
+    "auc_gain": -0.09
+   },
+   "topic=PLACE_TRAVEL": {
+    "rate": 0.255,
+    "n": 1142,
+    "auc_gain": -0.024
+   },
+   "topic=PLANS_EVENTS": {
+    "rate": 0.08,
+    "n": 1142,
+    "auc_gain": 0.018
+   },
+   "topic=THE_STUDY_OR_CALL": {
+    "rate": 0.291,
+    "n": 1142,
+    "auc_gain": -0.0576
+   },
+   "topic=WORK_EDUCATION_SERVICE": {
+    "rate": 0.222,
+    "n": 1142,
+    "auc_gain": -0.0083
+   }
+  },
+  "no_card": {
+   "bigger_meaning=NO": {
+    "rate": 0.617,
+    "n": 5710,
+    "auc_gain": -0.0019
+   },
+   "bigger_meaning=YES": {
+    "rate": 0.382,
+    "n": 5710,
+    "auc_gain": -0.0021
+   },
+   "extent=LONGER": {
+    "rate": 0.19,
+    "n": 5710,
+    "auc_gain": 0.0028
+   },
+   "extent=ONE_MOMENT": {
+    "rate": 0.809,
+    "n": 5710,
+    "auc_gain": 0.0027
+   },
+   "feelings=JOY": {
+    "rate": 0.438,
+    "n": 5710,
+    "auc_gain": 0.0077
+   },
+   "feelings=NONE": {
+    "rate": 0.097,
+    "n": 5710,
+    "auc_gain": 0.0093
+   },
+   "feelings=OTHER": {
+    "rate": 0.344,
+    "n": 5710,
+    "auc_gain": 0.0128
+   },
+   "feelings=RELIEF": {
+    "rate": 0.112,
+    "n": 5710,
+    "auc_gain": 0.0076
+   },
+   "feelings=SURPRISE": {
+    "rate": 0.162,
+    "n": 5710,
+    "auc_gain": -0.0219
+   },
+   "feelings=TRUST": {
+    "rate": 0.076,
+    "n": 5710,
+    "auc_gain": 0.0062
+   },
+   "matters_for=CONNECTION": {
+    "rate": 0.803,
+    "n": 5535,
+    "auc_gain": -0.0083
+   },
+   "matters_for=NONE": {
+    "rate": 0.183,
+    "n": 5535,
+    "auc_gain": -0.0069
+   },
+   "moment_text=BOTH": {
+    "rate": 0.747,
+    "n": 5710,
+    "auc_gain": 0.0079
+   },
+   "moment_text=WHAT_HAPPENED": {
+    "rate": 0.252,
+    "n": 5710,
+    "auc_gain": 0.0081
+   },
+   "new_info=NO": {
+    "rate": 0.082,
+    "n": 5710,
+    "auc_gain": -0.0041
+   },
+   "new_info=NOT_ABOUT_INFORMATION": {
+    "rate": 0.073,
+    "n": 5710,
+    "auc_gain": -0.0187
+   },
+   "new_info=YES": {
+    "rate": 0.845,
+    "n": 5710,
+    "auc_gain": -0.0196
+   },
+   "personal_kinds=FEELINGS_MILD": {
+    "rate": 0.225,
+    "n": 5710,
+    "auc_gain": 0.0083
+   },
+   "personal_kinds=INFO_GENERAL": {
+    "rate": 0.645,
+    "n": 5710,
+    "auc_gain": 0.0043
+   },
+   "personal_kinds=INFO_REVEALING": {
+    "rate": 0.35,
+    "n": 5710,
+    "auc_gain": 0.0145
+   },
+   "personal_kinds=NOTHING": {
+    "rate": 0.142,
+    "n": 5710,
+    "auc_gain": -0.006
+   },
+   "personal_kinds=THOUGHTS_EVENTS_PLANS": {
+    "rate": 0.23,
+    "n": 5710,
+    "auc_gain": -0.0001
+   },
+   "reason_first=ME": {
+    "rate": 0.067,
+    "n": 5710,
+    "auc_gain": 0.0139
+   },
+   "reason_first=PARTNER": {
+    "rate": 0.401,
+    "n": 5710,
+    "auc_gain": 0.0022
+   },
+   "reason_first=US": {
+    "rate": 0.486,
+    "n": 5710,
+    "auc_gain": 0.0027
+   },
+   "remembered=DID_TOGETHER": {
+    "rate": 0.682,
+    "n": 5710,
+    "auc_gain": -0.0004
+   },
+   "remembered=PARTNER_FACT_OR_QUALITY": {
+    "rate": 0.082,
+    "n": 5710,
+    "auc_gain": -0.0076
+   },
+   "remembered=REPORTER_SAID_OR_DID": {
+    "rate": 0.891,
+    "n": 5710,
+    "auc_gain": 0.0149
+   },
+   "remembered=REPORTER_THOUGHT": {
+    "rate": 0.206,
+    "n": 5710,
+    "auc_gain": 0.0122
+   },
+   "remembered=SITUATION": {
+    "rate": 0.078,
+    "n": 5710,
+    "auc_gain": -0.0448
+   },
+   "shared_by=BOTH": {
+    "rate": 0.515,
+    "n": 5710,
+    "auc_gain": -0.0035
+   },
+   "shared_by=NOBODY": {
+    "rate": 0.14,
+    "n": 5710,
+    "auc_gain": -0.0112
+   },
+   "shared_by=PARTNER": {
+    "rate": 0.176,
+    "n": 5710,
+    "auc_gain": -0.0015
+   },
+   "shared_by=REPORTER": {
+    "rate": 0.168,
+    "n": 5710,
+    "auc_gain": -0.0017
+   },
+   "topic=FAMILY_RELATIONSHIPS_PETS": {
+    "rate": 0.156,
+    "n": 5710,
+    "auc_gain": 0.0562
+   },
+   "topic=FEELINGS_MOOD": {
+    "rate": 0.468,
+    "n": 5710,
+    "auc_gain": 0.0015
+   },
+   "topic=HEALTH_WELLBEING": {
+    "rate": 0.054,
+    "n": 5710,
+    "auc_gain": 0.0603
+   },
+   "topic=HOBBIES_INTERESTS_MEDIA": {
+    "rate": 0.088,
+    "n": 5710,
+    "auc_gain": 0.0437
+   },
+   "topic=OTHER": {
+    "rate": 0.064,
+    "n": 5710,
+    "auc_gain": -0.018
+   },
+   "topic=PARTNER_IMPRESSION": {
+    "rate": 0.13,
+    "n": 5710,
+    "auc_gain": -0.0111
+   },
+   "topic=PLACE_TRAVEL": {
+    "rate": 0.273,
+    "n": 5710,
+    "auc_gain": 0.0034
+   },
+   "topic=PLANS_EVENTS": {
+    "rate": 0.099,
+    "n": 5710,
+    "auc_gain": -0.0009
+   },
+   "topic=THE_STUDY_OR_CALL": {
+    "rate": 0.395,
+    "n": 5710,
+    "auc_gain": -0.0206
+   },
+   "topic=WORK_EDUCATION_SERVICE": {
+    "rate": 0.293,
+    "n": 5710,
+    "auc_gain": 0.0076
+   }
+  },
+  "scores_card": {
+   "bigger_meaning=NO": {
+    "rate": 0.523,
+    "n": 5709,
+    "auc_gain": 0.0077
+   },
+   "bigger_meaning=YES": {
+    "rate": 0.476,
+    "n": 5709,
+    "auc_gain": 0.0078
+   },
+   "extent=LONGER": {
+    "rate": 0.189,
+    "n": 5709,
+    "auc_gain": 0.0001
+   },
+   "extent=ONE_MOMENT": {
+    "rate": 0.811,
+    "n": 5709,
+    "auc_gain": -0.0003
+   },
+   "feelings=FEAR": {
+    "rate": 0.164,
+    "n": 5708,
+    "auc_gain": 0.1102
+   },
+   "feelings=JOY": {
+    "rate": 0.371,
+    "n": 5708,
+    "auc_gain": 0.0521
+   },
+   "feelings=NONE": {
+    "rate": 0.081,
+    "n": 5708,
+    "auc_gain": 0.0569
+   },
+   "feelings=OTHER": {
+    "rate": 0.387,
+    "n": 5708,
+    "auc_gain": -0.0034
+   },
+   "feelings=RELIEF": {
+    "rate": 0.182,
+    "n": 5708,
+    "auc_gain": 0.0575
+   },
+   "feelings=SURPRISE": {
+    "rate": 0.132,
+    "n": 5708,
+    "auc_gain": -0.0051
+   },
+   "feelings=TRUST": {
+    "rate": 0.058,
+    "n": 5708,
+    "auc_gain": 0.0073
+   },
+   "matters_for=CONNECTION": {
+    "rate": 0.723,
+    "n": 5422,
+    "auc_gain": 0.0629
+   },
+   "matters_for=NONE": {
+    "rate": 0.205,
+    "n": 5422,
+    "auc_gain": 0.0454
+   },
+   "matters_for=WHO_I_AM": {
+    "rate": 0.138,
+    "n": 5422,
+    "auc_gain": 0.0137
+   },
+   "moment_text=BOTH": {
+    "rate": 0.764,
+    "n": 5709,
+    "auc_gain": 0.0312
+   },
+   "moment_text=WHAT_HAPPENED": {
+    "rate": 0.235,
+    "n": 5709,
+    "auc_gain": 0.0313
+   },
+   "new_info=NO": {
+    "rate": 0.105,
+    "n": 5709,
+    "auc_gain": -0.001
+   },
+   "new_info=NOT_ABOUT_INFORMATION": {
+    "rate": 0.09,
+    "n": 5709,
+    "auc_gain": -0.0023
+   },
+   "new_info=YES": {
+    "rate": 0.805,
+    "n": 5709,
+    "auc_gain": 0.005
+   },
+   "personal_kinds=FEELINGS_MILD": {
+    "rate": 0.253,
+    "n": 5709,
+    "auc_gain": 0.0178
+   },
+   "personal_kinds=INFO_GENERAL": {
+    "rate": 0.619,
+    "n": 5709,
+    "auc_gain": 0.0134
+   },
+   "personal_kinds=INFO_REVEALING": {
+    "rate": 0.374,
+    "n": 5709,
+    "auc_gain": 0.0143
+   },
+   "personal_kinds=NOTHING": {
+    "rate": 0.143,
+    "n": 5709,
+    "auc_gain": 0.025
+   },
+   "personal_kinds=THOUGHTS_EVENTS_PLANS": {
+    "rate": 0.246,
+    "n": 5709,
+    "auc_gain": -0.0033
+   },
+   "personal_kinds=THOUGHTS_INTIMATE": {
+    "rate": 0.07,
+    "n": 5709,
+    "auc_gain": 0.0744
+   },
+   "reason_first=ME": {
+    "rate": 0.221,
+    "n": 5709,
+    "auc_gain": 0.0268
+   },
+   "reason_first=PARTNER": {
+    "rate": 0.344,
+    "n": 5709,
+    "auc_gain": 0.0068
+   },
+   "reason_first=US": {
+    "rate": 0.392,
+    "n": 5709,
+    "auc_gain": 0.0147
+   },
+   "remembered=DID_TOGETHER": {
+    "rate": 0.618,
+    "n": 5709,
+    "auc_gain": 0.0175
+   },
+   "remembered=PARTNER_FACT_OR_QUALITY": {
+    "rate": 0.054,
+    "n": 5709,
+    "auc_gain": 0.0213
+   },
+   "remembered=REPORTER_SAID_OR_DID": {
+    "rate": 0.924,
+    "n": 5709,
+    "auc_gain": 0.0225
+   },
+   "remembered=REPORTER_THOUGHT": {
+    "rate": 0.269,
+    "n": 5709,
+    "auc_gain": 0.0393
+   },
+   "remembered=SITUATION": {
+    "rate": 0.088,
+    "n": 5709,
+    "auc_gain": -0.0147
+   },
+   "shared_by=BOTH": {
+    "rate": 0.481,
+    "n": 5709,
+    "auc_gain": 0.0024
+   },
+   "shared_by=NOBODY": {
+    "rate": 0.141,
+    "n": 5709,
+    "auc_gain": 0.0169
+   },
+   "shared_by=PARTNER": {
+    "rate": 0.157,
+    "n": 5709,
+    "auc_gain": 0.001
+   },
+   "shared_by=REPORTER": {
+    "rate": 0.22,
+    "n": 5709,
+    "auc_gain": 0.0139
+   },
+   "topic=FAMILY_RELATIONSHIPS_PETS": {
+    "rate": 0.154,
+    "n": 5709,
+    "auc_gain": 0.0491
+   },
+   "topic=FEELINGS_MOOD": {
+    "rate": 0.498,
+    "n": 5709,
+    "auc_gain": 0.0173
+   },
+   "topic=HEALTH_WELLBEING": {
+    "rate": 0.054,
+    "n": 5709,
+    "auc_gain": 0.0759
+   },
+   "topic=HOBBIES_INTERESTS_MEDIA": {
+    "rate": 0.095,
+    "n": 5709,
+    "auc_gain": 0.0831
+   },
+   "topic=OTHER": {
+    "rate": 0.064,
+    "n": 5709,
+    "auc_gain": -0.0238
+   },
+   "topic=PARTNER_IMPRESSION": {
+    "rate": 0.134,
+    "n": 5709,
+    "auc_gain": -0.0068
+   },
+   "topic=PLACE_TRAVEL": {
+    "rate": 0.238,
+    "n": 5709,
+    "auc_gain": -0.0024
+   },
+   "topic=PLANS_EVENTS": {
+    "rate": 0.103,
+    "n": 5709,
+    "auc_gain": -0.0022
+   },
+   "topic=THE_STUDY_OR_CALL": {
+    "rate": 0.41,
+    "n": 5709,
+    "auc_gain": -0.0076
+   },
+   "topic=WORK_EDUCATION_SERVICE": {
+    "rate": 0.293,
+    "n": 5709,
+    "auc_gain": 0.0212
+   }
+  },
+  "narrative_card": {
+   "bigger_meaning=NO": {
+    "rate": 0.453,
+    "n": 5709,
+    "auc_gain": 0.0205
+   },
+   "bigger_meaning=YES": {
+    "rate": 0.546,
+    "n": 5709,
+    "auc_gain": 0.0201
+   },
+   "extent=LONGER": {
+    "rate": 0.164,
+    "n": 5709,
+    "auc_gain": 0.007
+   },
+   "extent=ONE_MOMENT": {
+    "rate": 0.836,
+    "n": 5709,
+    "auc_gain": 0.007
+   },
+   "feelings=FEAR": {
+    "rate": 0.121,
+    "n": 5709,
+    "auc_gain": 0.161
+   },
+   "feelings=JOY": {
+    "rate": 0.364,
+    "n": 5709,
+    "auc_gain": 0.2016
+   },
+   "feelings=NONE": {
+    "rate": 0.103,
+    "n": 5709,
+    "auc_gain": 0.1525
+   },
+   "feelings=OTHER": {
+    "rate": 0.383,
+    "n": 5709,
+    "auc_gain": 0.0592
+   },
+   "feelings=RELIEF": {
+    "rate": 0.166,
+    "n": 5709,
+    "auc_gain": 0.1049
+   },
+   "feelings=SURPRISE": {
+    "rate": 0.096,
+    "n": 5709,
+    "auc_gain": 0.0084
+   },
+   "matters_for=CONNECTION": {
+    "rate": 0.565,
+    "n": 5321,
+    "auc_gain": 0.1197
+   },
+   "matters_for=NONE": {
+    "rate": 0.3,
+    "n": 5321,
+    "auc_gain": 0.0989
+   },
+   "matters_for=WHO_I_AM": {
+    "rate": 0.188,
+    "n": 5321,
+    "auc_gain": 0.0097
+   },
+   "moment_text=BOTH": {
+    "rate": 0.802,
+    "n": 5709,
+    "auc_gain": 0.0389
+   },
+   "moment_text=WHAT_HAPPENED": {
+    "rate": 0.198,
+    "n": 5709,
+    "auc_gain": 0.0409
+   },
+   "new_info=NO": {
+    "rate": 0.119,
+    "n": 5709,
+    "auc_gain": 0.0047
+   },
+   "new_info=NOT_ABOUT_INFORMATION": {
+    "rate": 0.091,
+    "n": 5709,
+    "auc_gain": -0.0191
+   },
+   "new_info=YES": {
+    "rate": 0.789,
+    "n": 5709,
+    "auc_gain": 0.0007
+   },
+   "personal_kinds=FEELINGS_MILD": {
+    "rate": 0.249,
+    "n": 5709,
+    "auc_gain": 0.0384
+   },
+   "personal_kinds=INFO_GENERAL": {
+    "rate": 0.607,
+    "n": 5709,
+    "auc_gain": 0.0142
+   },
+   "personal_kinds=INFO_REVEALING": {
+    "rate": 0.364,
+    "n": 5709,
+    "auc_gain": 0.0187
+   },
+   "personal_kinds=NOTHING": {
+    "rate": 0.159,
+    "n": 5709,
+    "auc_gain": 0.0052
+   },
+   "personal_kinds=THOUGHTS_EVENTS_PLANS": {
+    "rate": 0.238,
+    "n": 5709,
+    "auc_gain": 0.0044
+   },
+   "personal_kinds=THOUGHTS_INTIMATE": {
+    "rate": 0.073,
+    "n": 5709,
+    "auc_gain": 0.0919
+   },
+   "reason_first=CALL": {
+    "rate": 0.05,
+    "n": 5709,
+    "auc_gain": 0.0464
+   },
+   "reason_first=ME": {
+    "rate": 0.333,
+    "n": 5709,
+    "auc_gain": 0.0597
+   },
+   "reason_first=PARTNER": {
+    "rate": 0.327,
+    "n": 5709,
+    "auc_gain": 0.012
+   },
+   "reason_first=US": {
+    "rate": 0.283,
+    "n": 5709,
+    "auc_gain": 0.044
+   },
+   "remembered=DID_TOGETHER": {
+    "rate": 0.55,
+    "n": 5709,
+    "auc_gain": 0.0479
+   },
+   "remembered=PARTNER_FACT_OR_QUALITY": {
+    "rate": 0.052,
+    "n": 5709,
+    "auc_gain": 0.0068
+   },
+   "remembered=REPORTER_SAID_OR_DID": {
+    "rate": 0.935,
+    "n": 5709,
+    "auc_gain": 0.014
+   },
+   "remembered=REPORTER_THOUGHT": {
+    "rate": 0.287,
+    "n": 5709,
+    "auc_gain": 0.0556
+   },
+   "remembered=SITUATION": {
+    "rate": 0.096,
+    "n": 5709,
+    "auc_gain": 0.0157
+   },
+   "shared_by=BOTH": {
+    "rate": 0.44,
+    "n": 5709,
+    "auc_gain": 0.0041
+   },
+   "shared_by=NOBODY": {
+    "rate": 0.156,
+    "n": 5709,
+    "auc_gain": -0.0021
+   },
+   "shared_by=PARTNER": {
+    "rate": 0.175,
+    "n": 5709,
+    "auc_gain": -0.0157
+   },
+   "shared_by=REPORTER": {
+    "rate": 0.228,
+    "n": 5709,
+    "auc_gain": 0.013
+   },
+   "topic=FAMILY_RELATIONSHIPS_PETS": {
+    "rate": 0.139,
+    "n": 5709,
+    "auc_gain": 0.0424
+   },
+   "topic=FEELINGS_MOOD": {
+    "rate": 0.474,
+    "n": 5709,
+    "auc_gain": 0.0463
+   },
+   "topic=HEALTH_WELLBEING": {
+    "rate": 0.058,
+    "n": 5709,
+    "auc_gain": 0.0803
+   },
+   "topic=HOBBIES_INTERESTS_MEDIA": {
+    "rate": 0.089,
+    "n": 5709,
+    "auc_gain": 0.1173
+   },
+   "topic=OTHER": {
+    "rate": 0.071,
+    "n": 5709,
+    "auc_gain": 0.0097
+   },
+   "topic=PARTNER_IMPRESSION": {
+    "rate": 0.149,
+    "n": 5709,
+    "auc_gain": 0.0094
+   },
+   "topic=PLACE_TRAVEL": {
+    "rate": 0.236,
+    "n": 5709,
+    "auc_gain": 0.0283
+   },
+   "topic=PLANS_EVENTS": {
+    "rate": 0.097,
+    "n": 5709,
+    "auc_gain": 0.0373
+   },
+   "topic=THE_STUDY_OR_CALL": {
+    "rate": 0.42,
+    "n": 5709,
+    "auc_gain": -0.0043
+   },
+   "topic=WORK_EDUCATION_SERVICE": {
+    "rate": 0.292,
+    "n": 5709,
+    "auc_gain": 0.0157
+   }
+  }
+ }
+}

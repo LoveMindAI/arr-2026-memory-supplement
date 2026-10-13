@@ -1,0 +1,23 @@
+{
+ "call": "C0487",
+ "person": "P237",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got talking about negotiating and getting people to knock the price down.",
+  "reason": "It's most of what I do at work, so it stuck with me.",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

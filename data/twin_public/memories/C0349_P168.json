@@ -1,0 +1,23 @@
+{
+ "call": "C0349",
+ "person": "P168",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said in british dramas its always the famous actor with one scene in episode 1 and he laughed and agreed, said once you pay for someone you use them",
+  "reason": "because i was right and he admitted it straight away. most people argue with me",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

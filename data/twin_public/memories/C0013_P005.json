@@ -1,0 +1,23 @@
+{
+ "call": "C0013",
+ "person": "P005",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 39
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her explaining dads word thing, said its like the word is on a shelf he can see but cant reach. and not to finish his sentences",
+  "reason": "cos its my dad and nobodys actually explained it to us like that. didnt know she was training for the stroke and dementia side til she said. useful, im going to ring the gp about re referring him",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S17",
+ "rater": "P086",
+ "ok": true,
+ "ratings": {
+  "P084": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "he looks very sensible and sort of professional, like he knows what he's doing..."
+  },
+  "P085": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "she seems really lovely and bubbly, i like her cat in the background too"
+  },
+  "P087": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "he reminds me of my craig because of the cas tigers throw, looks like a hard worker..."
+  },
+  "P088": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 3,
+   "trust": 3,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "a bit young and messy maybe, he looks a bit like he might be loud lol"
+  },
+  "P089": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "she looks really kind and motherly, like she'd be easy to talk to and wouldn't mind if i was a bit slow..."
+  }
+ }
+}

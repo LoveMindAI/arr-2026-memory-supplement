@@ -1,0 +1,23 @@
+{
+ "call": "C0369",
+ "person": "P179",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "realising both our hubbys are sparkys",
+  "reason": "honestly couldnt believe it, felt like id known her years... like chatting to my sister lol",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

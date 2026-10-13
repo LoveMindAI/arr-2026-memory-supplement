@@ -1,0 +1,57 @@
+{
+ "session": "S40",
+ "rater": "P210",
+ "ok": true,
+ "ratings": {
+  "P211": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "proper chill vibes, probably good for a laugh and likes his footy too tbh"
+  },
+  "P212": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems like shes having a proper laugh, definitely the life of the party"
+  },
+  "P213": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a sound guy, busy dad sort of energy but got it together"
+  },
+  "P214": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 0,
+   "gut": "bit mardy or just focused maybe? look at that gym shaker lol"
+  },
+  "P215": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks nice enough, probably the one who actually reads the instructions properly"
+  }
+ }
+}

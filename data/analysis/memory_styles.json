@@ -1,0 +1,353 @@
+{
+ "n_reports": 1147,
+ "n_people": 293,
+ "features": [
+  "bigger_meaning",
+  "commentary",
+  "details",
+  "disclosed_anything",
+  "disclosed_deep",
+  "feeling_named",
+  "intense",
+  "matters:connection",
+  "new_fact",
+  "scope:longer",
+  "scope:not_an_event",
+  "scope:one_moment",
+  "shared:both",
+  "shared:nobody",
+  "shared:partner",
+  "topic:feelings_mood",
+  "topic:partner_impression",
+  "topic:place_travel",
+  "topic:the_study_or_call",
+  "topic:work_education_service",
+  "what:did_together",
+  "what:partner_fact_or_quality",
+  "what:partner_said_or_did",
+  "what:reporter_said_or_did",
+  "what:reporter_thought",
+  "what:situation",
+  "why:call",
+  "why:in_common",
+  "why:me",
+  "why:partner",
+  "why:unexpected",
+  "why:us",
+  "words_moment",
+  "words_why"
+ ],
+ "carry": {
+  "bigger_meaning": {
+   "icc": 0.097,
+   "null_mean": 0.001,
+   "null_95": 0.036,
+   "p": 0.002,
+   "base_rate": 0.15
+  },
+  "commentary": {
+   "icc": 0.256,
+   "null_mean": 0.039,
+   "null_95": 0.075,
+   "p": 0.002,
+   "base_rate": 0.289
+  },
+  "details": {
+   "icc": 0.328,
+   "null_mean": 0.064,
+   "null_95": 0.1,
+   "p": 0.002,
+   "base_rate": 1.537
+  },
+  "disclosed_anything": {
+   "icc": 0.168,
+   "null_mean": 0.051,
+   "null_95": 0.087,
+   "p": 0.002,
+   "base_rate": 0.62
+  },
+  "disclosed_deep": {
+   "icc": 0.081,
+   "null_mean": 0.042,
+   "null_95": 0.086,
+   "p": 0.0639,
+   "base_rate": 0.113
+  },
+  "feeling_named": {
+   "icc": 0.135,
+   "null_mean": 0.058,
+   "null_95": 0.094,
+   "p": 0.002,
+   "base_rate": 0.485
+  },
+  "intense": {
+   "icc": 0.134,
+   "null_mean": 0.048,
+   "null_95": 0.091,
+   "p": 0.002,
+   "base_rate": 0.232
+  },
+  "matters:connection": {
+   "icc": 0.157,
+   "null_mean": 0.023,
+   "null_95": 0.062,
+   "p": 0.002,
+   "base_rate": 0.216
+  },
+  "new_fact": {
+   "icc": 0.261,
+   "null_mean": 0.044,
+   "null_95": 0.082,
+   "p": 0.002,
+   "base_rate": 0.469
+  },
+  "scope:longer": {
+   "icc": 0.313,
+   "null_mean": 0.039,
+   "null_95": 0.076,
+   "p": 0.002,
+   "base_rate": 0.394
+  },
+  "scope:not_an_event": {
+   "icc": 0.315,
+   "null_mean": 0.002,
+   "null_95": 0.041,
+   "p": 0.002,
+   "base_rate": 0.12
+  },
+  "scope:one_moment": {
+   "icc": 0.273,
+   "null_mean": 0.026,
+   "null_95": 0.062,
+   "p": 0.002,
+   "base_rate": 0.486
+  },
+  "shared:both": {
+   "icc": 0.17,
+   "null_mean": 0.023,
+   "null_95": 0.06,
+   "p": 0.002,
+   "base_rate": 0.232
+  },
+  "shared:nobody": {
+   "icc": 0.173,
+   "null_mean": 0.048,
+   "null_95": 0.084,
+   "p": 0.002,
+   "base_rate": 0.383
+  },
+  "shared:partner": {
+   "icc": 0.253,
+   "null_mean": 0.031,
+   "null_95": 0.068,
+   "p": 0.002,
+   "base_rate": 0.358
+  },
+  "topic:feelings_mood": {
+   "icc": 0.101,
+   "null_mean": 0.043,
+   "null_95": 0.085,
+   "p": 0.01,
+   "base_rate": 0.129
+  },
+  "topic:partner_impression": {
+   "icc": 0.239,
+   "null_mean": 0.055,
+   "null_95": 0.098,
+   "p": 0.002,
+   "base_rate": 0.151
+  },
+  "topic:place_travel": {
+   "icc": 0.077,
+   "null_mean": 0.069,
+   "null_95": 0.11,
+   "p": 0.3273,
+   "base_rate": 0.261
+  },
+  "topic:the_study_or_call": {
+   "icc": 0.116,
+   "null_mean": 0.06,
+   "null_95": 0.095,
+   "p": 0.016,
+   "base_rate": 0.314
+  },
+  "topic:work_education_service": {
+   "icc": 0.132,
+   "null_mean": 0.061,
+   "null_95": 0.098,
+   "p": 0.006,
+   "base_rate": 0.22
+  },
+  "what:did_together": {
+   "icc": 0.265,
+   "null_mean": 0.029,
+   "null_95": 0.065,
+   "p": 0.002,
+   "base_rate": 0.411
+  },
+  "what:partner_fact_or_quality": {
+   "icc": 0.2,
+   "null_mean": 0.036,
+   "null_95": 0.076,
+   "p": 0.002,
+   "base_rate": 0.281
+  },
+  "what:partner_said_or_did": {
+   "icc": 0.29,
+   "null_mean": 0.033,
+   "null_95": 0.067,
+   "p": 0.002,
+   "base_rate": 0.411
+  },
+  "what:reporter_said_or_did": {
+   "icc": 0.121,
+   "null_mean": 0.038,
+   "null_95": 0.079,
+   "p": 0.002,
+   "base_rate": 0.098
+  },
+  "what:reporter_thought": {
+   "icc": 0.184,
+   "null_mean": 0.023,
+   "null_95": 0.062,
+   "p": 0.002,
+   "base_rate": 0.174
+  },
+  "what:situation": {
+   "icc": 0.173,
+   "null_mean": 0.025,
+   "null_95": 0.064,
+   "p": 0.002,
+   "base_rate": 0.114
+  },
+  "why:call": {
+   "icc": 0.113,
+   "null_mean": 0.006,
+   "null_95": 0.043,
+   "p": 0.002,
+   "base_rate": 0.127
+  },
+  "why:in_common": {
+   "icc": 0.087,
+   "null_mean": 0.033,
+   "null_95": 0.072,
+   "p": 0.012,
+   "base_rate": 0.271
+  },
+  "why:me": {
+   "icc": 0.127,
+   "null_mean": 0.002,
+   "null_95": 0.041,
+   "p": 0.002,
+   "base_rate": 0.232
+  },
+  "why:partner": {
+   "icc": 0.164,
+   "null_mean": 0.011,
+   "null_95": 0.05,
+   "p": 0.002,
+   "base_rate": 0.335
+  },
+  "why:unexpected": {
+   "icc": 0.13,
+   "null_mean": 0.029,
+   "null_95": 0.077,
+   "p": 0.002,
+   "base_rate": 0.084
+  },
+  "why:us": {
+   "icc": 0.097,
+   "null_mean": 0.023,
+   "null_95": 0.059,
+   "p": 0.004,
+   "base_rate": 0.235
+  },
+  "words_moment": {
+   "icc": 0.595,
+   "null_mean": 0.101,
+   "null_95": 0.135,
+   "p": 0.002,
+   "base_rate": 2.82
+  },
+  "words_why": {
+   "icc": 0.504,
+   "null_mean": 0.082,
+   "null_95": 0.118,
+   "p": 0.002,
+   "base_rate": 2.573
+  }
+ },
+ "n_profiled": 263,
+ "k": {
+  "2": {
+   "silhouette": 0.123,
+   "null_silhouette_mean": 0.096,
+   "null_silhouette_95": 0.102,
+   "stability_ari": 0.562,
+   "sizes": [
+    134,
+    129
+   ],
+   "gmm_bic": 24509.1,
+   "gmm_agree_with_kmeans_ari": 0.692
+  },
+  "3": {
+   "silhouette": 0.101,
+   "null_silhouette_mean": 0.083,
+   "null_silhouette_95": 0.089,
+   "stability_ari": 0.463,
+   "sizes": [
+    123,
+    70,
+    70
+   ],
+   "gmm_bic": 22069.8,
+   "gmm_agree_with_kmeans_ari": 0.162
+  },
+  "4": {
+   "silhouette": 0.097,
+   "null_silhouette_mean": 0.077,
+   "null_silhouette_95": 0.084,
+   "stability_ari": 0.412,
+   "sizes": [
+    89,
+    73,
+    59,
+    42
+   ],
+   "gmm_bic": 21136.4,
+   "gmm_agree_with_kmeans_ari": 0.289
+  },
+  "5": {
+   "silhouette": 0.099,
+   "null_silhouette_mean": 0.071,
+   "null_silhouette_95": 0.078,
+   "stability_ari": 0.386,
+   "sizes": [
+    82,
+    62,
+    48,
+    36,
+    35
+   ],
+   "gmm_bic": 19332.8,
+   "gmm_agree_with_kmeans_ari": 0.25
+  },
+  "6": {
+   "silhouette": 0.089,
+   "null_silhouette_mean": 0.065,
+   "null_silhouette_95": 0.072,
+   "stability_ari": 0.304,
+   "sizes": [
+    54,
+    50,
+    49,
+    44,
+    35,
+    31
+   ],
+   "gmm_bic": 20512.3,
+   "gmm_agree_with_kmeans_ari": 0.306
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0568",
+ "person": "P281",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 34
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto art, me taking photos of murals and that, then we ended up talking about school and maybe doing an art course",
+  "reason": "prob cos its something ive actually thought about and dont really say out loud to people, normally everyone just thinks im a gym lad so it were nice talking about it properly for once tbh",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

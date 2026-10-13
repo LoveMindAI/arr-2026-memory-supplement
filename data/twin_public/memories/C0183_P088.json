@@ -1,0 +1,23 @@
+{
+ "call": "C0183",
+ "person": "P088",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she was proper mum the whole call, cleans hospital wards and told me off lol",
+  "reason": "reminded me of my nan",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0336",
+ "person": "P159",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when neil said he never did a degree, he did an HNC part time in his twenties and thought hed get found out every week, and that calming three year olds counts",
+  "reason": "because i always think im not clever enough for a degree and he just said it so normal and kind, like it actually made me think maybe i could",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0291",
+ "person": "P141",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 71,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "mostly the whole thing just felt easy tbh, we were chatting about work and nights and that, swapping stories about fixing stuff quick and letting people think it was harder than it was. we had a laugh about that and about football being rubbish. didnt feel forced like i thought it would, we were sort of on the same level all the way through, like talking to a bloke at work",
+  "reason": "idk just thought itd be awkward with a stranger and it wasnt, we got on alright and had a laugh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

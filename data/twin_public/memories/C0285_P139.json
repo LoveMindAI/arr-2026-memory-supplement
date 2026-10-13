@@ -1,0 +1,23 @@
+{
+ "call": "C0285",
+ "person": "P139",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 29
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She spotted the foxglove drawing behind me and said it was very good.",
+  "reason": "I don't usually show anyone my drawings, so it caught me off guard. I hadn't known she does watercolour sketches too (in the Peak District, with Graham), which made it mean more.",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

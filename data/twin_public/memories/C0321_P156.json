@@ -1,0 +1,23 @@
+{
+ "call": "C0321",
+ "person": "P156",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 26,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "near the end when we got onto going back to the same thing over and over just for one bit. i admitted i reread books for that, felt oddly honest",
+  "reason": "didnt expect to have that much in common with her tbh",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

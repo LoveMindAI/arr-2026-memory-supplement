@@ -1,0 +1,23 @@
+{
+ "call": "C0069",
+ "person": "P034",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we was talking about vinted and she laughed and said dont tell my accountant, like joking",
+  "reason": "bc it was funny and i kind of agreed tbh, nobody declares that stuff. and i said not yet lol",
+  "timing": 92
+ },
+ "requires_av": false,
+ "av_event": null
+}

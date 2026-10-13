@@ -1,0 +1,23 @@
+{
+ "call": "C0327",
+ "person": "P154",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about nature writing for a bit, which books are actually decent and which ones get a bit pleased with themselves",
+  "reason": "its stuff i actually care about and it felt like a proper chat not small talk",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

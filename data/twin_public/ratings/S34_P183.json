@@ -1,0 +1,47 @@
+{
+ "session": "S34",
+ "rater": "P183",
+ "ok": true,
+ "ratings": {
+  "P179": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Lovely smile, looks like she'd be a right laugh and I love the dog calendar!"
+  },
+  "P180": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Reminds me of myself at work, bit tired but gets the job done & she's got a Staffie too bless her."
+  },
+  "P181": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Sweet girl, reminds me of my Jess when she was at uni, looks a bit nervous but very kind."
+  },
+  "P182": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Very sensible and professional looking, bet she's the one who keeps the group on track lol."
+  }
+ }
+}

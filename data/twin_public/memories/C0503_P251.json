@@ -1,0 +1,23 @@
+{
+ "call": "C0503",
+ "person": "P251",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 25
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Her saying maybe the painting was just big.",
+  "reason": "It made me laugh. I'd paid her a compliment and she batted it straight back, very dry and honest (I liked her for it, actually).",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

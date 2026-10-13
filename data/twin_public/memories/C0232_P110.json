@@ -1,0 +1,23 @@
+{
+ "call": "C0232",
+ "person": "P110",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 25,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about my drawings, mostly hands, and how old hands are the best ones to draw cos of all the lines (i went on a bit)",
+  "reason": "its the stuff i actually care about",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

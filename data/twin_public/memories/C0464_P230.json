@@ -1,0 +1,23 @@
+{
+ "call": "C0464",
+ "person": "P230",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about renting and both wanting to buy, turns out hes in the jewellery quarter with his girlfriend",
+  "reason": "its on my mind a lot tbh, not being able to buy, so nice knowing were in the same boat",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0176",
+ "person": "P089",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we talked about our mums.. i told about my fathers coat on the door and we both talked about church and candles, it went quiet and serious",
+  "reason": "it was not small talk, it felt real and warm.. i didnt expect this in three minutes with a stranger, it touched me a bit",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

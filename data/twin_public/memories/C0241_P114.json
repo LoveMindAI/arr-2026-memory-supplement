@@ -1,0 +1,23 @@
+{
+ "call": "C0241",
+ "person": "P114",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about bella in the picture behind me, found out shes got a teenage son",
+  "reason": "felt more normal chatting about that tbh",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

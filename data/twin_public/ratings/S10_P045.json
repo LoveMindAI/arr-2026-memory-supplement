@@ -1,0 +1,57 @@
+{
+ "session": "S10",
+ "rater": "P045",
+ "ok": true,
+ "ratings": {
+  "P044": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "reminds me of gary a bit, just a normal bloke at home you know"
+  },
+  "P046": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks very kind and sort of professional, like he knows what he's doing"
+  },
+  "P047": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems like a hard worker, reminds me of the drivers at the warehouse"
+  },
+  "P048": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 7,
+   "sim": 3,
+   "pair": 0,
+   "gut": "a bit posh and tidy maybe, i'd be worried about saying the wrong thing"
+  },
+  "P049": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems like a good family man, very reliable and honest sort of face"
+  }
+ }
+}

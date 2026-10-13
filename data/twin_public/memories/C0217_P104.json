@@ -1,0 +1,23 @@
+{
+ "call": "C0217",
+ "person": "P104",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "tbh the whole call felt easy once we got talking, she was dead nice and turns out she's got an old staffy too",
+  "reason": "because i was nervous and it wasnt awkward",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

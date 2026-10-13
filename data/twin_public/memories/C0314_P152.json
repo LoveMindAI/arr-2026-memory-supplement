@@ -1,0 +1,23 @@
+{
+ "call": "C0314",
+ "person": "P152",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 31
+ },
+ "ok": true,
+ "answers": {
+  "moment": "us both laughing about socks and me upselling people lol",
+  "reason": "cos its literally my thing at work and i was proper chuffed it landed again, she was quite quiet at first so that was kind of when it got easier and we were actually laughing",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0147",
+ "person": "P069",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he said his mums 79 and lives on her own in reading",
+  "reason": "bc i worry about my mum too tbh",
+  "timing": 68
+ },
+ "requires_av": false,
+ "av_event": null
+}

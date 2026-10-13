@@ -1,0 +1,47 @@
+{
+ "session": "S14",
+ "rater": "P069",
+ "ok": true,
+ "ratings": {
+  "P068": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "looks like a manager or a gp, bit boring but probably gets his work done on time tbh"
+  },
+  "P070": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "very chatty vibes, might talk too much while i'm trying to finish the task though"
+  },
+  "P071": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks serious and like he knows his stuff, i respect the organized shelves"
+  },
+  "P072": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "she looks like shes had a long day at work, i get that, probably wont waste my time"
+  }
+ }
+}

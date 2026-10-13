@@ -1,0 +1,23 @@
+{
+ "call": "C0561",
+ "person": "P284",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit about her french bulldog tyson, turns out shes paying him off on finance like a car lol, i was straight into work mode asking about the apr",
+  "reason": "never heard of anyone getting a dog on finance tbh",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

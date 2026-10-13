@@ -1,0 +1,57 @@
+{
+ "session": "S11",
+ "rater": "P054",
+ "ok": true,
+ "ratings": {
+  "P050": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "He looks like a lovely lad, reminds me a bit of my Liam with that messy hair and the surf stuff. Very smiley, isn't he? Hope that helps."
+  },
+  "P051": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks very sensible and clever, like one of the doctors at the surgery. A bit busy maybe, but I like that she has a dog lead there."
+  },
+  "P052": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "He reminds me of my son's friends, a bit quiet and into his cars and gaming. Seems like a decent, steady sort of bloke to me."
+  },
+  "P053": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Very smart and tidy. He has a crucifix on the wall so he's probably got good values. Looks like he knows what he's doing, you know."
+  },
+  "P055": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Erm, she looks very kind and polite. A bit quiet maybe, but very neat and organized with her calendar and her plants. Bless her."
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "session": "S08",
+ "rater": "P037",
+ "ok": true,
+ "ratings": {
+  "P034": {
+   "photo": 1,
+   "friendly": 2,
+   "like": 3,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "looks like she'd rather be anywhere else tbh"
+  },
+  "P035": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "seems decent enough, probably gets things done"
+  },
+  "P036": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks organized, nice cat lol"
+  },
+  "P038": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a bloke who just wants to get on with it"
+  }
+ }
+}

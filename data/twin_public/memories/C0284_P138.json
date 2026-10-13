@@ -1,0 +1,23 @@
+{
+ "call": "C0284",
+ "person": "P138",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about cooking for a while.. what food we make at home and i told about my roti fresh every day",
+  "reason": "because i like talking about food and family thats my thing you know",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

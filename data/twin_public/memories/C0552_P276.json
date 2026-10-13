@@ -1,0 +1,23 @@
+{
+ "call": "C0552",
+ "person": "P276",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about married at first sight",
+  "reason": "didnt think a lad like him would watch it lol turns out him and sana do",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

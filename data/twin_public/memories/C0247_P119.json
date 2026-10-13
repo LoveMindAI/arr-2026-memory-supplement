@@ -1,0 +1,23 @@
+{
+ "call": "C0247",
+ "person": "P119",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 31,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said she liked my painting with the orange and i said its rubbish and she was like no i think it has something, the colours are brave, totally made my day tbh",
+  "reason": "nobody ever says nice stuff about my paintings lol, felt really genuine",
+  "timing": 18
+ },
+ "requires_av": false,
+ "av_event": null
+}

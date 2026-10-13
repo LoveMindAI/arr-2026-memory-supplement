@@ -1,0 +1,23 @@
+{
+ "call": "C0341",
+ "person": "P168",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit where we both admitted we are always behind with paperwork, do it late on sofa and get away with it because results are ok. we laughed about it a bit",
+  "reason": "because it was honest. most people pretend they are organised. it was the point where the conversation stopped being polite small talk and got normal",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

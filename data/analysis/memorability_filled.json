@@ -1,0 +1,132 @@
+{
+ "units": 48019,
+ "positive_rate": 0.1487,
+ "reports": 1068,
+ "families": [
+  "position",
+  "speaker",
+  "length & timing",
+  "lexical",
+  "semantic novelty",
+  "sentiment",
+  "dialogue structure",
+  "rememberer traits",
+  "content"
+ ],
+ "models": {
+  "LR": {
+   "bal_acc": 0.589,
+   "sd": 0.013,
+   "hit_at_1": 0.291,
+   "hit_at_1_chance": 0.153,
+   "beats_dummy_share_of_splits": 1.0
+  },
+  "RF": {
+   "bal_acc": 0.592,
+   "sd": 0.012,
+   "hit_at_1": 0.299,
+   "hit_at_1_chance": 0.153,
+   "beats_dummy_share_of_splits": 1.0
+  },
+  "NuSVC": {
+   "bal_acc": 0.559,
+   "sd": 0.01,
+   "beats_dummy_share_of_splits": 1.0
+  },
+  "MLP": {
+   "bal_acc": 0.564,
+   "sd": 0.011,
+   "beats_dummy_share_of_splits": 1.0
+  },
+  "Dummy": {
+   "bal_acc": 0.5,
+   "sd": 0.004
+  }
+ },
+ "ablation": {
+  "LR": {
+   "splits": 100,
+   "all_families": 0.589,
+   "families": {
+    "position": {
+     "drop_without": 0.013,
+     "alone": 0.58
+    },
+    "speaker": {
+     "drop_without": 0.0,
+     "alone": 0.511
+    },
+    "length & timing": {
+     "drop_without": 0.001,
+     "alone": 0.552
+    },
+    "lexical": {
+     "drop_without": 0.0,
+     "alone": 0.55
+    },
+    "semantic novelty": {
+     "drop_without": -0.001,
+     "alone": 0.529
+    },
+    "sentiment": {
+     "drop_without": 0.0,
+     "alone": 0.536
+    },
+    "dialogue structure": {
+     "drop_without": 0.001,
+     "alone": 0.536
+    },
+    "rememberer traits": {
+     "drop_without": -0.003,
+     "alone": 0.511
+    },
+    "content": {
+     "drop_without": 0.003,
+     "alone": 0.573
+    }
+   }
+  },
+  "RF": {
+   "splits": 20,
+   "all_families": 0.596,
+   "families": {
+    "position": {
+     "drop_without": 0.014,
+     "alone": 0.572
+    },
+    "speaker": {
+     "drop_without": 0.001,
+     "alone": 0.511
+    },
+    "length & timing": {
+     "drop_without": 0.0,
+     "alone": 0.542
+    },
+    "lexical": {
+     "drop_without": -0.002,
+     "alone": 0.548
+    },
+    "semantic novelty": {
+     "drop_without": -0.001,
+     "alone": 0.517
+    },
+    "sentiment": {
+     "drop_without": -0.001,
+     "alone": 0.54
+    },
+    "dialogue structure": {
+     "drop_without": -0.0,
+     "alone": 0.54
+    },
+    "rememberer traits": {
+     "drop_without": -0.005,
+     "alone": 0.502
+    },
+    "content": {
+     "drop_without": 0.006,
+     "alone": 0.571
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0019",
+ "person": "P006",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 40,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto what we have for our tea of a night. Turned out we're both the same, creatures of habit, same order every time n dont see why you'd change it. Had a good laugh about it, felt like talking to family",
+  "reason": "Cos it was nice finding someone just as boring as me lol. Made me feel normal",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

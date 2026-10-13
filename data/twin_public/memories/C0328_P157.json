@@ -1,0 +1,23 @@
+{
+ "call": "C0328",
+ "person": "P157",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i asked about the cross in her photo and we got onto church, found out shes Catholic, felt really easy to talk about",
+  "reason": "i dont usually talk about church with people i dont know, so it was nice it felt so natural tbh",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S01",
+ "rater": "P000",
+ "ok": true,
+ "ratings": {
+  "P001": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "reminds me of donna after a long shift, looks like she gets things done"
+  },
+  "P002": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "smart girl, looks very friendly and reminds me a bit of my kayleigh"
+  },
+  "P003": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "very polite and tidy, i like the god sign on the wall behind her"
+  },
+  "P004": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like a proper professional bloke, probably good at the paperwork stuff"
+  },
+  "P005": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "busy lady with the jigsaw and the fleece, looks like she knows a hard day's work"
+  }
+ }
+}

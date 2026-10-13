@@ -1,0 +1,47 @@
+{
+ "session": "S44",
+ "rater": "P231",
+ "ok": true,
+ "ratings": {
+  "P232": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "She looks organised and ready for the meeting."
+  },
+  "P233": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He seems calm and probably does not waste time."
+  },
+  "P234": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "The house is tidy so she is likely efficient."
+  },
+  "P235": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "She seems very friendly but perhaps talks too much."
+  }
+ }
+}

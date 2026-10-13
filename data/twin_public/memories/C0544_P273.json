@@ -1,0 +1,23 @@
+{
+ "call": "C0544",
+ "person": "P273",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we had a laugh about my mums chillies vs her dutch mash, stamppot, never heard of it",
+  "reason": "food chat always sticks with me tbh, and it were new to me",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

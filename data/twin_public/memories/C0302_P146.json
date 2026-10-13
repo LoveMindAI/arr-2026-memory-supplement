@@ -1,0 +1,23 @@
+{
+ "call": "C0302",
+ "person": "P146",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Whole call was easy, he was very laid back throughout. Didnt know his dad had a heart scare, bit like mine",
+  "reason": "We had more in common than I expected from the photo",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

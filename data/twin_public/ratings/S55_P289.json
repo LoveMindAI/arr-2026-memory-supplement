@@ -1,0 +1,57 @@
+{
+ "session": "S55",
+ "rater": "P289",
+ "ok": true,
+ "ratings": {
+  "P287": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "proper grandmother vibes lol, reminds me of the sweet patients who bring us biscuits on the ward. she looks dead kind sort of like shed listen to all your problems over a brew!!"
+  },
+  "P288": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "she looks like one of those organized mums who has her life together, do you know what i mean? the kitchen is so tidy im jealous!! bet she is great at paperwork unlike me"
+  },
+  "P290": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "she looks a bit knackered tbh, i recognize that look when youve just come off a long day and the kids have left socks everywhere. bless her, she looks like shed be easy to talk to once she relaxes"
+  },
+  "P291": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks like shes waiting for something to happen and isnt sure about all this tech. she seems alright but maybe a bit quiet? id probably end up doing all the talking lol"
+  },
+  "P292": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "young guy, looks like he just wants to get back to his playstation or take the dog out. very quiet energy, not sure we would have much to talk about to be honest!!"
+  }
+ }
+}

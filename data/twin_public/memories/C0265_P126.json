@@ -1,0 +1,23 @@
+{
+ "call": "C0265",
+ "person": "P126",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 37
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about his old golf before the mot, what to check, drop links and discs",
+  "reason": "because its my subject, cars i know. and i didnt know he started mechanics course at college and stopped. thats waste, he can still do it at thirty, i did mine at forty five in second language",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

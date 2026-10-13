@@ -1,0 +1,23 @@
+{
+ "call": "C0050",
+ "person": "P026",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We just chatted easily the whole time",
+  "reason": "It felt relaxed and natural, not awkward at all. I didn't expect it to flow that well with a stranger",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0082",
+ "person": "P049",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 80,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "It was when I told him that I am a student now, at forty-four, with everybody on my course much younger. I said I am like the uncle in the library. I was a bit nervous to say it to a stranger, because some days I think I started too late. Then I said to him maybe is not too late, look at me. I meant it. For a moment we were both a bit quiet, and I think it was honest talk.",
+  "reason": "I would say because it is something I worry about myself. Saying it to somebody else made me feel it is true.",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

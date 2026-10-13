@@ -1,0 +1,47 @@
+{
+ "session": "S36",
+ "rater": "P191",
+ "ok": true,
+ "ratings": {
+  "P190": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a lovely girl, reminds me of when i was starting out in care, she looks a bit tired but very capable"
+  },
+  "P192": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "very similar to me i think, got that busy mum look about her and a nice tidy kitchen, she seems very reliable"
+  },
+  "P193": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "he looks like a laugh, reminds me of my dad or my brothers, just a normal bloke who knows his stuff"
+  },
+  "P194": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 7,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "id love to see her bookshelves properly, she looks like someone who enjoys a good chat about books or art, very kind face"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0557",
+ "person": "P278",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I mentioned me mam and Sundays. I hadn't meant to say it, it just came out.",
+  "reason": "I don't usually tell strangers things like that and I felt a bit daft, but he was very kind about it.",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0080",
+ "person": "P040",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 30
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about being messy and not organised like the other mums",
+  "reason": "i always feel like im the only disorganised one and worry people judge me so it was nice tbh that she was the same and didnt make me feel bad about it",
+  "timing": 10
+ },
+ "requires_av": false,
+ "av_event": null
+}

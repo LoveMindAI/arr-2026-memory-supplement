@@ -1,0 +1,23 @@
+{
+ "call": "C0258",
+ "person": "P120",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Holly explaining her PhD in geography on derelict canal-side buildings, with a conference in three weeks and essentially nothing written yet. She seemed unbothered.",
+  "reason": "Genuinely alarming.",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

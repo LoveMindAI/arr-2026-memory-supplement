@@ -1,0 +1,47 @@
+{
+ "session": "S34",
+ "rater": "P180",
+ "ok": true,
+ "ratings": {
+  "P179": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like she knows what shes doing in a kitchen like that to be fair"
+  },
+  "P181": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 6,
+   "pair": 1,
+   "gut": "reminds me of when i was doing my levels at college tbh"
+  },
+  "P182": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks a bit serious but probably gets the job done properly"
+  },
+  "P183": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "very friendly face and has a dog bed so she cant be bad lol"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0524",
+ "person": "P265",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 32,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she clocked my headphones and asked if id been gaming, i said lunch break and she goes its gone four. then said id last about a week working for her lol fair",
+  "reason": "she called me out straight away, most people dont tbh, was kind of funny",
+  "timing": 82
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,253 @@
+{
+ "n_person_calls": 1044,
+ "n_calls": 522,
+ "coder_agreement": {
+  "deep_spearman": 0.712,
+  "surface_spearman": 0.851,
+  "any_deep_agree": 0.855,
+  "mean_deep_by_coder": [
+   0.48,
+   0.64
+  ],
+  "mean_surface_by_coder": [
+   3.27,
+   3.45
+  ]
+ },
+ "describe": {
+  "deep_per_person_call": 0.72,
+  "surface_per_person_call": 3.97,
+  "share_person_calls_any_deep_both_coders": 0.424,
+  "share_calls_someone_deep_both_coders": 0.634
+ },
+ "carry": {
+  "deep": {
+   "icc": 0.234,
+   "null_95": 0.07,
+   "p": 0.002
+  },
+  "surface": {
+   "icc": 0.244,
+   "null_95": 0.221,
+   "p": 0.014
+  },
+  "any_deep": {
+   "icc": 0.181,
+   "null_95": 0.07,
+   "p": 0.002
+  }
+ },
+ "whose": {
+  "own_other_calls_rho": 0.281,
+  "partner_other_calls_rho": -0.013,
+  "partner_ci": [
+   -0.074,
+   0.051
+  ],
+  "n": 1014
+ },
+ "reciprocity": {
+  "rho_same_call": 0.154,
+  "null_mean": 0.041,
+  "null_95": 0.108,
+  "n_calls": 522
+ },
+ "who": {
+  "n_people": 290,
+  "tests": [
+   [
+    "deep",
+    "H",
+    0.14,
+    0.0267,
+    0.1928
+   ],
+   [
+    "deep",
+    "E",
+    0.084,
+    0.1934,
+    0.3867
+   ],
+   [
+    "deep",
+    "X",
+    -0.17,
+    0.0438,
+    0.1928
+   ],
+   [
+    "deep",
+    "A",
+    -0.06,
+    0.3314,
+    0.4861
+   ],
+   [
+    "deep",
+    "C",
+    0.002,
+    0.9772,
+    0.9772
+   ],
+   [
+    "deep",
+    "O",
+    -0.047,
+    0.4355,
+    0.5636
+   ],
+   [
+    "deep",
+    "social_anxiety",
+    -0.251,
+    0.0023,
+    0.0504
+   ],
+   [
+    "deep",
+    "age",
+    0.129,
+    0.038,
+    0.1928
+   ],
+   [
+    "deep",
+    "female",
+    0.119,
+    0.0584,
+    0.2142
+   ],
+   [
+    "deep",
+    "education",
+    -0.129,
+    0.0313,
+    0.1928
+   ],
+   [
+    "deep",
+    "not_UK",
+    0.087,
+    0.1409,
+    0.3572
+   ],
+   [
+    "surface",
+    "H",
+    0.037,
+    0.5747,
+    0.6655
+   ],
+   [
+    "surface",
+    "E",
+    -0.027,
+    0.6905,
+    0.7596
+   ],
+   [
+    "surface",
+    "X",
+    0.081,
+    0.357,
+    0.4909
+   ],
+   [
+    "surface",
+    "A",
+    0.088,
+    0.1764,
+    0.3867
+   ],
+   [
+    "surface",
+    "C",
+    -0.091,
+    0.1461,
+    0.3572
+   ],
+   [
+    "surface",
+    "O",
+    -0.111,
+    0.0779,
+    0.2448
+   ],
+   [
+    "surface",
+    "social_anxiety",
+    -0.101,
+    0.2352,
+    0.4312
+   ],
+   [
+    "surface",
+    "age",
+    -0.065,
+    0.3176,
+    0.4861
+   ],
+   [
+    "surface",
+    "female",
+    -0.003,
+    0.9611,
+    0.9772
+   ],
+   [
+    "surface",
+    "education",
+    0.07,
+    0.2632,
+    0.4454
+   ],
+   [
+    "surface",
+    "not_UK",
+    0.037,
+    0.5476,
+    0.6655
+   ]
+  ]
+ },
+ "memory_link": {
+  "shared": {
+   "rho": 0.141,
+   "p": 1e-05,
+   "n": 1000
+  },
+  "mem_deep": {
+   "rho": 0.092,
+   "p": 0.00352,
+   "n": 994
+  }
+ },
+ "connection_link": {
+  "rapport": {
+   "rho": 0.064,
+   "p": 0.0387,
+   "n": 1029
+  },
+  "sync": {
+   "rho": 0.036,
+   "p": 0.24299,
+   "n": 1029
+  },
+  "liking": {
+   "rho": 0.131,
+   "p": 2e-05,
+   "n": 1029
+  },
+  "similar": {
+   "rho": 0.039,
+   "p": 0.21683,
+   "n": 1029
+  },
+  "meet_again": {
+   "rho": 0.095,
+   "p": 0.00234,
+   "n": 1029
+  }
+ }
+}

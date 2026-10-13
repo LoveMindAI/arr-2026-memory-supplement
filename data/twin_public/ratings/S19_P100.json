@@ -1,0 +1,57 @@
+{
+ "session": "S19",
+ "rater": "P100",
+ "ok": true,
+ "ratings": {
+  "P096": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He looks very kind and reminds me a lot of my dad with the walking gear."
+  },
+  "P097": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She looks like a fellow student, maybe a bit tired but very reliable and hardworking."
+  },
+  "P098": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Very organised and has a lovely dog; she seems like someone I'd really get along with."
+  },
+  "P099": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She seems really fun and chatty, definitely someone who would be easy to talk to."
+  },
+  "P101": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He looks very professional and knowledgeable, like someone who knows exactly what they are doing."
+  }
+ }
+}

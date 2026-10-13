@@ -1,0 +1,23 @@
+{
+ "call": "C0029",
+ "person": "P013",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 96,
+  "reason": 29
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Right at the end, when we got onto where we're both originally from. I said the thing I don't usually say to people I've just met, that I feel a bit foreign in both places (in London & back home in Gda\u0144sk too). Instead of it being awkward we both sort of recognised it straight away, and it felt like we were laughing about the same feeling from two different sides. Then the time ran out mid-sentence, which was a shame because I think it was going to be the best bit of the conversation.",
+  "reason": "Because it's something I actually feel quite a lot but rarely talk about, and it was nice to share it with someone who got it so quickly.  It felt very genuine.",
+  "timing": 92
+ },
+ "requires_av": false,
+ "av_event": null
+}

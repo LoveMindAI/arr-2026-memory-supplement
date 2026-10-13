@@ -1,0 +1,23 @@
+{
+ "call": "C0225",
+ "person": "P105",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 43,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we was talking about duchess and her back legs and we sort of worked out a little ramp with a bit of carpet on so she dont slip on the back step. gary could do it.. found out hes a joiner down in taunton",
+  "reason": "cos of duchess",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

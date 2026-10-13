@@ -1,0 +1,23 @@
+{
+ "call": "C0100",
+ "person": "P050",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 30,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i was bigging up my mums roast potatoes and then admitted i was embellishing, and she just laughed and went 'i knew it, youve got that look' - proper caught me out lol",
+  "reason": "she clocked me straight away ngl, felt like being told off by mum",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

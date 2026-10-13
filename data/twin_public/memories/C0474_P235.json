@@ -1,0 +1,23 @@
+{
+ "call": "C0474",
+ "person": "P235",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked for a while about her daughter Maisie, who's twelve and in Year 8, and kids getting left out of friendship groups.",
+  "reason": "It's basically my job, so it stuck.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0396",
+ "person": "P191",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 52,
+  "reason": 39
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto x rays, finding out shes in her second year training as a radiographer, i was telling her about the ones who dont rush you when my hands are bad and trying to get my fingers flat on the plate, she seemed a real worrier but in a good way",
+  "reason": "because ive been on the other side of that so many times, and it felt like i could actually tell her something useful, like being a carer again for a minute tbh, it reminded me of me starting out",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,25 @@
+{
+ "call": "C0477",
+ "person": "P239",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 7,
+  "reason": 54
+ },
+ "ok": true,
+ "answers": {
+  "moment": "his mum came in behind him with mug",
+  "reason": "he just kept talking didnt even turn round and she put the tea by the tv and went. made me smile because thats exactly me with zain, i take him chai to his room and he doesnt even look up lol. she said something but i couldnt hear. reminded me of home tbh",
+  "timing": 60
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0477",
+  "turn": 19,
+  "line_text": "I'm on the shelves in a big supermarket. Replenishment, they call it, makes it sound posh. Mostly early mornings, so I'm stacking beans at five o'clock while everyone's asleep. It's alright, like, the lads are a laugh, but the half four alarm is killing me. I keep saying I'll do a course, personal training or plastering or something, and then I don't, do you know what I mean.",
+  "who": "Rhys",
+  "what": "A middle-aged woman pushes the half-open bedroom door wider behind Rhys, leans in holding a mug, mouths something towards him, sets the mug down on the chest of drawers next to the TV and leaves, pulling the door back to half open. Rhys keeps talking without turning round."
+ }
+}

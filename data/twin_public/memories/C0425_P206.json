@@ -1,0 +1,23 @@
+{
+ "call": "C0425",
+ "person": "P206",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 4,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Her 'both are true' line.",
+  "reason": "She looks after residents on dialysis, so she gets it. Summed up my brother thing better than me.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0423",
+ "person": "P209",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we talked about our mothers back home and how we are here caring for other peoples parents instead. We laughed a bit at the end but its true.",
+  "reason": "Because its the thing I feel guilty about most. Not many people get it.",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

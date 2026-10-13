@@ -1,0 +1,23 @@
+{
+ "call": "C0125",
+ "person": "P067",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 42,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i asked what she does and she said she was in a warehouse picking for six years but they cut the shifts last spring so shes looking now, then asked me 'is that alright, is that what you meant' like she was worried she gave wrong answer",
+  "reason": "she apologised for not working, that felt bit sad tbh",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

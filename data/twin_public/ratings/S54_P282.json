@@ -1,0 +1,57 @@
+{
+ "session": "S54",
+ "rater": "P282",
+ "ok": true,
+ "ratings": {
+  "P281": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks a laugh and a Forest fan too - reminds me of my Josh in a few years!"
+  },
+  "P283": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Definitely my kind of person, lovely kitchen and a dog person too. Seems very put together."
+  },
+  "P284": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Proper chatty and friendly, reminds me of the lads I went to school with back in Long Eaton."
+  },
+  "P285": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks a bit tired, bless her, I know that feeling! Seems like a sensible, hard-working mum."
+  },
+  "P286": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Very glamorous! She looks like she'd be great fun on a night out or in a staff room."
+  }
+ }
+}

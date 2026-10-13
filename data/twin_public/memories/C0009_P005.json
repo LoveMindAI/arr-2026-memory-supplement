@@ -1,0 +1,23 @@
+{
+ "call": "C0009",
+ "person": "P005",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i mentioned my dads stroke and we ended up talking about family getting poorly and how frustrating it gets for everyone at home. went a bit quieter and more serious",
+  "reason": "dont usually bring my dad up with people i dont know. it just came out and it felt alright talking about it, not awkward",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

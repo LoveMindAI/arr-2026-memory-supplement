@@ -1,0 +1,23 @@
+{
+ "call": "C0001",
+ "person": "P005",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we kept finding stuff we had in common",
+  "reason": "dont usually click with strangers that quick but it was easy just chatting, felt normal",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,47 @@
+{
+ "session": "S31",
+ "rater": "P165",
+ "ok": true,
+ "ratings": {
+  "P164": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "proper laugh, looks like he'd be great fun at the pub or in a team x"
+  },
+  "P166": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "a bit shy maybe? but v smart, reminds me of a nervous new grad sort of"
+  },
+  "P167": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks absolutely knackered tbh, probably works too much like i do"
+  },
+  "P168": {
+   "photo": 4,
+   "friendly": 2,
+   "like": 3,
+   "trust": 5,
+   "comp": 7,
+   "sim": 3,
+   "pair": 0,
+   "gut": "bit scary! reminds me of being told off for my clinical notes lol"
+  }
+ }
+}

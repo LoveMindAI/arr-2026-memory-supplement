@@ -1,0 +1,23 @@
+{
+ "call": "C0130",
+ "person": "P065",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit where we was both moaning about being skint and everything going up, went on a while",
+  "reason": "cos its true tbh, me and jade feel it",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

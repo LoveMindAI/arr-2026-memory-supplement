@@ -1,0 +1,57 @@
+{
+ "session": "S20",
+ "rater": "P107",
+ "ok": true,
+ "ratings": {
+  "P102": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 2,
+   "trust": 3,
+   "comp": 6,
+   "sim": 1,
+   "pair": 0,
+   "gut": "bit much... looks like she'd tell u what to do"
+  },
+  "P103": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "seems alright... quiet sort of lad"
+  },
+  "P104": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "nice girl... reminds me of my nieces"
+  },
+  "P105": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks like she works hard... bit tired like me"
+  },
+  "P106": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "proper normal... reminds me of my house sort of"
+  }
+ }
+}

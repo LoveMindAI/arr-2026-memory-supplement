@@ -1,0 +1,23 @@
+{
+ "call": "C0516",
+ "person": "P257",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he was going on about how hard my job is and how he couldnt do it properly, was nice actually, people dont usually say that",
+  "reason": "dont often hear that about care work tbh",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

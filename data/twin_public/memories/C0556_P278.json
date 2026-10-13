@@ -1,0 +1,25 @@
+{
+ "call": "C0556",
+ "person": "P278",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 7,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "A girl in school uniform put the kettle on.",
+  "reason": "It just made me smile, it was so like home. I could hear the kettle going while we talked and Joanne never even turned round.  I thought it must be Ellie.",
+  "timing": 40
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0556",
+  "turn": 13,
+  "line_text": "Joanne: That's good to hear. What do you do, Alison? Are you working?",
+  "who": "Joanne",
+  "what": "A teenage girl in school uniform walks into the kitchen behind Joanne, fills the kettle at the worktop and switches it on, then walks back out of frame. The kettle's rising hum is faintly audible on Joanne's microphone for the next few lines. Joanne doesn't turn round."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0129",
+ "person": "P064",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about worrying for our mums together",
+  "reason": "didnt know she looks after her mum too, got emotional tbh",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

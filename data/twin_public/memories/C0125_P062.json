@@ -1,0 +1,23 @@
+{
+ "call": "C0125",
+ "person": "P062",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "near the end we were both going on about finding cheap secondhand coats n airing them out by the radiator, it just felt dead normal n easy",
+  "reason": "it was the bit where i stopped worrying about saying the wrong thing tbh",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

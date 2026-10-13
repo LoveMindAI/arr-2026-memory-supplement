@@ -1,0 +1,649 @@
+{
+ "judges": [
+  "openai/gpt-6-luna",
+  "deepseek/deepseek-v4.1-flash",
+  "anthropic/claude-haiku-5.5"
+ ],
+ "cells": {
+  "none|gpt-5.6-sol|gpt-6-luna|similarity": {
+   "v2": 0.3844,
+   "v3": 0.3835,
+   "diff": [
+    -0.0009,
+    -0.0295,
+    0.026,
+    300,
+    206
+   ]
+  },
+  "none|gpt-5.6-sol|gpt-6-luna|same_focus": {
+   "v2": 0.47,
+   "v3": 0.4667,
+   "diff": [
+    -0.0033,
+    -0.0536,
+    0.0471,
+    300,
+    206
+   ]
+  },
+  "none|gpt-5.6-sol|gpt-6-luna|event_match": {
+   "v2": 0.3533,
+   "v3": 0.3567,
+   "diff": [
+    0.0033,
+    -0.0423,
+    0.0492,
+    300,
+    206
+   ]
+  },
+  "none|gpt-5.6-sol|deepseek-v4.1-flash|similarity": {
+   "v2": 0.2915,
+   "v3": 0.2951,
+   "diff": [
+    0.0036,
+    -0.0237,
+    0.0302,
+    277,
+    195
+   ]
+  },
+  "none|gpt-5.6-sol|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.5379,
+   "v3": 0.509,
+   "diff": [
+    -0.0289,
+    -0.0882,
+    0.0302,
+    277,
+    195
+   ]
+  },
+  "none|gpt-5.6-sol|deepseek-v4.1-flash|event_match": {
+   "v2": 0.213,
+   "v3": 0.2238,
+   "diff": [
+    0.0108,
+    -0.032,
+    0.0551,
+    277,
+    195
+   ]
+  },
+  "none|gpt-5.6-sol|claude-haiku-5.5|similarity": {
+   "v2": 0.3232,
+   "v3": 0.329,
+   "diff": [
+    0.0058,
+    -0.0175,
+    0.0282,
+    300,
+    206
+   ]
+  },
+  "none|gpt-5.6-sol|claude-haiku-5.5|same_focus": {
+   "v2": 0.4533,
+   "v3": 0.43,
+   "diff": [
+    -0.0233,
+    -0.0799,
+    0.0319,
+    300,
+    206
+   ]
+  },
+  "none|gpt-5.6-sol|claude-haiku-5.5|event_match": {
+   "v2": 0.2667,
+   "v3": 0.2733,
+   "diff": [
+    0.0067,
+    -0.037,
+    0.0481,
+    300,
+    206
+   ]
+  },
+  "none|gemini-3.1-pro-preview|gpt-6-luna|similarity": {
+   "v2": 0.373,
+   "v3": 0.3829,
+   "diff": [
+    0.0099,
+    -0.0131,
+    0.0337,
+    300,
+    206
+   ]
+  },
+  "none|gemini-3.1-pro-preview|gpt-6-luna|same_focus": {
+   "v2": 0.4867,
+   "v3": 0.4933,
+   "diff": [
+    0.0067,
+    -0.0445,
+    0.0592,
+    300,
+    206
+   ]
+  },
+  "none|gemini-3.1-pro-preview|gpt-6-luna|event_match": {
+   "v2": 0.33,
+   "v3": 0.35,
+   "diff": [
+    0.02,
+    -0.0203,
+    0.0617,
+    300,
+    206
+   ]
+  },
+  "none|gemini-3.1-pro-preview|deepseek-v4.1-flash|similarity": {
+   "v2": 0.29,
+   "v3": 0.2914,
+   "diff": [
+    0.0014,
+    -0.0206,
+    0.0236,
+    279,
+    197
+   ]
+  },
+  "none|gemini-3.1-pro-preview|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.491,
+   "v3": 0.4659,
+   "diff": [
+    -0.0251,
+    -0.0722,
+    0.0219,
+    279,
+    197
+   ]
+  },
+  "none|gemini-3.1-pro-preview|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2186,
+   "v3": 0.233,
+   "diff": [
+    0.0143,
+    -0.0217,
+    0.0522,
+    279,
+    197
+   ]
+  },
+  "none|gemini-3.1-pro-preview|claude-haiku-5.5|similarity": {
+   "v2": 0.3278,
+   "v3": 0.3313,
+   "diff": [
+    0.0034,
+    -0.0175,
+    0.0241,
+    300,
+    206
+   ]
+  },
+  "none|gemini-3.1-pro-preview|claude-haiku-5.5|same_focus": {
+   "v2": 0.4433,
+   "v3": 0.4567,
+   "diff": [
+    0.0133,
+    -0.0411,
+    0.0727,
+    300,
+    206
+   ]
+  },
+  "none|gemini-3.1-pro-preview|claude-haiku-5.5|event_match": {
+   "v2": 0.2667,
+   "v3": 0.3,
+   "diff": [
+    0.0333,
+    -0.01,
+    0.0775,
+    300,
+    206
+   ]
+  },
+  "none|mimo-v2.6-pro-ultraspeed|gpt-6-luna|similarity": {
+   "v2": 0.3471,
+   "v3": 0.3559,
+   "diff": [
+    0.0089,
+    -0.0207,
+    0.0379,
+    300,
+    206
+   ]
+  },
+  "none|mimo-v2.6-pro-ultraspeed|gpt-6-luna|same_focus": {
+   "v2": 0.5467,
+   "v3": 0.4933,
+   "diff": [
+    -0.0533,
+    -0.1184,
+    0.0067,
+    300,
+    206
+   ]
+  },
+  "none|mimo-v2.6-pro-ultraspeed|gpt-6-luna|event_match": {
+   "v2": 0.3267,
+   "v3": 0.3267,
+   "diff": [
+    0.0,
+    -0.0509,
+    0.0489,
+    300,
+    206
+   ]
+  },
+  "none|mimo-v2.6-pro-ultraspeed|deepseek-v4.1-flash|similarity": {
+   "v2": 0.262,
+   "v3": 0.2668,
+   "diff": [
+    0.0048,
+    -0.0192,
+    0.0302,
+    283,
+    199
+   ]
+  },
+  "none|mimo-v2.6-pro-ultraspeed|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.5406,
+   "v3": 0.4841,
+   "diff": [
+    -0.0565,
+    -0.1103,
+    0.0,
+    283,
+    199
+   ]
+  },
+  "none|mimo-v2.6-pro-ultraspeed|deepseek-v4.1-flash|event_match": {
+   "v2": 0.1731,
+   "v3": 0.2014,
+   "diff": [
+    0.0283,
+    -0.0104,
+    0.0705,
+    283,
+    199
+   ]
+  },
+  "none|mimo-v2.6-pro-ultraspeed|claude-haiku-5.5|similarity": {
+   "v2": 0.2874,
+   "v3": 0.2933,
+   "diff": [
+    0.0059,
+    -0.0157,
+    0.0284,
+    300,
+    206
+   ]
+  },
+  "none|mimo-v2.6-pro-ultraspeed|claude-haiku-5.5|same_focus": {
+   "v2": 0.48,
+   "v3": 0.4533,
+   "diff": [
+    -0.0267,
+    -0.0785,
+    0.0275,
+    300,
+    206
+   ]
+  },
+  "none|mimo-v2.6-pro-ultraspeed|claude-haiku-5.5|event_match": {
+   "v2": 0.2067,
+   "v3": 0.22,
+   "diff": [
+    0.0133,
+    -0.028,
+    0.0572,
+    300,
+    206
+   ]
+  },
+  "history|gpt-5.6-sol|gpt-6-luna|similarity": {
+   "v2": 0.4032,
+   "v3": 0.4232,
+   "diff": [
+    0.02,
+    -0.0041,
+    0.0443,
+    300,
+    206
+   ]
+  },
+  "history|gpt-5.6-sol|gpt-6-luna|same_focus": {
+   "v2": 0.5567,
+   "v3": 0.5667,
+   "diff": [
+    0.01,
+    -0.0369,
+    0.0556,
+    300,
+    206
+   ]
+  },
+  "history|gpt-5.6-sol|gpt-6-luna|event_match": {
+   "v2": 0.37,
+   "v3": 0.3867,
+   "diff": [
+    0.0167,
+    -0.0232,
+    0.0572,
+    300,
+    206
+   ]
+  },
+  "history|gpt-5.6-sol|deepseek-v4.1-flash|similarity": {
+   "v2": 0.333,
+   "v3": 0.3424,
+   "diff": [
+    0.0094,
+    -0.0181,
+    0.0382,
+    277,
+    197
+   ]
+  },
+  "history|gpt-5.6-sol|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.5993,
+   "v3": 0.5776,
+   "diff": [
+    -0.0217,
+    -0.0772,
+    0.0327,
+    277,
+    197
+   ]
+  },
+  "history|gpt-5.6-sol|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2609,
+   "v3": 0.2536,
+   "diff": [
+    -0.0072,
+    -0.0561,
+    0.0425,
+    276,
+    197
+   ]
+  },
+  "history|gpt-5.6-sol|claude-haiku-5.5|similarity": {
+   "v2": 0.3584,
+   "v3": 0.3705,
+   "diff": [
+    0.0121,
+    -0.01,
+    0.0344,
+    300,
+    206
+   ]
+  },
+  "history|gpt-5.6-sol|claude-haiku-5.5|same_focus": {
+   "v2": 0.47,
+   "v3": 0.53,
+   "diff": [
+    0.06,
+    0.0,
+    0.1177,
+    300,
+    206
+   ]
+  },
+  "history|gpt-5.6-sol|claude-haiku-5.5|event_match": {
+   "v2": 0.2967,
+   "v3": 0.31,
+   "diff": [
+    0.0133,
+    -0.03,
+    0.0601,
+    300,
+    206
+   ]
+  },
+  "history|gemini-3.1-pro-preview|gpt-6-luna|similarity": {
+   "v2": 0.4138,
+   "v3": 0.4105,
+   "diff": [
+    -0.0033,
+    -0.0268,
+    0.0197,
+    300,
+    206
+   ]
+  },
+  "history|gemini-3.1-pro-preview|gpt-6-luna|same_focus": {
+   "v2": 0.5433,
+   "v3": 0.5767,
+   "diff": [
+    0.0333,
+    -0.0236,
+    0.0884,
+    300,
+    206
+   ]
+  },
+  "history|gemini-3.1-pro-preview|gpt-6-luna|event_match": {
+   "v2": 0.3667,
+   "v3": 0.3433,
+   "diff": [
+    -0.0233,
+    -0.0642,
+    0.0162,
+    300,
+    206
+   ]
+  },
+  "history|gemini-3.1-pro-preview|deepseek-v4.1-flash|similarity": {
+   "v2": 0.3463,
+   "v3": 0.3379,
+   "diff": [
+    -0.0085,
+    -0.0333,
+    0.0141,
+    284,
+    197
+   ]
+  },
+  "history|gemini-3.1-pro-preview|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.5634,
+   "v3": 0.5915,
+   "diff": [
+    0.0282,
+    -0.0283,
+    0.0803,
+    284,
+    197
+   ]
+  },
+  "history|gemini-3.1-pro-preview|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2535,
+   "v3": 0.2394,
+   "diff": [
+    -0.0141,
+    -0.0528,
+    0.024,
+    284,
+    197
+   ]
+  },
+  "history|gemini-3.1-pro-preview|claude-haiku-5.5|similarity": {
+   "v2": 0.36,
+   "v3": 0.3633,
+   "diff": [
+    0.0033,
+    -0.0173,
+    0.0239,
+    300,
+    206
+   ]
+  },
+  "history|gemini-3.1-pro-preview|claude-haiku-5.5|same_focus": {
+   "v2": 0.5167,
+   "v3": 0.5,
+   "diff": [
+    -0.0167,
+    -0.0792,
+    0.0403,
+    300,
+    206
+   ]
+  },
+  "history|gemini-3.1-pro-preview|claude-haiku-5.5|event_match": {
+   "v2": 0.2767,
+   "v3": 0.2933,
+   "diff": [
+    0.0167,
+    -0.0238,
+    0.0567,
+    300,
+    206
+   ]
+  },
+  "history|mimo-v2.6-pro-ultraspeed|gpt-6-luna|similarity": {
+   "v2": 0.3851,
+   "v3": 0.3797,
+   "diff": [
+    -0.0054,
+    -0.0329,
+    0.0212,
+    300,
+    206
+   ]
+  },
+  "history|mimo-v2.6-pro-ultraspeed|gpt-6-luna|same_focus": {
+   "v2": 0.54,
+   "v3": 0.5833,
+   "diff": [
+    0.0433,
+    -0.01,
+    0.0962,
+    300,
+    206
+   ]
+  },
+  "history|mimo-v2.6-pro-ultraspeed|gpt-6-luna|event_match": {
+   "v2": 0.3333,
+   "v3": 0.35,
+   "diff": [
+    0.0167,
+    -0.0336,
+    0.0655,
+    300,
+    206
+   ]
+  },
+  "history|mimo-v2.6-pro-ultraspeed|deepseek-v4.1-flash|similarity": {
+   "v2": 0.3028,
+   "v3": 0.2947,
+   "diff": [
+    -0.0081,
+    -0.0336,
+    0.0173,
+    285,
+    198
+   ]
+  },
+  "history|mimo-v2.6-pro-ultraspeed|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.5298,
+   "v3": 0.5298,
+   "diff": [
+    0.0,
+    -0.0547,
+    0.0543,
+    285,
+    198
+   ]
+  },
+  "history|mimo-v2.6-pro-ultraspeed|deepseek-v4.1-flash|event_match": {
+   "v2": 0.214,
+   "v3": 0.2175,
+   "diff": [
+    0.0035,
+    -0.0421,
+    0.0526,
+    285,
+    198
+   ]
+  },
+  "history|mimo-v2.6-pro-ultraspeed|claude-haiku-5.5|similarity": {
+   "v2": 0.3213,
+   "v3": 0.3162,
+   "diff": [
+    -0.0052,
+    -0.0265,
+    0.0175,
+    300,
+    206
+   ]
+  },
+  "history|mimo-v2.6-pro-ultraspeed|claude-haiku-5.5|same_focus": {
+   "v2": 0.5067,
+   "v3": 0.5167,
+   "diff": [
+    0.01,
+    -0.0519,
+    0.0687,
+    300,
+    206
+   ]
+  },
+  "history|mimo-v2.6-pro-ultraspeed|claude-haiku-5.5|event_match": {
+   "v2": 0.2633,
+   "v3": 0.2367,
+   "diff": [
+    -0.0267,
+    -0.0709,
+    0.017,
+    300,
+    206
+   ]
+  }
+ },
+ "pooled": {
+  "none|similarity": [
+   0.0048,
+   -0.0105,
+   0.0193,
+   2639,
+   206
+  ],
+  "none|same_focus": [
+   -0.0216,
+   -0.0462,
+   0.0027,
+   2639,
+   206
+  ],
+  "none|event_match": [
+   0.0144,
+   -0.0097,
+   0.0379,
+   2639,
+   206
+  ],
+  "history|similarity": [
+   0.0017,
+   -0.0114,
+   0.0147,
+   2646,
+   206
+  ],
+  "history|same_focus": [
+   0.0166,
+   -0.0072,
+   0.0397,
+   2646,
+   206
+  ],
+  "history|event_match": [
+   -0.0004,
+   -0.0227,
+   0.0198,
+   2645,
+   206
+  ]
+ },
+ "levels": {},
+ "note": "diff = v3 (Scribe transcript) minus v2 (Whisper transcript), paired on person x model x condition x judge; [mean, lo, hi, n pairs, n people]; pooled = all five models and listed judges"
+}

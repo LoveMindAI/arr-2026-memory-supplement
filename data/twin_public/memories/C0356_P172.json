@@ -1,0 +1,23 @@
+{
+ "call": "C0356",
+ "person": "P172",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Him saying not sure I agree, go on",
+  "reason": "Most people just nod along. Liked that he pushed back tbh, then came round",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0394",
+ "person": "P190",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 26,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I admitted I didn't really know anything about his job and asked a probably daft question. I felt a bit silly, but he was dead easy going.",
+  "reason": "I felt a bit embarrassed, honestly.",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

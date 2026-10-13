@@ -1,0 +1,23 @@
+{
+ "call": "C0295",
+ "person": "P144",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 41
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We kept finding things in common: the trade, going to football with our dads, Wednesday five-a-side.",
+  "reason": "It just felt easy, like talking to a regular at the counter. I hadn't realised he's a drainage and flood risk engineer, so he's probably behind some of the odd pipe orders I get. That made me laugh and stuck with me.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

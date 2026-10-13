@@ -1,0 +1,57 @@
+{
+ "session": "S20",
+ "rater": "P102",
+ "ok": true,
+ "ratings": {
+  "P103": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "He looks relaxed, probably quite easy to chat to tbh."
+  },
+  "P104": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "Sweet girl, reminds me of my daughter Jade when she was at uni."
+  },
+  "P105": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like she works hard and doesn't take any nonsense, I like that."
+  },
+  "P106": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 3,
+   "trust": 5,
+   "comp": 4,
+   "sim": 4,
+   "pair": 0,
+   "gut": "Seems a bit miserable to be fair, could do with a bit of energy."
+  },
+  "P107": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Looks like a nice woman, very sensible and reliable."
+  }
+ }
+}

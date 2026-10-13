@@ -1,0 +1,23 @@
+{
+ "call": "C0294",
+ "person": "P145",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 25,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said my controller had stick drift n liam just said give it me n hell sort it for a tenner, he buys broken stuff off marketplace n fixes it",
+  "reason": "cause my controller actually needs doin n he was sound about it",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

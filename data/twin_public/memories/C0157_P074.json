@@ -1,0 +1,23 @@
+{
+ "call": "C0157",
+ "person": "P074",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "just the whole call really... we got on from the off nattering away like wed known each other years... laughing at ourselves mostly",
+  "reason": "it felt proper easy tbh... like home",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0551",
+ "person": "P271",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "honestly the whole call just felt really easy and cosy, like chatting to my nan, i wasnt nervous at all",
+  "reason": "cos im normally a bit anxious with new people and with her i just wasnt tbh, it felt safe",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0157",
+ "person": "P078",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said i still set callums place at sunday dinner and martin said he still buys his daughters cereal, shes 26 lol",
+  "reason": "made me laugh but also it was nice knowing im not the only soppy one",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

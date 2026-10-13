@@ -1,0 +1,37 @@
+{
+ "session": "S37",
+ "rater": "P198",
+ "ok": true,
+ "ratings": {
+  "P195": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "Seems pleasant enough but looks a bit disorganised; the background is quite cluttered."
+  },
+  "P196": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks reliable and straightforward. I appreciate the organised files and the history books."
+  },
+  "P197": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "A bit too chatty and informal for a professional task; likely to get distracted."
+  }
+ }
+}

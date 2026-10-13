@@ -1,0 +1,23 @@
+{
+ "call": "C0468",
+ "person": "P233",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she was going on about her dog biscuit, its a cockapoo and its eaten three socks now, they had to take him to the vet once, she thought he needed an operation",
+  "reason": "cos anaya keeps asking for a hamster and it kind of proved my point tbh",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

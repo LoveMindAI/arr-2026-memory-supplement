@@ -1,0 +1,625 @@
+{
+ "pca_var": [
+  0.19,
+  0.127,
+  0.114,
+  0.07,
+  0.056
+ ],
+ "pca_var_null95": [
+  0.169,
+  0.126,
+  0.102,
+  0.075,
+  0.065
+ ],
+ "loadings": {
+  "PC1": [
+   [
+    "new_fact",
+    0.32
+   ],
+   [
+    "shared:partner",
+    0.31
+   ],
+   [
+    "details",
+    0.28
+   ],
+   [
+    "what:partner_said_or_did",
+    0.27
+   ],
+   [
+    "scope:longer",
+    -0.26
+   ],
+   [
+    "what:did_together",
+    -0.26
+   ],
+   [
+    "disclosed_anything",
+    0.25
+   ],
+   [
+    "shared:nobody",
+    -0.25
+   ],
+   [
+    "scope:one_moment",
+    0.23
+   ]
+  ],
+  "PC2": [
+   [
+    "commentary",
+    0.33
+   ],
+   [
+    "what:reporter_thought",
+    0.31
+   ],
+   [
+    "topic:partner_impression",
+    0.29
+   ],
+   [
+    "shared:nobody",
+    0.28
+   ],
+   [
+    "disclosed_anything",
+    -0.28
+   ],
+   [
+    "why:in_common",
+    -0.26
+   ],
+   [
+    "why:us",
+    -0.26
+   ],
+   [
+    "topic:feelings_mood",
+    0.25
+   ],
+   [
+    "shared:both",
+    -0.21
+   ]
+  ],
+  "PC3": [
+   [
+    "scope:not_an_event",
+    0.32
+   ],
+   [
+    "words_moment",
+    -0.3
+   ],
+   [
+    "matters:connection",
+    -0.27
+   ],
+   [
+    "why:us",
+    -0.27
+   ],
+   [
+    "shared:both",
+    -0.26
+   ],
+   [
+    "why:in_common",
+    -0.26
+   ],
+   [
+    "what:partner_fact_or_quality",
+    0.26
+   ],
+   [
+    "what:reporter_said_or_did",
+    -0.25
+   ],
+   [
+    "words_why",
+    -0.25
+   ]
+  ]
+ },
+ "k2_means": {
+  "0": {
+   "n": 129,
+   "bigger_meaning": 0.18,
+   "commentary": 0.35,
+   "details": 2.0,
+   "disclosed_anything": 0.78,
+   "disclosed_deep": 0.15,
+   "feeling_named": 0.59,
+   "intense": 0.31,
+   "matters:connection": 0.22,
+   "new_fact": 0.72,
+   "scope:longer": 0.19,
+   "scope:not_an_event": 0.15,
+   "scope:one_moment": 0.65,
+   "shared:both": 0.16,
+   "shared:nobody": 0.22,
+   "shared:partner": 0.59,
+   "topic:feelings_mood": 0.1,
+   "topic:partner_impression": 0.17,
+   "topic:place_travel": 0.32,
+   "topic:the_study_or_call": 0.22,
+   "topic:work_education_service": 0.28,
+   "what:did_together": 0.2,
+   "what:partner_fact_or_quality": 0.38,
+   "what:partner_said_or_did": 0.62,
+   "what:reporter_said_or_did": 0.11,
+   "what:reporter_thought": 0.21,
+   "what:situation": 0.04,
+   "why:call": 0.05,
+   "why:in_common": 0.25,
+   "why:me": 0.25,
+   "why:partner": 0.45,
+   "why:unexpected": 0.14,
+   "why:us": 0.2,
+   "words_moment": 2.99,
+   "words_why": 2.71
+  },
+  "1": {
+   "n": 134,
+   "bigger_meaning": 0.13,
+   "commentary": 0.27,
+   "details": 1.1,
+   "disclosed_anything": 0.48,
+   "disclosed_deep": 0.07,
+   "feeling_named": 0.39,
+   "intense": 0.17,
+   "matters:connection": 0.21,
+   "new_fact": 0.25,
+   "scope:longer": 0.58,
+   "scope:not_an_event": 0.1,
+   "scope:one_moment": 0.33,
+   "shared:both": 0.3,
+   "shared:nobody": 0.52,
+   "shared:partner": 0.13,
+   "topic:feelings_mood": 0.15,
+   "topic:partner_impression": 0.14,
+   "topic:place_travel": 0.23,
+   "topic:the_study_or_call": 0.37,
+   "topic:work_education_service": 0.17,
+   "what:did_together": 0.61,
+   "what:partner_fact_or_quality": 0.21,
+   "what:partner_said_or_did": 0.22,
+   "what:reporter_said_or_did": 0.09,
+   "what:reporter_thought": 0.14,
+   "what:situation": 0.18,
+   "why:call": 0.19,
+   "why:in_common": 0.28,
+   "why:me": 0.21,
+   "why:partner": 0.24,
+   "why:unexpected": 0.04,
+   "why:us": 0.27,
+   "words_moment": 2.67,
+   "words_why": 2.46
+  }
+ },
+ "k3_means": {
+  "0": {
+   "n": 70,
+   "bigger_meaning": 0.13,
+   "commentary": 0.45,
+   "details": 0.98,
+   "disclosed_anything": 0.27,
+   "disclosed_deep": 0.07,
+   "feeling_named": 0.46,
+   "intense": 0.21,
+   "matters:connection": 0.12,
+   "new_fact": 0.17,
+   "scope:longer": 0.56,
+   "scope:not_an_event": 0.12,
+   "scope:one_moment": 0.32,
+   "shared:both": 0.14,
+   "shared:nobody": 0.74,
+   "shared:partner": 0.1,
+   "topic:feelings_mood": 0.22,
+   "topic:partner_impression": 0.26,
+   "topic:place_travel": 0.14,
+   "topic:the_study_or_call": 0.44,
+   "topic:work_education_service": 0.11,
+   "what:did_together": 0.49,
+   "what:partner_fact_or_quality": 0.24,
+   "what:partner_said_or_did": 0.22,
+   "what:reporter_said_or_did": 0.06,
+   "what:reporter_thought": 0.24,
+   "what:situation": 0.25,
+   "why:call": 0.23,
+   "why:in_common": 0.12,
+   "why:me": 0.22,
+   "why:partner": 0.32,
+   "why:unexpected": 0.08,
+   "why:us": 0.11,
+   "words_moment": 2.69,
+   "words_why": 2.45
+  },
+  "1": {
+   "n": 70,
+   "bigger_meaning": 0.14,
+   "commentary": 0.13,
+   "details": 1.27,
+   "disclosed_anything": 0.71,
+   "disclosed_deep": 0.08,
+   "feeling_named": 0.34,
+   "intense": 0.15,
+   "matters:connection": 0.33,
+   "new_fact": 0.34,
+   "scope:longer": 0.57,
+   "scope:not_an_event": 0.09,
+   "scope:one_moment": 0.34,
+   "shared:both": 0.47,
+   "shared:nobody": 0.3,
+   "shared:partner": 0.19,
+   "topic:feelings_mood": 0.08,
+   "topic:partner_impression": 0.05,
+   "topic:place_travel": 0.31,
+   "topic:the_study_or_call": 0.26,
+   "topic:work_education_service": 0.23,
+   "what:did_together": 0.7,
+   "what:partner_fact_or_quality": 0.23,
+   "what:partner_said_or_did": 0.22,
+   "what:reporter_said_or_did": 0.1,
+   "what:reporter_thought": 0.07,
+   "what:situation": 0.08,
+   "why:call": 0.13,
+   "why:in_common": 0.47,
+   "why:me": 0.18,
+   "why:partner": 0.19,
+   "why:unexpected": 0.03,
+   "why:us": 0.44,
+   "words_moment": 2.64,
+   "words_why": 2.46
+  },
+  "2": {
+   "n": 123,
+   "bigger_meaning": 0.18,
+   "commentary": 0.33,
+   "details": 2.02,
+   "disclosed_anything": 0.79,
+   "disclosed_deep": 0.15,
+   "feeling_named": 0.59,
+   "intense": 0.31,
+   "matters:connection": 0.21,
+   "new_fact": 0.73,
+   "scope:longer": 0.19,
+   "scope:not_an_event": 0.14,
+   "scope:one_moment": 0.67,
+   "shared:both": 0.15,
+   "shared:nobody": 0.21,
+   "shared:partner": 0.61,
+   "topic:feelings_mood": 0.1,
+   "topic:partner_impression": 0.15,
+   "topic:place_travel": 0.32,
+   "topic:the_study_or_call": 0.23,
+   "topic:work_education_service": 0.29,
+   "what:did_together": 0.2,
+   "what:partner_fact_or_quality": 0.35,
+   "what:partner_said_or_did": 0.64,
+   "what:reporter_said_or_did": 0.12,
+   "what:reporter_thought": 0.2,
+   "what:situation": 0.04,
+   "why:call": 0.06,
+   "why:in_common": 0.24,
+   "why:me": 0.27,
+   "why:partner": 0.44,
+   "why:unexpected": 0.12,
+   "why:us": 0.18,
+   "words_moment": 3.01,
+   "words_why": 2.72
+  }
+ },
+ "k2_nowords_means": {
+  "0": {
+   "n": 136,
+   "bigger_meaning": 0.18,
+   "commentary": 0.33,
+   "details": 1.96,
+   "disclosed_anything": 0.77,
+   "disclosed_deep": 0.15,
+   "feeling_named": 0.56,
+   "intense": 0.29,
+   "matters:connection": 0.22,
+   "new_fact": 0.71,
+   "scope:longer": 0.19,
+   "scope:not_an_event": 0.16,
+   "scope:one_moment": 0.65,
+   "shared:both": 0.16,
+   "shared:nobody": 0.23,
+   "shared:partner": 0.59,
+   "topic:feelings_mood": 0.1,
+   "topic:partner_impression": 0.17,
+   "topic:place_travel": 0.31,
+   "topic:the_study_or_call": 0.22,
+   "topic:work_education_service": 0.27,
+   "what:did_together": 0.21,
+   "what:partner_fact_or_quality": 0.38,
+   "what:partner_said_or_did": 0.61,
+   "what:reporter_said_or_did": 0.1,
+   "what:reporter_thought": 0.2,
+   "what:situation": 0.04,
+   "why:call": 0.06,
+   "why:in_common": 0.26,
+   "why:me": 0.25,
+   "why:partner": 0.44,
+   "why:unexpected": 0.13,
+   "why:us": 0.21,
+   "words_moment": 2.96,
+   "words_why": 2.69
+  },
+  "1": {
+   "n": 127,
+   "bigger_meaning": 0.13,
+   "commentary": 0.28,
+   "details": 1.09,
+   "disclosed_anything": 0.47,
+   "disclosed_deep": 0.07,
+   "feeling_named": 0.41,
+   "intense": 0.18,
+   "matters:connection": 0.21,
+   "new_fact": 0.23,
+   "scope:longer": 0.6,
+   "scope:not_an_event": 0.08,
+   "scope:one_moment": 0.32,
+   "shared:both": 0.31,
+   "shared:nobody": 0.53,
+   "shared:partner": 0.12,
+   "topic:feelings_mood": 0.16,
+   "topic:partner_impression": 0.13,
+   "topic:place_travel": 0.23,
+   "topic:the_study_or_call": 0.38,
+   "topic:work_education_service": 0.18,
+   "what:did_together": 0.62,
+   "what:partner_fact_or_quality": 0.19,
+   "what:partner_said_or_did": 0.21,
+   "what:reporter_said_or_did": 0.09,
+   "what:reporter_thought": 0.15,
+   "what:situation": 0.18,
+   "why:call": 0.19,
+   "why:in_common": 0.28,
+   "why:me": 0.21,
+   "why:partner": 0.24,
+   "why:unexpected": 0.04,
+   "why:us": 0.26,
+   "words_moment": 2.68,
+   "words_why": 2.47
+  }
+ },
+ "k2_nowords_vs_k2_ari": 0.867,
+ "k2_nowords_silhouette": 0.127,
+ "traits": [
+  [
+   "HEXACO_HH_mean",
+   "PC1",
+   -0.055,
+   0.3708,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_HH_mean",
+   "PC2",
+   -0.08,
+   0.1953,
+   0.7585,
+   263
+  ],
+  [
+   "HEXACO_HH_mean",
+   "PC3",
+   -0.034,
+   0.5815,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_HH_mean",
+   "k2_nowords",
+   null,
+   0.3243,
+   0.9079,
+   263
+  ],
+  [
+   "HEXACO_E_mean",
+   "PC1",
+   0.033,
+   0.5917,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_E_mean",
+   "PC2",
+   -0.018,
+   0.766,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_E_mean",
+   "PC3",
+   -0.064,
+   0.3025,
+   0.9079,
+   263
+  ],
+  [
+   "HEXACO_E_mean",
+   "k2_nowords",
+   null,
+   0.6889,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_EX_mean",
+   "PC1",
+   0.007,
+   0.9122,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_EX_mean",
+   "PC2",
+   -0.004,
+   0.9437,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_EX_mean",
+   "PC3",
+   -0.119,
+   0.0533,
+   0.746,
+   263
+  ],
+  [
+   "HEXACO_EX_mean",
+   "k2_nowords",
+   null,
+   0.5485,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_A_mean",
+   "PC1",
+   -0.015,
+   0.8035,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_A_mean",
+   "PC2",
+   -0.096,
+   0.1211,
+   0.7585,
+   263
+  ],
+  [
+   "HEXACO_A_mean",
+   "PC3",
+   -0.084,
+   0.1761,
+   0.7585,
+   263
+  ],
+  [
+   "HEXACO_A_mean",
+   "k2_nowords",
+   null,
+   0.8474,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_C_mean",
+   "PC1",
+   -0.011,
+   0.8611,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_C_mean",
+   "PC2",
+   -0.088,
+   0.1536,
+   0.7585,
+   263
+  ],
+  [
+   "HEXACO_C_mean",
+   "PC3",
+   -0.138,
+   0.0254,
+   0.711,
+   263
+  ],
+  [
+   "HEXACO_C_mean",
+   "k2_nowords",
+   null,
+   0.8985,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_OP_mean",
+   "PC1",
+   0.01,
+   0.8659,
+   0.9437,
+   263
+  ],
+  [
+   "HEXACO_OP_mean",
+   "PC2",
+   0.076,
+   0.2167,
+   0.7585,
+   263
+  ],
+  [
+   "HEXACO_OP_mean",
+   "PC3",
+   -0.092,
+   0.1375,
+   0.7585,
+   263
+  ],
+  [
+   "HEXACO_OP_mean",
+   "k2_nowords",
+   null,
+   0.8588,
+   0.9437,
+   263
+  ],
+  [
+   "SIAS_mean",
+   "PC1",
+   -0.02,
+   0.748,
+   0.9437,
+   263
+  ],
+  [
+   "SIAS_mean",
+   "PC2",
+   -0.013,
+   0.8368,
+   0.9437,
+   263
+  ],
+  [
+   "SIAS_mean",
+   "PC3",
+   0.024,
+   0.6971,
+   0.9437,
+   263
+  ],
+  [
+   "SIAS_mean",
+   "k2_nowords",
+   null,
+   0.5488,
+   0.9437,
+   263
+  ]
+ ]
+}

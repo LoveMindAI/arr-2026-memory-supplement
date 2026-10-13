@@ -1,0 +1,23 @@
+{
+ "call": "C0190",
+ "person": "P094",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about working nights and how yow never sleep right. didnt know he works nights stacking shelves at a supermarket",
+  "reason": "did nights meself years back never got used to it so i knew what he meant",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

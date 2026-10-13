@@ -1,0 +1,23 @@
+{
+ "call": "C0092",
+ "person": "P045",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "He said his job at home is making the tea, Somali tea with cardamom and loads of sugar",
+  "reason": "I'd never heard of Somali tea and it sounded lovely, and him saying his mums is better made me laugh",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

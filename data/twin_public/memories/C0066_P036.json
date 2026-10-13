@@ -1,0 +1,23 @@
+{
+ "call": "C0066",
+ "person": "P036",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got onto audits and paperwork, turns out he inspects aerospace parts",
+  "reason": "Bit awkward tbh, i admitted my logs arent perfect",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

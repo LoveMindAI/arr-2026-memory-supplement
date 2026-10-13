@@ -1,0 +1,57 @@
+{
+ "session": "S11",
+ "rater": "P050",
+ "ok": true,
+ "ratings": {
+  "P051": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 5,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "proper artistic vibes like a producer - looks like she'd have some decent stories and knows her way around a shoot"
+  },
+  "P052": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "gives off gamer energy tbh - definitely looks like a guy who'd be sound at 5-a-side and knows his tech"
+  },
+  "P053": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks like a proper professional dad - probably really reliable but might be a bit serious for a laugh"
+  },
+  "P054": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "reminds me of my mum ngl - super sweet and probably brings the best snacks to the meeting"
+  },
+  "P055": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like she's definitely done her reading - super smart and organized which is what i need for logistics"
+  }
+ }
+}

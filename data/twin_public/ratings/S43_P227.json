@@ -1,0 +1,57 @@
+{
+ "session": "S43",
+ "rater": "P227",
+ "ok": true,
+ "ratings": {
+  "P225": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks sensible and straightforward. A bit wary, but likely very practical."
+  },
+  "P226": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Very approachable and cheerful. Reminds me of the school run mums."
+  },
+  "P228": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Seems somewhat disinterested. His room is a bit of a state (messy laundry)."
+  },
+  "P229": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "Extremely tidy and professional-looking. I imagine he is quite organised."
+  },
+  "P230": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Looks like a decent, hard-working dad. Quite relaxed."
+  }
+ }
+}

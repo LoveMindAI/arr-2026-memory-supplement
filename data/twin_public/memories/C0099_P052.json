@@ -1,0 +1,23 @@
+{
+ "call": "C0099",
+ "person": "P052",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he said in poland living with your parents is normal nobody judges",
+  "reason": "felt alright tbh",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

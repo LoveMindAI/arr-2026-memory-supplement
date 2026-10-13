@@ -1,0 +1,47 @@
+{
+ "session": "S14",
+ "rater": "P072",
+ "ok": true,
+ "ratings": {
+  "P068": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like a manager or some sort of office boss, probably quite sensible tbh"
+  },
+  "P069": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks busy and onto things, probably a nurse with that lanyard so she wont mess about"
+  },
+  "P070": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "dead friendly, looks like she gets on with it and has a dog too so shes alright"
+  },
+  "P071": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 7,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit serious for me, looks like he might be a bit picky or try to tell you how to do things lol"
+  }
+ }
+}

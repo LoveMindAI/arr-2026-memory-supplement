@@ -1,0 +1,23 @@
+{
+ "call": "C0204",
+ "person": "P098",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we just kept finding stuff in common the whole call, dogs both called biscuit and both our husbands are QS lol",
+  "reason": "just weird how similar we are tbh, made it really easy",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0253",
+ "person": "P121",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about the hard bits of our jobs",
+  "reason": "it went proper deep proper quick for 3 mins lol, i got a bit choked tbh thinking about my dad and that, felt real",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

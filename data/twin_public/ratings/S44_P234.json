@@ -1,0 +1,47 @@
+{
+ "session": "S44",
+ "rater": "P234",
+ "ok": true,
+ "ratings": {
+  "P231": {
+   "photo": 1,
+   "friendly": 2,
+   "like": 3,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Looks a bit serious tbh, reminds me of some of the contractors Dean knows. Probably gets the job done though."
+  },
+  "P232": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Very professional and looks like she knows her stuff. Her house looks lovely and tidy as well!!"
+  },
+  "P233": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 4,
+   "pair": 0,
+   "gut": "Seems nice enough, sort of quiet maybe? The kids drawings on the fridge are sweet lol."
+  },
+  "P235": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 4,
+   "sim": 5,
+   "pair": 0,
+   "gut": "Really smiley and friendly, probably chats your ear off! Seems like a typical mum type."
+  }
+ }
+}

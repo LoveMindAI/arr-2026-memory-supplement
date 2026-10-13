@@ -1,0 +1,23 @@
+{
+ "call": "C0011",
+ "person": "P001",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 54,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got talking about using pictures to help people communicate. We worked out it's basically the same thing at both ends of life, giving people time and showing rather than telling. I hadn't known she works one to one with two autistic children in Year 3. We both sort of lit up a bit there.",
+  "reason": "It felt like real common ground.",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

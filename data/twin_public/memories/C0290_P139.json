@@ -1,0 +1,23 @@
+{
+ "call": "C0290",
+ "person": "P139",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 45
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked about keeping old family letters safe rather than throwing them away.",
+  "reason": "It's the closest thing to my actual work that came up, and it felt useful rather than polite small talk. I could give practical advice (keep them dry, avoid plastic), and it reminded me why the job matters to ordinary families, not just universities.",
+  "timing": 20
+ },
+ "requires_av": false,
+ "av_event": null
+}

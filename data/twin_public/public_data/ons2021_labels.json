@@ -1,0 +1,79 @@
+{
+ "approx_social_grade": null,
+ "country_of_birth_3a": {
+  "-8": "Does not apply",
+  "1": "Born in the UK",
+  "2": "Born outside the UK"
+ },
+ "economic_activity_status_10m": null,
+ "ethnic_group_tb_6a": {
+  "-8": "Does not apply",
+  "1": "Asian, Asian British or Asian Welsh",
+  "2": "Black, Black British, Black Welsh, Caribbean or African",
+  "3": "Mixed or Multiple ethnic groups",
+  "4": "White",
+  "5": "Other ethnic group"
+ },
+ "health_in_general": {
+  "-8": "Does not apply",
+  "1": "Very good health",
+  "2": "Good health",
+  "3": "Fair health",
+  "4": "Bad health",
+  "5": "Very bad health"
+ },
+ "hh_families_type_6a": {
+  "-8": "Does not apply",
+  "1": "One-person household",
+  "2": "Married or civil partnership couple household",
+  "3": "Cohabiting couple household",
+  "4": "Lone parent household",
+  "5": "Multi-person household"
+ },
+ "hours_per_week_worked": {
+  "-8": "Does not apply",
+  "1": "Part-time: 15 hours or less worked",
+  "2": "Part-time: 16 to 30 hours worked",
+  "3": "Full-time: 31 to 48 hours worked",
+  "4": "Full-time: 49 or more hours worked"
+ },
+ "in_full_time_education": null,
+ "industry_10a": null,
+ "legal_partnership_status_6a": {
+  "-8": "Does not apply",
+  "1": "Never married and never registered a civil partnership",
+  "2": "Married or in a registered civil partnership",
+  "3": "Separated, but still legally married or still legally in a civil partnership",
+  "4": "Divorced or civil partnership dissolved",
+  "5": "Widowed or surviving civil partnership partner"
+ },
+ "occupation_10a": null,
+ "region": null,
+ "religion_tb": {
+  "-8": "Does not apply",
+  "1": "No religion",
+  "2": "Christian",
+  "3": "Buddhist",
+  "4": "Hindu",
+  "5": "Jewish",
+  "6": "Muslim",
+  "7": "Sikh",
+  "8": "Other religion",
+  "9": "Not answered"
+ },
+ "residence_type": null,
+ "resident_age_7d": {
+  "1": "Aged 15 years and under",
+  "2": "Aged 16 to 24 years",
+  "3": "Aged 25 to 34 years",
+  "4": "Aged 35 to 44 years",
+  "5": "Aged 45 to 54 years",
+  "6": "Aged 55 to 64 years",
+  "7": "Aged 65 years and over"
+ },
+ "sex": {
+  "1": "Female",
+  "2": "Male"
+ },
+ "usual_short_student": null
+}

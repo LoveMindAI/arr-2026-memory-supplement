@@ -1,0 +1,23 @@
+{
+ "call": "C0482",
+ "person": "P240",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We had a chat about getting into a trade and turning up properly.",
+  "reason": "It's what I see with the young lads at work, so it hit home.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S05",
+ "rater": "P021",
+ "ok": true,
+ "ratings": {
+  "P019": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like he'd get on with it sort of"
+  },
+  "P020": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 2,
+   "pair": 0,
+   "gut": "properly organised lady maybe a bit posh"
+  },
+  "P022": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks quite sensible and tidy tbh"
+  },
+  "P023": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "she sews as well so thats nice"
+  },
+  "P024": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems very kind and i like the cat"
+  }
+ }
+}

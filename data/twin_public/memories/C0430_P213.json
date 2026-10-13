@@ -1,0 +1,23 @@
+{
+ "call": "C0430",
+ "person": "P213",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 58,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto being away with work and missing the kids tea and bedtime. i admitted i dont love missing alfies tea when im out on the road all week, and we both sort of agreed its hard. then i said alfie told me i smell like a car and we both had a proper laugh about how kids dont hold back lol",
+  "reason": "Hit home a bit tbh, its something i feel guilty about",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

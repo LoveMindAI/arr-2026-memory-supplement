@@ -1,0 +1,23 @@
+{
+ "call": "C0545",
+ "person": "P271",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "gemma telling me she started a biomedical science degree and left after first year, said she sometimes regrets it a bit",
+  "reason": "made me feel less worried about my own degree tbh",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

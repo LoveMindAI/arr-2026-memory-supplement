@@ -1,0 +1,25 @@
+{
+ "call": "C0530",
+ "person": "P261",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 20,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i was going on about the gap on her cv her smile dropped, looked down and away, pressed her lips, big breath out",
+  "reason": "probably came on too strong tbh, did the same with darren, wasnt trying to have a go at her",
+  "timing": 15
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0530",
+  "turn": 7,
+  "line_text": "Gemma: Right. That's a long gap, you want to watch that. I see CVs every week, and if there's a year with nothing on it, that's the first thing I look at. I'm not saying it's fair. It's just what happens.",
+  "who": "Bethany",
+  "what": "While Gemma is talking about the gap on the CV, Bethany's small smile drops. Her eyes go down and to the side, away from the screen, her lips press together, and her shoulders rise and fall in a slow, audible breath out before she looks back up at the camera."
+ }
+}

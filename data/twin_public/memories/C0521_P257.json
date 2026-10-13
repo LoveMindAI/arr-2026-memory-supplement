@@ -1,0 +1,23 @@
+{
+ "call": "C0521",
+ "person": "P257",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about chippy teas and chip baps, we was both having a laugh about it",
+  "reason": "made me hungry tbh lol",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

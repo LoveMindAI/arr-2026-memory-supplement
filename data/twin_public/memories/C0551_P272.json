@@ -1,0 +1,23 @@
+{
+ "call": "C0551",
+ "person": "P272",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i told her forty minutes away is nothing, i moved a whole country.. meant it kindly",
+  "reason": "made me think of my mum and being far away myself really",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

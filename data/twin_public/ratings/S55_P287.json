@@ -1,0 +1,57 @@
+{
+ "session": "S55",
+ "rater": "P287",
+ "ok": true,
+ "ratings": {
+  "P288": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "She looks very organized, maybe a teacher or a manager sort of lady, she seems nice but a bit posh maybe"
+  },
+  "P289": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Ever so lovely smile, she looks like she'd be a laugh to work with in a kitchen or a ward"
+  },
+  "P290": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She looks a bit tired bless her, like me after the school lunch rush, seems very sensible"
+  },
+  "P291": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She reminds me of my sister Michelle or some of the ladies I work with, very down to earth"
+  },
+  "P292": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "A bit quiet maybe, looks like my nephew when he's been on his games too long, hope he's alright"
+  }
+ }
+}

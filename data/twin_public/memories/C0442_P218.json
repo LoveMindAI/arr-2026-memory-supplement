@@ -1,0 +1,25 @@
+{
+ "call": "C0442",
+ "person": "P218",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 10,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "little girl in pjs took the unicorn cushion off the sofa, walked off",
+  "reason": "i notice stuff in backgrounds, id seen that cushion in her photo so it caught my eye",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0442",
+  "turn": 24,
+  "line_text": "Daughter. She's ten.",
+  "who": "Kayleigh",
+  "what": "A young girl in pyjamas walks across the room behind the sofa in the background, picks up the pink unicorn cushion and carries it out of shot to the right."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0054",
+ "person": "P030",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 46
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto football and five a side, turned out we both played wednesdays, him with his old school mates and me in acton before my back went",
+  "reason": "probably cos it hit a bit close tbh, i miss playing wednesdays and hearing someone still doing it made me think about my back and feeling old. also didnt know he actually played, thought the scarf was just for show. nice bit of common ground",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0445",
+ "person": "P216",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 37,
+  "reason": 31
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto dogs. I was telling him about Bella and her dodgy hip, how she doesn't fancy the river walk much now, and we had a proper natter about old dogs slowing down but still being greedy.",
+  "reason": "Because Bella's been on my mind with her hip, and it was the bit where it stopped feeling like a study and was just two people chatting. Made me smile tbh.",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

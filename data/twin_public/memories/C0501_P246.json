@@ -1,0 +1,23 @@
+{
+ "call": "C0501",
+ "person": "P246",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about her curtains and both being fussy, didnt know she was a tailor",
+  "reason": "felt like we had the same fussy streak tbh",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

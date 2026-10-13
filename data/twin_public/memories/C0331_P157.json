@@ -1,0 +1,23 @@
+{
+ "call": "C0331",
+ "person": "P157",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the art chat, finding out she did a history of art degree",
+  "reason": "i dont really talk about drifting away from art after college, and she seemed to properly get it, wasnt expecting that from her photo tbh",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

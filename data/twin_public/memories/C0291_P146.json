@@ -1,0 +1,23 @@
+{
+ "call": "C0291",
+ "person": "P146",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Liam telling me about Black Friday when a sorter line went down at 3am. Just swapped the switch in 20 mins, let managers think it was harder",
+  "reason": "Made me laugh, I've done exactly the same tbh",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,37 @@
+{
+ "session": "S48",
+ "rater": "P252",
+ "ok": true,
+ "ratings": {
+  "P253": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "he looks very nice, reminds me of the managers at the office where i clean, very tidy office and he likes football like my Marek"
+  },
+  "P254": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 4,
+   "pair": 1,
+   "gut": "she is lovely girl, reminds me of my Natalia with her hair and makeup, but she needs to put the washing away properly :)"
+  },
+  "P255": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "very serious and smart man, he looks like he knows what he is doing, maybe a teacher or a doctor, very polite i think"
+  }
+ }
+}

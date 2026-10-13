@@ -1,0 +1,23 @@
+{
+ "call": "C0036",
+ "person": "P019",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 43
+ },
+ "ok": true,
+ "answers": {
+  "moment": "talking about agnieszka job, she said she was care assistant before nurse",
+  "reason": "because straight away she understood what agnieszka does, most people dont, they think its just tea and wiping, she knew its hard and paid nothing, and she asked does she like it, nice lady, i will tell agnieszka tonight she will like that",
+  "timing": 20
+ },
+ "requires_av": false,
+ "av_event": null
+}

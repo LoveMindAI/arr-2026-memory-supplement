@@ -1,0 +1,23 @@
+{
+ "call": "C0518",
+ "person": "P260",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 33,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i asked his dogs name and he said biscuit, a border terrier, same name as ours lol, then he asked if ours had eaten a sock and his ate one monday too",
+  "reason": "such a random coincidence, i proper laughed, two biscuits both eating socks",
+  "timing": 8
+ },
+ "requires_av": false,
+ "av_event": null
+}

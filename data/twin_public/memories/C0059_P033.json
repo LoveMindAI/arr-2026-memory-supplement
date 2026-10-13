@@ -1,0 +1,23 @@
+{
+ "call": "C0059",
+ "person": "P033",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the palace bit, learning his dads passed away",
+  "reason": "made me think about my granddad tbh, and how i take going with dad for granted",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

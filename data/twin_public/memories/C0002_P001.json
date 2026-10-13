@@ -1,0 +1,23 @@
+{
+ "call": "C0002",
+ "person": "P001",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 81,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got talking about Lisbon and the tiles on the outside of the houses, and the old bookshops. Then somehow we ended up linking the tile colours to the blue-green glazes on my bowls, which I'd honestly never thought about. And we came back round to my tutor calling my glazes brave and had a bit of a laugh about it. It was the point where I stopped being so guarded and it felt more like a proper conversation.",
+  "reason": "It made me think about pottery differently.",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

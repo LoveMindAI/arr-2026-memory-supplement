@@ -1,0 +1,25 @@
+{
+ "call": "C0432",
+ "person": "P213",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 60,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When i mentioned my dads heart scare his smile sort of dropped and he looked off the screen at that little framed photo of an older couple on his bookshelf. held it for a couple of seconds then turned back and asked if my dad was alright now but much quieter than before. nobody said anything about it but u could tell",
+  "reason": "Felt like it hit home for him, probably his mum and dad in that photo",
+  "timing": 60
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0432",
+  "turn": 22,
+  "line_text": "Oh no, is he alright now?",
+  "who": "Jaspal",
+  "what": "Jaspal's smile drops and his eyes move off the screen to the small framed photo of an older couple on the bookshelf behind him. He holds that look for about two seconds before turning back to the camera, and his voice is quieter than before as he asks the question."
+ }
+}

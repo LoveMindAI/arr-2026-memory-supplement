@@ -1,0 +1,57 @@
+{
+ "session": "S10",
+ "rater": "P044",
+ "ok": true,
+ "ratings": {
+  "P045": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "erm sort of like kerrys mates really"
+  },
+  "P046": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like a manager or something er quiet"
+  },
+  "P047": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "yeah fair enough looks like he works hard"
+  },
+  "P048": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "bit posh maybe er i dunno really"
+  },
+  "P049": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks decent sort of serious you know"
+  }
+ }
+}

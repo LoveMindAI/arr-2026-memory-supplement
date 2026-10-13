@@ -1,0 +1,23 @@
+{
+ "call": "C0514",
+ "person": "P258",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit near the end where we kept finding out we had loads in common, one thing after another, and we were both cracking up",
+  "reason": "it was just mad how much matched up, felt like talking to myself lol, proper laugh tbh",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

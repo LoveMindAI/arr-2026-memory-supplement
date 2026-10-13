@@ -1,0 +1,47 @@
+{
+ "session": "S41",
+ "rater": "P217",
+ "ok": true,
+ "ratings": {
+  "P216": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like she works hard and keeps a tidy house to be fair"
+  },
+  "P218": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 3,
+   "sim": 4,
+   "pair": 0,
+   "gut": "bit miserable looking like he cant be bothered tbh"
+  },
+  "P219": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "seems nice enough probably talks a lot though"
+  },
+  "P220": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "looks knackered bless her i bet shes a nurse or something"
+  }
+ }
+}

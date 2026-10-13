@@ -1,0 +1,47 @@
+{
+ "session": "S30",
+ "rater": "P162",
+ "ok": true,
+ "ratings": {
+  "P159": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Seems a bit shy but very nice, reminds me of some of the first-year students I help in the lab."
+  },
+  "P160": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like a bloke I'd have a pint with, maybe a bit stressed but probably decent once he's had a brew."
+  },
+  "P161": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Very calm and steady presence, I reckon she'd be easy to get along with for a group task."
+  },
+  "P163": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Reminds me of some of the ladies at our chapel, very reliable and polite, sort of person who gets things done."
+  }
+ }
+}

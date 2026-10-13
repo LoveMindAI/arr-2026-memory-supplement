@@ -1,0 +1,57 @@
+{
+ "session": "S29",
+ "rater": "P158",
+ "ok": true,
+ "ratings": {
+  "P153": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "he looks tired like me and jun, works hard i think"
+  },
+  "P154": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "very nice smile, maybe a student? he likes birds"
+  },
+  "P155": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 7,
+   "sim": 2,
+   "pair": 0,
+   "gut": "looks like a teacher or a boss, very serious po"
+  },
+  "P156": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "she looks a bit stressed, maybe busy with the kids"
+  },
+  "P157": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "very kind face, she looks easy to talk to hehe"
+  }
+ }
+}

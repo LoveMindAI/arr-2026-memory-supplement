@@ -1,0 +1,23 @@
+{
+ "call": "C0444",
+ "person": "P218",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit where we got talking about gemmas back and bad backs from lifting in general, what you should do about it and that",
+  "reason": "cos i worry about her back tbh, it stuck",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

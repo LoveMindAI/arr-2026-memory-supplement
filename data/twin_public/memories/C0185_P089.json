@@ -1,0 +1,23 @@
+{
+ "call": "C0185",
+ "person": "P089",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 35,
+  "reason": 25
+ },
+ "ok": true,
+ "answers": {
+  "moment": "at the end we had a little friendly argue about paying, i said no no i pay, i am your first customer! and we both laughing, it felt like we make a small deal together :)",
+  "reason": "because at start she was so nervous and tired, and at the end she smile more.. this made me happy, i like to help young ones start something",
+  "timing": 95
+ },
+ "requires_av": false,
+ "av_event": null
+}

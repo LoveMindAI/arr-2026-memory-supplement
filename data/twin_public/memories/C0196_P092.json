@@ -1,0 +1,23 @@
+{
+ "call": "C0196",
+ "person": "P092",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 26,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about money and worrying about work, me with the redundancy and him doing nights at a supermarket, we both sort of opened up",
+  "reason": "because it felt really honest tbh i didnt expect to open up to a stranger like that and it was nice not feeling alone",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

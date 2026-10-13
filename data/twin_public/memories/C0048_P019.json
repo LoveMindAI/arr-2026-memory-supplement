@@ -1,0 +1,23 @@
+{
+ "call": "C0048",
+ "person": "P019",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 40
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked haggling for a while, me with car boot stuff, her with furniture for clients, turns out shes interior designer not teacher",
+  "reason": "because thats my thing, haggling, and i was wrong about her, i said teacher or boss from the picture, she does interior design, but we both haggle for living kind of, so its same game really, sales is sales lol",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

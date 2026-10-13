@@ -1,0 +1,47 @@
+{
+ "session": "S07",
+ "rater": "P031",
+ "ok": true,
+ "ratings": {
+  "P029": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit posh and too keen if im honest"
+  },
+  "P030": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems like a decent lad sort of relaxed"
+  },
+  "P032": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 7,
+   "trust": 7,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "proper nice bloke reminds me of my dad"
+  },
+  "P033": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "bit like my son tidy shoes lol"
+  }
+ }
+}

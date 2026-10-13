@@ -1,0 +1,23 @@
+{
+ "call": "C0391",
+ "person": "P192",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Mostly I remember it was easy to talk, no awkward bits. Felt like chatting with normal working person, like my husbands friends. Went fast",
+  "reason": "it was relaxed, not awkward",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

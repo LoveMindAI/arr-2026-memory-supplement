@@ -1,0 +1,23 @@
+{
+ "call": "C0011",
+ "person": "P003",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When she said don't rush them, show them, give them time.",
+  "reason": "It is exactly how I work with my children, so it stuck.",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

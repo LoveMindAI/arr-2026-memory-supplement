@@ -1,0 +1,23 @@
+{
+ "call": "C0132",
+ "person": "P063",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she went can i be honest and then told me our choir poster had too many fonts, i just burst out laughing cos shes right lol",
+  "reason": "it made me laugh",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

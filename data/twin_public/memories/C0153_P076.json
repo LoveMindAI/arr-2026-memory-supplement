@@ -1,0 +1,23 @@
+{
+ "call": "C0153",
+ "person": "P076",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 39,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto the topic of someone getting a bit forgetful at home and what might help. We talked through small practical things like labels on cupboards, a clock showing the day, cooker cut-offs. It felt like a proper conversation.",
+  "reason": "It's my work",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

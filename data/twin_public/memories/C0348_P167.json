@@ -1,0 +1,25 @@
+{
+ "call": "C0348",
+ "person": "P167",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 10,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the dog got out of its bed, stretched, wandered behind her chair, she didnt turn round",
+  "reason": "nobody said anything, i was sort of watching that tbh",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0348",
+  "turn": 24,
+  "line_text": "Nobody talks to you. Nobody wants your opinion on the way out. You just sit there for two hours and nothing's your problem.",
+  "who": "Rebecca",
+  "what": "In the bottom right corner of Rebecca's frame, the brindle lurcher climbs out of the grey dog bed, stretches, and walks across behind Rebecca's chair and out of shot to the left. Rebecca doesn't turn round."
+ }
+}

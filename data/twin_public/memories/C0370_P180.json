@@ -1,0 +1,25 @@
+{
+ "call": "C0370",
+ "person": "P180",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 3,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she looked at the photo",
+  "reason": "when she said her family her smile went for a sec, think maybe someones not there anymore",
+  "timing": 42
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0370",
+  "turn": 15,
+  "line_text": "Yeah, it's just me, my mum and my little brother, and the dog. My mum's a pharmacist at the hospital, so she works really long shifts.",
+  "who": "Ffion",
+  "what": "As she lists her family, Ffion glances off to her right towards the shelf with the framed photo of an older woman. Her smile drops for a second and her lips press together before she looks back at the screen."
+ }
+}

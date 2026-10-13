@@ -1,0 +1,57 @@
+{
+ "session": "S12",
+ "rater": "P061",
+ "ok": true,
+ "ratings": {
+  "P056": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like she gets on with it like julie does"
+  },
+  "P057": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks a bit mardy to be fair"
+  },
+  "P058": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "sensible bloke keeping his head down"
+  },
+  "P059": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 4,
+   "trust": 3,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bet he spends all day on his phone"
+  },
+  "P060": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "looks nice enough but not my sort of person"
+  }
+ }
+}

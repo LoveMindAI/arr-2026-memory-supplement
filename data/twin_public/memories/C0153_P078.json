@@ -1,0 +1,23 @@
+{
+ "call": "C0153",
+ "person": "P078",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 36,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i asked about my mum being forgetful and she said get her to the GP, and you can get a big clock with the day on it, plus the council do free OT assessments, didnt know that",
+  "reason": "because im worried about mum really and it was actually useful, ill be getting her that clock",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S54",
+ "rater": "P283",
+ "ok": true,
+ "ratings": {
+  "P281": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Looks like he'd be a laugh on a night out tbh, very high energy."
+  },
+  "P282": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Lovely smile, looks like a proper hard working mum type."
+  },
+  "P284": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Bit of a charmer I bet! Reminds me of the lads in sales."
+  },
+  "P285": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 0,
+   "gut": "Bit quiet maybe? Looks like she's just finished a long shift."
+  },
+  "P286": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She's my sort of person! Love the nails and the decor, very glam."
+  }
+ }
+}

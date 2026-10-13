@@ -1,0 +1,11 @@
+# Stand-in run (scripts/run_on_standin.sh): Python 3.9+ standard library plus
+numpy>=1.24
+# An OpenRouter API key in OPENROUTER_API_KEY.
+
+# Further analyses (not needed for the stand-in run); versions as used, not a clean-machine test:
+scipy>=1.11
+scikit-learn>=1.3
+pandas>=2.0
+statsmodels>=0.14
+matplotlib>=3.7
+# R with lme4 for scripts/srm_glmm.R; audio/video feature scripts in multimodal/ need their own toolchains (see each script's header).

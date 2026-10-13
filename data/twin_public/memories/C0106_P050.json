@@ -1,0 +1,25 @@
+{
+ "call": "C0106",
+ "person": "P050",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 24,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we were on about five-a-side dying off, girlfriends houses kids, his little half smile just dropped, he looked down and away a few secs, jaw went tight, then back to neutral",
+  "reason": "nobody mentioned it but it felt like id hit something proper real for him tbh",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0106",
+  "turn": 18,
+  "line_text": "Yeah. That's how ours went. Everyone got girlfriends, then houses, then kids.",
+  "who": "Craig",
+  "what": "His half-smile drops for a moment and he looks down and away from the screen for two or three seconds, jaw tightening slightly, before looking back at the camera with a neutral face."
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "planned": 55,
+ "kept": 53,
+ "dropped_for_leak": 2,
+ "locator_on_kept": {
+  "not_in_transcript": 42,
+  "general": 0,
+  "in_conversation": 11
+ }
+}

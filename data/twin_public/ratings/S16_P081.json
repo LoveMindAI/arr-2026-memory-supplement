@@ -1,0 +1,47 @@
+{
+ "session": "S16",
+ "rater": "P081",
+ "ok": true,
+ "ratings": {
+  "P079": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like a bright lad who reads a bit, er, maybe a teacher or something, seems decent enough"
+  },
+  "P080": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "reminds me of some of the mums at the school gate, looks a bit nervous but nice dog there"
+  },
+  "P082": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "seems very friendly, sort of person who'd have a nice chat over a cup of tea, reminds me of maureen a bit"
+  },
+  "P083": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "easygoing bloke, likes his cycling i see, seems like he'd be good for a laugh and a pint"
+  }
+ }
+}

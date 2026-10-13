@@ -1,0 +1,23 @@
+{
+ "call": "C0221",
+ "person": "P102",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 40,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we had a laugh about me giving her a lift over in the Evoque so she could come to one of my classes. We were going back and forth about getting there and it was the first bit that felt properly jokey between us.",
+  "reason": "It was the one bit where we were both actually laughing, tbh.",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

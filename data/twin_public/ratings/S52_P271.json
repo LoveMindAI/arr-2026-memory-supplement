@@ -1,0 +1,57 @@
+{
+ "session": "S52",
+ "rater": "P271",
+ "ok": true,
+ "ratings": {
+  "P272": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "she reminds me of my nan tbh, really warm and kind x"
+  },
+  "P273": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks really friendly and reminds me of jordan a bit"
+  },
+  "P274": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "attentive and i love the dog in the corner! seems lovely"
+  },
+  "P275": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 0,
+   "gut": "sorry but he looks a bit serious, might be a bit intimidating"
+  },
+  "P276": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 6,
+   "pair": 1,
+   "gut": "seems fun and easy to talk to, like girls from home"
+  }
+ }
+}

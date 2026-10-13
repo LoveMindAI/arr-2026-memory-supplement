@@ -1,0 +1,23 @@
+{
+ "call": "C0424",
+ "person": "P204",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 25,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "at the end i said people think im not clever and she said no theyre wrong duck, chatting to everyone and making them like me is a skill",
+  "reason": "honestly nobody really says that to me, made me feel proper good tbh",
+  "timing": 95
+ },
+ "requires_av": false,
+ "av_event": null
+}

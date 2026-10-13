@@ -1,0 +1,23 @@
+{
+ "call": "C0288",
+ "person": "P136",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked for a while about cooking every day and freezing food for busy days, and I explained what pierogi are, sort of dumplings.",
+  "reason": "We had very similar habits, which made me smile.",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

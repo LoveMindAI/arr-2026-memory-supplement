@@ -1,0 +1,23 @@
+{
+ "call": "C0124",
+ "person": "P059",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 53,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When she was talking about the pastry she's been trying to learn - rolling it out really thin by hand and it always tears, she said hers ends up looking like a map. I asked if she rests the dough and she went 'rest it how long?' - then joked she'd pass on the fix, which was funny",
+  "reason": "It's my kind of thing tbh - a cooking problem I could actually help with, and she was properly laughing",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

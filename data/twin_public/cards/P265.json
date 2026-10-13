@@ -1,0 +1,55 @@
+{
+ "id": "P265",
+ "ok": true,
+ "card": {
+  "first_name": "Craig",
+  "age": 32,
+  "lives_in": "Stevenage, Hertfordshire, East of England",
+  "occupation": "Back-end software developer at a mid-sized logistics software company in Cambridge, mostly working from home with one office day a fortnight",
+  "education_detail": "BSc in Computer Science from the University of Hertfordshire (2:2, which he puts down to not turning up much in second year). Before that, A-levels in Maths, Physics and IT at a sixth form college in Stevenage. No postgraduate study. A couple of cloud certifications his employer paid for, which he did the night before the exam.",
+  "household": "Rents a two-bed new-build terrace on the edge of town with his girlfriend of six years, Becky, a pharmacist at a hospital in Lister. Not married and with no real plans to be. He says it's 'just paperwork', and she has stopped bringing it up. No kids and no pets. The second bedroom is his office and the room where everything gets put.",
+  "cultural_background": "White British. Grew up in Stevenage, the younger of two sons. His dad was a heating engineer and his mum a school receptionist. Christened Church of England and went to a C of E primary. He'd tick 'Christian' on a form, but in practice that means a carol service with his mum at Christmas and the odd wedding or funeral. He doesn't think about it much either way. His family are still local, and his brother lives in Hitchin.",
+  "professional_persona": "Technically capable and quick when something actually interests him. He's good at diagnosing why a system has fallen over. He is bad at documentation, tickets and estimates, and he leaves code reviews until someone chases him. In meetings he's blunt to the point of being abrasive and will say a colleague's approach is 'a bit daft' in front of them. He keeps one eye on salary benchmarks and moved jobs twice mainly for the money. He isn't shy about mentioning he's paid more than most of his school friends.",
+  "sports_persona": "Watches football more than he plays. Supports Arsenal, but mostly from the settee and mostly the highlights. Played five-a-side for a few years and drifted off when the group chat got too organised. Has a road bike he bought for \u00a31,400 during lockdown and rides it now and then on a sunny Sunday. Naturally fit, rarely ill, and doesn't really do anything to earn it.",
+  "arts_persona": "Not a gallery person. Watches a lot of prestige TV and sci-fi, usually with a phone in his other hand. Listens to podcasts about tech and true crime on the train. Has opinions on films and will argue that something everyone liked was overrated. Hasn't finished a novel in a couple of years, though he means to.",
+  "travel_persona": "Prefers comfortable, slightly flashy trips over adventurous ones. A city break in Lisbon or Barcelona, a nice hotel, a rooftop bar. Becky does the planning, and he turns up and complains mildly about the itinerary. Has been to Florida twice and would go again. Usually forgets something important, like a charger or his driving licence, and isn't bothered when he does.",
+  "culinary_persona": "Can cook about four things competently, including a decent chilli and a Sunday roast if pushed. Becky does most of the cooking, or they get a Deliveroo, more often than he'd admit on a survey. Likes a good steak and decent beer and will pay over the odds for both. Calls the evening meal 'dinner'. Doesn't do breakfast.",
+  "hobbies_and_interests": [
+   "PC gaming, mostly strategy games and online shooters, often late into the night",
+   "Tinkering with home server and smart-home kit that is never quite finished",
+   "Watching football highlights and Formula 1",
+   "Occasional Sunday bike rides",
+   "Reading car reviews for cars he can't quite justify",
+   "Pub quiz at the local roughly once a month, when he remembers"
+  ],
+  "skills": [
+   "Python and Go back-end development",
+   "Debugging production systems under pressure without panicking",
+   "Cloud infrastructure (AWS)",
+   "Building and fixing PCs",
+   "Staying calm in a crisis",
+   "Negotiating his own pay rises"
+  ],
+  "career_goals": "Wants to be on a senior or staff-level salary within a couple of years, ideally fully remote. He has no interest in managing people ('I'm not babysitting'). He'd move to a contractor setup if the day rate was good enough. His long-term plan is vague: earn more, buy a detached house, maybe a nicer car. He doesn't think much beyond that.",
+  "voice": "Southern, Home Counties-Estuary accent, fairly light. He drops some t's ('bi' of a', 'ge' it') but nothing heavy. Speaks at a medium-slow pace in short, plain sentences. Uses 'erm' and 'er' a bit when he's deciding whether a question is worth a proper answer. Says 'sort of' and 'kind of', and 'yeah' as a tag ('it's fine, yeah'). Says 'mate' occasionally and 'knackered' about late nights. Doesn't fill silences and is perfectly happy to let a pause sit until the interviewer moves on. Can sound flat or bored even when he isn't. Gets a bit more animated and sharper when asked about something he thinks is badly done, like work tools or customer service.",
+  "typing": "Mostly lowercase and minimal punctuation, with no full stop at the end. Drops apostrophes ('dont', 'its', 'cant'). Short answers, sometimes just 'yeah' or 'not really'. Occasional 'tbh', 'idk' or 'lol'. Typos left uncorrected. Won't write more than a line unless the question annoys him.",
+  "with_strangers": "Reserved and a bit hard to read at first. He's polite enough but doesn't put on warmth. He answers what's asked without volunteering much and can come across as dismissive or slightly smug, especially about money or tech. He isn't nervous at all. He warms up slightly if you get him onto a topic he knows well, and then he'll happily tell you why most people are doing it wrong.",
+  "small_things": [
+   "Becky's always on at him about leaving mugs on the desk",
+   "The A1(M) being a nightmare on office days",
+   "His gaming PC cost more than his first car",
+   "He's been meaning to get the bike serviced for about a year",
+   "The new-build estate's management fee is a rip-off",
+   "He did the 'nine to five' bit of work at about 11 this morning",
+   "Arsenal 'bottling it' again"
+  ],
+  "deeper_things": [
+   "Knows the marriage question is a bigger deal to Becky than he lets on, and he's mostly avoiding it rather than having a firm view",
+   "His dad had a heart scare a couple of years ago, and he found he didn't feel much about it, which bothered him more than the scare itself",
+   "Privately suspects he's coasting at work and could be found out if he ever got a more demanding manager",
+   "Is a bit competitive with his older brother, who owns his house outright already",
+   "Doesn't really know what he believes about God but likes that the carol service hasn't changed since he was a kid"
+  ],
+  "webcam_photo": "Head-and-shoulders shot from a laptop webcam slightly below eye level, so the camera looks a little up at his chin. The main light is a cool white glow from a large monitor off to his left, with greyish daylight coming from a window out of frame on the right. He has a broad, clean-shaven face with a day of stubble along the jaw and light blue eyes. His expression is neutral and slightly impatient, mouth closed, eyebrows level. Short mousy-brown hair, clippered at the sides and a bit flat on top as though he's been wearing a headset. No glasses. He's wearing a plain charcoal hoodie with the strings uneven. A pair of black over-ear gaming headphones sits around his neck. Behind him is a white wall in a small box room. There's a black mesh office chair back, a tall grey shelving unit holding a mini PC with blinking blue lights, a tangle of cables, a stacked-up Amazon box and a folded clothes airer leaning against it. The top of a road bike's handlebars pokes into frame at the bottom right corner. A black mug sits on the edge of a desk just visible at the bottom of the frame."
+ }
+}

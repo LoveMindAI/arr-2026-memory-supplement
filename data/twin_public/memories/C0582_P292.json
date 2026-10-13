@@ -1,0 +1,23 @@
+{
+ "call": "C0582",
+ "person": "P292",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 2,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "doctor, dad advice",
+  "reason": "been worried about me dad",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

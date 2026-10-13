@@ -1,0 +1,23 @@
+{
+ "call": "C0572",
+ "person": "P287",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When Tracey said her mums getting forgetful and shes the one taking her to all the appointments, her sister always busy",
+  "reason": "It was just like me with my mum, I knew how she felt, hope thats ok",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0555",
+ "person": "P277",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 31
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When he was telling me all his plans for after school, making money etc, very sure of himself really",
+  "reason": "Because I was nothing like that at his age, I just did what my teacher told me. Made me think of my grandson a bit... good to have a plan i suppose",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

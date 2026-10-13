@@ -1,0 +1,23 @@
+{
+ "call": "C0473",
+ "person": "P234",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 36,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Honestly the whole call was just easy, we were moaning about our husbands and holidays and both being nervous flyers lol. Didnt realise she was all the way in Cardiff doing NHS contracts, I'd assumed she was nearer",
+  "reason": "We just clicked really, same sort of stresses and same sense of humour. Felt more like chatting to a mate at brunch than a stranger tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

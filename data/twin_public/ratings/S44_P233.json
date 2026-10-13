@@ -1,0 +1,47 @@
+{
+ "session": "S44",
+ "rater": "P233",
+ "ok": true,
+ "ratings": {
+  "P231": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks serious sort of organized with all his books and stuff"
+  },
+  "P232": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "seems nice enough and has a kid too from the photo"
+  },
+  "P234": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "kitchen is very tidy erm maybe a bit posh for me"
+  },
+  "P235": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks really friendly tbh and busy with kids stuff like me"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "session": "S14",
+ "rater": "P071",
+ "ok": true,
+ "ratings": {
+  "P068": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like an engineer or project manager tbh. Organized office. Fair enough."
+  },
+  "P069": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "NHS lanyard and busy schedule. Looks competent and handles a lot."
+  },
+  "P070": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Very smiley but seems a bit disorganized with all those notes on the wall."
+  },
+  "P072": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "Bit skeptical looking. Kitchen is tidy though. Seems okay but maybe difficult."
+  }
+ }
+}

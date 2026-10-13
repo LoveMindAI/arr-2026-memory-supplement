@@ -1,0 +1,23 @@
+{
+ "call": "C0175",
+ "person": "P087",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we had a laugh about never getting round to fixing stuff",
+  "reason": "felt dead normal",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

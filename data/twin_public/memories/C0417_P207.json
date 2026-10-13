@@ -1,0 +1,23 @@
+{
+ "call": "C0417",
+ "person": "P207",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 40,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Not one moment really. We talked about work most of the call, how we both end up being the one who says the uncomfortable thing plainly, and then about a damp problem in her flat. I didn't know she works twelve-hour shifts as a senior care assistant.",
+  "reason": "Straightforward conversation. Not much wasted on padding.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

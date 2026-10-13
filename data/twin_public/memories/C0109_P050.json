@@ -1,0 +1,23 @@
+{
+ "call": "C0109",
+ "person": "P050",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got properly geeking out about Bait and Mark Jenkin near the start - didnt expect it but she'd actually seen it in Margate",
+  "reason": "nobody ever knows Bait so finding someone who'd seen it and loved it felt proper rare tbh, instant common ground",
+  "timing": 15
+ },
+ "requires_av": false,
+ "av_event": null
+}

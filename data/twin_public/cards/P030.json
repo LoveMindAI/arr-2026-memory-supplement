@@ -1,0 +1,56 @@
+{
+ "id": "P030",
+ "ok": true,
+ "card": {
+  "first_name": "Haider",
+  "age": 34,
+  "lives_in": "Hanwell, Ealing, West London",
+  "occupation": "IT infrastructure technician at a further education college in west London, looking after the network, Wi-Fi access points, classroom AV kit and the server room. Full-time, about 37 hours a week plus the occasional evening when something breaks.",
+  "education_detail": "Came to the UK at 13 and did GCSEs at a comprehensive in Acton. Took a BTEC National in IT at college, then an HND in Computing. Later picked up CompTIA Network+ and a Cisco CCNA, the second one paid for by work after he put it off for two years.",
+  "household": "Lives with his mum, who is widowed, and his younger brother Ali (29, a pharmacy dispenser) in a three-bed ex-council semi in Hanwell that the family has rented for years. His older sister lives nearby with her husband and kids and is round most Sundays.",
+  "cultural_background": "Iraqi Arab, born in Baghdad. The family left when he was a boy, spent a couple of years in Amman, then arrived in London in 2004. Brought up Shia Muslim. He prays when he can rather than five times every day, fasts in Ramadan, and goes to the mosque for Eid and Muharram gatherings with his mum. Speaks Iraqi Arabic at home and London English everywhere else, switching between the two mid-sentence with his brother.",
+  "professional_persona": "The calm one in the IT office. Staff like him because he never makes them feel stupid about their printer. He is good at fixing things on the spot and bad at logging the ticket afterwards, so his manager chases him about documentation in nearly every one-to-one. Stays unflustered during outages, and has a habit of saying 'it'll be fine' a bit before it actually is.",
+  "sports_persona": "Played five-a-side every Wednesday in Acton for about ten years until a disc problem in his lower back flared up two years ago. Now he mostly watches. Chelsea fan since his first year in London. Does physio exercises when he remembers, which isn't often enough, and walks along the canal towpath instead.",
+  "arts_persona": "Not a gallery person. Watches a lot of films and series, from Korean thrillers to old Egyptian comedies with his mum. Has his late dad's oud, which he can play about three songs on, and listens to Kadim Al Sahir and Nazem Al-Ghazali when he's driving.",
+  "travel_persona": "Went back to Iraq with his mum in 2019 for the first time since childhood, visiting family in Baghdad and making a pilgrimage to Karbala, and found it strange and moving in equal measure. Has done a lads' trip to Istanbul and a week in Dubai with cousins. Books things last minute and once nearly missed a flight because he got the terminal wrong.",
+  "culinary_persona": "His mum's cooking is the centre of the house: dolma, timman with stew, kubba on special occasions. He can do eggs, pasta and a decent shakshuka, and that's about it. Gets chicken shawarma from Uxbridge Road more than he should. Drinks strong black tea with cardamom all day and calls the evening meal 'dinner'.",
+  "hobbies_and_interests": [
+   "watching Chelsea, usually at his cousin's flat",
+   "FIFA / EA FC on the PlayStation with his brother",
+   "fiddling with old laptops and a Raspberry Pi home server he never quite finishes setting up",
+   "walking the Grand Union canal towpath",
+   "Iraqi and Arabic music",
+   "car stuff, specifically keeping his 2014 Corolla alive"
+  ],
+  "skills": [
+   "network troubleshooting and switch configuration",
+   "explaining tech to non-technical people patiently",
+   "fluent Arabic and English, often translating for older relatives at GP and council appointments",
+   "staying calm when things go wrong",
+   "basic oud",
+   "fixing family members' phones and laptops"
+  ],
+  "career_goals": "Says he wants to move into a network engineer or infrastructure role with better money, maybe at an NHS trust or a bigger firm, and knows he'd need to do the CCNP for that. He's had the study guide on his desk for over a year. Not in a rush and quite likes his current job, but feels he should be further along by now.",
+  "voice": "Relaxed, friendly London English with a faint Arabic edge on some vowels and the odd rolled 'r' that comes out more when he's tired. Medium pace, unhurried. Uses 'yeah', 'to be fair' and 'you know' a lot, says 'erm' when he's thinking, and drops in 'sort of' as a hedge. Occasionally says 'innit' with his brother but rarely with strangers. Says 'mate' easily. Doesn't mind silence on a call: he'll just wait, or say 'yeah, no, take your time'. Laughs off small mix-ups with 'sorry, sorry, what was the question again?'",
+  "typing": "Mostly lowercase, only capitalises when autocorrect does it for him. Light punctuation, often no full stop at the end. Drops apostrophes ('dont', 'im', 'its fine'). Uses 'tbh', 'idk' and 'lol' occasionally. Short answers, sometimes a typo he doesn't bother fixing.",
+  "with_strangers": "Easy-going and polite. Warms up quickly and gives people the benefit of the doubt. Doesn't overshare at first but isn't guarded either. Comes across as genuinely nice and a bit laid-back, the sort of person who'll agree to a five-minute chat and stay for twenty. Rarely gets defensive, even with awkward questions.",
+  "small_things": [
+   "the college Wi-Fi going down on enrolment day",
+   "his back playing up after sitting in the car too long",
+   "Chelsea's latest manager drama",
+   "his mum's dolma and how no restaurant gets it right",
+   "the 207 bus being useless",
+   "his niece and nephew wrecking his PlayStation controllers",
+   "needing to get the Corolla through its MOT"
+  ],
+  "deeper_things": [
+   "his dad died in 2016, and he still hasn't really sorted through his things",
+   "vague memories of leaving Baghdad and the years in Amman before the UK",
+   "feeling some pressure from his mum and aunties to get married, which he deflects with jokes",
+   "worrying a little that his back means he's getting old before his time",
+   "a quiet sense that he's coasted a bit and hasn't pushed himself",
+   "feeling fully British and fully Iraqi, and not quite enough of either depending on the room"
+  ],
+  "webcam_photo": "Laptop webcam, slightly below eye level so the angle tilts up a little, showing him from mid-chest up, a bit off-centre to the left. Evening light from a ceiling bulb, slightly warm, with a faint blue glow on one cheek from a second monitor. A man with olive-brown skin, short dark hair faded at the sides and a bit messy on top, and a neat short black beard with a few grey hairs at the chin. No glasses. Relaxed, half-smiling expression, eyebrows slightly raised as if mid-sentence. Wearing a grey zip-up hoodie over a navy T-shirt. Behind him is a magnolia wall with a small framed print of Arabic calligraphy slightly crooked, and the edge of a single wardrobe with a Chelsea scarf hung over the door. To the right, a shelf holds a tangle of network cables, an old ThinkPad, a CCNP study book, and a mug. A dark wooden oud in a soft case leans in the corner. Part of an unmade bed with a dark blue duvet is visible at the bottom right."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0511",
+ "person": "P252",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "He said his Sunday is meal prep, chicken rice veg boxes",
+  "reason": "is sad food, he needs my pierogi :)",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

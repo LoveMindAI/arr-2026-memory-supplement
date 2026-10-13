@@ -1,0 +1,23 @@
+{
+ "call": "C0075",
+ "person": "P043",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 46,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto our mums and she was describing video calling hers, and how she only ever sees a forehead or the ceiling and keeps saying lower, lower! Mine does exactly the same with her chin. She said it's the mums, everywhere the same, which made me laugh.",
+  "reason": "Felt like she was describing my mum tbh!",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

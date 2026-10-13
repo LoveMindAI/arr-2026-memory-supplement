@@ -1,0 +1,23 @@
+{
+ "call": "C0398",
+ "person": "P198",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We compared notes on studying part-time in the evenings.",
+  "reason": "It's something I know from experience myself.",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

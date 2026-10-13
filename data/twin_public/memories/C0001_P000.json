@@ -1,0 +1,25 @@
+{
+ "call": "C0001",
+ "person": "P000",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 9,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "bloke in a work tshirt went in the fridge behind her",
+  "reason": "figured it was lee her husband lol, she never even turned round, just carried on",
+  "timing": 60
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0001",
+  "turn": 14,
+  "line_text": "Everything's targets. I just tell them straight if a number's daft. Doesn't make me popular.",
+  "who": "Gemma",
+  "what": "A man in a work T-shirt walks across the kitchen behind Gemma, opens the fridge-freezer, takes something out and leaves the frame; Gemma does not turn round."
+ }
+}

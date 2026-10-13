@@ -1,0 +1,23 @@
+{
+ "call": "C0284",
+ "person": "P135",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 28
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her doing a library computer course at nearly sixty",
+  "reason": "because i'd just said i was worried about being out of the loop... and she told me not to say 'only' this and that. it proper stuck with me tbh!",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

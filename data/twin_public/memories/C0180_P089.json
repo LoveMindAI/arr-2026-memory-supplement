@@ -1,0 +1,23 @@
+{
+ "call": "C0180",
+ "person": "P089",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we talk about strictly and we both laugh because we are same, shouting at the telly on saturday night.. we were laughing together like old friends, was lovely :)",
+  "reason": "because it was fun and easy, after the serious part we just laughed together. i like when people are same like me",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

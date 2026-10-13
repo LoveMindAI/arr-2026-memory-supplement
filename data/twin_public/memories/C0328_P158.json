@@ -1,0 +1,25 @@
+{
+ "call": "C0328",
+ "person": "P158",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 18,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "after the rafael little brother bit, her smile go, she look down at the table lips pressed, then smile again",
+  "reason": "i dont know, it felt like something sad maybe",
+  "timing": 35
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0328",
+  "turn": 13,
+  "line_text": "Marites: One, Rafael. He's nine. Every day he asks me for a little brother. I say, Rafael, who will look after the baby? You? And he says no.",
+  "who": "Gemma",
+  "what": "Gemma's half-smile fades and she looks down at the table for about three seconds, lips pressed together, then looks back up at the screen and smiles again."
+ }
+}

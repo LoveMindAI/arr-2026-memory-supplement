@@ -1,0 +1,23 @@
+{
+ "call": "C0394",
+ "person": "P193",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she was easy to talk to the whole way thru, turns out shes training to do xrays at teesside",
+  "reason": "just a nice natural chat really, felt like talking to a mates daughter, no awkward bits at all",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

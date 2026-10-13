@@ -1,0 +1,23 @@
+{
+ "call": "C0323",
+ "person": "P153",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 4,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she laughed at my detective review",
+  "reason": "she looked serious in photo so was nice surprise",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

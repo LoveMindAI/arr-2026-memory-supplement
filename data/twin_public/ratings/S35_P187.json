@@ -1,0 +1,57 @@
+{
+ "session": "S35",
+ "rater": "P187",
+ "ok": true,
+ "ratings": {
+  "P184": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like a decent bloke who'd be a laugh at the pub."
+  },
+  "P185": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Quiet, seems like a hard worker, maybe reminds me a bit of Sophie."
+  },
+  "P186": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 0,
+   "gut": "A bit knackered to be honest, probably just wants to get this done."
+  },
+  "P188": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Seems practical and focused, wouldn't mess about."
+  },
+  "P189": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Very polite, reminds me of my mum's friends at the GP surgery."
+  }
+ }
+}

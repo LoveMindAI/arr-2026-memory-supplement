@@ -1,0 +1,23 @@
+{
+ "call": "C0004",
+ "person": "P000",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he said hes a cad technician, draws where the pipes and ducts go",
+  "reason": "had him down as a paperwork bloke but hes sort of our trade really",
+  "timing": 15
+ },
+ "requires_av": false,
+ "av_event": null
+}

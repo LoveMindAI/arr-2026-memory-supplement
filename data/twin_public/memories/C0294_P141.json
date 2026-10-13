@@ -1,0 +1,23 @@
+{
+ "call": "C0294",
+ "person": "P141",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 78,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "not one bit really, more the whole call. he was just easy to talk to, like talking to a lad at work or down the pub. he talked the same way as round here, kept saying ar and laughing at stuff, and it never felt awkward even when i was giving short answers. he just carried on and matched me, moaned about the same sort of stuff i moan about. by the end it felt like wed known each other a bit tbh",
+  "reason": "most of these calls feel a bit forced but that one didnt, felt normal. dont get that much with people i dont know",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

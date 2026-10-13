@@ -1,0 +1,23 @@
+{
+ "call": "C0571",
+ "person": "P291",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 65,
+  "reason": 47
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said she finished the puzzle with a minute to spare and i said course you did and she got a bit sharp, sorry whats that supposed to mean. i said she looked organised cos of the calendar behind her and she said guilty, its colour coded by child, her girl ruby just started secondary and the homeworks ridiculous so she has to keep track of it all",
+  "reason": "it was the only bit where it went a bit awkward for a sec, i didnt mean nothing by it tbh. and the calendar thing was spot on what i thought she'd be like from her photo so that sort of stuck, know what i mean",
+  "timing": 72
+ },
+ "requires_av": false,
+ "av_event": null
+}

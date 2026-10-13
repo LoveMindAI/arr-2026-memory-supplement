@@ -1,0 +1,23 @@
+{
+ "call": "C0268",
+ "person": "P131",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about growing chillies and tomatoes, comparing how ours had done this year. turns out he grows his on a balcony",
+  "reason": "didnt expect to have that in common, it's something i love doing",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

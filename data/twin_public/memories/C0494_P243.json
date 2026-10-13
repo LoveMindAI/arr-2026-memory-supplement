@@ -1,0 +1,23 @@
+{
+ "call": "C0494",
+ "person": "P243",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 45,
+  "reason": 39
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Near the end we talked about our fathers. Both of them have had a heart scare, mine two years ago. We talked about how you watch your parents differently after that. I learned his dad lives close to him and still goes up ladders.",
+  "reason": "Because it's the thing I worry about most and I don't usually say it to strangers. It felt like he actually understood it, not just being polite. That doesn't happen often, so it stayed with me.",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

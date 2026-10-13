@@ -1,0 +1,23 @@
+{
+ "call": "C0182",
+ "person": "P087",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she got on at me about krakow saying ive got no excuse now and shes holding me to it so i said id look tonight",
+  "reason": "felt like encouragement",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

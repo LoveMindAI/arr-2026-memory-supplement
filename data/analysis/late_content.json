@@ -1,0 +1,240 @@
+{
+ "models": {
+  "topic": {
+   "late_n": 1805,
+   "top": [
+    [
+     "WORK_EDUCATION_SERVICE",
+     0.074
+    ],
+    [
+     "PLACE_TRAVEL",
+     -0.045
+    ],
+    [
+     "PLANS_EVENTS",
+     0.033
+    ]
+   ]
+  },
+  "remembered": {
+   "late_n": 1805,
+   "top": [
+    [
+     "DID_TOGETHER",
+     -0.09
+    ],
+    [
+     "REPORTER_SAID_OR_DID",
+     0.032
+    ],
+    [
+     "SITUATION",
+     0.026
+    ]
+   ]
+  },
+  "personal_kinds": {
+   "late_n": 1802,
+   "top": [
+    [
+     "THOUGHTS_EVENTS_PLANS",
+     0.041
+    ],
+    [
+     "FEELINGS_MILD",
+     -0.03
+    ],
+    [
+     "NOTHING",
+     0.026
+    ]
+   ]
+  },
+  "matters_for": {
+   "late_n": 1770,
+   "top": [
+    [
+     "CONNECTION",
+     -0.078
+    ],
+    [
+     "NONE",
+     0.077
+    ],
+    [
+     "FUTURE",
+     0.006
+    ]
+   ]
+  },
+  "reason.first": {
+   "late_n": 1805,
+   "top": [
+    [
+     "US",
+     -0.08
+    ],
+    [
+     "PARTNER",
+     0.042
+    ],
+    [
+     "CALL",
+     0.025
+    ]
+   ]
+  },
+  "feelings": {
+   "late_n": 1803,
+   "top": [
+    [
+     "RELIEF",
+     -0.055
+    ],
+    [
+     "OTHER",
+     0.023
+    ],
+    [
+     "JOY",
+     0.018
+    ]
+   ]
+  },
+  "extent": {
+   "late_n": 1805,
+   "top": [
+    [
+     "LONGER",
+     -0.053
+    ],
+    [
+     "ONE_MOMENT",
+     0.053
+    ]
+   ]
+  }
+ },
+ "people": {
+  "topic": {
+   "late_n": 189,
+   "top": [
+    [
+     "PLANS_EVENTS",
+     0.051
+    ],
+    [
+     "HOBBIES_INTERESTS_MEDIA",
+     -0.034
+    ],
+    [
+     "OTHER",
+     0.03
+    ]
+   ]
+  },
+  "remembered": {
+   "late_n": 189,
+   "top": [
+    [
+     "PARTNER_SAID_OR_DID",
+     0.101
+    ],
+    [
+     "PARTNER_FACT_OR_QUALITY",
+     -0.076
+    ],
+    [
+     "DID_TOGETHER",
+     -0.05
+    ]
+   ]
+  },
+  "personal_kinds": {
+   "late_n": 187,
+   "top": [
+    [
+     "THOUGHTS_EVENTS_PLANS",
+     0.051
+    ],
+    [
+     "INFO_GENERAL",
+     -0.022
+    ],
+    [
+     "INFO_REVEALING",
+     -0.014
+    ]
+   ]
+  },
+  "matters_for": {
+   "late_n": 178,
+   "top": [
+    [
+     "NONE",
+     0.027
+    ],
+    [
+     "FUTURE",
+     -0.013
+    ],
+    [
+     "CONNECTION",
+     -0.01
+    ]
+   ]
+  },
+  "reason.first": {
+   "late_n": 188,
+   "top": [
+    [
+     "CALL",
+     -0.035
+    ],
+    [
+     "PARTNER",
+     0.033
+    ],
+    [
+     "WORLD",
+     -0.023
+    ]
+   ]
+  },
+  "feelings": {
+   "late_n": 188,
+   "top": [
+    [
+     "SURPRISE",
+     0.025
+    ],
+    [
+     "TRUST",
+     -0.015
+    ],
+    [
+     "FEAR",
+     -0.014
+    ]
+   ]
+  },
+  "extent": {
+   "late_n": 189,
+   "top": [
+    [
+     "LONGER",
+     0.037
+    ],
+    [
+     "NOT_AN_EVENT",
+     -0.029
+    ],
+    [
+     "ONE_MOMENT",
+     -0.008
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "recipe": "SOURCES.md 1F (decided by the coordinator for A1, Oct 11): base = unweighted average of the eight Western adult samples in Garcia et al. 2022 Supporting Information Table A3 (centre = mean of the sexes' means, s = mean of the sexes' SDs); sex split = UK d from Lee & Ashton 2020 Table 2 (p.1082; age-corrected; HEXACO-100), women centre + d*s/2, men centre - d*s/2; domains multivariate normal with Garcia SI Table A10 averaged intercorrelations, SD = s within sex, clipped 1-5; Honesty-Humility age term (.145/17.32)*s*(age - 41.6) (Garcia Table 4 p.267 median r; SD age p.259; base mean age 41.6 from Table A1)",
+ "by_sex": {
+  "Female": {
+   "Honesty-Humility": {
+    "mean": 3.6994,
+    "sd": 0.661
+   },
+   "Emotionality": {
+    "mean": 3.4425,
+    "sd": 0.568
+   },
+   "Extraversion": {
+    "mean": 3.4116,
+    "sd": 0.583
+   },
+   "Agreeableness": {
+    "mean": 3.1985,
+    "sd": 0.574
+   },
+   "Conscientiousness": {
+    "mean": 3.6652,
+    "sd": 0.574
+   },
+   "Openness to Experience": {
+    "mean": 3.3488,
+    "sd": 0.656
+   }
+  },
+  "Male": {
+   "Honesty-Humility": {
+    "mean": 3.4086,
+    "sd": 0.661
+   },
+   "Emotionality": {
+    "mean": 2.8915,
+    "sd": 0.568
+   },
+   "Extraversion": {
+    "mean": 3.4524,
+    "sd": 0.583
+   },
+   "Agreeableness": {
+    "mean": 3.2215,
+    "sd": 0.574
+   },
+   "Conscientiousness": {
+    "mean": 3.6308,
+    "sd": 0.574
+   },
+   "Openness to Experience": {
+    "mean": 3.4472,
+    "sd": 0.656
+   }
+  }
+ },
+ "domain_correlations": [
+  [
+   1.0,
+   0.02,
+   0.05,
+   0.29,
+   0.25,
+   0.08
+  ],
+  [
+   0.02,
+   1.0,
+   -0.18,
+   -0.08,
+   -0.02,
+   -0.06
+  ],
+  [
+   0.05,
+   -0.18,
+   1.0,
+   0.13,
+   0.19,
+   0.16
+  ],
+  [
+   0.29,
+   -0.08,
+   0.13,
+   1.0,
+   0.12,
+   0.09
+  ],
+  [
+   0.25,
+   -0.02,
+   0.19,
+   0.12,
+   1.0,
+   0.13
+  ],
+  [
+   0.08,
+   -0.06,
+   0.16,
+   0.09,
+   0.13,
+   1.0
+  ]
+ ],
+ "hh_age": {
+  "r": 0.145,
+  "age_sd": 17.32,
+  "centre_age": 41.6
+ }
+}

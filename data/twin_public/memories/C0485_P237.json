@@ -1,0 +1,23 @@
+{
+ "call": "C0485",
+ "person": "P237",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We spent a fair bit of the call talking about kids, school and grades.",
+  "reason": "It's something I think about a lot, so it stuck with me.",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

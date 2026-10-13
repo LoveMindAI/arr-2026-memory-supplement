@@ -1,0 +1,47 @@
+{
+ "session": "S31",
+ "rater": "P168",
+ "ok": true,
+ "ratings": {
+  "P164": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "very loud rugby fan but probably decent man"
+  },
+  "P165": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like she works hard and doesn't fuss"
+  },
+  "P166": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "quiet student reminds me of my students who actually study"
+  },
+  "P167": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "looks tired and maybe a bit messy for me"
+  }
+ }
+}

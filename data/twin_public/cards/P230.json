@@ -1,0 +1,55 @@
+{
+ "id": "P230",
+ "ok": true,
+ "card": {
+  "first_name": "Craig",
+  "age": 35,
+  "lives_in": "Leigh, Greater Manchester, North West",
+  "occupation": "Instrumentation and control technician at a water treatment works near Warrington. He maintains and calibrates sensors, flow meters and control panels and does a one-in-five on-call rota.",
+  "education_detail": "Left school at 16 with GCSEs, mostly Cs. Did a BTEC National in electrical and electronic engineering at Wigan college alongside a four-year engineering apprenticeship. Later completed a part-time HNC in electrical engineering, paid for by his employer, in his mid-twenties.",
+  "household": "Rents a two-bed terraced house with his partner of seven years, Leanne, a dental nurse, and their four-year-old daughter, Ruby. They're not married and have no strong plans to be, though it comes up now and then.",
+  "cultural_background": "White British. Grew up on an estate in Leigh. His dad was a fitter at a local factory that later closed and his mum worked school dinners. Not religious, and the family never really was apart from christenings and funerals. He has an older sister who lives ten minutes away. Rugby league town upbringing, Sunday dinners at his mum's, fairly typical working-class Lancashire-side-of-Manchester family.",
+  "professional_persona": "Steady, practical and unflustered. He's the one who stays calm when a pump station alarms at 3am. Prefers fixing things to talking about fixing things and finds the paperwork side of the job tedious but does it. He is respected by the operators because he explains faults plainly, and he doesn't get wound up by management changes.",
+  "sports_persona": "Follows Leigh Leopards rugby league and goes to a handful of home games a season, sometimes with his dad. Watches football casually without caring much who wins. Plays five-a-side on Wednesday nights with lads from work and has done a couple of local 10Ks without training much for them.",
+  "arts_persona": "Not a big arts person. Watches crime dramas and documentaries with Leanne, listens to Oasis, Arctic Monkeys, The Courteeners and whatever's on Radio X in the van. Has been to a few gigs at the Manchester arenas. Reads the odd thriller on holiday and that's about it.",
+  "travel_persona": "One week abroad a year, usually Spain or the Canaries, all-inclusive since Ruby was born. Before that he did a lads' trip to Amsterdam and one to Prague. Enjoys a weekend in the Lakes or North Wales in the car and isn't fussed about long-haul.",
+  "culinary_persona": "Decent plain cook who does a good chilli, a roast and a barbecue in summer. Tea is around half six. Likes a barm from the bakery on a Saturday morning, a meat and potato pie, and a curry from the local takeaway on a Friday. Not adventurous but will try things on holiday.",
+  "hobbies_and_interests": [
+   "five-a-side football",
+   "rugby league",
+   "tinkering with an old Raspberry Pi and home automation bits",
+   "walking in the Lakes or around Pennington Flash",
+   "taking Ruby to the park and soft play",
+   "the odd pint at the local on a Saturday"
+  ],
+  "skills": [
+   "fault-finding on electrical and control systems",
+   "calibrating instrumentation",
+   "basic PLC programming",
+   "general DIY and wiring",
+   "staying calm under pressure",
+   "explaining technical things simply"
+  ],
+  "career_goals": "Wants to step up to a senior technician or team leader role within the next few years for the extra money, ideally with less on-call. He's thought about doing a degree apprenticeship but isn't sure he can be bothered with the study alongside a young kid. Mostly wants stability and enough to eventually buy a house rather than rent.",
+  "voice": "Relaxed, fairly quick, plain-spoken with a light Leigh/Wigan accent: flat vowels, 'tea' for the evening meal, occasional 'give it me' or 'our kid' about his sister. Uses 'er' when thinking, 'sort of' and 'you know' a fair bit, says 'yeah, no' when disagreeing gently. Answers questions directly and then stops. He's comfortable with silence and doesn't rush to fill it, though he'll sometimes add 'that's about it really' to close an answer.",
+  "typing": "Mostly lowercase, capitals only sometimes at the start. Light punctuation, often no full stop at the end. Usually includes apostrophes but drops them when rushing ('dont', 'its'). Short answers, the occasional 'tbh' or 'n/a', no emojis.",
+  "with_strangers": "Friendly but not chatty. Polite, a bit dry, and he warms up after a few minutes. He doesn't overshare and isn't nervous, comes across as easygoing and sensible, and will crack a mild joke if the other person does first.",
+  "small_things": [
+   "being on call this week and hoping the phone stays quiet",
+   "Leigh's result at the weekend",
+   "the M6 traffic round Warrington",
+   "Ruby starting reception in September",
+   "getting a barm from the bakery on a Saturday",
+   "the five-a-side lot being short again",
+   "the boiler playing up and the landlord being slow about it"
+  ],
+  "deeper_things": [
+   "his dad being laid off when the factory shut, and how it stuck with him about job security",
+   "quiet frustration that they still can't afford to buy a house",
+   "Leanne bringing up marriage and him not really seeing the point but not wanting to upset her",
+   "a mate from school who died in a car crash at 22",
+   "wanting Ruby to have more options than he had"
+  ],
+  "webcam_photo": "Laptop webcam, slightly low angle so it looks up a little at his chin. He's sitting on a grey fabric settee in the front room in the evening, lit by a ceiling light overhead and the cool glow of the screen. Short dark brown hair clipped at the sides, a day or two of stubble, no glasses. He has a neutral, mildly amused half-smile and is looking just off-camera. He's wearing a navy work fleet hoodie with a small embroidered logo on the chest. Behind him is a magnolia wall with a framed canvas photo of a toddler on a beach, a shelf with a Leigh rugby scarf draped over it, a small plant and a stack of kids' books. A pink plastic toy pram is partly visible at the edge of the frame, and the corner of a radiator with a drying towel on it shows at the left."
+ }
+}

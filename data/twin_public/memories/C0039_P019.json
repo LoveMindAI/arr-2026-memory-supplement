@@ -1,0 +1,23 @@
+{
+ "call": "C0039",
+ "person": "P019",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked car boot sales and haggling, she does sewing on old machine",
+  "reason": "thats my thing, car boot, haggling, i could actually help her, cheap industrial machine for a tenner is real money for her business",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,31 @@
+{
+ "sets": [
+  "set1",
+  "set2"
+ ],
+ "extent": {
+  "items": 120,
+  "rater_rater_kappa": 0.161,
+  "rater_alpha": 0.177,
+  "claude-haiku-5.5_rater_kappa": 0.301,
+  "claude-haiku-5.5_matches_majority": 0.6,
+  "gpt-6-luna_rater_kappa": 0.329,
+  "gpt-6-luna_matches_majority": 0.6
+ },
+ "new_info": {
+  "items": 120,
+  "rater_rater_kappa": 0.185,
+  "rater_alpha": 0.215,
+  "claude-haiku-5.5_rater_kappa": 0.378,
+  "claude-haiku-5.5_matches_majority": 0.758,
+  "gpt-6-luna_rater_kappa": 0.334,
+  "gpt-6-luna_matches_majority": 0.75
+ },
+ "remembered": {
+  "items": 120,
+  "rater_rater_jaccard": 0.353,
+  "claude-haiku-5.5_rater_jaccard": 0.42,
+  "gpt-6-luna_rater_jaccard": 0.428
+ },
+ "complete": true
+}

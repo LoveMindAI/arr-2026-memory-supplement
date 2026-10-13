@@ -1,0 +1,23 @@
+{
+ "call": "C0364",
+ "person": "P176",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 59
+ },
+ "ok": true,
+ "answers": {
+  "moment": "kerry saying she quit her btec at sunderland college for the wage",
+  "reason": "cos shed been proper having a go at me about not going to lectures, then she just goes oh i left college in second year anyway lol. didnt expect that, she seemed like the type whod done everything by the book. ngl i had her down as boring from the lanyard pic but she was alright tbh, bit blunt",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

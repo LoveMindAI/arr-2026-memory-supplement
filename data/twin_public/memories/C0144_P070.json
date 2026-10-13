@@ -1,0 +1,23 @@
+{
+ "call": "C0144",
+ "person": "P070",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 26,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We just clicked over both being self-employed, having a good moan about customers wanting things for nothing and waiting to be paid. I hadn't known she's a painter and decorator on her own!",
+  "reason": "We're in the same boat.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

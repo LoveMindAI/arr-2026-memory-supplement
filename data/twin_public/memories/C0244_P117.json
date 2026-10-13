@@ -1,0 +1,23 @@
+{
+ "call": "C0244",
+ "person": "P117",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked for a while about my mum's tablets and her dosette box. I hadn't known Rana used to be a pharmacist.",
+  "reason": "It's something I worry about a lot, and it helped.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

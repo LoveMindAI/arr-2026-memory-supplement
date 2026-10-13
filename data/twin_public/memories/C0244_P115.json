@@ -1,0 +1,23 @@
+{
+ "call": "C0244",
+ "person": "P115",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We spent a good stretch on older relatives not taking their tablets properly, why it happens, and how to get a proper medicines review. Basically my thesis, unprompted.",
+  "reason": "It's my research area, so I was actually engaged rather than just making conversation.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

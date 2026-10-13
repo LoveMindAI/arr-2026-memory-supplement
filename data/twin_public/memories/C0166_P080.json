@@ -1,0 +1,23 @@
+{
+ "call": "C0166",
+ "person": "P080",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "talking about doing me sewing proper again and me worrying about money",
+  "reason": "its on me mind tbh",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

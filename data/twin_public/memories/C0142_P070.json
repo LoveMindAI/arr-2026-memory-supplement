@@ -1,0 +1,23 @@
+{
+ "call": "C0142",
+ "person": "P070",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 41,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Honestly it was the whole call really. We just clicked straight away and chatted like we'd known each other for years, laughing about everyday stuff and swapping notes on how we get through a busy week. It felt like a proper natter, you know.",
+  "reason": "Because it felt so easy and normal, like talking to an old friend!",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

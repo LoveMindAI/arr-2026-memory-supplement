@@ -1,0 +1,23 @@
+{
+ "call": "C0289",
+ "person": "P135",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 40
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said i should go for it... that reception's mostly just staying calm when someone's panicking!",
+  "reason": "because that's the one thing i know i'm good at tbh... i'd been saying all day i'm out of the loop, and she made it sound like i've actually got something to offer. second person to tell me today, so maybe i should listen!",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

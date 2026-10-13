@@ -1,0 +1,25 @@
+{
+ "call": "C0214",
+ "person": "P099",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 17,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her spaniel jumped on the bed behind her, did a little spin and flopped down and just stayed there lol",
+  "reason": "cos we'd literally just been talking about biscuit and then there he was lol, sooo cute, i kept looking at him instead of her tbh x",
+  "timing": 15
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0214",
+  "turn": 14,
+  "line_text": "[laughs] I do caf\u00e9 shifts at a garden centre in the holidays, so I'd be okay with the coffee. Not the cocktails.",
+  "who": "Hannah",
+  "what": "A cocker spaniel jumps up onto the single bed with the sage-green duvet in the lower right corner of Hannah's frame, turns round once and lies down, staying partly visible for the rest of the call."
+ }
+}

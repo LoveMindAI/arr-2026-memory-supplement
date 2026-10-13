@@ -1,0 +1,2081 @@
+[
+ {
+  "key": "mudunuri-etal-2026-bounded",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Bounded Conversational Memory with Hybrid Retrieval and Evidence Highlighting for Multi-Session Dialogue Systems",
+  "venue": "Proceedings of the 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+  "url": "https://aclanthology.org/2026.sigdial-1.55/",
+  "doi": "10.18653/v1/2026.sigdial-1.55",
+  "hits": [
+   "long-term memory",
+   "conversational memory",
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "session"
+  ],
+  "idx": 0,
+  "incl": "I",
+  "incl_reason": "memory layer for multi-session dialogue; LoCoMo/LongMemEval"
+ },
+ {
+  "key": "ganguly-2026-fractional",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems",
+  "venue": "Proceedings of the 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+  "url": "https://aclanthology.org/2026.sigdial-1.60/",
+  "doi": "10.18653/v1/2026.sigdial-1.60",
+  "hits": [
+   "memory management"
+  ],
+  "conv": [
+   "dialog"
+  ],
+  "idx": 1,
+  "incl": "X",
+  "incl_reason": "KV-cache eviction (rule 5: KV-cache/efficiency)"
+ },
+ {
+  "key": "na-etal-2026-multi",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Multi-Session Client-Centered Treatment Outcome Evaluation in Psychotherapy",
+  "venue": "Proceedings of the Fifteenth Language Resources and Evaluation Conference",
+  "url": "https://aclanthology.org/2026.lrec-1.231/",
+  "doi": "10.63317/3am66kas7b32",
+  "hits": [
+   "multi-session"
+  ],
+  "conv": [
+   "session"
+  ],
+  "idx": 2,
+  "incl": "X",
+  "incl_reason": "psychotherapy outcome evaluation from client records; no AI memory of conversation"
+ },
+ {
+  "key": "sun-etal-2026-dual",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "A Dual-Phase Self-Evolution Framework for Large Language Models",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.37/",
+  "doi": "10.18653/v1/2026.findings-acl.37",
+  "hits": [
+   "memory-augmented",
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 3,
+  "incl": "B",
+  "incl_reason": "self-evolving post-training w/ user interaction signals; long-term dialogue tasks"
+ },
+ {
+  "key": "sun-etal-2026-preference",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Preference-Aware Memory Update for Long-Term LLM Agents",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.38/",
+  "doi": "10.18653/v1/2026.findings-acl.38",
+  "hits": [
+   "long-term memory",
+   "memory mechanism",
+   "long-term conversation"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 4,
+  "incl": "I",
+  "incl_reason": "preference-aware memory update; LoCoMo"
+ },
+ {
+  "key": "lan-etal-2026-ema",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "EMA: An Episodic Memory Agent for Efficient and Selective Memory",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.250/",
+  "doi": "10.18653/v1/2026.findings-acl.250",
+  "hits": [
+   "long-term memory",
+   "episodic memory",
+   "memory-augmented",
+   "memory mechanism"
+  ],
+  "conv": [
+   "dialog",
+   "conversation"
+  ],
+  "idx": 5,
+  "incl": "I",
+  "incl_reason": "episodic memory agent for multi-turn consistency; two benchmarks"
+ },
+ {
+  "key": "xin-etal-2026-metamem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "MetaMem: Evolving Meta-Memory for Knowledge Utilization through Self-Reflective Symbolic Optimization",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.270/",
+  "doi": "10.18653/v1/2026.findings-acl.270",
+  "hits": [
+   "memory system"
+  ],
+  "conv": [
+   "session"
+  ],
+  "idx": 6,
+  "incl": "I",
+  "incl_reason": "meta-memory for long-horizon human-LLM interaction memory"
+ },
+ {
+  "key": "an-etal-2026-permemsafe",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "PerMemSafe: Benchmarking Implicit Personalized Safety of Long Horizon Self-Evolving Agents",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.320/",
+  "doi": "10.18653/v1/2026.findings-acl.320",
+  "hits": [
+   "long-horizon conversation"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 7,
+  "incl": "I",
+  "incl_reason": "personalized-safety benchmark for memory-equipped agents (long-horizon conversations)"
+ },
+ {
+  "key": "zheng-etal-2026-evaluating",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Evaluating Memory Capability in Continuous Lifelog Scenario",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.351/",
+  "doi": "10.18653/v1/2026.findings-acl.351",
+  "hits": [
+   "memory system"
+  ],
+  "conv": [
+   "conversation",
+   "chat"
+  ],
+  "idx": 8,
+  "incl": "I",
+  "incl_reason": "memory of lifelogged ambient conversations (wearables); benchmark"
+ },
+ {
+  "key": "ye-etal-2026-memweaver",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "MemWeaver: Weaving Hybrid Memories for Traceable Long-Horizon Agentic Reasoning",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.630/",
+  "doi": "10.18653/v1/2026.findings-acl.630",
+  "hits": [
+   "memory system"
+  ],
+  "conv": [
+   "session"
+  ],
+  "idx": 9,
+  "incl": "I",
+  "incl_reason": "hybrid memory; LoCoMo"
+ },
+ {
+  "key": "bian-etal-2026-realmem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.703/",
+  "doi": "10.18653/v1/2026.findings-acl.703",
+  "hits": [
+   "memory system"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "session"
+  ],
+  "idx": 10,
+  "incl": "I",
+  "incl_reason": "benchmark: cross-session project dialogues"
+ },
+ {
+  "key": "wang-etal-2026-psychological",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.818/",
+  "doi": "10.18653/v1/2026.findings-acl.818",
+  "hits": [
+   "multi-session"
+  ],
+  "conv": [
+   "conversation",
+   "session"
+  ],
+  "idx": 11,
+  "incl": "B",
+  "incl_reason": "multi-session counseling model/dataset; memory role unclear"
+ },
+ {
+  "key": "wang-etal-2026-codemem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.834/",
+  "doi": "10.18653/v1/2026.findings-acl.834",
+  "hits": [
+   "memory management"
+  ],
+  "conv": [
+   "session"
+  ],
+  "idx": 12,
+  "incl": "X",
+  "incl_reason": "code-generation session memory (rule 5: task memory, not conversation)"
+ },
+ {
+  "key": "zhuoning-etal-2026-mentor",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "MENTOR: Mitigating Identity Drift in Dynamic Role-Playing via Dual-Chain Structured Memory",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1046/",
+  "doi": "10.18653/v1/2026.findings-acl.1046",
+  "hits": [
+   "memory mechanism"
+  ],
+  "conv": [
+   "session"
+  ],
+  "idx": 13,
+  "incl": "B",
+  "incl_reason": "multi-user role switching within a session; per-role memory"
+ },
+ {
+  "key": "li-etal-2026-timem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "TiMem: Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1091/",
+  "doi": "10.18653/v1/2026.findings-acl.1091",
+  "hits": [
+   "long-horizon conversation"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 14,
+  "incl": "I",
+  "incl_reason": "temporal-hierarchical memory; LoCoMo/LongMemEval"
+ },
+ {
+  "key": "pan-etal-2026-psycheval",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "PsychEval: A Multi-Session and Multi-Therapy Benchmark for High-Realism AI Psychological Counselor",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1115/",
+  "doi": "10.18653/v1/2026.findings-acl.1115",
+  "hits": [
+   "multi-session"
+  ],
+  "conv": [
+   "session"
+  ],
+  "idx": 15,
+  "incl": "B",
+  "incl_reason": "multi-session counseling benchmark; memory continuity is one capability"
+ },
+ {
+  "key": "li-etal-2026-longmp",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "LongMP-Bench: A Benchmark for Multimodal Persona Understanding in Long-Term Dialogues",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1159/",
+  "doi": "10.18653/v1/2026.findings-acl.1159",
+  "hits": [
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 16,
+  "incl": "I",
+  "incl_reason": "benchmark: persona understanding in long-term multimodal dialogues"
+ },
+ {
+  "key": "zhang-pei-2026-llm",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored Tool Use",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1257/",
+  "doi": "10.18653/v1/2026.findings-acl.1257",
+  "hits": [
+   "memory management"
+  ],
+  "conv": [
+   "session"
+  ],
+  "idx": 17,
+  "incl": "X",
+  "incl_reason": "security: data exfiltration via backdoored tools"
+ },
+ {
+  "key": "uddin-etal-2026-recall",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1337/",
+  "doi": "10.18653/v1/2026.findings-acl.1337",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "conversation",
+   "session"
+  ],
+  "idx": 18,
+  "incl": "I",
+  "incl_reason": "benchmark Memora: long-term memory for personalized agents"
+ },
+ {
+  "key": "van-etal-2026-memorai",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "MemORAI: Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1408/",
+  "doi": "10.18653/v1/2026.findings-acl.1408",
+  "hits": [
+   "memory system"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 19,
+  "incl": "I",
+  "incl_reason": "graph memory; LoCoMo/LongMemEval"
+ },
+ {
+  "key": "cao-etal-2026-higmem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1690/",
+  "doi": "10.18653/v1/2026.findings-acl.1690",
+  "hits": [
+   "memory system",
+   "long-term conversation"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 20,
+  "incl": "I",
+  "incl_reason": "hierarchical memory; long-term conversational agents"
+ },
+ {
+  "key": "huang-etal-2026-licomemory",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "LiCoMemory: Lightweight and Cognitive Agentic Memory for Efficient Long-Term Reasoning",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1835/",
+  "doi": "10.18653/v1/2026.findings-acl.1835",
+  "hits": [
+   "long-term dialogue",
+   "long-term dialog",
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "session"
+  ],
+  "idx": 21,
+  "incl": "I",
+  "incl_reason": "agentic memory; LoCoMo/LongMemEval"
+ },
+ {
+  "key": "li-etal-2026-bmam",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "BMAM: Brain-inspired Multi-Agent Memory Framework",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.1973/",
+  "doi": "10.18653/v1/2026.findings-acl.1973",
+  "hits": [
+   "memory-augmented",
+   "memory system",
+   "multi-session"
+  ],
+  "conv": [
+   "session"
+  ],
+  "idx": 22,
+  "incl": "I",
+  "incl_reason": "brain-inspired memory; LoCoMo"
+ },
+ {
+  "key": "fu-etal-2026-enpmr",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+  "url": "https://aclanthology.org/2026.findings-acl.2080/",
+  "doi": "10.18653/v1/2026.findings-acl.2080",
+  "hits": [
+   "memory-augmented"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 23,
+  "incl": "I",
+  "incl_reason": "benchmark: proactive memory retrieval for emotional support"
+ },
+ {
+  "key": "sun-etal-2026-h",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "H-MEM: Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents",
+  "venue": "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.eacl-long.15/",
+  "doi": "10.18653/v1/2026.eacl-long.15",
+  "hits": [
+   "long-term memory",
+   "memory mechanism",
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 24,
+  "incl": "I",
+  "incl_reason": "hierarchical memory for long-term agents; five task settings"
+ },
+ {
+  "key": "zhou-etal-2026-amory",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Amory: Building Coherent Narrative-Driven Agent Memory through Agentic Reasoning",
+  "venue": "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.eacl-long.183/",
+  "doi": "10.18653/v1/2026.eacl-long.183",
+  "hits": [
+   "long-term conversation"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 25,
+  "incl": "I",
+  "incl_reason": "narrative agent memory; LoCoMo"
+ },
+ {
+  "key": "ye-etal-2026-h",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "H-Mem: Hybrid Multi-Dimensional Memory Management for Long-Context Conversational Agents",
+  "venue": "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.eacl-long.363/",
+  "doi": "10.18653/v1/2026.eacl-long.363",
+  "hits": [
+   "memory management"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 26,
+  "incl": "I",
+  "incl_reason": "hybrid memory for long-context conversational agents; long-context QA"
+ },
+ {
+  "key": "shen-etal-2026-mem2actbench",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.370/",
+  "doi": "10.18653/v1/2026.acl-long.370",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "assistant",
+   "session"
+  ],
+  "idx": 27,
+  "incl": "B",
+  "incl_reason": "memory of earlier sessions applied to tool actions (user preferences across sessions)"
+ },
+ {
+  "key": "zhang-etal-2026-lightweight",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Lightweight LLM Agent Memory with Small Language Models",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.588/",
+  "doi": "10.18653/v1/2026.acl-long.588",
+  "hits": [
+   "long-term memory",
+   "memory system"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 28,
+  "incl": "I",
+  "incl_reason": "SLM agent memory; long-horizon interactions"
+ },
+ {
+  "key": "zhao-etal-2026-inside",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.614/",
+  "doi": "10.18653/v1/2026.acl-long.614",
+  "hits": [
+   "memory system"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 29,
+  "incl": "I",
+  "incl_reason": "user-centric memory trees for long-term personalized dialogue"
+ },
+ {
+  "key": "zhu-etal-2026-hela",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.625/",
+  "doi": "10.18653/v1/2026.acl-long.625",
+  "hits": [
+   "long-term memory",
+   "episodic memory",
+   "memory system"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 30,
+  "incl": "I",
+  "incl_reason": "Hebbian associative memory for agents (conversation history)"
+ },
+ {
+  "key": "banerjee-etal-2026-apex",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.749/",
+  "doi": "10.18653/v1/2026.acl-long.749",
+  "hits": [
+   "conversational memory",
+   "memory system",
+   "long-term conversation"
+  ],
+  "conv": [
+   "conversation",
+   "session"
+  ],
+  "idx": 31,
+  "incl": "I",
+  "incl_reason": "semi-structured memory; LoCoMo/LongMemEval"
+ },
+ {
+  "key": "li-etal-2026-locomo",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1150/",
+  "doi": "10.18653/v1/2026.acl-long.1150",
+  "hits": [
+   "conversational memory",
+   "memory system",
+   "long-term conversation"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 32,
+  "incl": "I",
+  "incl_reason": "benchmark LoCoMo-Plus: beyond-factual memory"
+ },
+ {
+  "key": "hu-etal-2026-memory-need",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Does Memory Need Graphs? A Unified Framework and Empirical Analysis for Long-Term Dialog Memory",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1232/",
+  "doi": "10.18653/v1/2026.acl-long.1232",
+  "hits": [
+   "dialog memory",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog"
+  ],
+  "idx": 33,
+  "incl": "I",
+  "incl_reason": "unified framework/analysis of long-term dialog memory (abstract empty in export)"
+ },
+ {
+  "key": "guo-etal-2026-personalization",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1260/",
+  "doi": "10.18653/v1/2026.acl-long.1260",
+  "hits": [
+   "long-term memory",
+   "memory-augmented"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 34,
+  "incl": "B",
+  "incl_reason": "safety of memory-equipped personalized agents (PS-Bench)"
+ },
+ {
+  "key": "shen-etal-2026-membuilder",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "MemBuilder: Reinforcing LLMs for Long-Term Memory Construction via Attributed Dense Rewards",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1284/",
+  "doi": "10.18653/v1/2026.acl-long.1284",
+  "hits": [
+   "long-term memory",
+   "memory-augmented",
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "session"
+  ],
+  "idx": 35,
+  "incl": "I",
+  "incl_reason": "RL for long-term memory construction in dialogue"
+ },
+ {
+  "key": "wu-etal-2026-knowme",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1394/",
+  "doi": "10.18653/v1/2026.acl-long.1394",
+  "hits": [
+   "memory mechanism"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "companion"
+  ],
+  "idx": 36,
+  "incl": "B",
+  "incl_reason": "person understanding from autobiographical narratives (not conversation)"
+ },
+ {
+  "key": "wu-etal-2026-stratmem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1491/",
+  "doi": "10.18653/v1/2026.acl-long.1491",
+  "hits": [
+   "memory-augmented",
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 37,
+  "incl": "I",
+  "incl_reason": "benchmark: strategic memory use in character conversation"
+ },
+ {
+  "key": "hu-etal-2026-clonemem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "CloneMem: Benchmarking Long-Term Memory for AI Clones",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1549/",
+  "doi": "10.18653/v1/2026.acl-long.1549",
+  "hits": [
+   "long-term memory",
+   "memory mechanism",
+   "memory system"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 38,
+  "incl": "B",
+  "incl_reason": "AI clone memory from diaries/social media/email (non-conversational traces)"
+ },
+ {
+  "key": "guo-etal-2026-mtsql",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1563/",
+  "doi": "10.18653/v1/2026.acl-long.1563",
+  "hits": [
+   "dialogue memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 39,
+  "incl": "X",
+  "incl_reason": "multi-turn text-to-SQL (task memory)"
+ },
+ {
+  "key": "wu-etal-2026-gam",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "GAM: Hierarchical Graph-based Agentic Memory for LLM Agents",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1600/",
+  "doi": "10.18653/v1/2026.acl-long.1600",
+  "hits": [
+   "memory system"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 40,
+  "incl": "I",
+  "incl_reason": "graph agentic memory for long-term interaction"
+ },
+ {
+  "key": "yue-etal-2026-hypermem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "HyperMem: Hypergraph Memory for Long-Term Conversations",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1627/",
+  "doi": "10.18653/v1/2026.acl-long.1627",
+  "hits": [
+   "long-term memory",
+   "long-term conversation"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 41,
+  "incl": "I",
+  "incl_reason": "hypergraph memory for long-term conversations"
+ },
+ {
+  "key": "fan-etal-2026-llm",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1659/",
+  "doi": "10.18653/v1/2026.acl-long.1659",
+  "hits": [
+   "episodic memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 42,
+  "incl": "B",
+  "incl_reason": "lifelong learning of LLM characters in scripted multi-agent interactions"
+ },
+ {
+  "key": "wu-etal-2026-excuse",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "``Excuse me, may I say something...'' CoLabScience, A Proactive AI Assistant for Biomedical Discovery and LLM-Expert Collaborations",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1671/",
+  "doi": "10.18653/v1/2026.acl-long.1671",
+  "hits": [
+   "conversational memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "assistant"
+  ],
+  "idx": 43,
+  "incl": "X",
+  "incl_reason": "proactive assistant for scientific discussions (intervention timing), not memory evaluation"
+ },
+ {
+  "key": "bei-etal-2026-mem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.1892/",
+  "doi": "10.18653/v1/2026.acl-long.1892",
+  "hits": [
+   "long-term memory",
+   "conversational memory",
+   "memory system",
+   "long-term conversation",
+   "multi-session"
+  ],
+  "conv": [
+   "conversation",
+   "session"
+  ],
+  "idx": 44,
+  "incl": "I",
+  "incl_reason": "benchmark: multimodal long-term conversational memory"
+ },
+ {
+  "key": "hu-etal-2026-evermemos",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2026.acl-long.2125/",
+  "doi": "10.18653/v1/2026.acl-long.2125",
+  "hits": [
+   "memory-augmented",
+   "memory system"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 45,
+  "incl": "I",
+  "incl_reason": "memory OS for long-term interactive agents"
+ },
+ {
+  "key": "xu-etal-2026-structmem",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "StructMem: Structured Memory for Long-Horizon Behavior in LLMs",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  "url": "https://aclanthology.org/2026.acl-short.12/",
+  "doi": "10.18653/v1/2026.acl-short.12",
+  "hits": [
+   "memory system",
+   "long-term conversation"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 46,
+  "incl": "I",
+  "incl_reason": "structured memory; LoCoMo"
+ },
+ {
+  "key": "fang-etal-2026-personalization",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  "url": "https://aclanthology.org/2026.acl-short.43/",
+  "doi": "10.18653/v1/2026.acl-short.43",
+  "hits": [
+   "user memory"
+  ],
+  "conv": [
+   "assistant"
+  ],
+  "idx": 47,
+  "incl": "B",
+  "incl_reason": "effect of user memory on emotional reasoning (bias study)"
+ },
+ {
+  "key": "latimer-etal-2026-hindsight",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Hindsight: Structured Agent Memory that Retains, Recalls, and Reflects",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)",
+  "url": "https://aclanthology.org/2026.acl-demo.27/",
+  "doi": "10.18653/v1/2026.acl-demo.27",
+  "hits": [
+   "long-term memory",
+   "memory system",
+   "multi-session"
+  ],
+  "conv": [
+   "conversation",
+   "session"
+  ],
+  "idx": 48,
+  "incl": "I",
+  "incl_reason": "agent memory system; LongMemEval/LoCoMo"
+ },
+ {
+  "key": "liu-etal-2026-semantic",
+  "type": "inproceedings",
+  "year": "2026",
+  "title": "Semantic XPath: Structured Agentic Memory Access for Conversational AI",
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)",
+  "url": "https://aclanthology.org/2026.acl-demo.28/",
+  "doi": "10.18653/v1/2026.acl-demo.28",
+  "hits": [
+   "conversational memory",
+   "memory module"
+  ],
+  "conv": [
+   "conversation",
+   "chat"
+  ],
+  "idx": 49,
+  "incl": "I",
+  "incl_reason": "structured conversational memory access"
+ },
+ {
+  "key": "chen-etal-2025-tcqa2",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "TCQA$^2$: A Tiered Conversational Q\\&A Agent in Gaming",
+  "venue": "Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025)",
+  "url": "https://aclanthology.org/2025.realm-1.20/",
+  "doi": "10.18653/v1/2025.realm-1.20",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "chat",
+   "assistant",
+   "companion"
+  ],
+  "idx": 50,
+  "incl": "B",
+  "incl_reason": "gaming Q&A agent with long-term memory for personalization"
+ },
+ {
+  "key": "soloshenko-etal-2025-personalizing",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Personalizing chatbot communication with associative memory",
+  "venue": "Proceedings of the 9th Student Research Workshop associated with the International Conference Recent Advances in Natural Language Processing",
+  "url": "https://aclanthology.org/2025.ranlp-stud.8/",
+  "doi": "",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "chat",
+   "chatbot"
+  ],
+  "idx": 51,
+  "incl": "I",
+  "incl_reason": "associative-memory personalized chatbot"
+ },
+ {
+  "key": "friedman-etal-2025-representing",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Representing Rule-based Chatbots with Transformers",
+  "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.naacl-long.163/",
+  "doi": "10.18653/v1/2025.naacl-long.163",
+  "hits": [
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "chat",
+   "chatbot"
+  ],
+  "idx": 52,
+  "incl": "X",
+  "incl_reason": "mechanistic Transformer construction of ELIZA"
+ },
+ {
+  "key": "li-etal-2025-hello",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Hello Again! LLM-powered Personalized Agent for Long-term Dialogue",
+  "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.naacl-long.272/",
+  "doi": "10.18653/v1/2025.naacl-long.272",
+  "hits": [
+   "memory bank",
+   "memory module",
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "chat",
+   "chatbot",
+   "companion",
+   "session"
+  ],
+  "idx": 53,
+  "incl": "I",
+  "incl_reason": "LD-Agent long-term dialogue agent"
+ },
+ {
+  "key": "ong-etal-2025-towards",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Towards Lifelong Dialogue Agents via Timeline-based Memory Management",
+  "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.naacl-long.435/",
+  "doi": "10.18653/v1/2025.naacl-long.435",
+  "hits": [
+   "memory management",
+   "long-term conversation",
+   "lifelong dialogue"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 54,
+  "incl": "I",
+  "incl_reason": "THEANINE timeline memory; TeaFarm evaluation"
+ },
+ {
+  "key": "he-etal-2025-madial",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "MADial-Bench: Towards Real-world Evaluation of Memory-Augmented Dialogue Generation",
+  "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.naacl-long.499/",
+  "doi": "10.18653/v1/2025.naacl-long.499",
+  "hits": [
+   "long-term memory",
+   "memory-augmented"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "chat",
+   "chatbot"
+  ],
+  "idx": 55,
+  "incl": "I",
+  "incl_reason": "benchmark MADial-Bench: memory-augmented dialogue"
+ },
+ {
+  "key": "zhu-etal-2025-moba",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation",
+  "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+  "url": "https://aclanthology.org/2025.naacl-demo.43/",
+  "doi": "10.18653/v1/2025.naacl-demo.43",
+  "hits": [
+   "memory module"
+  ],
+  "conv": [
+   "assistant"
+  ],
+  "idx": 56,
+  "incl": "X",
+  "incl_reason": "mobile GUI task automation (task memory)"
+ },
+ {
+  "key": "raffel-etal-2025-beavertalk",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System",
+  "venue": "Proceedings of the 22nd International Conference on Spoken Language Translation (IWSLT 2025)",
+  "url": "https://aclanthology.org/2025.iwslt-1.30/",
+  "doi": "10.18653/v1/2025.iwslt-1.30",
+  "hits": [
+   "memory bank"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 57,
+  "incl": "X",
+  "incl_reason": "simultaneous speech translation"
+ },
+ {
+  "key": "liu-etal-2025-persona",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "A Persona-Aware LLM-Enhanced Framework for Multi-Session Personalized Dialogue Generation",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.5/",
+  "doi": "10.18653/v1/2025.findings-acl.5",
+  "hits": [
+   "memory bank",
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "session"
+  ],
+  "idx": 58,
+  "incl": "I",
+  "incl_reason": "multi-session personalized dialogue generation w/ memory bank"
+ },
+ {
+  "key": "wang-etal-2025-r3mem",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "R$^3$Mem: Bridging Memory Retention and Retrieval via Reversible Compression",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.235/",
+  "doi": "10.18653/v1/2025.findings-acl.235",
+  "hits": [
+   "memory module"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 59,
+  "incl": "I",
+  "incl_reason": "reversible-compression memory network (long histories)"
+ },
+ {
+  "key": "zhang-etal-2025-bridging",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Bridging Intuitive Associations and Deliberate Recall: Empowering LLM Personal Assistant with Graph-Structured Long-term Memory",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.901/",
+  "doi": "10.18653/v1/2025.findings-acl.901",
+  "hits": [
+   "long-term memory",
+   "memory system",
+   "long-term conversation",
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "assistant"
+  ],
+  "idx": 60,
+  "incl": "I",
+  "incl_reason": "graph long-term memory for personal assistant"
+ },
+ {
+  "key": "ge-etal-2025-tremu",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.972/",
+  "doi": "10.18653/v1/2025.findings-acl.972",
+  "hits": [
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "session"
+  ],
+  "idx": 61,
+  "incl": "I",
+  "incl_reason": "temporal reasoning in multi-session dialogue; LoCoMo-derived"
+ },
+ {
+  "key": "jia-etal-2025-evaluating",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Evaluating the Long-Term Memory of Large Language Models",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.1014/",
+  "doi": "10.18653/v1/2025.findings-acl.1014",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "assistant"
+  ],
+  "idx": 62,
+  "incl": "I",
+  "incl_reason": "LOCCO: long-term memory of LLMs in chronological conversations"
+ },
+ {
+  "key": "hou-etal-2025-synapticrag",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "SynapticRAG: Enhancing Temporal Memory Retrieval in Large Language Models through Synaptic Mechanisms",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.1048/",
+  "doi": "10.18653/v1/2025.findings-acl.1048",
+  "hits": [
+   "memory management"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 63,
+  "incl": "I",
+  "incl_reason": "temporal memory retrieval over dialogue histories"
+ },
+ {
+  "key": "wang-etal-2025-annaagent",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation",
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.1192/",
+  "doi": "10.18653/v1/2025.findings-acl.1192",
+  "hits": [
+   "long-term memory",
+   "memory mechanism",
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "session"
+  ],
+  "idx": 64,
+  "incl": "B",
+  "incl_reason": "seeker *simulator* with multi-session memory (simulates a human)"
+ },
+ {
+  "key": "chen-etal-2025-post",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Post Persona Alignment for Multi-Session Dialogue Generation",
+  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+  "url": "https://aclanthology.org/2025.findings-emnlp.1098/",
+  "doi": "10.18653/v1/2025.findings-emnlp.1098",
+  "hits": [
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "session"
+  ],
+  "idx": 65,
+  "incl": "I",
+  "incl_reason": "persona memory retrieval for multi-session dialogue"
+ },
+ {
+  "key": "kim-etal-2025-pre",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Pre-Storage Reasoning for Episodic Memory: Shifting Inference Burden to Memory for Personalized Dialogue",
+  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+  "url": "https://aclanthology.org/2025.findings-emnlp.1204/",
+  "doi": "10.18653/v1/2025.findings-emnlp.1204",
+  "hits": [
+   "long-term memory",
+   "episodic memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "session"
+  ],
+  "idx": 66,
+  "incl": "I",
+  "incl_reason": "pre-storage reasoning episodic memory for personalized dialogue"
+ },
+ {
+  "key": "li-etal-2025-toward",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning",
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://aclanthology.org/2025.emnlp-main.580/",
+  "doi": "10.18653/v1/2025.emnlp-main.580",
+  "hits": [
+   "long-term conversation",
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "session"
+  ],
+  "idx": 67,
+  "incl": "I",
+  "incl_reason": "ImplexConv dataset + TaciTree"
+ },
+ {
+  "key": "ke-etal-2025-flexibly",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Flexibly Utilize Memory for Long-Term Conversation via a Fragment-then-Compose Framework",
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://aclanthology.org/2025.emnlp-main.1069/",
+  "doi": "10.18653/v1/2025.emnlp-main.1069",
+  "hits": [
+   "long-term memory",
+   "long-term conversation"
+  ],
+  "conv": [
+   "conversation",
+   "session"
+  ],
+  "idx": 68,
+  "incl": "I",
+  "incl_reason": "fragment-then-compose memory for long-term conversation"
+ },
+ {
+  "key": "kang-etal-2025-memory",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Memory OS of AI Agent",
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://aclanthology.org/2025.emnlp-main.1318/",
+  "doi": "10.18653/v1/2025.emnlp-main.1318",
+  "hits": [
+   "long-term memory",
+   "personal memory",
+   "memory management"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 69,
+  "incl": "I",
+  "incl_reason": "MemoryOS"
+ },
+ {
+  "key": "salama-etal-2025-meminsight",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "MemInsight: Autonomous Memory Augmentation for LLM Agents",
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://aclanthology.org/2025.emnlp-main.1683/",
+  "doi": "10.18653/v1/2025.emnlp-main.1683",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 70,
+  "incl": "I",
+  "incl_reason": "MemInsight memory augmentation (recommendation, QA, summarization)"
+ },
+ {
+  "key": "xu-etal-2025-open",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Open-Theatre: An Open-Source Toolkit for LLM-based Interactive Drama",
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+  "url": "https://aclanthology.org/2025.emnlp-demos.31/",
+  "doi": "10.18653/v1/2025.emnlp-demos.31",
+  "hits": [
+   "memory system"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 71,
+  "incl": "B",
+  "incl_reason": "interactive drama toolkit with retrieval memory"
+ },
+ {
+  "key": "sumida-etal-2025-enhancing",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting",
+  "venue": "Dialogue Discourse Volume 16",
+  "url": "https://aclanthology.org/2025.dnd-16.6/",
+  "doi": "10.5210/dad.2025.203",
+  "hits": [
+   "memory management",
+   "long-term conversation"
+  ],
+  "conv": [
+   "conversation",
+   "chat",
+   "chatbot"
+  ],
+  "idx": 72,
+  "incl": "I",
+  "incl_reason": "LUFY: what a RAG chatbot should remember/forget, psychological metrics + real-world data  ** check for first-party data **"
+ },
+ {
+  "key": "wu-etal-2025-interpersonal",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History",
+  "venue": "Proceedings of the 29th Conference on Computational Natural Language Learning",
+  "url": "https://aclanthology.org/2025.conll-1.4/",
+  "doi": "10.18653/v1/2025.conll-1.4",
+  "hits": [
+   "long-term memory",
+   "personal memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "chat",
+   "chatbot"
+  ],
+  "idx": 73,
+  "incl": "I",
+  "incl_reason": "memory-aware proactive dialogue (MapDia)"
+ },
+ {
+  "key": "chen-etal-2025-compress",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations",
+  "venue": "Proceedings of the 31st International Conference on Computational Linguistics",
+  "url": "https://aclanthology.org/2025.coling-main.51/",
+  "doi": "",
+  "hits": [
+   "long-term conversation"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "chat",
+   "chatbot",
+   "session"
+  ],
+  "idx": 74,
+  "incl": "I",
+  "incl_reason": "COMEDY compressive memory; Dolphin real user-chatbot data"
+ },
+ {
+  "key": "yuan-etal-2025-personalized",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Personalized Large Language Model Assistant with Evolving Conditional Memory",
+  "venue": "Proceedings of the 31st International Conference on Computational Linguistics",
+  "url": "https://aclanthology.org/2025.coling-main.254/",
+  "doi": "",
+  "hits": [
+   "memory bank",
+   "memory management"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "chat",
+   "assistant"
+  ],
+  "idx": 75,
+  "incl": "I",
+  "incl_reason": "personalized assistant with conditional memory"
+ },
+ {
+  "key": "kang-etal-2025-generation",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Generation-Based and Emotion-Reflected Memory Update: Creating the KEEM Dataset for Better Long-Term Conversation",
+  "venue": "Proceedings of the 31st International Conference on Computational Linguistics",
+  "url": "https://aclanthology.org/2025.coling-main.623/",
+  "doi": "",
+  "hits": [
+   "long-term conversation"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 76,
+  "incl": "I",
+  "incl_reason": "KEEM memory-update dataset"
+ },
+ {
+  "key": "kirmayr-etal-2025-carmem",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding",
+  "venue": "Proceedings of the 31st International Conference on Computational Linguistics: Industry Track",
+  "url": "https://aclanthology.org/2025.coling-industry.29/",
+  "doi": "",
+  "hits": [
+   "long-term memory",
+   "memory system",
+   "multi-session"
+  ],
+  "conv": [
+   "conversation",
+   "assistant",
+   "session"
+  ],
+  "idx": 77,
+  "incl": "I",
+  "incl_reason": "CarMem category-bounded memory for voice assistants"
+ },
+ {
+  "key": "li-etal-2025-llm-driven",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "LLM-Driven Estimation of Personal Carbon Footprint from Dialogues",
+  "venue": "Proceedings of the 2nd Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2025)",
+  "url": "https://aclanthology.org/2025.climatenlp-1.20/",
+  "doi": "10.18653/v1/2025.climatenlp-1.20",
+  "hits": [
+   "memory management"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 78,
+  "incl": "X",
+  "incl_reason": "carbon-footprint estimation (within-conversation tracking)"
+ },
+ {
+  "key": "wu-etal-2025-x",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents",
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.293/",
+  "doi": "10.18653/v1/2025.acl-long.293",
+  "hits": [
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 79,
+  "incl": "I",
+  "incl_reason": "X-Turing for long-term dialogue agents (human participants)  ** check **"
+ },
+ {
+  "key": "tan-etal-2025-prospect",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.413/",
+  "doi": "10.18653/v1/2025.acl-long.413",
+  "hits": [
+   "memory bank",
+   "memory mechanism",
+   "memory management",
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "session"
+  ],
+  "idx": 80,
+  "incl": "I",
+  "incl_reason": "reflective memory management (RMM)"
+ },
+ {
+  "key": "kim-etal-2025-share",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "SHARE: Shared Memory-Aware Open-Domain Long-Term Dialogue Dataset Constructed from Movie Script",
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.704/",
+  "doi": "10.18653/v1/2025.acl-long.704",
+  "hits": [
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 81,
+  "incl": "I",
+  "incl_reason": "SHARE shared-memory long-term dialogue dataset"
+ },
+ {
+  "key": "rakotonirina-etal-2025-tools",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "From Tools to Teammates: Evaluating LLMs in Multi-Session Coding Interactions",
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.964/",
+  "doi": "10.18653/v1/2025.acl-long.964",
+  "hits": [
+   "multi-session"
+  ],
+  "conv": [
+   "session"
+  ],
+  "idx": 82,
+  "incl": "B",
+  "incl_reason": "multi-session coding instructions (MemoryCode); collaboration memory"
+ },
+ {
+  "key": "qiu-lan-2025-psydial",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "PsyDial: A Large-scale Long-term Conversational Dataset for Mental Health Support",
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.1049/",
+  "doi": "10.18653/v1/2025.acl-long.1049",
+  "hits": [
+   "long-term conversation"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 83,
+  "incl": "X",
+  "incl_reason": "privacy-preserving counseling dialogue reconstruction; not memory evaluation"
+ },
+ {
+  "key": "xue-etal-2025-mmrc",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation",
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.1096/",
+  "doi": "10.18653/v1/2025.acl-long.1096",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 84,
+  "incl": "I",
+  "incl_reason": "MMRC benchmark incl. memory recall in real-world conversation"
+ },
+ {
+  "key": "jang-etal-2025-enabling",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions",
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.1519/",
+  "doi": "10.18653/v1/2025.acl-long.1519",
+  "hits": [
+   "long-term conversation",
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "chat",
+   "chatbot",
+   "session"
+  ],
+  "idx": 85,
+  "incl": "B",
+  "incl_reason": "multimodal chatbot incl. multi-session conversation"
+ },
+ {
+  "key": "xie-etal-2025-ipet",
+  "type": "inproceedings",
+  "year": "2025",
+  "title": "iPET: An Interactive Emotional Companion Dialogue System with LLM-Powered Virtual Pet World Simulation",
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)",
+  "url": "https://aclanthology.org/2025.acl-demo.40/",
+  "doi": "10.18653/v1/2025.acl-demo.40",
+  "hits": [
+   "memory module"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "companion"
+  ],
+  "idx": 86,
+  "incl": "B",
+  "incl_reason": "virtual pet companion with memory module"
+ },
+ {
+  "key": "krause-etal-2024-graph",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Graph Representations for Machine Translation in Dialogue Settings",
+  "venue": "Proceedings of the Ninth Conference on Machine Translation",
+  "url": "https://aclanthology.org/2024.wmt-1.106/",
+  "doi": "10.18653/v1/2024.wmt-1.106",
+  "hits": [
+   "memory mechanism"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "chat"
+  ],
+  "idx": 87,
+  "incl": "X",
+  "incl_reason": "chat machine translation"
+ },
+ {
+  "key": "du-etal-2024-perltqa",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Fusion in Question Answering",
+  "venue": "Proceedings of the 10th SIGHAN Workshop on Chinese Language Processing (SIGHAN-10)",
+  "url": "https://aclanthology.org/2024.sighan-1.18/",
+  "doi": "",
+  "hits": [
+   "long-term memory",
+   "episodic memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 88,
+  "incl": "I",
+  "incl_reason": "PerLTQA personal long-term memory QA"
+ },
+ {
+  "key": "wilcock-2024-anticipating",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Anticipating Follow-Up Questions in Exploratory Information Search",
+  "venue": "Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+  "url": "https://aclanthology.org/2024.sigdial-1.9/",
+  "doi": "10.18653/v1/2024.sigdial-1.9",
+  "hits": [
+   "dialogue memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 89,
+  "incl": "X",
+  "incl_reason": "exploratory information search follow-ups"
+ },
+ {
+  "key": "zhang-etal-2024-llm-based",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination",
+  "venue": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2024.naacl-long.132/",
+  "doi": "10.18653/v1/2024.naacl-long.132",
+  "hits": [
+   "long-term memory",
+   "memory module",
+   "memory mechanism"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "assistant",
+   "session"
+  ],
+  "idx": 90,
+  "incl": "I",
+  "incl_reason": "medical assistant personalization with short/long-term memory"
+ },
+ {
+  "key": "arimoto-etal-2024-comparison",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Comparison of the Intimacy Process between Real and Acting-based Long-term Text Chats",
+  "venue": "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+  "url": "https://aclanthology.org/2024.lrec-main.322/",
+  "doi": "",
+  "hits": [
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "chat",
+   "chatbot",
+   "session"
+  ],
+  "idx": 91,
+  "incl": "X",
+  "incl_reason": "human-human chat analysis; no AI memory"
+ },
+ {
+  "key": "wu-yu-2024-stateful",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Stateful Memory-Augmented Transformers for Efficient Dialogue Modeling",
+  "venue": "Findings of the Association for Computational Linguistics: EACL 2024",
+  "url": "https://aclanthology.org/2024.findings-eacl.57/",
+  "doi": "10.18653/v1/2024.findings-eacl.57",
+  "hits": [
+   "memory-augmented",
+   "memory module"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 92,
+  "incl": "I",
+  "incl_reason": "memory-augmented transformer for dialogue history"
+ },
+ {
+  "key": "zhou-etal-2024-enhancing",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Enhancing the General Agent Capabilities of Low-Paramter LLMs through Tuning and Multi-Branch Reasoning",
+  "venue": "Findings of the Association for Computational Linguistics: NAACL 2024",
+  "url": "https://aclanthology.org/2024.findings-naacl.184/",
+  "doi": "10.18653/v1/2024.findings-naacl.184",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "chat"
+  ],
+  "idx": 93,
+  "incl": "X",
+  "incl_reason": "general agent capability tuning"
+ },
+ {
+  "key": "jang-etal-2024-mixed",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Mixed-Session Conversation with Egocentric Memory",
+  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+  "url": "https://aclanthology.org/2024.findings-emnlp.689/",
+  "doi": "10.18653/v1/2024.findings-emnlp.689",
+  "hits": [
+   "memory management",
+   "long-term dialogue",
+   "long-term dialog",
+   "multi-session"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "session"
+  ],
+  "idx": 94,
+  "incl": "I",
+  "incl_reason": "MiSC mixed-session conversation with egocentric memory"
+ },
+ {
+  "key": "dao-etal-2024-experience",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Experience as Source for Anticipation and Planning: Experiential Policy Learning for Target-driven Recommendation Dialogues",
+  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+  "url": "https://aclanthology.org/2024.findings-emnlp.829/",
+  "doi": "10.18653/v1/2024.findings-emnlp.829",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation"
+  ],
+  "idx": 95,
+  "incl": "X",
+  "incl_reason": "recommendation dialogue policy using past experiences (not memory of a user)"
+ },
+ {
+  "key": "cheng-etal-2024-small",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector",
+  "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://aclanthology.org/2024.emnlp-main.809/",
+  "doi": "10.18653/v1/2024.emnlp-main.809",
+  "hits": [
+   "memory mechanism"
+  ],
+  "conv": [
+   "chat"
+  ],
+  "idx": 96,
+  "incl": "X",
+  "incl_reason": "hallucination detection agent"
+ },
+ {
+  "key": "kim-etal-2024-commonsense",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Commonsense-augmented Memory Construction and Management in Long-term Conversations via Context-aware Persona Refinement",
+  "venue": "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  "url": "https://aclanthology.org/2024.eacl-short.11/",
+  "doi": "10.18653/v1/2024.eacl-short.11",
+  "hits": [
+   "long-term conversation",
+   "multi-session"
+  ],
+  "conv": [
+   "conversation",
+   "session"
+  ],
+  "idx": 97,
+  "incl": "I",
+  "incl_reason": "persona memory construction in long-term conversations"
+ },
+ {
+  "key": "yao-etal-2024-sirllm",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "SirLLM: Streaming Infinite Retentive LLM",
+  "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2024.acl-long.143/",
+  "doi": "10.18653/v1/2024.acl-long.143",
+  "hits": [
+   "long-term memory"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 98,
+  "incl": "B",
+  "incl_reason": "streaming LLM retaining memory (SirLLM); dialogue tasks?"
+ },
+ {
+  "key": "yang-etal-2024-iterative",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "An Iterative Associative Memory Model for Empathetic Response Generation",
+  "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2024.acl-long.170/",
+  "doi": "10.18653/v1/2024.acl-long.170",
+  "hits": [
+   "memory module"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue"
+  ],
+  "idx": 99,
+  "incl": "X",
+  "incl_reason": "empathetic response generation; 'memory module' stores associated words within a dialogue"
+ },
+ {
+  "key": "deng-etal-2024-multi",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "On the Multi-turn Instruction Following for Conversational Web Agents",
+  "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2024.acl-long.477/",
+  "doi": "10.18653/v1/2024.acl-long.477",
+  "hits": [
+   "memory-augmented"
+  ],
+  "conv": [
+   "conversation"
+  ],
+  "idx": 100,
+  "incl": "X",
+  "incl_reason": "conversational web navigation (task memory)"
+ },
+ {
+  "key": "maharana-etal-2024-evaluating",
+  "type": "inproceedings",
+  "year": "2024",
+  "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+  "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2024.acl-long.747/",
+  "doi": "10.18653/v1/2024.acl-long.747",
+  "hits": [
+   "long-term memory",
+   "conversational memory",
+   "long-term conversation",
+   "long-term dialogue",
+   "long-term dialog"
+  ],
+  "conv": [
+   "dialog",
+   "dialogue",
+   "conversation",
+   "chat",
+   "session"
+  ],
+  "idx": 101,
+  "incl": "I",
+  "incl_reason": "LoCoMo"
+ }
+]

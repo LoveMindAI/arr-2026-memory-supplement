@@ -1,0 +1,23 @@
+{
+ "call": "C0206",
+ "person": "P101",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said i dont drink and usually end up with orange juice in a fancy glass, it turned into a proper laugh, felt like chatting to a mate in the trade",
+  "reason": "its a running joke in my life tbh, nice when someone actually gets it instead of being awkward about it",
+  "timing": 82
+ },
+ "requires_av": false,
+ "av_event": null
+}

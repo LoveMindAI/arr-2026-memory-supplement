@@ -1,0 +1,57 @@
+{
+ "session": "S10",
+ "rater": "P049",
+ "ok": true,
+ "ratings": {
+  "P044": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He looks like a normal guy who works hard. He has family photos and a dog bed. He seems honest."
+  },
+  "P045": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks very kind and a bit shy. Her kitchen is tidy like a busy mum. I think she would be reliable."
+  },
+  "P046": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "He looks very professional and serious. He has many files and binders. I think he is very organized."
+  },
+  "P047": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He has a hi-vis jacket and looks like he is just home from work. He seems polite and calm."
+  },
+  "P048": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "He looks very smart and his house is very modern. Maybe a bit too fancy for me, but he looks clever."
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S39",
+ "rater": "P206",
+ "ok": true,
+ "ratings": {
+  "P204": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "Seems friendly, though the lighting is a bit much for me."
+  },
+  "P205": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Very approachable. Reminds me a bit of Hannah's colleagues."
+  },
+  "P207": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Serious, professional. I'd trust him with the project stats."
+  },
+  "P208": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Practical and pleasant. Probably good at getting things done."
+  },
+  "P209": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 0,
+   "gut": "Looks knackered, likely just finished a shift. Hard worker."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0111",
+ "person": "P054",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked for a bit about worrying about family far away. I didn't know his dad lives in Poland and isn't well.",
+  "reason": "It reminded me of my mum, and how lucky I was being close.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

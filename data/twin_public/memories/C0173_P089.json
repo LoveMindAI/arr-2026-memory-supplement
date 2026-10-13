@@ -1,0 +1,23 @@
+{
+ "call": "C0173",
+ "person": "P089",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we talked about our parents getting old far away, his are in durban",
+  "reason": "because we both have same feeling, being so far from family.. i think about my mother a lot, it touch me",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

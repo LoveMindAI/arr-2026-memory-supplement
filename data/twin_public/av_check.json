@@ -1,0 +1,2002 @@
+[
+ {
+  "call": "C0001",
+  "noticer": "P000",
+  "event": {
+   "call": "C0001",
+   "turn": 14,
+   "line_text": "Everything's targets. I just tell them straight if a number's daft. Doesn't make me popular.",
+   "who": "Gemma",
+   "what": "A man in a work T-shirt walks across the kitchen behind Gemma, opens the fridge-freezer, takes something out and leaves the frame; Gemma does not turn round."
+  },
+  "memory": {
+   "moment": "bloke in a work tshirt went in the fridge behind her",
+   "reason": "figured it was lee her husband lol, she never even turned round, just carried on",
+   "timing": 60
+  },
+  "keyword_hits": [
+   "leaves",
+   "round",
+   "takes",
+   "work"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    23
+   ],
+   "confidence": "low",
+   "note": "The memory is a visual moment (a man in a work T-shirt opening the fridge behind Gemma) that isn't in the transcript; the nearest turn is where Lee, her husband, is mentioned."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0052045
+ },
+ {
+  "call": "C0015",
+  "noticer": "P009",
+  "event": {
+   "call": "C0015",
+   "turn": 15,
+   "line_text": "So is that all week then, the pharmacy?",
+   "who": "Tracey",
+   "what": "A tall teenage boy in a hoodie walks through the kitchen behind Tracey. He opens the fridge, takes out a carton and leaves the frame. Tracey doesn't turn round."
+  },
+  "memory": {
+   "moment": "her lad raiding the fridge",
+   "reason": "made me smile",
+   "timing": 65
+  },
+  "keyword_hits": [
+   "behind",
+   "round"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    22,
+    23,
+    24
+   ],
+   "confidence": "medium",
+   "note": "Tracey's remark about her teenage son Kieran eating constantly (two loaves a week, eating her out of house and home) matches 'raiding the fridge'; the fridge isn't literally mentioned."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.005150999999999999
+ },
+ {
+  "call": "C0021",
+  "noticer": "P011",
+  "event": {
+   "call": "C0021",
+   "turn": 27,
+   "line_text": "That's a blessing, being close. Really. Look after him. You only get them once.",
+   "who": "Abdul",
+   "what": "Before speaking, Abdul goes quiet for about three seconds and looks down and away from the screen. His broad smile drops, he presses his lips together, then looks back up at the camera and speaks more softly than before."
+  },
+  "memory": {
+   "moment": "when i mentioned my dad slowing down he went quiet a few seconds, looked down, smile dropped, then spoke much softer",
+   "reason": "he was smiling and joking the whole call so it really stood out, felt like maybe hes lost his own dad tbh",
+   "timing": 78
+  },
+  "keyword_hits": [
+   "about",
+   "away",
+   "back",
+   "more",
+   "than",
+   "then",
+   "three",
+   "together"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    25,
+    26
+   ],
+   "confidence": "medium",
+   "note": "Participant mentions dad slowing down (25) and Partner responds softly with 'Look after him, you only get them once' (26); the silence and facial change aren't in the text."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.00723
+ },
+ {
+  "call": "C0034",
+  "noticer": "P015",
+  "event": {
+   "call": "C0034",
+   "turn": 22,
+   "line_text": "Yeah, that's exactly what my dad says. Word for word, pretty much. I do worry about him, I'll be honest.",
+   "who": "Callum",
+   "what": "Callum glances down at the table and lets out a slow breath, pausing for about a second before saying 'I do worry about him', his half-smile dropping briefly before it comes back."
+  },
+  "memory": {
+   "moment": "he looked down at the table and sighed, smile went for a sec... about his dad",
+   "reason": "reminded me of me worrying about Steve",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "about",
+   "back",
+   "comes",
+   "half",
+   "saying",
+   "smile",
+   "worry"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    19,
+    20,
+    21
+   ],
+   "confidence": "medium",
+   "note": "Callum's dad's bad back (19) and his 'word for word' reply, 'I do worry about him' (21), match the sigh and the link to Debbie worrying about Steve (20). The look down and the sigh are visual, so the exact turn is inferred."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.0053405
+ },
+ {
+  "call": "C0041",
+  "noticer": "P021",
+  "event": {
+   "call": "C0041",
+   "turn": 30,
+   "line_text": "Every year. Ours had a tin of mushy peas from about 1990 last time. Same as the shop. People clear their cupboards out and call it giving.",
+   "who": "Abena",
+   "what": "Abena laughs silently with her mouth closed, her shoulders shaking for a couple of seconds, and briefly looks down and away from the camera before looking back"
+  },
+  "memory": {
+   "moment": "Mushy peas bit, she laughed with her mouth shut, shoulders shaking, then looked down and away",
+   "reason": "didnt expect it, she seemed a bit posh at first",
+   "timing": 70
+  },
+  "keyword_hits": [
+   "back",
+   "looking"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    29,
+    30
+   ],
+   "confidence": "medium",
+   "note": "The memory is about the mushy peas remark (turn 29) and Partner's non-verbal reaction (laughing silently, looking away), which the transcript doesn't show; her next turn (30) is the nearest."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0048295
+ },
+ {
+  "call": "C0052",
+  "noticer": "P025",
+  "event": {
+   "call": "C0052",
+   "turn": 26,
+   "line_text": "No, I do. The household budget, every month. My wife laughs at me.",
+   "who": "Usman",
+   "what": "A young woman in a hospital pharmacy uniform with a lanyard walks across the background behind Usman, from the right edge of the frame past the bookshelf, and out of shot to the left; Usman doesn't turn round."
+  },
+  "memory": {
+   "moment": "Woman in hospital pharmacy uniform walked behind him.",
+   "reason": "He never even turned round. I wondered if that was his wife.",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "behind",
+   "doesn",
+   "right"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    25
+   ],
+   "confidence": "low",
+   "note": "The remembered visual moment (a woman in a pharmacy uniform walking behind him) is not in the transcript; the nearest turn is the mention of his wife."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004513
+ },
+ {
+  "call": "C0059",
+  "noticer": "P031",
+  "event": {
+   "call": "C0059",
+   "turn": 23,
+   "line_text": "Isaac: Nah, that sounds actually sick. I'd go to that. I'm kind of into, like, big events and buildings and stuff, I take a lot of photos.",
+   "who": "Isaac",
+   "what": "The bedroom door behind Isaac opens and a teenage girl (his sister) leans in, unplugs a phone charger from the socket by his shelf, and leaves again; Isaac's eyes flick sideways towards her for a second while he keeps talking."
+  },
+  "memory": {
+   "moment": "girl come in behind him and nicked the charger off his shelf lol",
+   "reason": "made me laugh, my daughter used to do that to my son",
+   "timing": 45
+  },
+  "keyword_hits": [
+   "second"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "high",
+   "note": "The memory describes a girl entering behind Isaac and taking a charger off his shelf, a visual event on the video that nobody mentions in the transcript."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0042875
+ },
+ {
+  "call": "C0069",
+  "noticer": "P036",
+  "event": {
+   "call": "C0069",
+   "turn": 27,
+   "line_text": "Bianca: I can't remember the name, it's got like an orange label. I use Vinted a lot as well. People sell stuff they've only opened once.",
+   "who": "Bianca",
+   "what": "A young man in a dark work polo, sleepy-looking, walks across the room behind Bianca, unplugs the phone charger trailing over the settee arm and walks back out of frame. Bianca doesn't turn round and keeps talking."
+  },
+  "memory": {
+   "moment": "Some lad in a dark work polo walked behind her, unplugged the charger off the settee and left",
+   "reason": "Bit random tbh, she didnt even turn round",
+   "timing": 60
+  },
+  "keyword_hits": [
+   "back",
+   "phone",
+   "work"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "high",
+   "note": "The memory describes a visual event in the partner's background (a man unplugging a charger from the settee), which is not mentioned anywhere in the transcript."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0041295
+ },
+ {
+  "call": "C0073",
+  "noticer": "P040",
+  "event": {
+   "call": "C0073",
+   "turn": 20,
+   "line_text": "Yeah, two. Ellie's twelve, she's in Year 8, and Josh is nine. Ellie's on at us for a phone with TikTok at the minute, we keep arguing about it. Every night. Darren says no, I sort of say maybe, so she just comes to me, you know.",
+   "who": "Charlotte",
+   "what": "While Kerry talks about her children, Charlotte's smile fades. She looks down and away to the left of the camera for about three seconds, then looks back up with her smile back in place."
+  },
+  "memory": {
+   "moment": "when i was talking about ellie and josh her smile sort of went and she looked down to the left for a few seconds then smiled again",
+   "reason": "dont know tbh it just felt a bit sad and made me wonder if she wants kids herself",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "about",
+   "three"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    19
+   ],
+   "confidence": "medium",
+   "note": "The memory is of Charlotte's visual reaction (smile fading, looking down) while Kerry spoke about Ellie and Josh in turn 19; the transcript has only the words, not the expression."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.005355
+ },
+ {
+  "call": "C0096",
+  "noticer": "P048",
+  "event": {
+   "call": "C0096",
+   "turn": 18,
+   "line_text": "Abdirahman: Erm, I think she just wants a beach. Somewhere warm with a pool.",
+   "who": "Abdirahman",
+   "what": "A young woman in a headscarf walks across the room behind him from left to right carrying two mugs, passing in front of the grey sofa and out of frame. He glances briefly over his shoulder towards her, then looks back at the screen."
+  },
+  "memory": {
+   "moment": "A woman in a headscarf crossed behind him with two mugs; he glanced back.",
+   "reason": "It was right around when he mentioned his wife wanting Turkey, so I assumed it was her. Nobody said anything, but it made the call feel less like an interview, more real.",
+   "timing": 45
+  },
+  "keyword_hits": [
+   "right",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    13
+   ],
+   "confidence": "medium",
+   "note": "The remembered moment is a visual event (a woman in a headscarf passing behind Partner), not stated in the words; it happened around the mention of his wife wanting Turkey in turn 13."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0043655
+ },
+ {
+  "call": "C0106",
+  "noticer": "P050",
+  "event": {
+   "call": "C0106",
+   "turn": 18,
+   "line_text": "Yeah. That's how ours went. Everyone got girlfriends, then houses, then kids.",
+   "who": "Craig",
+   "what": "His half-smile drops for a moment and he looks down and away from the screen for two or three seconds, jaw tightening slightly, before looking back at the camera with a neutral face."
+  },
+  "memory": {
+   "moment": "when we were on about five-a-side dying off, girlfriends houses kids, his little half smile just dropped, he looked down and away a few secs, jaw went tight, then back to neutral",
+   "reason": "nobody mentioned it but it felt like id hit something proper real for him tbh",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "camera",
+   "three"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    19,
+    20
+   ],
+   "confidence": "medium",
+   "note": "The memory is about Craig's nonverbal reaction (smile dropping, looking away) while discussing five-a-side dying off with girlfriends, houses and kids in turn 19, with Jago's reply in turn 20 as the moment just after."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.0049570000000000005
+ },
+ {
+  "call": "C0124",
+  "noticer": "P060",
+  "event": {
+   "call": "C0124",
+   "turn": 19,
+   "line_text": "Er. Maybe. Some of the practices I'd love to work for are there. It's kind of a live conversation at home, Hannah's job's in Birmingham, so.",
+   "who": "Callum",
+   "what": "Before answering, Callum's smile drops and he looks away from the camera towards the window on his left for about three seconds, lips pressed together, then turns back to the screen."
+  },
+  "memory": {
+   "moment": "When I asked if he'd move to London, his smile dropped and he looked out the window for a bit",
+   "reason": "It felt like I'd hit a sore spot, sort of a real thing at home with Hannah",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "about",
+   "back",
+   "then",
+   "three"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    17,
+    18
+   ],
+   "confidence": "medium",
+   "note": "The memory is about Elira asking if he'd move to London (turn 17) and his hesitant reply about Hannah (turn 18); the smile dropping and looking out the window are visual details not in the transcript."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.005601
+ },
+ {
+  "call": "C0129",
+  "noticer": "P063",
+  "event": {
+   "call": "C0129",
+   "turn": 19,
+   "line_text": "Leanne: Ooh, that sounds amazing. I go to me mum's for Sunday dinner. She does the Yorkshire puddings and she still won't let me make them. I'm forty-one! She says I open the oven too much.",
+   "who": "Marisol",
+   "what": "A man in his fifties in a work polo shirt walks into frame behind Marisol, opens the fridge door, takes out a bottle of water, closes it and walks back out of shot. Marisol does not turn round and keeps looking at the screen."
+  },
+  "memory": {
+   "moment": "a man in a work polo came in behind her, got a bottle of water out the fridge n walked off, she didnt even turn round lol",
+   "reason": "made me smile",
+   "timing": 70
+  },
+  "keyword_hits": [
+   "back",
+   "does"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "high",
+   "note": "The remembered moment is a man in a work polo walking behind Marisol and taking water from a fridge, a visual event in her background that nobody mentions in the transcript."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004801499999999999
+ },
+ {
+  "call": "C0146",
+  "noticer": "P071",
+  "event": {
+   "call": "C0146",
+   "turn": 22,
+   "line_text": "Idris, he's eight. Just me and him, my mum helps. What do you do for fun, apart from spreadsheets?",
+   "who": "Hodan",
+   "what": "A young boy in pyjamas walks across the living room behind Hodan, passing in front of the grey sofa and the folded laundry pile, picks up a book from the shelf and walks back out of frame. Hodan doesn't turn around and keeps talking."
+  },
+  "memory": {
+   "moment": "While we were talking about parkrun a small boy in pyjamas walked behind her past the sofa and laundry pile, took a book off the shelf and walked out. She didnt turn round.",
+   "reason": "Unexpected. And she just carried on talking.",
+   "timing": 65
+  },
+  "keyword_hits": [
+   "doesn"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    21,
+    22,
+    23,
+    24
+   ],
+   "confidence": "medium",
+   "note": "The boy walking behind Partner is a visual event not in the words; it happened during the parkrun talk (turn 21, with the following exchange about tracking times)."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004587
+ },
+ {
+  "call": "C0152",
+  "noticer": "P073",
+  "event": {
+   "call": "C0152",
+   "turn": 30,
+   "line_text": "Not yet, no. Not yet. Hopefully, you know. Anyway, have you had the Somerset fella yet, Martin? Absolute legend.",
+   "who": "Daniel",
+   "what": "His broad smile drops for a moment and he looks down and to the side, away from the screen, for about two seconds before 'Anyway', then looks back up with the smile back on."
+  },
+  "memory": {
+   "moment": "asked about kids, his smile just dropped, looked down and away a sec",
+   "reason": "felt like i overstepped a bit tbh",
+   "timing": 85
+  },
+  "keyword_hits": [
+   "about",
+   "anyway",
+   "looks",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    29,
+    30
+   ],
+   "confidence": "medium",
+   "note": "The remembered moment is the participant's question about kids (turn 29) and the partner's response (turn 30), but the smile dropping and looking away are visual cues not in the transcript; the evasive 'Not yet, no' reply and topic change fit."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.005527
+ },
+ {
+  "call": "C0169",
+  "noticer": "P081",
+  "event": {
+   "call": "C0169",
+   "turn": 18,
+   "line_text": "Mm. Somebody's whole life, maybe, that roof.",
+   "who": "Tomasz",
+   "what": "At the right edge of the frame a T-shirt slips off the clothes airer behind Tomasz and drops out of view to the floor, with a faint soft thump on the mic; Tomasz doesn't turn round."
+  },
+  "memory": {
+   "moment": "a t shirt fell off the airer behind him, soft thump, he didnt even look round",
+   "reason": "made me laugh, maureen would have had it straight back up",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "right",
+   "round"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "medium",
+   "note": "The memory is a visual and audio event in the partner's background (a t-shirt falling off an airer) that is not mentioned in the transcript; the Maureen reference loosely relates to turns 24-25, but no turn corresponds to the moment itself."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004978
+ },
+ {
+  "call": "C0178",
+  "noticer": "P087",
+  "event": {
+   "call": "C0178",
+   "turn": 30,
+   "line_text": "A daughter. Fifteen. She's with me every other weekend and one night a week. The rest of the time it's quiet.",
+   "who": "Craig",
+   "what": "As he says it, Craig briefly turns his head over his left shoulder towards the framed photo of the teenage girl on the bookshelf behind him, holds the look for a second or two, then turns back to the screen with his face unchanged."
+  },
+  "memory": {
+   "moment": "when he said its quiet he looked over his shoulder at the photo of the lass then back same face",
+   "reason": "know that feeling myself",
+   "timing": 78
+  },
+  "keyword_hits": [
+   "back",
+   "look",
+   "says",
+   "then",
+   "towards"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    29
+   ],
+   "confidence": "medium",
+   "note": "The memory is about a nonverbal moment (Craig glancing back at a photo of his daughter while saying 'it's quiet'), which is not in the words; the nearest turn is 29, where he says 'The rest of the time it's quiet.'"
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0049305
+ },
+ {
+  "call": "C0188",
+  "noticer": "P091",
+  "event": {
+   "call": "C0188",
+   "turn": 20,
+   "line_text": "Er... not really. Shed, mostly. Got a lawnmower engine in bits. Two year it's been in bits.",
+   "who": "Graham",
+   "what": "Before answering, Graham goes silent for about five seconds. He looks down and away to his right towards the window, lets out an audible slow breath through his nose and rubs his jaw with one hand, then looks back just below the camera and speaks."
+  },
+  "memory": {
+   "moment": "When I asked what he does with himself now hes retired he went quiet for a good few seconds, looked off towards the window, sort of breathed out slow and rubbed his jaw before saying not really",
+   "reason": "Bit of a pause, stuck with me tbh",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "about",
+   "back",
+   "just",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    18,
+    19
+   ],
+   "confidence": "high",
+   "note": "The memory is of Partner's pause and hesitant 'not really' in turn 19, right after You asked in turn 18 what he does with himself in retirement."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.0048435
+ },
+ {
+  "call": "C0214",
+  "noticer": "P099",
+  "event": {
+   "call": "C0214",
+   "turn": 14,
+   "line_text": "[laughs] I do caf\u00e9 shifts at a garden centre in the holidays, so I'd be okay with the coffee. Not the cocktails.",
+   "who": "Hannah",
+   "what": "A cocker spaniel jumps up onto the single bed with the sage-green duvet in the lower right corner of Hannah's frame, turns round once and lies down, staying partly visible for the rest of the call."
+  },
+  "memory": {
+   "moment": "her spaniel jumped on the bed behind her, did a little spin and flopped down and just stayed there lol",
+   "reason": "cos we'd literally just been talking about biscuit and then there he was lol, sooo cute, i kept looking at him instead of her tbh x",
+   "timing": 15
+  },
+  "keyword_hits": [
+   "cocker",
+   "once",
+   "spaniel"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    5,
+    6
+   ],
+   "confidence": "low",
+   "note": "The dog jumping on the bed and flopping down is a visual event not in the transcript; the nearest turns are the Biscuit dog talk (3-5), though the 'just been talking about biscuit' hint is loosely placed."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0051705
+ },
+ {
+  "call": "C0219",
+  "noticer": "P107",
+  "event": {
+   "call": "C0219",
+   "turn": 29,
+   "line_text": "Yeah.",
+   "who": "Tracey",
+   "what": "Her eyes drop away from the screen towards the window on her left and stay there for a couple of seconds. Her mouth presses into a tight line and her shoulders rise and fall with a slow breath out through her nose before she looks back at the screen."
+  },
+  "memory": {
+   "moment": "when she said about her sister she looked off at the window for a bit, lips tight, then breathed out slow",
+   "reason": "she didnt say nothing but u could tell it hurt",
+   "timing": 75
+  },
+  "keyword_hits": [
+   "back",
+   "drop"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    30,
+    31,
+    32
+   ],
+   "confidence": "medium",
+   "note": "The memory is about Tracey's nonverbal reaction (looking at the window, tight lips, slow breath) after she mentioned her sister, which the transcript doesn't capture; the nearest turns are 30-32, where the sister comes up and she changes the subject."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0046645
+ },
+ {
+  "call": "C0234",
+  "noticer": "P111",
+  "event": {
+   "call": "C0234",
+   "turn": 14,
+   "line_text": "Rowena: It is, yeah. My mum and dad are still in Batangas. I video call, I send money, but it's not the same as being there. Sorry, that got heavy!",
+   "who": "Rowena",
+   "what": "Rowena's voice catches slightly on 'being there'. She pauses for about a second, looks down and away from the camera, and blinks a few times behind her glasses before she smiles again and carries on."
+  },
+  "memory": {
+   "moment": "Her voice caught on 'being there', she looked down and blinked.",
+   "reason": "I know this feeling with my mum in Poland. Its hard to hide, I see it in families at work every day.",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "about",
+   "again",
+   "before",
+   "being",
+   "looks",
+   "there"
+  ],
+  "judge": {
+   "reveals": true,
+   "evidence": "Sorry, that got heavy!"
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    14
+   ],
+   "confidence": "high",
+   "note": "The memory is of Rowena's voice catching on 'being there' when she spoke about her parents in Batangas, which is in turn 14. The voice catch and the look down are nonverbal details, but they accompany those words."
+  },
+  "leak": true,
+  "placed": true,
+  "cost": 0.0045804999999999995
+ },
+ {
+  "call": "C0243",
+  "noticer": "P116",
+  "event": {
+   "call": "C0243",
+   "turn": 25,
+   "line_text": "Ha, fair. The whisky makes up for it. And the seals. There was this one seal that followed us along the beach for about a mile, and Joe was convinced it wanted his sandwich. Sorry, I'm rambling, go on.",
+   "who": "Nicola",
+   "what": "While Rachel is talking, the Apple Watch on Nicola's raised wrist lights up. Nicola drops her eyes to it and reads it for a couple of seconds, then looks back at the screen with the same half-smile."
+  },
+  "memory": {
+   "moment": "her watch lit up",
+   "reason": "she glanced down at it mid seal story and i felt a bit like id lost her...",
+   "timing": 65
+  },
+  "keyword_hits": [
+   "same",
+   "talking",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    24
+   ],
+   "confidence": "medium",
+   "note": "The watch lighting up and the partner glancing down happened during Rachel's seal story (turn 24), but it is a visual event that isn't in the words."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004856999999999999
+ },
+ {
+  "call": "C0260",
+  "noticer": "P123",
+  "event": {
+   "call": "C0260",
+   "turn": 17,
+   "line_text": "Gemma: Oh, the phone's my favourite bit! Calming people down. I get lads ringing up shouting about where their tower is, and I just say, right, let's have a look.",
+   "who": "Gemma",
+   "what": "In the bottom corner of the frame, the black Labrador's tail starts thumping in the dog bed. Then the dog stands up, stretches, and walks out of shot behind Gemma towards the fridge."
+  },
+  "memory": {
+   "moment": "Bonnie's tail started thumping in the dog bed, then she stretched and wandered off behind Gemma towards the fridge.",
+   "reason": "I always watch the animals.",
+   "timing": 65
+  },
+  "keyword_hits": [
+   "labrador",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    8,
+    10
+   ],
+   "confidence": "medium",
+   "note": "Bonnie's tail thumping and wandering off to the fridge was seen on video and is not in the words; the nearest turns are where Bonnie the dog is discussed."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0046565
+ },
+ {
+  "call": "C0263",
+  "noticer": "P127",
+  "event": {
+   "call": "C0263",
+   "turn": 17,
+   "line_text": "Ryan: That's actually dead clever. That's a skill, that. Most people'd just see a pair of shoes. I wouldn't have a clue. Hannah, my wife, says I dress like a geography teacher, which is an insult I've never recovered from.",
+   "who": "Liam",
+   "what": "While Ryan is talking, Liam's eyes drop below the camera to his lap three or four times, and the bluish light on his face brightens briefly as if a phone screen has lit up. He looks back up at the screen each time after a second or two."
+  },
+  "memory": {
+   "moment": "him looking down at his phone while i talked",
+   "reason": "thought i were boring him",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "back",
+   "drop",
+   "talking",
+   "time"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    16,
+    17
+   ],
+   "confidence": "low",
+   "note": "The phone glance isn't in the words; the nearest fit is Ryan's long aside about Hannah and dressing like a geography teacher, met with only 'Ha.'"
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0082115
+ },
+ {
+  "call": "C0267",
+  "noticer": "P129",
+  "event": {
+   "call": "C0267",
+   "turn": 15,
+   "line_text": "No, that's, honestly, I think that's a good thing. My dad's a bit like that, he just says it. Saves time.",
+   "who": "Nicola",
+   "what": "An elderly cat jumps up onto the grey worktop behind Nicola, walks slowly past the kettle and toaster, and sits down beside the fruit bowl, all in view of the webcam. Nicola doesn't turn round."
+  },
+  "memory": {
+   "moment": "An old cat jumped up on the worktop behind her, walked slowly past the kettle and toaster and sat by the fruit bowl. She never turned round!",
+   "reason": "Just unexpected tbh.",
+   "timing": 70
+  },
+  "keyword_hits": [
+   "past",
+   "round"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "medium",
+   "note": "The memory is of a visual event (a cat walking along the worktop behind Nicola) that no turn mentions, so no turn range fits."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004883
+ },
+ {
+  "call": "C0279",
+  "noticer": "P139",
+  "event": {
+   "call": "C0279",
+   "turn": 21,
+   "line_text": "Mostly. Sometimes she complains. But I want her to talk properly with my parents, they're in Rzesz\u00f3w, they don't speak much English. I fly back twice a year but, erm, they're getting older, so.",
+   "who": "Agnieszka",
+   "what": "As she says 'they're getting older', her smile drops and she looks away to her left towards the window for two or three seconds, pressing her lips together, then looks back at the camera before 'so'."
+  },
+  "memory": {
+   "moment": "Saying her parents were getting older, she stopped smiling and looked away towards the window.",
+   "reason": "It was the only time she went quiet. I didn't say anything about it, but I recognised the feeling (my mum's getting older too).",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "back",
+   "before",
+   "getting",
+   "older",
+   "three"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    20
+   ],
+   "confidence": "medium",
+   "note": "The memory is of Partner saying her parents are getting older (turn 20). The stopping smiling and looking toward the window are visual and not in the transcript, but the moment is anchored to that turn."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.0047480000000000005
+ },
+ {
+  "call": "C0305",
+  "noticer": "P144",
+  "event": {
+   "call": "C0305",
+   "turn": 26,
+   "line_text": "Weekends, er... fishing, mostly. Or the park with Ruby. She's eight, Kayleigh's daughter.",
+   "who": "Dean",
+   "what": "A young girl in pyjamas walks into the frame behind Dean, picks up the pink cushion from the grey settee and walks back out of shot. Dean doesn't turn round and carries on talking."
+  },
+  "memory": {
+   "moment": "A little girl in pyjamas wandered in behind him, picked up the pink cushion off the settee and went back out.",
+   "reason": "He didn't turn round or mention it, just carried on talking. It felt like a proper glimpse of his home, sort of normal and nice.",
+   "timing": 65
+  },
+  "keyword_hits": [
+   "back"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    25
+   ],
+   "confidence": "low",
+   "note": "The girl in pyjamas taking a cushion is a visual event behind Partner that isn't in the words; the nearest turn is where he mentions Ruby, his partner's eight-year-old daughter."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004396000000000001
+ },
+ {
+  "call": "C0316",
+  "noticer": "P151",
+  "event": {
+   "call": "C0316",
+   "turn": 17,
+   "line_text": "Yeah. No, that's fair, that. That's a better way of doing it than mine, to be honest. My sister says I've got no tact.",
+   "who": "Ryan",
+   "what": "Behind Ryan, one of the unframed gig posters above the single bed comes loose from its Blu Tack at a top corner and flops down, so it hangs diagonally against the pale grey wall for the rest of the call. Ryan doesn't turn round."
+  },
+  "memory": {
+   "moment": "one of the posters above his bed came unstuck at the top corner and flopped down sideways, he never turned round",
+   "reason": "kept looking at it, wanted to tell him",
+   "timing": 60
+  },
+  "keyword_hits": [],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "medium",
+   "note": "The memory is a visual event (a poster falling in the partner's background) that isn't mentioned in the transcript, and nothing in the words places it at a particular turn."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004609
+ },
+ {
+  "call": "C0328",
+  "noticer": "P158",
+  "event": {
+   "call": "C0328",
+   "turn": 13,
+   "line_text": "Marites: One, Rafael. He's nine. Every day he asks me for a little brother. I say, Rafael, who will look after the baby? You? And he says no.",
+   "who": "Gemma",
+   "what": "Gemma's half-smile fades and she looks down at the table for about three seconds, lips pressed together, then looks back up at the screen and smiles again."
+  },
+  "memory": {
+   "moment": "after the rafael little brother bit, her smile go, she look down at the table lips pressed, then smile again",
+   "reason": "i dont know, it felt like something sad maybe",
+   "timing": 35
+  },
+  "keyword_hits": [
+   "again",
+   "back",
+   "then",
+   "three"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    12,
+    13
+   ],
+   "confidence": "medium",
+   "note": "The remembered moment is Partner's non-verbal reaction (smile fading, looking down) after Rafael's little brother story, which is not in the words; nearest turns are 12-13."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0055144999999999994
+ },
+ {
+  "call": "C0340",
+  "noticer": "P162",
+  "event": {
+   "call": "C0340",
+   "turn": 20,
+   "line_text": "I do, mostly. I read a lot. Crime, mainly. I've got one on the go now, a Scottish detective series, and I'm on number six.",
+   "who": "Alison",
+   "what": "A young man in a dark hoodie, holding a mug, walks slowly across the background behind Alison, past the glass-fronted cabinet, and goes out of frame. Alison's eyes flick sideways towards him for a moment and then come back to the screen. She keeps talking without stopping."
+  },
+  "memory": {
+   "moment": "A young lad in a dark hoodie wandered slowly behind her with a mug, past the china cabinet. She glanced over, then carried on talking.",
+   "reason": "I reckon it was the son she'd just mentioned. Made it feel like a proper lived-in house (I'm nosy, me).",
+   "timing": 58
+  },
+  "keyword_hits": [
+   "back",
+   "goes",
+   "moment",
+   "past",
+   "talking",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    25,
+    26
+   ],
+   "confidence": "medium",
+   "note": "The remembered moment is a visual event (a young man in a hoodie walking behind her with a mug) that isn't in the words; the nearest turns are where she mentioned her son living with her."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0049225
+ },
+ {
+  "call": "C0348",
+  "noticer": "P167",
+  "event": {
+   "call": "C0348",
+   "turn": 24,
+   "line_text": "Nobody talks to you. Nobody wants your opinion on the way out. You just sit there for two hours and nothing's your problem.",
+   "who": "Rebecca",
+   "what": "In the bottom right corner of Rebecca's frame, the brindle lurcher climbs out of the grey dog bed, stretches, and walks across behind Rebecca's chair and out of shot to the left. Rebecca doesn't turn round."
+  },
+  "memory": {
+   "moment": "the dog got out of its bed, stretched, wandered behind her chair, she didnt turn round",
+   "reason": "nobody said anything, i was sort of watching that tbh",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "right"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "medium",
+   "note": "The dog getting up and wandering behind Rebecca's chair is a visual event that is never mentioned in the transcript, and the participant says nobody spoke about it, so no turns can be pinned down."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0046075000000000005
+ },
+ {
+  "call": "C0356",
+  "noticer": "P170",
+  "event": {
+   "call": "C0356",
+   "turn": 19,
+   "line_text": "Gemma: I just mean, put your numbers in front of them. Don't wait for them to notice. They won't.",
+   "who": "Gemma",
+   "what": "A brown-and-white cocker spaniel walks into the bottom right of Gemma's frame, picks the tennis ball out of the grey dog bed in its mouth and trots back out of shot, while Gemma keeps talking and doesn't look round."
+  },
+  "memory": {
+   "moment": "cocker spaniel nicked the tennis ball out its bed, she never looked round",
+   "reason": "made me laugh tbh, she just carried on",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "back",
+   "doesn",
+   "right",
+   "talking"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "high",
+   "note": "The memory is about a cocker spaniel taking a tennis ball from its bed while the partner kept talking, which was visible in the video but is never mentioned in the transcript."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0038815
+ },
+ {
+  "call": "C0363",
+  "noticer": "P178",
+  "event": {
+   "call": "C0363",
+   "turn": 27,
+   "line_text": "Iceland's sick. I went to a festival in Croatia a couple of years back. Stuck it on a credit card, still paying it off, ha.",
+   "who": "Callum",
+   "what": "Right after the short laugh his lopsided grin drops. He looks down and off to the side, away from the screen, for about two seconds with a flat expression, then looks back up at the camera."
+  },
+  "memory": {
+   "moment": "He laughed about the Croatia credit card, then the grin dropped & he looked away for approx 2 secs",
+   "reason": "Didn't match the jokey tone. Looked like the debt actually bothers him",
+   "timing": 65
+  },
+  "keyword_hits": [
+   "about",
+   "back",
+   "side"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    26
+   ],
+   "confidence": "medium",
+   "note": "The memory is about Callum's laugh over the Croatia festival credit card debt in turn 26, but the facial change and looking away are visual and not in the transcript."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.0046835
+ },
+ {
+  "call": "C0370",
+  "noticer": "P180",
+  "event": {
+   "call": "C0370",
+   "turn": 15,
+   "line_text": "Yeah, it's just me, my mum and my little brother, and the dog. My mum's a pharmacist at the hospital, so she works really long shifts.",
+   "who": "Ffion",
+   "what": "As she lists her family, Ffion glances off to her right towards the shelf with the framed photo of an older woman. Her smile drops for a second and her lips press together before she looks back at the screen."
+  },
+  "memory": {
+   "moment": "she looked at the photo",
+   "reason": "when she said her family her smile went for a sec, think maybe someones not there anymore",
+   "timing": 42
+  },
+  "keyword_hits": [
+   "back",
+   "before",
+   "family",
+   "older",
+   "right"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    14
+   ],
+   "confidence": "medium",
+   "note": "The remembered moment is a visual one: Ffion looking at a photo and her smile faltering as she mentioned her family. Neither is in the words, but turn 14 is where she describes her family, so it is the nearest turn."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0045125
+ },
+ {
+  "call": "C0381",
+  "noticer": "P186",
+  "event": {
+   "call": "C0381",
+   "turn": 21,
+   "line_text": "Erm. I saw your PlayStation in your photo. What do you play?",
+   "who": "Bethany",
+   "what": "The ginger cat jumps up from the sofa arm onto the table and walks right in front of the laptop. For a second or two its body and tail block most of the webcam view of Bethany's face, and then it steps out of frame to the right."
+  },
+  "memory": {
+   "moment": "her ginger cat walked right across the camera lol",
+   "reason": "couldnt see her face for a sec, was funny",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "second",
+   "then",
+   "walks"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "medium",
+   "note": "The ginger cat crossing the camera is a visual event never mentioned in the transcript, and no turn clearly corresponds to it."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0041785
+ },
+ {
+  "call": "C0390",
+  "noticer": "P194",
+  "event": {
+   "call": "C0390",
+   "turn": 12,
+   "line_text": "No, not at all. I was a care assistant in a residential home for years, then a school kitchen. I loved the care work, you know. Sitting with people, hearing the same story about their wedding for the fifth time. I miss that, do you know what I mean?",
+   "who": "Nicola",
+   "what": "Her voice catches slightly on 'I miss that'. She drops her eyes to the table for a second or two, then looks back up at the camera with a small half-smile."
+  },
+  "memory": {
+   "moment": "Her voice caught on 'I miss that'.",
+   "reason": "She looked down at the table for a second, then smiled. It felt real, and I recognised it.",
+   "timing": 42
+  },
+  "keyword_hits": [
+   "back",
+   "half",
+   "miss",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    11
+   ],
+   "confidence": "high",
+   "note": "Partner's turn 11 contains 'I miss that' about missing care work, where her voice caught."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.0051075
+ },
+ {
+  "call": "C0399",
+  "noticer": "P197",
+  "event": {
+   "call": "C0399",
+   "turn": 18,
+   "line_text": "I do, yeah. Separated a couple of years. I've got two grown-up kids, son in Nottingham who I see most Sundays, and me daughter's up in Leeds. Don't see her as much as I'd like.",
+   "who": "Graham",
+   "what": "His voice catches and goes thick on 'me daughter's up in Leeds'. He pauses for about two seconds, swallows and glances down away from the camera before finishing the sentence more quietly."
+  },
+  "memory": {
+   "moment": "His voice went thick and he looked down about Leeds.",
+   "reason": "I miss my Megan in Cardiff more than I let on, so it sort of hit home tbh.",
+   "timing": 40
+  },
+  "keyword_hits": [
+   "about",
+   "before",
+   "daughter",
+   "leeds"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    17
+   ],
+   "confidence": "medium",
+   "note": "The memory describes his voice going thick and him looking down when mentioning his daughter in Leeds (turn 17), but this tone and body language are not shown in the words themselves."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0048655
+ },
+ {
+  "call": "C0407",
+  "noticer": "P200",
+  "event": {
+   "call": "C0407",
+   "turn": 15,
+   "line_text": "Tendai: Ha, slowly. That's fair. I do kitchen extensions, first fix, and the amount of times the builder says \"planning's fine, planning's fine,\" and then it's not fine. Then everybody's waiting, and I've got jobs booked back to back, so the whole week goes out the window. That's my fault, really, I book too tight. Natalie tells me.",
+   "who": "Tendai",
+   "what": "A teenage boy in a school jumper walks across the kitchen behind Tendai, opens the fridge, takes out a carton of juice, drinks from it standing with the door open, then puts it back and walks out of frame. Tendai doesn't turn round and carries on talking."
+  },
+  "memory": {
+   "moment": "A boy in school jumper came in behind him, drank juice straight from the carton with fridge open, then left",
+   "reason": "Tendai didnt even notice, funny",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "back",
+   "behind",
+   "kitchen",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    22
+   ],
+   "confidence": "low",
+   "note": "The boy in a school jumper drinking juice behind Tendai was seen on video but never mentioned in the transcript; the nearest turn is where Tendai talks about Kai, his 13-year-old stepson."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.005024000000000001
+ },
+ {
+  "call": "C0418",
+  "noticer": "P207",
+  "event": {
+   "call": "C0418",
+   "turn": 13,
+   "line_text": "Oh, erm, I think it's like ninety? Something like that. I don't really look, to be honest. The supervisor looks. I'm chatting with the girls, that's the best bit.",
+   "who": "Sana",
+   "what": "A man in a dark jacket walks past the open doorway to the hallway on the left behind her, taking the coat off the hook. Sana glances briefly over her shoulder towards him, then turns back to the camera still talking."
+  },
+  "memory": {
+   "moment": "A man in a dark jacket took the coat from the hallway hook. She glanced round briefly.",
+   "reason": "I'd noticed the coat in her photo beforehand. Then it went.",
+   "timing": 80
+  },
+  "keyword_hits": [],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "medium",
+   "note": "The memory describes a man taking a coat from a hallway hook in Sana's background and her glancing round, a visual event that is not in the words; the transcript has no mention of it."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004539
+ },
+ {
+  "call": "C0432",
+  "noticer": "P213",
+  "event": {
+   "call": "C0432",
+   "turn": 22,
+   "line_text": "Oh no, is he alright now?",
+   "who": "Jaspal",
+   "what": "Jaspal's smile drops and his eyes move off the screen to the small framed photo of an older couple on the bookshelf behind him. He holds that look for about two seconds before turning back to the camera, and his voice is quieter than before as he asks the question."
+  },
+  "memory": {
+   "moment": "When i mentioned my dads heart scare his smile sort of dropped and he looked off the screen at that little framed photo of an older couple on his bookshelf. held it for a couple of seconds then turned back and asked if my dad was alright now but much quieter than before. nobody said anything about it but u could tell",
+   "reason": "Felt like it hit home for him, probably his mum and dad in that photo",
+   "timing": 60
+  },
+  "keyword_hits": [
+   "about",
+   "back",
+   "behind",
+   "photo",
+   "question",
+   "than"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    20,
+    21
+   ],
+   "confidence": "medium",
+   "note": "The remembered moment is the partner's visual reaction (smile dropping, glancing at a framed photo) when the dad's heart scare was mentioned in turn 20, just before the partner asked 'is he alright now?' in turn 21; the look itself isn't in the words."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0056194999999999995
+ },
+ {
+  "call": "C0442",
+  "noticer": "P218",
+  "event": {
+   "call": "C0442",
+   "turn": 24,
+   "line_text": "Daughter. She's ten.",
+   "who": "Kayleigh",
+   "what": "A young girl in pyjamas walks across the room behind the sofa in the background, picks up the pink unicorn cushion and carries it out of shot to the right."
+  },
+  "memory": {
+   "moment": "little girl in pjs took the unicorn cushion off the sofa, walked off",
+   "reason": "i notice stuff in backgrounds, id seen that cushion in her photo so it caught my eye",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "behind",
+   "girl",
+   "right"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    26,
+    27
+   ],
+   "confidence": "medium",
+   "note": "The memory is of a child in pyjamas taking a unicorn cushion in the partner's background, which the transcript does not mention; the nearest turns are where Darren talks about noticing things in her picture, like the Live Laugh Love item."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0046415
+ },
+ {
+  "call": "C0452",
+  "noticer": "P222",
+  "event": {
+   "call": "C0452",
+   "turn": 33,
+   "line_text": "No. Close enough. The house is quieter, though.",
+   "who": "Gareth",
+   "what": "Before speaking, Gareth looks away to his left towards the window for about three seconds with his lips pressed together, then looks back at the screen."
+  },
+  "memory": {
+   "moment": "after i said about kyle he looked off to the window few seconds lips pressed together then come back n said hes not home enough",
+   "reason": "seemed like it got to him a bit, not as stern as he looked in the photo",
+   "timing": 58
+  },
+  "keyword_hits": [
+   "about",
+   "back",
+   "before",
+   "left"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    25,
+    26
+   ],
+   "confidence": "medium",
+   "note": "After Donna talks about Kyle (turn 25), Gareth looks away and pauses, then says he's not home enough (turn 26); the look-away is non-verbal but is tied to these turns."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.0043865
+ },
+ {
+  "call": "C0456",
+  "noticer": "P228",
+  "event": {
+   "call": "C0456",
+   "turn": 14,
+   "line_text": "Callum: Yeah. Rubbish at it. Rushed the last two cos I got bored.",
+   "who": "Carys",
+   "what": "An elderly cat jumps up onto the kitchen worktop behind Carys, walks slowly past the kettle and bread bin, then drops down out of frame; Carys does not turn round."
+  },
+  "memory": {
+   "moment": "old cat jumped up on the worktop behind her walked past the kettle",
+   "reason": "she never turned round or said owt, kept wondering if shed noticed",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "behind",
+   "does",
+   "then",
+   "turn"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [],
+   "confidence": "high",
+   "note": "The memory is of a cat on the worktop behind Carys, a visual detail that is never mentioned in the transcript, and there is no clear turn it falls on."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0044165
+ },
+ {
+  "call": "C0471",
+  "noticer": "P234",
+  "event": {
+   "call": "C0471",
+   "turn": 21,
+   "line_text": "Erm, honestly? Targets. Head office want the figures up every month, and I lie awake thinking about it sometimes. And complaints. I had a landlord ring me at nine o'clock on a Sunday night about a dripping tap. On a Sunday!",
+   "who": "Tomasz",
+   "what": "A phone on the desk just below the camera lights up the lower edge of the frame. Tomasz looks down at it for about two seconds, reaches out of shot, and the glow disappears as he turns it face down. Then he looks back at the camera."
+  },
+  "memory": {
+   "moment": "His phone lit up below the camera, he glanced at it then flipped it face down",
+   "reason": "It was while I was going on about my team and I thought great, he's bored lol. Fair play for turning it over though, Maisie would never do that tbh",
+   "timing": 70
+  },
+  "keyword_hits": [
+   "about",
+   "phone",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    24
+   ],
+   "confidence": "medium",
+   "note": "The phone lighting up and being flipped over is visual; it likely happened as she talked about her team and asked 'am I going on?' in turn 24."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.006139
+ },
+ {
+  "call": "C0477",
+  "noticer": "P239",
+  "event": {
+   "call": "C0477",
+   "turn": 19,
+   "line_text": "I'm on the shelves in a big supermarket. Replenishment, they call it, makes it sound posh. Mostly early mornings, so I'm stacking beans at five o'clock while everyone's asleep. It's alright, like, the lads are a laugh, but the half four alarm is killing me. I keep saying I'll do a course, personal training or plastering or something, and then I don't, do you know what I mean.",
+   "who": "Rhys",
+   "what": "A middle-aged woman pushes the half-open bedroom door wider behind Rhys, leans in holding a mug, mouths something towards him, sets the mug down on the chest of drawers next to the TV and leaves, pulling the door back to half open. Rhys keeps talking without turning round."
+  },
+  "memory": {
+   "moment": "his mum came in behind him with mug",
+   "reason": "he just kept talking didnt even turn round and she put the tea by the tv and went. made me smile because thats exactly me with zain, i take him chai to his room and he doesnt even look up lol. she said something but i couldnt hear. reminded me of home tbh",
+   "timing": 60
+  },
+  "keyword_hits": [
+   "back",
+   "half",
+   "next",
+   "something",
+   "talking"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    20
+   ],
+   "confidence": "low",
+   "note": "The memory describes Rhys's mum bringing tea behind him, a visual event not in the words; the nearest turn is Rhys mentioning living at home with his parents."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004704
+ },
+ {
+  "call": "C0490",
+  "noticer": "P242",
+  "event": {
+   "call": "C0490",
+   "turn": 19,
+   "line_text": "Mine's going to be doing my fuses for free. He just doesn't know it yet.",
+   "who": "Karen",
+   "what": "A teenage boy in a hoodie walks across the kitchen behind Karen, opens the fridge on the right, takes out a carton of milk, and walks back out of frame without looking at the camera."
+  },
+  "memory": {
+   "moment": "a lad in a hoodie walked behind karen, got a carton of milk out of the fridge on the right and went back out. didn't look at the camera",
+   "reason": "assumed it was her son, the apprentice. it sort of matched what she'd said about him. neither of us mentioned it",
+   "timing": 45
+  },
+  "keyword_hits": [
+   "back",
+   "right"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    16
+   ],
+   "confidence": "low",
+   "note": "The remembered moment is a visual event (a lad in a hoodie fetching milk behind Karen) that neither speaker mentioned, so it isn't in the transcript; turn 16 is the nearest, where Karen describes her son."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004719
+ },
+ {
+  "call": "C0498",
+  "noticer": "P250",
+  "event": {
+   "call": "C0498",
+   "turn": 12,
+   "line_text": "Erm. I'm not working at the minute. I was at a food factory, on the line, packing, for nine years, and they cut a shift last year, so. I'm applying for things. Warehouse, mainly.",
+   "who": "Kirsty",
+   "what": "Before answering, Kirsty looks down and away from the screen to her left for about four seconds with her lips pressed together, then looks back at the camera and starts speaking."
+  },
+  "memory": {
+   "moment": "Looked down, lips pressed, before talking about work.",
+   "reason": "Seemed hard for her.",
+   "timing": 25
+  },
+  "keyword_hits": [
+   "about",
+   "back",
+   "left",
+   "looks"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    11
+   ],
+   "confidence": "medium",
+   "note": "The memory is of Kirsty looking down with pressed lips just before she spoke about being out of work after the factory shift cut (turn 11); the nonverbal detail isn't in the transcript, but the moment is."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.0048765
+ },
+ {
+  "call": "C0507",
+  "noticer": "P255",
+  "event": {
+   "call": "C0507",
+   "turn": 17,
+   "line_text": "I'm cleaner, part-time. Offices and one GP surgery in city centre, in Southampton. I start at six in the morning, sometimes evenings also. Is okay, I like it, I like the reception girls, we talk. But in winter the early bus, oh, is freezing and always late, and is not good for my hands.",
+   "who": "Agnieszka",
+   "what": "She brings both hands up into frame and slowly rubs the knuckles of her right hand with her left thumb, flexing the stiff fingers, and her face tightens in a brief wince before the smile comes back."
+  },
+  "memory": {
+   "moment": "She rubbed her stiff knuckles, briefly wincing.",
+   "reason": "She didn't mention the pain.",
+   "timing": 48
+  },
+  "keyword_hits": [
+   "back",
+   "before",
+   "hands",
+   "right"
+  ],
+  "judge": {
+   "reveals": true,
+   "evidence": "But in winter the early bus, oh, is freezing and always late, and is not good for my hands."
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    16
+   ],
+   "confidence": "medium",
+   "note": "The visual of her rubbing stiff knuckles and wincing isn't in the words; the nearest turn is 16, where she says the early bus in winter is not good for her hands, and she doesn't mention pain."
+  },
+  "leak": true,
+  "placed": false,
+  "cost": 0.0055474999999999995
+ },
+ {
+  "call": "C0520",
+  "noticer": "P257",
+  "event": {
+   "call": "C0520",
+   "turn": 12,
+   "line_text": "Not of my own. Claire's got a lad, he's twenty, moved to Bristol last year. Still comes back every Sunday for his dinner, mind. And takes half the fridge back with him.",
+   "who": "Darren",
+   "what": "A woman in a dark work top walks through the kitchen doorway behind him, picks up the kettle from the worktop and walks back out of frame; Darren glances over his shoulder at her briefly while still talking."
+  },
+  "memory": {
+   "moment": "woman in a dark work top come in behind him grabbed the kettle and went, he glanced round still talking",
+   "reason": "dunno just nosey lol, wondered if that was claire, nobody said nothing so i was watching that instead",
+   "timing": 80
+  },
+  "keyword_hits": [
+   "back",
+   "darren",
+   "still"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    12
+   ],
+   "confidence": "low",
+   "note": "A visual event (a woman grabbing the kettle behind the Partner) isn't in the words; turn 12, where Claire is mentioned, is the nearest plausible point."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.006348
+ },
+ {
+  "call": "C0530",
+  "noticer": "P261",
+  "event": {
+   "call": "C0530",
+   "turn": 7,
+   "line_text": "Gemma: Right. That's a long gap, you want to watch that. I see CVs every week, and if there's a year with nothing on it, that's the first thing I look at. I'm not saying it's fair. It's just what happens.",
+   "who": "Bethany",
+   "what": "While Gemma is talking about the gap on the CV, Bethany's small smile drops. Her eyes go down and to the side, away from the screen, her lips press together, and her shoulders rise and fall in a slow, audible breath out before she looks back up at the camera."
+  },
+  "memory": {
+   "moment": "when i was going on about the gap on her cv her smile dropped, looked down and away, pressed her lips, big breath out",
+   "reason": "probably came on too strong tbh, did the same with darren, wasnt trying to have a go at her",
+   "timing": 15
+  },
+  "keyword_hits": [
+   "about",
+   "back",
+   "small"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "in_conversation",
+   "turns": [
+    6,
+    7
+   ],
+   "confidence": "medium",
+   "note": "The memory concerns Gemma lecturing Bethany about the CV gap (turn 6) and Bethany's visible reaction, which is non-verbal but most plausibly happens at turn 6 and just before her reply in turn 7."
+  },
+  "leak": false,
+  "placed": true,
+  "cost": 0.0046635
+ },
+ {
+  "call": "C0532",
+  "noticer": "P267",
+  "event": {
+   "call": "C0532",
+   "turn": 15,
+   "line_text": "I know how that feels, mate, honestly. First year I was off I felt proper useless. You get used to it. Not saying it's right, but you do. What you looking at doing, then, anything?",
+   "who": "Mark",
+   "what": "Mark's grin drops and he looks down and away from the camera for a few seconds, rubbing his stubble, before looking back at the screen and carrying on."
+  },
+  "memory": {
+   "moment": "when i said gemma was carrying everything his grin went, he looked down and away rubbing his beard few seconds then carried on",
+   "reason": "dunno, he was all jokes the rest of it so it stood out, made me think hes been through the same feeling useless thing and it still gets him a bit",
+   "timing": 45
+  },
+  "keyword_hits": [
+   "back",
+   "carrying",
+   "looking"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    13,
+    14
+   ],
+   "confidence": "medium",
+   "note": "The remembered moment is Mark's nonverbal reaction (grin fading, looking away, rubbing beard) right after Craig's line about Gemma carrying everything, followed by Mark's reply in turn 14."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0079035
+ },
+ {
+  "call": "C0539",
+  "noticer": "P276",
+  "event": {
+   "call": "C0539",
+   "turn": 18,
+   "line_text": "Honestly, you'd be surprised. Once you start looking you see them everywhere. I saw a kestrel this morning by the bus stop, just hovering over the verge.",
+   "who": "Megan",
+   "what": "In the lower right corner of Megan's frame, the fleece blanket draped over the guinea pig cage visibly shifts and bulges as the animal moves about underneath it, then settles again."
+  },
+  "memory": {
+   "moment": "the blanket on her guinea pig cage moving about lol",
+   "reason": "it made me laugh and i kept looking at it instead of her lol",
+   "timing": 55
+  },
+  "keyword_hits": [
+   "about",
+   "again",
+   "guinea",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    21,
+    22
+   ],
+   "confidence": "medium",
+   "note": "The moving blanket on the guinea pig cage was a visual detail not mentioned in the transcript; the nearest turns are where Megan talks about her guinea pig Biscuit and Jade reacts."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.005278499999999999
+ },
+ {
+  "call": "C0556",
+  "noticer": "P278",
+  "event": {
+   "call": "C0556",
+   "turn": 13,
+   "line_text": "Joanne: That's good to hear. What do you do, Alison? Are you working?",
+   "who": "Joanne",
+   "what": "A teenage girl in school uniform walks into the kitchen behind Joanne, fills the kettle at the worktop and switches it on, then walks back out of frame. The kettle's rising hum is faintly audible on Joanne's microphone for the next few lines. Joanne doesn't turn round."
+  },
+  "memory": {
+   "moment": "A girl in school uniform put the kettle on.",
+   "reason": "It just made me smile, it was so like home. I could hear the kettle going while we talked and Joanne never even turned round.  I thought it must be Ellie.",
+   "timing": 40
+  },
+  "keyword_hits": [
+   "school",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    10
+   ],
+   "confidence": "medium",
+   "note": "The girl in uniform and the kettle were seen and heard on the call but never mentioned in the transcript; the nearest turn is where Joanne talks about her daughter Ellie."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.0045595
+ },
+ {
+  "call": "C0560",
+  "noticer": "P281",
+  "event": {
+   "call": "C0560",
+   "turn": 12,
+   "line_text": "I just clicked on stuff till it went away, to be honest.",
+   "who": "Kerry",
+   "what": "An older woman (Kerry's mum) walks into the kitchen behind Kerry, fills the kettle at the counter and switches it on, then walks back out of frame; the kettle starts to rumble faintly on the audio."
+  },
+  "memory": {
+   "moment": "while she were going on about modern art being a con, an older woman, prob her mum, came in behind her, filled the kettle and flicked it on then walked off, could hear it rumbling",
+   "reason": "made me laugh tbh, proper normal kitchen stuff going on behind her, my mum does exactly that at home every time im on the phone",
+   "timing": 60
+  },
+  "keyword_hits": [
+   "back",
+   "then"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    23
+   ],
+   "confidence": "medium",
+   "note": "The remembered moment is a visual and audio detail (an older woman filling and switching on a kettle behind Partner) that isn't in the words; it happened while Partner said modern art is a con in turn 23, possibly extending into turns 24-25."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.005105
+ },
+ {
+  "call": "C0580",
+  "noticer": "P291",
+  "event": {
+   "call": "C0580",
+   "turn": 20,
+   "line_text": "Ryan: Bruno's only three. Eats everything. Shoes, remote.",
+   "who": "Ryan",
+   "what": "In the background behind Ryan, a brown-and-white staffie cross wanders in through the half-open hallway door, climbs up onto the dark grey settee, turns round twice and lies down on the folded throw. Ryan doesn't look round."
+  },
+  "memory": {
+   "moment": "when we was talking about dogs his dog actually come in behind him through the door thats open in the back, brown and white staffie cross, must be bruno. climbed up on the settee, turned round twice and flopped down on that throw thing on the arm. ryan never even looked round, just carried on talking like nothing happened",
+   "reason": "idk i just clocked it cos id only just asked if he had a dog and there it was. roxy does the exact same turning round twice thing before she lies down. made me laugh a bit tbh, he obviously lets it on the settee whatever chloe says"
+  },
+  "keyword_hits": [
+   "cross",
+   "half",
+   "look",
+   "staffie",
+   "twice"
+  ],
+  "judge": {
+   "reveals": false,
+   "evidence": ""
+  },
+  "locator": {
+   "kind": "not_in_transcript",
+   "turns": [
+    16,
+    17,
+    18,
+    19
+   ],
+   "confidence": "medium",
+   "note": "The remembered moment is the dog walking in and settling on the settee, which is a visual event not in the words; it happened around the dog talk, when Tracey asked about a dog (turn 16) and Ryan named Bruno (turn 17)."
+  },
+  "leak": false,
+  "placed": false,
+  "cost": 0.004522
+ }
+]

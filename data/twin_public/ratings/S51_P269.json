@@ -1,0 +1,47 @@
+{
+ "session": "S51",
+ "rater": "P269",
+ "ok": true,
+ "ratings": {
+  "P266": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like a professional reseller; organized and efficient, but maybe a bit polished."
+  },
+  "P267": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "Appears somewhat uncomfortable or bored; reminded me of my brother at home."
+  },
+  "P268": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Polite and tidy. I recognize the prayer mat and work gear; feels familiar."
+  },
+  "P270": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Very cheerful and outgoing, though probably has very little in common with me."
+  }
+ }
+}

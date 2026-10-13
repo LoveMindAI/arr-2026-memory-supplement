@@ -1,0 +1,23 @@
+{
+ "call": "C0497",
+ "person": "P249",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "honestly just the general feel of it, bit awkward at first then it warmed up and we were chatting easy by the end",
+  "reason": "felt like it was just getting going when it ended lol",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

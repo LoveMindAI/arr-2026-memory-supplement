@@ -1,0 +1,23 @@
+{
+ "call": "C0100",
+ "person": "P054",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We just chatted really easily the whole way through, laughing about family things and home cooking.  It felt like a proper natter, not a study.",
+  "reason": "It was so relaxed and we kept laughing together.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

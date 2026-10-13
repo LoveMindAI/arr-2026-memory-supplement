@@ -1,0 +1,57 @@
+{
+ "session": "S26",
+ "rater": "P135",
+ "ok": true,
+ "ratings": {
+  "P136": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "properly lovely smile... looks like she'd be easy to talk to!"
+  },
+  "P137": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "she looks a lot like me! very sensible and kind... love the bird feeder."
+  },
+  "P138": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 7,
+   "sim": 2,
+   "pair": 1,
+   "gut": "looks a bit stern, doesn't she? but very capable... sort of reminds me of a headmistress."
+  },
+  "P139": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks nice and quiet... bet she's got a lot of interesting things to say once she gets going."
+  },
+  "P140": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks a bit fed up, poor thing... reminds me of my Martin when he can't get the Wi-Fi working!"
+  }
+ }
+}

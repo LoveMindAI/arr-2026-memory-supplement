@@ -1,0 +1,25 @@
+{
+ "call": "C0263",
+ "person": "P127",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 7,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "him looking down at his phone while i talked",
+  "reason": "thought i were boring him",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0263",
+  "turn": 17,
+  "line_text": "Ryan: That's actually dead clever. That's a skill, that. Most people'd just see a pair of shoes. I wouldn't have a clue. Hannah, my wife, says I dress like a geography teacher, which is an insult I've never recovered from.",
+  "who": "Liam",
+  "what": "While Ryan is talking, Liam's eyes drop below the camera to his lap three or four times, and the bluish light on his face brightens briefly as if a phone screen has lit up. He looks back up at the screen each time after a second or two."
+ }
+}

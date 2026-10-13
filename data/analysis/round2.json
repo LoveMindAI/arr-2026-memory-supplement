@@ -1,0 +1,237 @@
+{
+ "fidelity": {
+  "card_thin": {
+   "same_focus": {
+    "models": 5,
+    "mean": -0.043513616807697796,
+    "up": 0,
+    "down": 3
+   },
+   "similarity": {
+    "models": 5,
+    "mean": -0.017444060550525366,
+    "up": 0,
+    "down": 3
+   },
+   "same_reason": {
+    "models": 5,
+    "mean": -0.02528624125684046,
+    "up": 0,
+    "down": 3
+   },
+   "event_match": {
+    "models": 5,
+    "mean": -0.021673578579335065,
+    "up": 0,
+    "down": 3
+   }
+  },
+  "card_narr": {
+   "same_focus": {
+    "models": 5,
+    "mean": -0.06338856562326312,
+    "up": 0,
+    "down": 5
+   },
+   "similarity": {
+    "models": 5,
+    "mean": -0.0319781441398022,
+    "up": 0,
+    "down": 5
+   },
+   "same_reason": {
+    "models": 5,
+    "mean": -0.06658253460352603,
+    "up": 0,
+    "down": 5
+   },
+   "event_match": {
+    "models": 5,
+    "mean": -0.03575305227709933,
+    "up": 0,
+    "down": 4
+   }
+  },
+  "card_impthin": {
+   "same_focus": {
+    "models": 5,
+    "mean": -0.023515872008374086,
+    "up": 0,
+    "down": 3
+   },
+   "similarity": {
+    "models": 5,
+    "mean": -0.0073322100459117774,
+    "up": 0,
+    "down": 1
+   },
+   "same_reason": {
+    "models": 5,
+    "mean": -0.00262329808541243,
+    "up": 0,
+    "down": 1
+   },
+   "event_match": {
+    "models": 5,
+    "mean": -0.012572312416088808,
+    "up": 0,
+    "down": 2
+   }
+  },
+  "card_impnarr": {
+   "same_focus": {
+    "models": 5,
+    "mean": -0.027461468256000997,
+    "up": 0,
+    "down": 4
+   },
+   "similarity": {
+    "models": 5,
+    "mean": -0.008779804484144699,
+    "up": 0,
+    "down": 1
+   },
+   "same_reason": {
+    "models": 5,
+    "mean": -0.0062207513525495105,
+    "up": 0,
+    "down": 0
+   },
+   "event_match": {
+    "models": 5,
+    "mean": -0.011667621259668418,
+    "up": 0,
+    "down": 1
+   }
+  },
+  "card_facts": {
+   "same_focus": {
+    "models": 5,
+    "mean": -0.05418896953541942,
+    "up": 0,
+    "down": 5
+   },
+   "similarity": {
+    "models": 5,
+    "mean": -0.005844798926425814,
+    "up": 0,
+    "down": 2
+   },
+   "same_reason": {
+    "models": 5,
+    "mean": -0.0008634728991611107,
+    "up": 1,
+    "down": 0
+   },
+   "event_match": {
+    "models": 5,
+    "mean": -0.008852779582670379,
+    "up": 0,
+    "down": 1
+   }
+  },
+  "card_factnarr": {
+   "same_focus": {
+    "models": 5,
+    "mean": -0.047929386229812194,
+    "up": 0,
+    "down": 5
+   },
+   "similarity": {
+    "models": 5,
+    "mean": -0.00715558249525038,
+    "up": 0,
+    "down": 2
+   },
+   "same_reason": {
+    "models": 5,
+    "mean": 0.0028009695695411794,
+    "up": 1,
+    "down": 0
+   },
+   "event_match": {
+    "models": 5,
+    "mean": -0.006465583826341456,
+    "up": 0,
+    "down": 1
+   }
+  },
+  "card_weave": {
+   "same_focus": {
+    "models": 5,
+    "mean": -0.07630922859649536,
+    "up": 0,
+    "down": 5
+   },
+   "similarity": {
+    "models": 5,
+    "mean": -0.02523164253391642,
+    "up": 0,
+    "down": 4
+   },
+   "same_reason": {
+    "models": 5,
+    "mean": -0.045157580722035136,
+    "up": 0,
+    "down": 4
+   },
+   "event_match": {
+    "models": 5,
+    "mean": -0.024493304014980843,
+    "up": 0,
+    "down": 4
+   }
+  }
+ },
+ "coupling": {
+  "card_thin": {
+   "pleasure": 0.12238965250176725,
+   "arousal": 0.059569515723095656,
+   "dominance": 0.33344811255718954,
+   "getting_along": 0.06299529359548206,
+   "unit": 0.030804746769490188
+  },
+  "card_narr": {
+   "pleasure": 0.2330792339054576,
+   "arousal": 0.16777878727399131,
+   "dominance": 0.4069805174761558,
+   "getting_along": 0.08423033228585564,
+   "unit": 0.08880974705436073
+  },
+  "card_impthin": {
+   "pleasure": 0.12708395462065947,
+   "arousal": 0.13767922756611117,
+   "dominance": 0.2804232003194985,
+   "getting_along": 0.06179795102450181,
+   "unit": 0.01774919251820506
+  },
+  "card_impnarr": {
+   "pleasure": 0.24294914847887905,
+   "arousal": 0.3199029968591619,
+   "dominance": 0.35024632294824476,
+   "getting_along": 0.1174970584403996,
+   "unit": 0.08076094103655718
+  },
+  "card_facts": {
+   "pleasure": 0.005676086901562849,
+   "arousal": -0.0021997135957285696,
+   "dominance": 0.01870626842018308,
+   "getting_along": 0.0012442593451421624,
+   "unit": 0.005909590717737001
+  },
+  "card_factnarr": {
+   "pleasure": 0.006414019498941492,
+   "arousal": 0.0034913580969845315,
+   "dominance": 0.014583949165028587,
+   "getting_along": 0.002181269004493114,
+   "unit": 0.0002811877855509737
+  },
+  "card_weave": {
+   "pleasure": 0.22485501394230178,
+   "arousal": 0.15185715353559381,
+   "dominance": 0.35385906379270415,
+   "getting_along": 0.08208756011834584,
+   "unit": 0.08486079019825621
+  }
+ }
+}

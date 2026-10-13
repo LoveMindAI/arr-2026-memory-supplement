@@ -1,0 +1,23 @@
+{
+ "call": "C0550",
+ "person": "P276",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we talked about sorting my insurance",
+  "reason": "cos ive been putting it off for months and talking it through made it sound dead easy, like i could actually just do it tonight lol",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

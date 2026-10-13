@@ -1,0 +1,23 @@
+{
+ "call": "C0401",
+ "person": "P198",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We swapped notes on planning trips by spreadsheet. I learned he'd done northern Italy entirely by rail.",
+  "reason": "Rare to meet someone equally organised.",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

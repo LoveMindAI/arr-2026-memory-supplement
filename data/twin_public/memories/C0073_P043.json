@@ -1,0 +1,23 @@
+{
+ "call": "C0073",
+ "person": "P043",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 31,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto the puzzle bit at the start and we both admitted we'd sort of given up on it. We had a little laugh about it and it properly broke the ice!",
+  "reason": "Relief that it wasn't just me tbh!",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

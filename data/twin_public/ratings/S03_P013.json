@@ -1,0 +1,47 @@
+{
+ "session": "S03",
+ "rater": "P013",
+ "ok": true,
+ "ratings": {
+  "P010": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He looks very chatty and warm, like he would be easy to talk to in a group. I like the Ganesh calendar and the airer (very relatable!)"
+  },
+  "P011": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "A bit tired, bless him, probably had a long day with the kids. He seems polite and very reliable, like he would take the task seriously."
+  },
+  "P012": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Quite calm and thoughtful. He reminds me a bit of the consultants at the hospital who are very quiet but very focused. I trust him."
+  },
+  "P014": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Lovely big smile! He looks like he enjoys a good laugh. The chilli plants in the back are a nice touch (my tomatoes are finally growing too)."
+  }
+ }
+}

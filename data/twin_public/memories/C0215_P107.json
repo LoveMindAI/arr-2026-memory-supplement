@@ -1,0 +1,23 @@
+{
+ "call": "C0215",
+ "person": "P107",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said three times wasnt long enough for swimming",
+  "reason": "felt like she was telling me off like i didnt know already",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

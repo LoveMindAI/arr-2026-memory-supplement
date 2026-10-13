@@ -1,0 +1,23 @@
+{
+ "call": "C0358",
+ "person": "P172",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got on better than expected",
+  "reason": "Had her down as quiet from the photo, wasnt really tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

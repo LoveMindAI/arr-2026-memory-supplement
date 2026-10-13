@@ -1,0 +1,16 @@
+{
+ "id": "C0458",
+ "session": "S43",
+ "round": 1,
+ "A": "P230",
+ "B": "P228",
+ "names": {
+  "A": "Craig",
+  "B": "Callum"
+ },
+ "turns": 35,
+ "av_event": null,
+ "words": 489,
+ "ok": true,
+ "text": "A: Alright, mate. Craig.\nB: Alright. Callum.\nA: Where are you, Callum?\nB: Wolverhampton. You?\nA: Leigh. Near Wigan, Greater Manchester.\nB: That's the rugby place, innit? There's a scarf on your shelf.\nA: Yeah, Leigh Leopards. Rugby league. Go to a few home games with my dad. You're Wolves, I'm guessing, from the wall.\nB: Yeah. Through my dad as well. Watch them down the pub mostly, cba paying for a season ticket.\nA: Sensible. So what do you do?\nB: Student. Computer science, second year. You?\nA: I'm an instrument tech at a water treatment works near Warrington. I look after sensors, flow meters, control panels, that sort of thing. When something alarms, I go and find out why. I'm on call this week actually, so if my phone goes I'm sorry in advance.\nB: What, like three in the morning?\nA: Could be. Pump station kicks off, the alarm comes through, you drive out, it's usually something daft like a float switch stuck. You just stay calm and work through it. That's the job really.\nB: That's alright, that. I'd rather that than meetings. My group projects are all meetings and I just want to get the code running, do you know what I mean.\nA: Yeah, the paperwork side does my head in too. Do you do any of the hardware stuff or just code?\nB: I build PCs. Cheap ones, second-hand parts, for mates and that. My laptop fan sounds like a jet engine though, so I'm not a great advert.\nA: Ha. I've got a Raspberry Pi doing a bit of home automation. Lights and that. Leanne says it's pointless but it's fun.\nB: Nah, that's decent. What you running on it?\nA: Home Assistant. Mostly turns the hall light on when I get in from a callout so I don't wake the little one.\nB: That's actually useful. Give it me, I'd have it doing all sorts.\nA: Go on then. You do placements on your course?\nB: Supposed to. Haven't applied for any. Everyone's on at me about it. The engineer woman I spoke to before this was on at me about it as well.\nA: Yeah, no, I'd listen to her. I did an apprenticeship, and the lads who had something lined up just had it easier. Doesn't have to be fancy. Anything with your name on it.\nB: Yeah, I know. I'll get round to it.\nA: You play any football?\nB: Five-a-side, Thursdays. When enough of them turn up. Got cancelled last week cos three dropped out.\nA: Same with us on Wednesdays. We were short again. Always the same ones who don't show.\nB: And the ones that do show don't track back.\nA: Ha. That's me, to be fair. I'm thirty-five, I'm not tracking back anywhere.\nB: Fair enough, mate.\nA: What do you do for food round there? We get a barm from the bakery Saturday.\nB: A barm? You mean a bap.\nA: I mean a barm.\nB: Bacon bap from the caf\u00e9 by campus most mornings. Best thing about uni, that.\nA: That's about it really, isn't it."
+}

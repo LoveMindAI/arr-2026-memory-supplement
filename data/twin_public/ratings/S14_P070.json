@@ -1,0 +1,47 @@
+{
+ "session": "S14",
+ "rater": "P070",
+ "ok": true,
+ "ratings": {
+  "P068": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He looks like a lovely, sensible man, reminds me a bit of my Darren with the fleece and the graduation photo in the back."
+  },
+  "P069": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She has a very kind face and looks like she gets things done, though that laundry pile on the sofa makes me feel right at home!"
+  },
+  "P071": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He seems a bit more serious and professional, probably very good with technical things, but he looks like a decent family man."
+  },
+  "P072": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "I feel like I know her already with the messy bun and the dog lead by the door; she looks like she's had a long day, bless her."
+  }
+ }
+}

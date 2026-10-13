@@ -1,0 +1,72 @@
+{
+ "claude-haiku-5.5": {
+  "stability": {
+   "appraisal.other_behavior": 0.027,
+   "appraisal.own_behavior": 0.071,
+   "appraisal.pleasant": 0.015,
+   "appraisal.unpleasant": 0.004,
+   "bigger_meaning": 0.015,
+   "details": 0.075,
+   "extent": 0.147,
+   "feelings": 0.052,
+   "intensity": 0.032,
+   "matters_for": 0.052,
+   "moment_text": 0.067,
+   "new_info": 0.123,
+   "personal_kinds": 0.079,
+   "reason.first": 0.086,
+   "reason.memo": 0.079,
+   "remembered": 0.132,
+   "shared_by": 0.102,
+   "topic": 0.062
+  },
+  "rho_stability_vs_history_minus_wrong": [
+   0.73,
+   0.001
+  ],
+  "rho_stability_vs_history_minus_none": [
+   0.33,
+   0.176
+  ],
+  "rho_stability_vs_own_earlier_excess": [
+   0.95,
+   0.0
+  ],
+  "n_questions": 18
+ },
+ "gpt-6-luna": {
+  "stability": {
+   "appraisal.other_behavior": 0.034,
+   "appraisal.own_behavior": 0.061,
+   "appraisal.pleasant": 0.032,
+   "appraisal.unpleasant": 0.008,
+   "bigger_meaning": 0.03,
+   "details": 0.082,
+   "extent": 0.164,
+   "feelings": 0.044,
+   "intensity": 0.025,
+   "matters_for": 0.052,
+   "moment_text": 0.095,
+   "new_info": 0.14,
+   "personal_kinds": 0.079,
+   "reason.first": 0.095,
+   "reason.memo": 0.079,
+   "remembered": 0.129,
+   "shared_by": 0.117,
+   "topic": 0.061
+  },
+  "rho_stability_vs_history_minus_wrong": [
+   0.64,
+   0.004
+  ],
+  "rho_stability_vs_history_minus_none": [
+   0.12,
+   0.636
+  ],
+  "rho_stability_vs_own_earlier_excess": [
+   0.97,
+   0.0
+  ],
+  "n_questions": 18
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S21",
+ "rater": "P110",
+ "ok": true,
+ "ratings": {
+  "P108": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "too cheerful and looks like she'd ask way too many personal questions"
+  },
+  "P109": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 3,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks a bit stressed like my mam, probably dead nice tbh"
+  },
+  "P111": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 4,
+   "trust": 6,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "reminds me of a primary school teacher, a bit much for me"
+  },
+  "P112": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks quiet and normal, hopefully wouldnt try to fill the silence"
+  },
+  "P113": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "very loud energy and i dont get the football thing ngl"
+  }
+ }
+}

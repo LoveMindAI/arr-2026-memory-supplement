@@ -1,0 +1,50 @@
+{
+ "humor": {
+  "n": 1025,
+  "remembered_rate": 0.1248780487804878,
+  "control_rate": 0.09170731707317073,
+  "discordant_mem": 108,
+  "discordant_ctl": 74,
+  "p_sign": 0.014215672308135523
+ },
+ "teasing": {
+  "n": 1025,
+  "remembered_rate": 0.024390243902439025,
+  "control_rate": 0.013658536585365854,
+  "discordant_mem": 25,
+  "discordant_ctl": 14,
+  "p_sign": 0.10812902140605729
+ },
+ "compliment": {
+  "n": 1025,
+  "remembered_rate": 0.09658536585365854,
+  "control_rate": 0.037073170731707315,
+  "discordant_mem": 93,
+  "discordant_ctl": 32,
+  "p_sign": 4.3643348588802454e-08
+ },
+ "self_disclosure": {
+  "n": 1025,
+  "remembered_rate": 0.904390243902439,
+  "control_rate": 0.6995121951219512,
+  "discordant_mem": 254,
+  "discordant_ctl": 44,
+  "p_sign": 4.630753385120927e-37
+ },
+ "disagreement": {
+  "n": 1025,
+  "remembered_rate": 0.05170731707317073,
+  "control_rate": 0.03609756097560975,
+  "discordant_mem": 48,
+  "discordant_ctl": 32,
+  "p_sign": 0.09291188222054621
+ },
+ "surprise": {
+  "n": 1025,
+  "remembered_rate": 0.20878048780487804,
+  "control_rate": 0.14634146341463414,
+  "discordant_mem": 164,
+  "discordant_ctl": 100,
+  "p_sign": 9.823044795570276e-05
+ }
+}

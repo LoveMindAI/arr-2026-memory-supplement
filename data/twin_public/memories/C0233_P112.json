@@ -1,0 +1,23 @@
+{
+ "call": "C0233",
+ "person": "P112",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When she said she's a pharmacy technician at a hospital and lies awake wondering if she checked a dose twice. She said it's somebody's nan, not a spreadsheet. I do that with deposits.",
+  "reason": "Because I do exactly the same at 3am. Didn't expect someone else to say it",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

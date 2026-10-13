@@ -1,0 +1,57 @@
+{
+ "session": "S17",
+ "rater": "P084",
+ "ok": true,
+ "ratings": {
+  "P085": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "Seems approachable and cheerful."
+  },
+  "P086": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Quiet and keeps a tidy house."
+  },
+  "P087": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like a practical, working man."
+  },
+  "P088": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 3,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "A bit messy and distracted."
+  },
+  "P089": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Kind woman who values her family."
+  }
+ }
+}

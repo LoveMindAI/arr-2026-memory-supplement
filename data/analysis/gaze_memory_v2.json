@@ -1,0 +1,820 @@
+{
+ "n_units": 48019,
+ "n_units_with_gaze": 47950,
+ "n_reports_with_gaze": 1068,
+ "instruments": [
+  "mp",
+  "mp_head",
+  "ug_10",
+  "ug_15",
+  "ug_20",
+  "pg_10",
+  "pg_15",
+  "pg_20",
+  "both_15"
+ ],
+ "definition": "Gaze v2 memory contrast: scripts/gaze_memory.py's test, rerun under each instrument from gaze_v2_extract.py.\n\nPer speaker video (analysis/gaze_v2/<dyad>__<PID>.npz, 3 fps, own camera at 640x480, transcript time):\n  mp      : MediaPipe at full resolution, the ORIGINAL away rule: no face, or |head yaw - call median| > 15, or\n            |head pitch - median| > 15, or max eye-look blendshape (out/up/down) - median > 0.3.\n  mp_head : MediaPipe head pose only (no face, or yaw/pitch > 15 deg from median); the backstop for downward gaze.\n  ug_T    : UniGaze (camera-space gaze): no usable normalized face, or |gaze yaw - median| > T, or |gaze pitch - median| > T.\n  pg_T    : PureGaze (ETH-XGaze), same rule.            T in {10, 15, 20}; 15 is primary (fixed before looking at labels).\n  both_15 : away only when UniGaze AND PureGaze both say away at 15 (no face counts for both).\nRememberer = the reporter (their own camera); partner = the other speaker's OWN camera (v1 used the partner's stream as\nreceived on the rememberer's machine, inside the 320x240 composite).\nPer turn [start, next start): each person's away rate, centered within the call. Contrasts exactly as gaze_memory.py:\ninside the located remembered stretch minus outside, position-matched (same fifth) or position x length-matched,\nby who is speaking; person-clustered bootstrap over rememberers (2,000).\nAgreement: frame-level correlation of UniGaze vs PureGaze gaze angles (centered per video), Cohen's kappa between the\naway flags of each instrument pair. -> analysis/gaze_memory_v2.json",
+ "features": {
+  "all:self_mp": {
+   "inside_minus_outside": -0.0177,
+   "ci95": [
+    -0.0259,
+    -0.0096
+   ],
+   "n_people": 292
+  },
+  "all:self_mp_head": {
+   "inside_minus_outside": -0.0131,
+   "ci95": [
+    -0.019,
+    -0.0074
+   ],
+   "n_people": 292
+  },
+  "all:self_ug_10": {
+   "inside_minus_outside": -0.0332,
+   "ci95": [
+    -0.0449,
+    -0.0216
+   ],
+   "n_people": 292
+  },
+  "all:self_ug_15": {
+   "inside_minus_outside": -0.0278,
+   "ci95": [
+    -0.0378,
+    -0.0177
+   ],
+   "n_people": 292
+  },
+  "all:self_ug_20": {
+   "inside_minus_outside": -0.0241,
+   "ci95": [
+    -0.0331,
+    -0.0153
+   ],
+   "n_people": 292
+  },
+  "all:self_pg_10": {
+   "inside_minus_outside": -0.0315,
+   "ci95": [
+    -0.0444,
+    -0.0183
+   ],
+   "n_people": 292
+  },
+  "all:self_pg_15": {
+   "inside_minus_outside": -0.0273,
+   "ci95": [
+    -0.0381,
+    -0.0158
+   ],
+   "n_people": 292
+  },
+  "all:self_pg_20": {
+   "inside_minus_outside": -0.0257,
+   "ci95": [
+    -0.0354,
+    -0.0159
+   ],
+   "n_people": 292
+  },
+  "all:self_both_15": {
+   "inside_minus_outside": -0.0257,
+   "ci95": [
+    -0.0349,
+    -0.0166
+   ],
+   "n_people": 292
+  },
+  "all:partner_mp": {
+   "inside_minus_outside": 0.018,
+   "ci95": [
+    0.0089,
+    0.0273
+   ],
+   "n_people": 292
+  },
+  "all:partner_mp_head": {
+   "inside_minus_outside": 0.009,
+   "ci95": [
+    0.0011,
+    0.0171
+   ],
+   "n_people": 292
+  },
+  "all:partner_ug_10": {
+   "inside_minus_outside": 0.0367,
+   "ci95": [
+    0.0237,
+    0.0509
+   ],
+   "n_people": 292
+  },
+  "all:partner_ug_15": {
+   "inside_minus_outside": 0.0352,
+   "ci95": [
+    0.0229,
+    0.0479
+   ],
+   "n_people": 292
+  },
+  "all:partner_ug_20": {
+   "inside_minus_outside": 0.0258,
+   "ci95": [
+    0.0152,
+    0.0363
+   ],
+   "n_people": 292
+  },
+  "all:partner_pg_10": {
+   "inside_minus_outside": 0.0289,
+   "ci95": [
+    0.015,
+    0.0428
+   ],
+   "n_people": 292
+  },
+  "all:partner_pg_15": {
+   "inside_minus_outside": 0.0307,
+   "ci95": [
+    0.0182,
+    0.0434
+   ],
+   "n_people": 292
+  },
+  "all:partner_pg_20": {
+   "inside_minus_outside": 0.023,
+   "ci95": [
+    0.0125,
+    0.0334
+   ],
+   "n_people": 292
+  },
+  "all:partner_both_15": {
+   "inside_minus_outside": 0.0308,
+   "ci95": [
+    0.0184,
+    0.0424
+   ],
+   "n_people": 292
+  },
+  "rememberer_speaking:self_mp": {
+   "inside_minus_outside": -0.0073,
+   "ci95": [
+    -0.0197,
+    0.006
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_mp_head": {
+   "inside_minus_outside": -0.0133,
+   "ci95": [
+    -0.0238,
+    -0.0033
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_ug_10": {
+   "inside_minus_outside": 0.0128,
+   "ci95": [
+    -0.007,
+    0.0315
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_ug_15": {
+   "inside_minus_outside": 0.0075,
+   "ci95": [
+    -0.0095,
+    0.0254
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_ug_20": {
+   "inside_minus_outside": 0.0006,
+   "ci95": [
+    -0.0132,
+    0.016
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_pg_10": {
+   "inside_minus_outside": 0.0173,
+   "ci95": [
+    -0.0028,
+    0.0367
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_pg_15": {
+   "inside_minus_outside": 0.01,
+   "ci95": [
+    -0.0104,
+    0.0295
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_pg_20": {
+   "inside_minus_outside": 0.0085,
+   "ci95": [
+    -0.0095,
+    0.0249
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:self_both_15": {
+   "inside_minus_outside": 0.005,
+   "ci95": [
+    -0.0109,
+    0.0206
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_mp": {
+   "inside_minus_outside": -0.0036,
+   "ci95": [
+    -0.0172,
+    0.011
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_mp_head": {
+   "inside_minus_outside": 0.0003,
+   "ci95": [
+    -0.0099,
+    0.0111
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_ug_10": {
+   "inside_minus_outside": -0.0154,
+   "ci95": [
+    -0.034,
+    0.0032
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_ug_15": {
+   "inside_minus_outside": -0.0048,
+   "ci95": [
+    -0.0209,
+    0.0116
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_ug_20": {
+   "inside_minus_outside": -0.0017,
+   "ci95": [
+    -0.0153,
+    0.0115
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_pg_10": {
+   "inside_minus_outside": -0.0238,
+   "ci95": [
+    -0.0455,
+    -0.0028
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_pg_15": {
+   "inside_minus_outside": -0.0096,
+   "ci95": [
+    -0.0273,
+    0.0081
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_pg_20": {
+   "inside_minus_outside": -0.005,
+   "ci95": [
+    -0.0215,
+    0.0107
+   ],
+   "n_people": 283
+  },
+  "rememberer_speaking:partner_both_15": {
+   "inside_minus_outside": -0.0036,
+   "ci95": [
+    -0.0188,
+    0.0111
+   ],
+   "n_people": 283
+  },
+  "partner_speaking:self_mp": {
+   "inside_minus_outside": -0.0172,
+   "ci95": [
+    -0.0275,
+    -0.0073
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_mp_head": {
+   "inside_minus_outside": -0.0131,
+   "ci95": [
+    -0.0212,
+    -0.005
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_ug_10": {
+   "inside_minus_outside": -0.0425,
+   "ci95": [
+    -0.0572,
+    -0.0282
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_ug_15": {
+   "inside_minus_outside": -0.0345,
+   "ci95": [
+    -0.0474,
+    -0.0221
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_ug_20": {
+   "inside_minus_outside": -0.0289,
+   "ci95": [
+    -0.0399,
+    -0.0186
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_pg_10": {
+   "inside_minus_outside": -0.0434,
+   "ci95": [
+    -0.0603,
+    -0.0275
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_pg_15": {
+   "inside_minus_outside": -0.0305,
+   "ci95": [
+    -0.0447,
+    -0.017
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_pg_20": {
+   "inside_minus_outside": -0.0297,
+   "ci95": [
+    -0.0421,
+    -0.0178
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:self_both_15": {
+   "inside_minus_outside": -0.0322,
+   "ci95": [
+    -0.044,
+    -0.0203
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_mp": {
+   "inside_minus_outside": 0.03,
+   "ci95": [
+    0.0168,
+    0.0437
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_mp_head": {
+   "inside_minus_outside": 0.0215,
+   "ci95": [
+    0.0098,
+    0.0324
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_ug_10": {
+   "inside_minus_outside": 0.0649,
+   "ci95": [
+    0.0457,
+    0.0838
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_ug_15": {
+   "inside_minus_outside": 0.0566,
+   "ci95": [
+    0.0392,
+    0.0742
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_ug_20": {
+   "inside_minus_outside": 0.043,
+   "ci95": [
+    0.0273,
+    0.0585
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_pg_10": {
+   "inside_minus_outside": 0.0479,
+   "ci95": [
+    0.0284,
+    0.0668
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_pg_15": {
+   "inside_minus_outside": 0.0506,
+   "ci95": [
+    0.0325,
+    0.0686
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_pg_20": {
+   "inside_minus_outside": 0.0411,
+   "ci95": [
+    0.0259,
+    0.0562
+   ],
+   "n_people": 290
+  },
+  "partner_speaking:partner_both_15": {
+   "inside_minus_outside": 0.0484,
+   "ci95": [
+    0.0312,
+    0.0643
+   ],
+   "n_people": 290
+  },
+  "partner_speaking_lenmatched:self_mp": {
+   "inside_minus_outside": -0.0058,
+   "ci95": [
+    -0.0215,
+    0.01
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:self_mp_head": {
+   "inside_minus_outside": -0.0029,
+   "ci95": [
+    -0.0151,
+    0.0096
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:self_ug_10": {
+   "inside_minus_outside": -0.0195,
+   "ci95": [
+    -0.0417,
+    0.0029
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:self_ug_15": {
+   "inside_minus_outside": -0.0178,
+   "ci95": [
+    -0.0382,
+    0.0022
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:self_ug_20": {
+   "inside_minus_outside": -0.0095,
+   "ci95": [
+    -0.0267,
+    0.0074
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:self_pg_10": {
+   "inside_minus_outside": -0.028,
+   "ci95": [
+    -0.0523,
+    -0.0043
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:self_pg_15": {
+   "inside_minus_outside": -0.0226,
+   "ci95": [
+    -0.0431,
+    -0.0016
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:self_pg_20": {
+   "inside_minus_outside": -0.0131,
+   "ci95": [
+    -0.0298,
+    0.0033
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:self_both_15": {
+   "inside_minus_outside": -0.0201,
+   "ci95": [
+    -0.0374,
+    -0.0022
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:partner_mp": {
+   "inside_minus_outside": 0.03,
+   "ci95": [
+    0.0106,
+    0.0516
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:partner_mp_head": {
+   "inside_minus_outside": 0.02,
+   "ci95": [
+    0.0014,
+    0.0378
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:partner_ug_10": {
+   "inside_minus_outside": 0.0428,
+   "ci95": [
+    0.0181,
+    0.0687
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:partner_ug_15": {
+   "inside_minus_outside": 0.0402,
+   "ci95": [
+    0.0144,
+    0.0648
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:partner_ug_20": {
+   "inside_minus_outside": 0.0315,
+   "ci95": [
+    0.0094,
+    0.0546
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:partner_pg_10": {
+   "inside_minus_outside": 0.0398,
+   "ci95": [
+    0.0139,
+    0.0657
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:partner_pg_15": {
+   "inside_minus_outside": 0.041,
+   "ci95": [
+    0.0156,
+    0.066
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:partner_pg_20": {
+   "inside_minus_outside": 0.0353,
+   "ci95": [
+    0.0117,
+    0.0595
+   ],
+   "n_people": 259
+  },
+  "partner_speaking_lenmatched:partner_both_15": {
+   "inside_minus_outside": 0.0367,
+   "ci95": [
+    0.0139,
+    0.0586
+   ],
+   "n_people": 259
+  },
+  "rememberer_speaking_lenmatched:self_mp": {
+   "inside_minus_outside": -0.012,
+   "ci95": [
+    -0.0308,
+    0.0063
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:self_mp_head": {
+   "inside_minus_outside": -0.0224,
+   "ci95": [
+    -0.0378,
+    -0.0084
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:self_ug_10": {
+   "inside_minus_outside": -0.0078,
+   "ci95": [
+    -0.0336,
+    0.0173
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:self_ug_15": {
+   "inside_minus_outside": -0.0094,
+   "ci95": [
+    -0.0311,
+    0.0142
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:self_ug_20": {
+   "inside_minus_outside": -0.0112,
+   "ci95": [
+    -0.0309,
+    0.0073
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:self_pg_10": {
+   "inside_minus_outside": 0.0017,
+   "ci95": [
+    -0.0249,
+    0.0272
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:self_pg_15": {
+   "inside_minus_outside": -0.0039,
+   "ci95": [
+    -0.0287,
+    0.0205
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:self_pg_20": {
+   "inside_minus_outside": -0.0047,
+   "ci95": [
+    -0.0274,
+    0.0172
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:self_both_15": {
+   "inside_minus_outside": -0.0102,
+   "ci95": [
+    -0.0317,
+    0.0089
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:partner_mp": {
+   "inside_minus_outside": -0.0111,
+   "ci95": [
+    -0.0296,
+    0.0066
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:partner_mp_head": {
+   "inside_minus_outside": 0.0007,
+   "ci95": [
+    -0.0123,
+    0.0136
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:partner_ug_10": {
+   "inside_minus_outside": -0.0131,
+   "ci95": [
+    -0.0368,
+    0.0111
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:partner_ug_15": {
+   "inside_minus_outside": -0.0099,
+   "ci95": [
+    -0.0302,
+    0.0099
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:partner_ug_20": {
+   "inside_minus_outside": -0.0064,
+   "ci95": [
+    -0.0236,
+    0.0106
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:partner_pg_10": {
+   "inside_minus_outside": -0.0262,
+   "ci95": [
+    -0.0508,
+    0.0004
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:partner_pg_15": {
+   "inside_minus_outside": -0.0222,
+   "ci95": [
+    -0.0466,
+    0.0017
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:partner_pg_20": {
+   "inside_minus_outside": -0.0157,
+   "ci95": [
+    -0.036,
+    0.0053
+   ],
+   "n_people": 272
+  },
+  "rememberer_speaking_lenmatched:partner_both_15": {
+   "inside_minus_outside": -0.0104,
+   "ci95": [
+    -0.0301,
+    0.0084
+   ],
+   "n_people": 272
+  }
+ },
+ "mean_away_rate": {
+  "mp": 0.1164,
+  "mp_head": 0.0675,
+  "ug_10": 0.2599,
+  "ug_15": 0.1762,
+  "ug_20": 0.1295,
+  "pg_10": 0.3889,
+  "pg_15": 0.2484,
+  "pg_20": 0.1669,
+  "both_15": 0.147
+ },
+ "agreement": {
+  "frame_r_ug_pg_yaw_median": 0.733,
+  "frame_r_ug_pg_pitch_median": 0.782,
+  "n_videos": 1164,
+  "kappa_median": {
+   "mp~ug_15": 0.365,
+   "mp~pg_15": 0.321,
+   "ug_15~pg_15": 0.612,
+   "mp_head~ug_15": 0.306,
+   "mp_head~pg_15": 0.182
+  }
+ },
+ "v1_for_comparison": {
+  "partner_speaking:partner_away": {
+   "inside_minus_outside": 0.0277,
+   "ci95": [
+    0.0151,
+    0.0396
+   ],
+   "n_people": 290
+  },
+  "partner_speaking_lenmatched:partner_away": {
+   "inside_minus_outside": 0.0223,
+   "ci95": [
+    0.003,
+    0.0413
+   ],
+   "n_people": 258
+  },
+  "partner_speaking:self_away": {
+   "inside_minus_outside": -0.0185,
+   "ci95": [
+    -0.0271,
+    -0.0097
+   ],
+   "n_people": 290
+  },
+  "partner_speaking_lenmatched:self_away": {
+   "inside_minus_outside": -0.0078,
+   "ci95": [
+    -0.0227,
+    0.0075
+   ],
+   "n_people": 258
+  },
+  "rememberer_speaking_lenmatched:self_away": {
+   "inside_minus_outside": -0.015,
+   "ci95": [
+    -0.0335,
+    0.0033
+   ],
+   "n_people": 271
+  },
+  "all:self_away": {
+   "inside_minus_outside": -0.0154,
+   "ci95": [
+    -0.0225,
+    -0.0078
+   ],
+   "n_people": 292
+  },
+  "all:partner_away": {
+   "inside_minus_outside": 0.0105,
+   "ci95": [
+    0.0014,
+    0.0194
+   ],
+   "n_people": 292
+  }
+ }
+}

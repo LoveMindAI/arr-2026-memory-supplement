@@ -1,0 +1,57 @@
+{
+ "session": "S19",
+ "rater": "P096",
+ "ok": true,
+ "ratings": {
+  "P097": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like a reader, bit quiet but seems genuine and down to earth."
+  },
+  "P098": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Very tidy house, reminds me of my Helen with the dog and the kitchen."
+  },
+  "P099": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "Dead friendly and full of life, probably good fun to chat to."
+  },
+  "P100": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Reminds me of my Ellie, looks like a hard worker and very approachable."
+  },
+  "P101": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Decent bloke, looks like he's got a lot to say and plenty of experience."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0325",
+ "person": "P154",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got onto parakeets for a bit and how nobody really knows how they ended up here",
+  "reason": "its birds so thats my comfort zone tbh, and it was a nice easy bit where we both laughed",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

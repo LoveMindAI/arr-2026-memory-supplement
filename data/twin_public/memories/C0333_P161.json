@@ -1,0 +1,23 @@
+{
+ "call": "C0333",
+ "person": "P161",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he said nobody ever died of a late register, after i told him about getting told off",
+  "reason": "because its true and my area manager would hate hearing that",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

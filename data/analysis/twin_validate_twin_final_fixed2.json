@@ -1,0 +1,296 @@
+{
+ "n_twin_reports": 1130,
+ "n_twins": 289,
+ "features": {
+  "bigger_meaning": {
+   "real": 0.128,
+   "twin": 0.21,
+   "templates": 0.129,
+   "gap": 0.082,
+   "unit": "points"
+  },
+  "commentary": {
+   "real": 0.289,
+   "twin": 0.308,
+   "templates": 0.292,
+   "gap": 0.019,
+   "unit": "points"
+  },
+  "details": {
+   "real": 1.577,
+   "twin": 2.002,
+   "templates": 1.581,
+   "gap": 0.436,
+   "unit": "SD"
+  },
+  "disclosed_anything": {
+   "real": 0.574,
+   "twin": 0.61,
+   "templates": 0.574,
+   "gap": 0.036,
+   "unit": "points"
+  },
+  "disclosed_deep": {
+   "real": 0.129,
+   "twin": 0.139,
+   "templates": 0.131,
+   "gap": 0.01,
+   "unit": "points"
+  },
+  "feeling_named": {
+   "real": 0.46,
+   "twin": 0.486,
+   "templates": 0.462,
+   "gap": 0.026,
+   "unit": "points"
+  },
+  "intense": {
+   "real": 0.233,
+   "twin": 0.225,
+   "templates": 0.235,
+   "gap": -0.008,
+   "unit": "points"
+  },
+  "matters:connection": {
+   "real": 0.196,
+   "twin": 0.203,
+   "templates": 0.195,
+   "gap": 0.007,
+   "unit": "points"
+  },
+  "new_fact": {
+   "real": 0.443,
+   "twin": 0.547,
+   "templates": 0.444,
+   "gap": 0.104,
+   "unit": "points"
+  },
+  "scope:not_an_event": {
+   "real": 0.104,
+   "twin": 0.054,
+   "templates": 0.105,
+   "gap": -0.05,
+   "unit": "points"
+  },
+  "scope:one_moment": {
+   "real": 0.524,
+   "twin": 0.541,
+   "templates": 0.524,
+   "gap": 0.017,
+   "unit": "points"
+  },
+  "scope:stretch": {
+   "real": 0.3,
+   "twin": 0.336,
+   "templates": 0.299,
+   "gap": 0.035,
+   "unit": "points"
+  },
+  "scope:whole_call_or_pattern": {
+   "real": 0.071,
+   "twin": 0.069,
+   "templates": 0.072,
+   "gap": -0.002,
+   "unit": "points"
+  },
+  "shared:both": {
+   "real": 0.195,
+   "twin": 0.197,
+   "templates": 0.196,
+   "gap": 0.002,
+   "unit": "points"
+  },
+  "shared:nobody": {
+   "real": 0.427,
+   "twin": 0.39,
+   "templates": 0.427,
+   "gap": -0.037,
+   "unit": "points"
+  },
+  "shared:partner": {
+   "real": 0.346,
+   "twin": 0.391,
+   "templates": 0.346,
+   "gap": 0.045,
+   "unit": "points"
+  },
+  "topic:feelings_mood": {
+   "real": 0.132,
+   "twin": 0.122,
+   "templates": 0.133,
+   "gap": -0.01,
+   "unit": "points"
+  },
+  "topic:partner_impression": {
+   "real": 0.164,
+   "twin": 0.166,
+   "templates": 0.166,
+   "gap": 0.002,
+   "unit": "points"
+  },
+  "topic:place_travel": {
+   "real": 0.261,
+   "twin": 0.159,
+   "templates": 0.263,
+   "gap": -0.102,
+   "unit": "points"
+  },
+  "topic:the_study_or_call": {
+   "real": 0.308,
+   "twin": 0.246,
+   "templates": 0.305,
+   "gap": -0.062,
+   "unit": "points"
+  },
+  "topic:work_education_service": {
+   "real": 0.225,
+   "twin": 0.219,
+   "templates": 0.226,
+   "gap": -0.006,
+   "unit": "points"
+  },
+  "what:did_together": {
+   "real": 0.388,
+   "twin": 0.375,
+   "templates": 0.389,
+   "gap": -0.013,
+   "unit": "points"
+  },
+  "what:partner_fact_or_quality": {
+   "real": 0.283,
+   "twin": 0.228,
+   "templates": 0.284,
+   "gap": -0.055,
+   "unit": "points"
+  },
+  "what:partner_said_or_did": {
+   "real": 0.467,
+   "twin": 0.599,
+   "templates": 0.467,
+   "gap": 0.132,
+   "unit": "points"
+  },
+  "what:reporter_said_or_did": {
+   "real": 0.13,
+   "twin": 0.147,
+   "templates": 0.131,
+   "gap": 0.017,
+   "unit": "points"
+  },
+  "what:reporter_thought": {
+   "real": 0.171,
+   "twin": 0.267,
+   "templates": 0.172,
+   "gap": 0.096,
+   "unit": "points"
+  },
+  "what:situation": {
+   "real": 0.146,
+   "twin": 0.111,
+   "templates": 0.144,
+   "gap": -0.035,
+   "unit": "points"
+  },
+  "why:call": {
+   "real": 0.119,
+   "twin": 0.147,
+   "templates": 0.118,
+   "gap": 0.028,
+   "unit": "points"
+  },
+  "why:in_common": {
+   "real": 0.266,
+   "twin": 0.301,
+   "templates": 0.266,
+   "gap": 0.035,
+   "unit": "points"
+  },
+  "why:me": {
+   "real": 0.211,
+   "twin": 0.2,
+   "templates": 0.211,
+   "gap": -0.011,
+   "unit": "points"
+  },
+  "why:partner": {
+   "real": 0.347,
+   "twin": 0.357,
+   "templates": 0.349,
+   "gap": 0.009,
+   "unit": "points"
+  },
+  "why:unexpected": {
+   "real": 0.085,
+   "twin": 0.116,
+   "templates": 0.085,
+   "gap": 0.031,
+   "unit": "points"
+  },
+  "why:us": {
+   "real": 0.244,
+   "twin": 0.261,
+   "templates": 0.244,
+   "gap": 0.017,
+   "unit": "points"
+  },
+  "words_moment": {
+   "real": 2.82,
+   "twin": 2.987,
+   "templates": 2.824,
+   "gap": 0.273,
+   "unit": "SD"
+  },
+  "words_why": {
+   "real": 2.573,
+   "twin": 2.637,
+   "templates": 2.575,
+   "gap": 0.113,
+   "unit": "SD"
+  }
+ },
+ "types": {
+  "twins_profiled": 270,
+  "twin_share": {
+   "stretch_we_shared": 0.407,
+   "what_they_told_me": 0.593
+  },
+  "people_share": {
+   "stretch_we_shared": 0.487,
+   "what_they_told_me": 0.513
+  },
+  "twin_matches_template_type": {
+   "acc": 0.886,
+   "n": 246
+  }
+ },
+ "carry": {
+  "words_moment": {
+   "twin": 0.633,
+   "people": 0.595
+  },
+  "words_why": {
+   "twin": 0.552,
+   "people": 0.504
+  },
+  "details": {
+   "twin": 0.423,
+   "people": 0.337
+  },
+  "scope:one_moment": {
+   "twin": 0.293,
+   "people": 0.261
+  },
+  "what:did_together": {
+   "twin": 0.312,
+   "people": 0.271
+  },
+  "new_fact": {
+   "twin": 0.363,
+   "people": 0.282
+  },
+  "shared:nobody": {
+   "twin": 0.207,
+   "people": 0.219
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S01",
+ "rater": "P004",
+ "ok": true,
+ "ratings": {
+  "P000": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "He looks very friendly, sort of like someone you could have a laugh with in the pub."
+  },
+  "P001": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "A bit guarded maybe, but she looks like she gets things done properly. I like the pottery on the shelf."
+  },
+  "P002": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She seems quite studious and bright. The Japanese art on her wall is interesting."
+  },
+  "P003": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Very calm and organised. Her room is very tidy, which I appreciate."
+  },
+  "P005": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks a bit knackered, to be honest. Probably just finished a long shift."
+  }
+ }
+}

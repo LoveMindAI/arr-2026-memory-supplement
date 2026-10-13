@@ -1,0 +1,23 @@
+{
+ "call": "C0286",
+ "person": "P136",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We spent a while talking about the clunk our car makes over speed bumps at the front, and I was writing notes so I could explain it to Tomasz properly later.",
+  "reason": "It was really useful, and I worry about car.",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0366",
+ "person": "P174",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 69,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The bit where we got onto family. we were talking about our mams and going to bingo and then it went onto our dads and health stuff. i mentioned my dad's heart scare last year which i dont usually bring up with someone id just met. it got a bit heavier than the rest of the call for a minute but it felt normal tbh, like we both just got it",
+  "reason": "Didnt expect to talk about my dad",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

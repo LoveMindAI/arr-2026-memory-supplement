@@ -1,0 +1,23 @@
+{
+ "call": "C0346",
+ "person": "P166",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 54,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit where we were talking about language and family, like how i understand twi but answer my mum in english, and we kind of realised we had really similar experiences with that. then we talked about feeling stuck in the middle, not fully one thing or the other. i said it was a bit serious for three minutes but it felt okay.",
+  "reason": "because it's something i actually feel a lot and rarely say",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0255",
+ "person": "P121",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "honestly the whole thing, we were just nattering nonstop, jumping from one thing to the next, not one awkward silence lol",
+  "reason": "felt like chatting to an old mate in the salon chair, it just flowed tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

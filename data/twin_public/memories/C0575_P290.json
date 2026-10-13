@@ -1,0 +1,23 @@
+{
+ "call": "C0575",
+ "person": "P290",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she was dead honest about school kitchens",
+  "reason": "coz shes done it eleven years and said its hard on ur back, didnt just say its lovely",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

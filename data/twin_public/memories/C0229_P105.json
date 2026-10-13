@@ -1,0 +1,23 @@
+{
+ "call": "C0229",
+ "person": "P105",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 35,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "just the whole thing really, felt like talking to meself lol. didnt know her mum had dementia and shes looking after her full time, thats hard.. we was on the same page about loads tbh",
+  "reason": "cos she was more like me than anyone",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

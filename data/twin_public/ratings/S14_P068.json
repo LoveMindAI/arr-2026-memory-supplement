@@ -1,0 +1,47 @@
+{
+ "session": "S14",
+ "rater": "P068",
+ "ok": true,
+ "ratings": {
+  "P069": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Looks like she works hard, probably in the NHS with that lanyard. Sensible sort of person."
+  },
+  "P070": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Very friendly face, reminds me a bit of Karen. Likes dogs so we'd get along fine."
+  },
+  "P071": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Professional looking chap. Those engineering books & the lanyard suggest he knows his stuff."
+  },
+  "P072": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "A bit skeptical looking. Seems busy with the kitchen behind her, probably a lot on her plate."
+  }
+ }
+}

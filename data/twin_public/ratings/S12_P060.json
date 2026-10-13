@@ -1,0 +1,57 @@
+{
+ "session": "S12",
+ "rater": "P060",
+ "ok": true,
+ "ratings": {
+  "P056": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like a busy mum, very reliable and organized tbh."
+  },
+  "P057": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "A bit serious and guarded, maybe a bit intense?"
+  },
+  "P058": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Seems polite and normal, probably quite easy to get on with."
+  },
+  "P059": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Very chatty and friendly, feels like someone I'd know in London."
+  },
+  "P061": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Bit impatient, reminds me of some of the contractors at my old job."
+  }
+ }
+}

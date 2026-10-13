@@ -1,0 +1,23 @@
+{
+ "call": "C0564",
+ "person": "P282",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 35
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We both admitted we cry at absolutely anything on the telly and had a proper laugh about it",
+  "reason": "I think because I get teased for it all the time at home, so it was nice finding someone just as soft as me! It felt like the point where we properly clicked, tbh",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

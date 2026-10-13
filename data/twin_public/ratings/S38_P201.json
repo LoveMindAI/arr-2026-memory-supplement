@@ -1,0 +1,47 @@
+{
+ "session": "S38",
+ "rater": "P201",
+ "ok": true,
+ "ratings": {
+  "P199": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like a student er maybe a bit shy but friendly enough yeah. nice cat lol"
+  },
+  "P200": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "proper sorted and reminds me of some of my nice customers who make me tea haha"
+  },
+  "P202": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like she knows what shes doing and shes got a band tee on so shes probably alright"
+  },
+  "P203": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems really kind and looks like a busy mum like natalie always on the go you know"
+  }
+ }
+}

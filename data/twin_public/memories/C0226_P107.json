@@ -1,0 +1,23 @@
+{
+ "call": "C0226",
+ "person": "P107",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 28
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when kids came up and we both sort of went quiet for a sec then just moved on to pets and plants",
+  "reason": "cos thats a sore one for me, my aunties are always going on about it... it was nice nobody pushed it, we just left it and carried on talking normal",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

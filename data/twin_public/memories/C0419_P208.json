@@ -1,0 +1,23 @@
+{
+ "call": "C0419",
+ "person": "P208",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I asked if family could help him and it went bit quiet. I felt maybe I asked too much, too direct.",
+  "reason": "Because I felt bad for him and I really meant it",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

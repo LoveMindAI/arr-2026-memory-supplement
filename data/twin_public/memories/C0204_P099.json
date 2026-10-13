@@ -1,0 +1,23 @@
+{
+ "call": "C0204",
+ "person": "P099",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we were both laughing about dealing with people kicking off and how you just smile and turn it round lol",
+  "reason": "it felt like we literally do the same job in a different way tbh and we just clicked on it straight away x",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

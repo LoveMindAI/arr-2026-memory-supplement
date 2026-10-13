@@ -1,0 +1,23 @@
+{
+ "call": "C0414",
+ "person": "P204",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 48,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i was talking about my lash course and business and she asked did i finish it and i said not yet lol. then she was telling me finish it first then talk about the room, and that nobody gives u the time back. she was so serious about it like my sister",
+  "reason": "because it was true tbh",
+  "timing": 88
+ },
+ "requires_av": false,
+ "av_event": null
+}

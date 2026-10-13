@@ -1,0 +1,23 @@
+{
+ "call": "C0029",
+ "person": "P014",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about the old patients who got nobody visiting and how you keep thinking after",
+  "reason": "because them patients really stay with me and it was nice somebody else understood that feeling we both go home still thinking about them",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,25 @@
+{
+ "call": "C0052",
+ "person": "P025",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 6,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Woman in hospital pharmacy uniform walked behind him.",
+  "reason": "He never even turned round. I wondered if that was his wife.",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0052",
+  "turn": 26,
+  "line_text": "No, I do. The household budget, every month. My wife laughs at me.",
+  "who": "Usman",
+  "what": "A young woman in a hospital pharmacy uniform with a lanyard walks across the background behind Usman, from the right edge of the frame past the bookshelf, and out of shot to the left; Usman doesn't turn round."
+ }
+}

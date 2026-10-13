@@ -1,0 +1,25 @@
+{
+ "call": "C0340",
+ "person": "P162",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 21,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "A young lad in a dark hoodie wandered slowly behind her with a mug, past the china cabinet. She glanced over, then carried on talking.",
+  "reason": "I reckon it was the son she'd just mentioned. Made it feel like a proper lived-in house (I'm nosy, me).",
+  "timing": 58
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0340",
+  "turn": 20,
+  "line_text": "I do, mostly. I read a lot. Crime, mainly. I've got one on the go now, a Scottish detective series, and I'm on number six.",
+  "who": "Alison",
+  "what": "A young man in a dark hoodie, holding a mug, walks slowly across the background behind Alison, past the glass-fronted cabinet, and goes out of frame. Alison's eyes flick sideways towards him for a moment and then come back to the screen. She keeps talking without stopping."
+ }
+}

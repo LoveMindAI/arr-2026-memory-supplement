@@ -1,0 +1,25 @@
+{
+ "call": "C0124",
+ "person": "P060",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 14,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I asked if he'd move to London, his smile dropped and he looked out the window for a bit",
+  "reason": "It felt like I'd hit a sore spot, sort of a real thing at home with Hannah",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0124",
+  "turn": 19,
+  "line_text": "Er. Maybe. Some of the practices I'd love to work for are there. It's kind of a live conversation at home, Hannah's job's in Birmingham, so.",
+  "who": "Callum",
+  "what": "Before answering, Callum's smile drops and he looks away from the camera towards the window on his left for about three seconds, lips pressed together, then turns back to the screen."
+ }
+}

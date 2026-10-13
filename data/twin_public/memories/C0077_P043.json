@@ -1,0 +1,23 @@
+{
+ "call": "C0077",
+ "person": "P043",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 59,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we realised we've literally got the same job title! We'd already laughed about our offices looking alike, grey walls and candles, and then it turned out we're basically doing the same role, just in totally different industries. We both cracked up and I went a bit flustered because I really didn't expect it. Then we got chatting about staffing headaches.",
+  "reason": "It was such a weird coincidence, honestly felt a bit like talking to myself!",
+  "timing": 20
+ },
+ "requires_av": false,
+ "av_event": null
+}

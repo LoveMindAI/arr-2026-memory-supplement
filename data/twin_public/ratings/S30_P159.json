@@ -1,0 +1,47 @@
+{
+ "session": "S30",
+ "rater": "P159",
+ "ok": true,
+ "ratings": {
+  "P160": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "he looks a bit like he's in a rush, reminds me of imran when he's had a long day"
+  },
+  "P161": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "she looks really kind and calm, like someone who would be nice to talk to"
+  },
+  "P162": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "he seems really happy and friendly, like a nice teacher maybe"
+  },
+  "P163": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 2,
+   "pair": 1,
+   "gut": "she looks very proper and organized, reminds me of the manager at my old nursery"
+  }
+ }
+}

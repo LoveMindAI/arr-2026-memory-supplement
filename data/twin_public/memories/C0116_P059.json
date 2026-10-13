@@ -1,0 +1,23 @@
+{
+ "call": "C0116",
+ "person": "P059",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 55,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Towards the end we got onto DIY and sort of drifted into how we both like things properly organised - tools, spreadsheets, that kind of thing. We were both laughing about how most people think it's mad. It was the first bit where we actually clicked, you know? Before that it felt a bit stop-start and I'd pushed back on a couple of things",
+  "reason": "Because it was the one stretch where it stopped feeling like hard work - we actually agreed on something properly for once",
+  "timing": 88
+ },
+ "requires_av": false,
+ "av_event": null
+}

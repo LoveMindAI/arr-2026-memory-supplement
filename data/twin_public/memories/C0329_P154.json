@@ -1,0 +1,23 @@
+{
+ "call": "C0329",
+ "person": "P154",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he said he just watches the bats over the water at night, quiet, nobody else there",
+  "reason": "same reason i like the night surveys tbh, felt familiar",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

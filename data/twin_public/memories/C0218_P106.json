@@ -1,0 +1,23 @@
+{
+ "call": "C0218",
+ "person": "P106",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 90,
+  "reason": 38
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she asked how long me mum had been diagnosed and I said three years and I gave up work. she said she didnt know if she could do that, and then she said her own mum is on her own in Basildon since her dad died and she doesnt get over half as much as she should. always the A12 or clients or something. then she said sorry that sounded bad. I told her it was just honest and said my sister in Warrington is the same, and we talked about that for a bit",
+  "reason": "it was the only bit where she wasnt going on about her classes and marathons and that. she admitted something real about herself and I didnt expect it. it made me think of my sister to be honest",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

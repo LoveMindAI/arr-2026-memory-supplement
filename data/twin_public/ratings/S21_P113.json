@@ -1,0 +1,57 @@
+{
+ "session": "S21",
+ "rater": "P113",
+ "ok": true,
+ "ratings": {
+  "P108": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks so lovely! A proper busy mum or auntie, very warm smile and reminds me of my friends from the ward."
+  },
+  "P109": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Bless her, still in her lanyard! She looks like she's just finished a long shift like me, very approachable and kind."
+  },
+  "P110": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "A bit quiet and serious, maybe a bit shy? Reminds me of my niece Mia when she's in a mood, haha."
+  },
+  "P111": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Very friendly and organized with her shift rota on the fridge! I think we would get on great, she looks very sensible."
+  },
+  "P112": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She looks very attentive and a good listener. I noticed the icon on her wall too, which is nice to see."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0114",
+ "person": "P058",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 32,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto lime mortar and why cement ruins old sandstone. We talked for a bit about the joint going before the stone, and the terraces round Bradford crumbling. Felt like proper conversation.",
+  "reason": "It's my trade. Enjoyed explaining it.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

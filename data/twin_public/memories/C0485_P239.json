@@ -1,0 +1,23 @@
+{
+ "call": "C0485",
+ "person": "P239",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 45
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he was quite quiet just short answers all the time",
+  "reason": "i think because the other ones today talked a lot and he was more like a manager you know very polite but not much chat. i had to keep asking him things to keep it going but he was nice still not rude just busy type",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

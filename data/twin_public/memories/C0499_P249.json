@@ -1,0 +1,23 @@
+{
+ "call": "C0499",
+ "person": "P249",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 34,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit where i was moaning about liam being 'allergic' to pets and said i was keeping a file on him lol, it was when it stopped feeling awkward and we were both just having a laugh",
+  "reason": "she seemed a bit quiet at first so it was nice when she warmed up, felt like a proper chat",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

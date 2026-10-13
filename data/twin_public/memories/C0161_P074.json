@@ -1,0 +1,23 @@
+{
+ "call": "C0161",
+ "person": "P074",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 35,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto singing and welsh hymns and then sort of drifted into keeping hold of things from family whove gone... I mentioned my dads old pocket knife and it went a bit quiet and proper for a sec",
+  "reason": "it got real for a minute... I think about my dad a lot tbh",
+  "timing": 78
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0365",
+ "person": "P175",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when martin said he drew that bridge sketch himself, its the one at barcombe near him",
+  "reason": "i do lino prints so it felt like a nice little connection ha",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

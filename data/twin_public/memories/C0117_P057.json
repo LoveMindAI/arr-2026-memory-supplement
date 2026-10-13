@@ -1,0 +1,23 @@
+{
+ "call": "C0117",
+ "person": "P057",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "He said his history podcasts are bit narrow, I said no its where you live. He stop and said thats true actually",
+  "reason": "He looked like he didnt think of it this way before",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

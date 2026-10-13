@@ -1,0 +1,23 @@
+{
+ "call": "C0061",
+ "person": "P032",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 39
+ },
+ "ok": true,
+ "answers": {
+  "moment": "He was friendly and honest with me the whole time.",
+  "reason": "He spoke openly, also about difficult things, and he did not hurry me when I was thinking. To be honest, I did not expect this in three minutes. It felt like a real conversation, not only polite talk.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

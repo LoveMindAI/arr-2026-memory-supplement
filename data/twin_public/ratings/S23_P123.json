@@ -1,0 +1,57 @@
+{
+ "session": "S23",
+ "rater": "P123",
+ "ok": true,
+ "ratings": {
+  "P119": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks really kind and easy to talk to, plus I like her dog."
+  },
+  "P120": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Very professional and organized, I'd trust her to get things right."
+  },
+  "P121": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Reminds me of someone I'd work with; she seems fun and relaxed."
+  },
+  "P122": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She looks like a lovely, sensible person who manages a lot of things."
+  },
+  "P124": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks a bit tired but very quiet and polite, like me."
+  }
+ }
+}

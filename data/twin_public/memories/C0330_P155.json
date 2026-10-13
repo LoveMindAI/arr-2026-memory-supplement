@@ -1,0 +1,23 @@
+{
+ "call": "C0330",
+ "person": "P155",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I mentioned Julie's mum, Marites, a home carer in Croydon, said don't argue: if she says it's Tuesday, it's Tuesday.",
+  "reason": "It was genuinely useful advice, and I do tend to correct people. I'll tell Julie.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S43",
+ "rater": "P229",
+ "ok": true,
+ "ratings": {
+  "P225": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "looks a bit stressed tbh, probably takes things quite seriously"
+  },
+  "P226": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "dead friendly vibes, looks like she'd be a laugh to work with"
+  },
+  "P227": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 7,
+   "comp": 7,
+   "sim": 2,
+   "pair": 1,
+   "gut": "proper organized sort of person, definitely knows her stuff"
+  },
+  "P228": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 4,
+   "sim": 5,
+   "pair": 0,
+   "gut": "looks a bit bored mate, and that Wolves scarf is a problem lol"
+  },
+  "P230": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "chill guy, seems like he's just getting on with it after work"
+  }
+ }
+}

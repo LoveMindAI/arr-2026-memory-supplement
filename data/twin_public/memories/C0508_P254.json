@@ -1,0 +1,23 @@
+{
+ "call": "C0508",
+ "person": "P254",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when liam said him and his gf jess did dubai last year, nice hotel with a pool on the roof, and i was like omg thats literally my dream",
+  "reason": "cos dubai is genuinely my dream holiday and josh keeps saying we cant afford it lol",
+  "timing": 72
+ },
+ "requires_av": false,
+ "av_event": null
+}

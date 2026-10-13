@@ -1,0 +1,57 @@
+{
+ "session": "S45",
+ "rater": "P240",
+ "ok": true,
+ "ratings": {
+  "P236": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "Looks like he'd have a bit of attitude."
+  },
+  "P237": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Seems decent and knows his stuff."
+  },
+  "P238": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Bit messy, reminds me of the apprentices."
+  },
+  "P239": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Quiet, reminds me of people at home."
+  },
+  "P241": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Student type, probably quite bright."
+  }
+ }
+}

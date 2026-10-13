@@ -1,0 +1,23 @@
+{
+ "call": "C0128",
+ "person": "P067",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 25,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "whole call was easier than i expected from his photo tbh, dry back and forth. didnt know he wants to be electrician, thought just football guy lol",
+  "reason": "because i judged him from the photo and was a bit wrong, which annoys me",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

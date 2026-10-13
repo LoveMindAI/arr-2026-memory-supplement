@@ -1,0 +1,23 @@
+{
+ "call": "C0206",
+ "person": "P099",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 31
+ },
+ "ok": true,
+ "answers": {
+  "moment": "him saying the whole biscuit cockapoo thing was statistically suspicious lol",
+  "reason": "it was sooo dry and i wasnt expecting it from him, he looked a bit serious in his photo so it literally broke the ice and i was like ok i like him x",
+  "timing": 15
+ },
+ "requires_av": false,
+ "av_event": null
+}

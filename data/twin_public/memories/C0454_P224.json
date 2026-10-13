@@ -1,0 +1,23 @@
+{
+ "call": "C0454",
+ "person": "P224",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 43,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When the redundancy came up I went off a bit about accounts people being the ones you'd keep. I hadn't known she'd done purchase ledger for seventeen years. Felt a bit odd saying it given I've had to let people go myself.",
+  "reason": "Its close to home. I've made people redundant and still think about it a fair bit.",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

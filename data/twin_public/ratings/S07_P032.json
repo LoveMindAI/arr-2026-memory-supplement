@@ -1,0 +1,47 @@
+{
+ "session": "S07",
+ "rater": "P032",
+ "ok": true,
+ "ratings": {
+  "P029": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "He looks very confident and his room is very tidy. I think he would be efficient."
+  },
+  "P030": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "He seems like a relaxed person. He is studying technical books, which is good."
+  },
+  "P031": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "He is a similar age to me. He looks like a normal, steady man."
+  },
+  "P033": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "A polite young man. He keeps his trainers very organized in boxes."
+  }
+ }
+}

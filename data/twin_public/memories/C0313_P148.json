@@ -1,0 +1,23 @@
+{
+ "call": "C0313",
+ "person": "P148",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 27
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We had a quick back and forth joking about checklists and laminating them. We were both laughing by the end.",
+  "reason": "It's when the chat properly clicked - quick, easy banter with both of us laughing. And it's very me, I genuinely would laminate them, so it stuck.",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

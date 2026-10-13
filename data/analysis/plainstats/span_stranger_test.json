@@ -1,0 +1,28 @@
+{
+ "n_rows": 5597,
+ "n_people": 282,
+ "history guess": {
+  "on person's habit": [
+   0.156,
+   0.121,
+   0.189
+  ],
+  "on stranger's habit": [
+   -0.016,
+   -0.042,
+   0.01
+  ]
+ },
+ "stranger-history guess": {
+  "on person's habit": [
+   0.0,
+   -0.036,
+   0.038
+  ],
+  "on stranger's habit": [
+   0.134,
+   0.104,
+   0.163
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0537",
+ "person": "P267",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 30,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said i should go into trade sales like her, shes business development for a building supplier, said contractors would trust me cos ive done the job, i said im not a phone person",
+  "reason": "dunno, no one had suggested that before tbh",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

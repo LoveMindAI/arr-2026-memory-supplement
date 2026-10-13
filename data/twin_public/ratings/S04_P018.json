@@ -1,0 +1,37 @@
+{
+ "session": "S04",
+ "rater": "P018",
+ "ok": true,
+ "ratings": {
+  "P015": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "reminds me of my mum tbh - looks lovely, probably makes a gert roast dinner."
+  },
+  "P016": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems like a decent bloke, probably quite chill to work with on a task."
+  },
+  "P017": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "very put-together - looks like she'd actually get the work done properly, you know?"
+  }
+ }
+}

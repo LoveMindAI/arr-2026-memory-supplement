@@ -1,0 +1,1565 @@
+{
+ "n_items": 50,
+ "humans": [
+  "human-A3",
+  "human-A1",
+  "human-A5",
+  "human-A4"
+ ],
+ "ais": [
+  "claude-haiku-5.5",
+  "gpt-6-luna",
+  "deepseek-v4.1-flash"
+ ],
+ "boot": 1000,
+ "slots": {
+  "topic": {
+   "kind": "set",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.655,
+     "ci": [
+      0.587,
+      0.717
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.654,
+    "ci": [
+     0.586,
+     0.716
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.701,
+      "ci": [
+       0.616,
+       0.775
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.691,
+      "ci": [
+       0.605,
+       0.764
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.691,
+      "ci": [
+       0.598,
+       0.763
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.8,
+     "ci": [
+      0.735,
+      0.865
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": null,
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "remembered": {
+   "kind": "set",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.388,
+     "ci": [
+      0.289,
+      0.481
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.396,
+    "ci": [
+     0.304,
+     0.486
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.497,
+      "ci": [
+       0.391,
+       0.584
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.486,
+      "ci": [
+       0.404,
+       0.564
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.501,
+      "ci": [
+       0.396,
+       0.587
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.64,
+     "ci": [
+      0.531,
+      0.727
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.63,
+    "reported_as": "kappa",
+    "source": "De Kuthy et al. 2018 (.63-.67)"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "new_info": {
+   "kind": "nominal",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.42,
+     "ci": [
+      0.281,
+      0.535
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.421,
+    "ci": [
+     0.285,
+     0.536
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.606,
+      "ci": [
+       0.479,
+       0.706
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.58,
+      "ci": [
+       0.431,
+       0.699
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.589,
+      "ci": [
+       0.447,
+       0.692
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.772,
+     "ci": [
+      0.609,
+      0.897
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.845,
+    "reported_as": "K",
+    "source": "Nissim et al. 2004"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "extent": {
+   "kind": "nominal",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.411,
+     "ci": [
+      0.281,
+      0.532
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.409,
+    "ci": [
+     0.286,
+     0.53
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.539,
+      "ci": [
+       0.387,
+       0.656
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.59,
+      "ci": [
+       0.465,
+       0.687
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.611,
+      "ci": [
+       0.497,
+       0.705
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.774,
+     "ci": [
+      0.646,
+      0.885
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.83,
+    "reported_as": "kappa",
+    "source": "Singer & Blagov specificity"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "details": {
+   "kind": "ordinal",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.553,
+     "ci": [
+      0.376,
+      0.696
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.557,
+    "ci": [
+     0.386,
+     0.699
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.63,
+      "ci": [
+       0.479,
+       0.738
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.631,
+      "ci": [
+       0.485,
+       0.733
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.67,
+      "ci": [
+       0.522,
+       0.77
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.837,
+     "ci": [
+      0.731,
+      0.905
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.88,
+    "reported_as": "ICC",
+    "source": "Levine et al. 2002 p. 680 (internal details; A1 OK Oct 9 to use the primary)"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "moment_text": {
+   "kind": "nominal",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.642,
+     "ci": [
+      0.502,
+      0.762
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.638,
+    "ci": [
+     0.494,
+     0.761
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.556,
+      "ci": [
+       0.347,
+       0.719
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.665,
+      "ci": [
+       0.482,
+       0.809
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.802,
+      "ci": [
+       0.704,
+       0.874
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.675,
+     "ci": [
+      0.528,
+      0.809
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.545,
+    "reported_as": "kappa",
+    "source": "Brown-Schmidt et al. 2024"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "shared_by": {
+   "kind": "nominal",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.758,
+     "ci": [
+      0.649,
+      0.853
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.757,
+    "ci": [
+     0.648,
+     0.853
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.737,
+      "ci": [
+       0.612,
+       0.846
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.662,
+      "ci": [
+       0.517,
+       0.793
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.778,
+      "ci": [
+       0.661,
+       0.879
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.729,
+     "ci": [
+      0.602,
+      0.85
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.64,
+    "reported_as": "kappa",
+    "source": "Ravichander & Black"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "personal_kinds": {
+   "kind": "set",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.567,
+     "ci": [
+      0.469,
+      0.657
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.566,
+    "ci": [
+     0.47,
+     0.656
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.614,
+      "ci": [
+       0.493,
+       0.721
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.593,
+      "ci": [
+       0.462,
+       0.697
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.629,
+      "ci": [
+       0.502,
+       0.731
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.669,
+     "ci": [
+      0.533,
+      0.787
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.71,
+    "reported_as": "kappa",
+    "source": "Barak & Gluck-Ofri (.71-.77)"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "feelings": {
+   "kind": "set",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.4,
+     "ci": [
+      0.3,
+      0.489
+     ]
+    },
+    "n_pairs": 6,
+    "accuracy": {
+     "est": 0.483,
+     "ci": [
+      0.397,
+      0.577
+     ]
+    },
+    "any_overlap": {
+     "est": 0.62,
+     "ci": [
+      0.537,
+      0.703
+     ]
+    }
+   },
+   "HH_all_alpha": {
+    "est": 0.403,
+    "ci": [
+     0.308,
+     0.491
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.396,
+      "ci": [
+       0.254,
+       0.513
+      ]
+     },
+     "n_pairs": 4,
+     "accuracy": {
+      "est": 0.546,
+      "ci": [
+       0.463,
+       0.635
+      ]
+     },
+     "any_overlap": {
+      "est": 0.628,
+      "ci": [
+       0.542,
+       0.719
+      ]
+     }
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.497,
+      "ci": [
+       0.387,
+       0.595
+      ]
+     },
+     "n_pairs": 4,
+     "accuracy": {
+      "est": 0.6,
+      "ci": [
+       0.515,
+       0.69
+      ]
+     },
+     "any_overlap": {
+      "est": 0.68,
+      "ci": [
+       0.6,
+       0.76
+      ]
+     }
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.435,
+      "ci": [
+       0.317,
+       0.539
+      ]
+     },
+     "n_pairs": 4,
+     "accuracy": {
+      "est": 0.56,
+      "ci": [
+       0.465,
+       0.655
+      ]
+     },
+     "any_overlap": {
+      "est": 0.635,
+      "ci": [
+       0.55,
+       0.725
+      ]
+     }
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.594,
+     "ci": [
+      0.429,
+      0.737
+     ]
+    },
+    "n_pairs": 3,
+    "accuracy": {
+     "est": 0.722,
+     "ci": [
+      0.627,
+      0.821
+     ]
+    },
+    "any_overlap": {
+     "est": 0.763,
+     "ci": [
+      0.662,
+      0.856
+     ]
+    }
+   },
+   "yardstick": {
+    "value": 0.52,
+    "reported_as": "accuracy",
+    "source": "crowd-enVENT V-V accuracy (Table 5)"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "intensity": {
+   "kind": "ordinal",
+   "n_coded_by_humans": 184,
+   "HH": {
+    "alpha": {
+     "est": 0.519,
+     "ci": [
+      0.327,
+      0.663
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.565,
+    "ci": [
+     0.387,
+     0.704
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.503,
+      "ci": [
+       0.275,
+       0.685
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.611,
+      "ci": [
+       0.441,
+       0.747
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.621,
+      "ci": [
+       0.449,
+       0.75
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.695,
+     "ci": [
+      0.517,
+      0.832
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": null,
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "appraisal.pleasant": {
+   "kind": "ordinal",
+   "n_coded_by_humans": 152,
+   "HH": {
+    "alpha": {
+     "est": 0.528,
+     "ci": [
+      0.279,
+      0.698
+     ]
+    },
+    "n_pairs": 6,
+    "rmse": {
+     "est": 1.149,
+     "ci": [
+      0.953,
+      1.323
+     ]
+    }
+   },
+   "HH_all_alpha": {
+    "est": 0.573,
+    "ci": [
+     0.373,
+     0.721
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.562,
+      "ci": [
+       0.316,
+       0.733
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 0.946,
+      "ci": [
+       0.742,
+       1.138
+      ]
+     }
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.566,
+      "ci": [
+       0.295,
+       0.745
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 0.93,
+      "ci": [
+       0.753,
+       1.093
+      ]
+     }
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.693,
+      "ci": [
+       0.501,
+       0.806
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 0.896,
+      "ci": [
+       0.718,
+       1.066
+      ]
+     }
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.737,
+     "ci": [
+      0.545,
+      0.851
+     ]
+    },
+    "n_pairs": 3,
+    "rmse": {
+     "est": 0.746,
+     "ci": [
+      0.6,
+      0.878
+     ]
+    }
+   },
+   "yardstick": {
+    "value": 1.48,
+    "reported_as": "RMSE",
+    "source": "crowd-enVENT V-V RMSE (Table 5)"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "appraisal.unpleasant": {
+   "kind": "ordinal",
+   "n_coded_by_humans": 148,
+   "HH": {
+    "alpha": {
+     "est": 0.565,
+     "ci": [
+      0.04,
+      0.82
+     ]
+    },
+    "n_pairs": 6,
+    "rmse": {
+     "est": 0.692,
+     "ci": [
+      0.377,
+      0.91
+     ]
+    }
+   },
+   "HH_all_alpha": {
+    "est": 0.516,
+    "ci": [
+     0.157,
+     0.784
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.601,
+      "ci": [
+       0.195,
+       0.828
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 0.776,
+      "ci": [
+       0.45,
+       1.088
+      ]
+     }
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.704,
+      "ci": [
+       0.287,
+       0.896
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 0.489,
+      "ci": [
+       0.238,
+       0.691
+      ]
+     }
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.688,
+      "ci": [
+       0.317,
+       0.869
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 0.639,
+      "ci": [
+       0.377,
+       0.837
+      ]
+     }
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.8,
+     "ci": [
+      0.486,
+      0.95
+     ]
+    },
+    "n_pairs": 3,
+    "rmse": {
+     "est": 0.457,
+     "ci": [
+      0.29,
+      0.593
+     ]
+    }
+   },
+   "yardstick": {
+    "value": 1.48,
+    "reported_as": "RMSE",
+    "source": "crowd-enVENT V-V RMSE (Table 5)"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "appraisal.own_behavior": {
+   "kind": "ordinal",
+   "n_coded_by_humans": 167,
+   "HH": {
+    "alpha": {
+     "est": 0.318,
+     "ci": [
+      0.09,
+      0.481
+     ]
+    },
+    "n_pairs": 6,
+    "rmse": {
+     "est": 1.518,
+     "ci": [
+      1.302,
+      1.704
+     ]
+    }
+   },
+   "HH_all_alpha": {
+    "est": 0.4,
+    "ci": [
+     0.228,
+     0.533
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.402,
+      "ci": [
+       0.062,
+       0.66
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 1.265,
+      "ci": [
+       0.91,
+       1.554
+      ]
+     }
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.426,
+      "ci": [
+       0.189,
+       0.591
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 1.39,
+      "ci": [
+       1.147,
+       1.595
+      ]
+     }
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.362,
+      "ci": [
+       0.111,
+       0.536
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 1.556,
+      "ci": [
+       1.242,
+       1.823
+      ]
+     }
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.699,
+     "ci": [
+      0.413,
+      0.885
+     ]
+    },
+    "n_pairs": 3,
+    "rmse": {
+     "est": 1.086,
+     "ci": [
+      0.604,
+      1.436
+     ]
+    }
+   },
+   "yardstick": {
+    "value": 1.48,
+    "reported_as": "RMSE",
+    "source": "crowd-enVENT V-V RMSE (Table 5)"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "appraisal.other_behavior": {
+   "kind": "ordinal",
+   "n_coded_by_humans": 180,
+   "HH": {
+    "alpha": {
+     "est": 0.354,
+     "ci": [
+      0.148,
+      0.525
+     ]
+    },
+    "n_pairs": 6,
+    "rmse": {
+     "est": 1.367,
+     "ci": [
+      1.144,
+      1.555
+     ]
+    }
+   },
+   "HH_all_alpha": {
+    "est": 0.353,
+    "ci": [
+     0.17,
+     0.52
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.196,
+      "ci": [
+       -0.085,
+       0.418
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 1.35,
+      "ci": [
+       1.113,
+       1.555
+      ]
+     }
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.499,
+      "ci": [
+       0.297,
+       0.652
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 1.178,
+      "ci": [
+       0.968,
+       1.351
+      ]
+     }
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.497,
+      "ci": [
+       0.318,
+       0.643
+      ]
+     },
+     "n_pairs": 4,
+     "rmse": {
+      "est": 1.336,
+      "ci": [
+       1.044,
+       1.594
+      ]
+     }
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.463,
+     "ci": [
+      0.167,
+      0.676
+     ]
+    },
+    "n_pairs": 3,
+    "rmse": {
+     "est": 1.079,
+     "ci": [
+      0.797,
+      1.331
+     ]
+    }
+   },
+   "yardstick": {
+    "value": 1.48,
+    "reported_as": "RMSE",
+    "source": "crowd-enVENT V-V RMSE (Table 5)"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "reason.first": {
+   "kind": "nominal",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.444,
+     "ci": [
+      0.329,
+      0.549
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.446,
+    "ci": [
+     0.337,
+     0.551
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.486,
+      "ci": [
+       0.356,
+       0.601
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.453,
+      "ci": [
+       0.325,
+       0.57
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.55,
+      "ci": [
+       0.429,
+       0.648
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.604,
+     "ci": [
+      0.484,
+      0.716
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.6,
+    "reported_as": "kappa",
+    "source": "Tsfasman MeMo reasons"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "reason.memo": {
+   "kind": "set",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.382,
+     "ci": [
+      0.315,
+      0.438
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.382,
+    "ci": [
+     0.317,
+     0.438
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.492,
+      "ci": [
+       0.407,
+       0.56
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.523,
+      "ci": [
+       0.449,
+       0.581
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.504,
+      "ci": [
+       0.427,
+       0.565
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.728,
+     "ci": [
+      0.623,
+      0.814
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.6,
+    "reported_as": "kappa",
+    "source": "Tsfasman MeMo reasons"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "matters_for": {
+   "kind": "set",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.488,
+     "ci": [
+      0.329,
+      0.632
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.487,
+    "ci": [
+     0.329,
+     0.631
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.571,
+      "ci": [
+       0.405,
+       0.703
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.351,
+      "ci": [
+       0.113,
+       0.533
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.475,
+      "ci": [
+       0.275,
+       0.614
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.616,
+     "ci": [
+      0.413,
+      0.782
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": null,
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  },
+  "bigger_meaning": {
+   "kind": "nominal",
+   "n_coded_by_humans": 200,
+   "HH": {
+    "alpha": {
+     "est": 0.271,
+     "ci": [
+      0.058,
+      0.455
+     ]
+    },
+    "n_pairs": 6
+   },
+   "HH_all_alpha": {
+    "est": 0.291,
+    "ci": [
+     0.116,
+     0.459
+    ]
+   },
+   "AI_H": {
+    "claude-haiku-5.5": {
+     "alpha": {
+      "est": 0.216,
+      "ci": [
+       -0.139,
+       0.469
+      ]
+     },
+     "n_pairs": 4
+    },
+    "gpt-6-luna": {
+     "alpha": {
+      "est": 0.305,
+      "ci": [
+       -0.019,
+       0.519
+      ]
+     },
+     "n_pairs": 4
+    },
+    "deepseek-v4.1-flash": {
+     "alpha": {
+      "est": 0.469,
+      "ci": [
+       0.281,
+       0.624
+      ]
+     },
+     "n_pairs": 4
+    }
+   },
+   "AI_AI": {
+    "alpha": {
+     "est": 0.486,
+     "ci": [
+      0.03,
+      0.738
+     ]
+    },
+    "n_pairs": 3
+   },
+   "yardstick": {
+    "value": 0.7,
+    "reported_as": "kappa",
+    "source": "Singer & Blagov meaning (.70-.72)"
+   },
+   "humans_above_chance": true,
+   "status_metric": "alpha",
+   "status": {
+    "claude-haiku-5.5": "trusted",
+    "gpt-6-luna": "trusted",
+    "deepseek-v4.1-flash": "trusted"
+   }
+  }
+ }
+}

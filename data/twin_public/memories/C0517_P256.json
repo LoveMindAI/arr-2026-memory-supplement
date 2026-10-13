@@ -1,0 +1,23 @@
+{
+ "call": "C0517",
+ "person": "P256",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we talked about going over things in your head afterwards, after a hard day.",
+  "reason": "I think because it's something I really do myself (lying awake replaying things), and it felt quite honest to admit it to a stranger.",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0074",
+ "person": "P042",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about work and both being overlooked for promotions, didnt know she runs six branches in yorkshire!!",
+  "reason": "because thats exactly how i feel at my place tbh, felt understood lol",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

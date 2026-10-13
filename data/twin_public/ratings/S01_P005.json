@@ -1,0 +1,57 @@
+{
+ "session": "S01",
+ "rater": "P005",
+ "ok": true,
+ "ratings": {
+  "P000": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks like a laugh reminds me of lee sort of"
+  },
+  "P001": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "looks normal like she just wants to get on with it"
+  },
+  "P002": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "bit young might be a student or summat"
+  },
+  "P003": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks very tidy and sensible"
+  },
+  "P004": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks like he knows his stuff bit serious"
+  }
+ }
+}

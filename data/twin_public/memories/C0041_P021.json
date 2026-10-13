@@ -1,0 +1,25 @@
+{
+ "call": "C0041",
+ "person": "P021",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 14,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Mushy peas bit, she laughed with her mouth shut, shoulders shaking, then looked down and away",
+  "reason": "didnt expect it, she seemed a bit posh at first",
+  "timing": 70
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0041",
+  "turn": 30,
+  "line_text": "Every year. Ours had a tin of mushy peas from about 1990 last time. Same as the shop. People clear their cupboards out and call it giving.",
+  "who": "Abena",
+  "what": "Abena laughs silently with her mouth closed, her shoulders shaking for a couple of seconds, and briefly looks down and away from the camera before looking back"
+ }
+}

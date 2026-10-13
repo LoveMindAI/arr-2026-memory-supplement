@@ -1,0 +1,47 @@
+{
+ "session": "S30",
+ "rater": "P160",
+ "ok": true,
+ "ratings": {
+  "P159": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "Looks like she's just getting on with things at home."
+  },
+  "P161": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Seems steady enough. Probably busy with the kids."
+  },
+  "P162": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Looks like he knows his way around a map. Decent bloke."
+  },
+  "P163": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Reminds me of some of the ladies at my mum's church group."
+  }
+ }
+}

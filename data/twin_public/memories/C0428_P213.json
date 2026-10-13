@@ -1,0 +1,23 @@
+{
+ "call": "C0428",
+ "person": "P213",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 57,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Right at the start we got onto dogs cos Biscuit was poking out the bottom of the screen and we ended up having a proper laugh about cockapoos and the chewing. I told the sock story, me stood in the garden at 10 at night with a torch waiting for it lol. Broke the ice straight away really, felt like wed known each other ages",
+  "reason": "Just cos it was a proper laugh and it happened straight away, no awkward bit at the start. Dog chat always works to be fair",
+  "timing": 8
+ },
+ "requires_av": false,
+ "av_event": null
+}

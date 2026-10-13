@@ -1,0 +1,23 @@
+{
+ "call": "C0027",
+ "person": "P012",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we was laughing a lot the whole call talking about work and back home",
+  "reason": "it felt easy like talking to family you know same kind of life so it stayed with me",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

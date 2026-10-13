@@ -1,0 +1,57 @@
+{
+ "session": "S17",
+ "rater": "P087",
+ "ok": true,
+ "ratings": {
+  "P084": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like a decent bloke er bit like some of the managers at work but at least hes tidy"
+  },
+  "P085": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "right smiley lass looks like shed be a laugh and she likes cats so shes alright by me"
+  },
+  "P086": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "bit quiet maybe reminds me of my niece a bit seems nice enough sort of person"
+  },
+  "P088": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 3,
+   "trust": 3,
+   "comp": 3,
+   "sim": 4,
+   "pair": 0,
+   "gut": "room is a tip reminds me of the young lads on site who dont listen to a word you say tbh"
+  },
+  "P089": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks like she reminds me of my mam a bit with the cross and that seems like she'd be easy to talk to"
+  }
+ }
+}

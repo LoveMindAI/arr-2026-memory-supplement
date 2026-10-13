@@ -1,0 +1,23 @@
+{
+ "call": "C0322",
+ "person": "P154",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he asked if he could ask me a bird question, then described this little brown bird skulking about underneath, never on the feeder, and i said dunnock",
+  "reason": "felt nice actually being useful for once, and he seemed made up it was sorted",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

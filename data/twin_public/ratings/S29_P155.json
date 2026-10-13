@@ -1,0 +1,57 @@
+{
+ "session": "S29",
+ "rater": "P155",
+ "ok": true,
+ "ratings": {
+  "P153": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 7,
+   "pair": 1,
+   "gut": "He looks steady and sensible. Probably works in a similar environment; he has that look of someone who has just finished a long shift."
+  },
+  "P154": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Easy-going and outdoorsy. I noticed the OS map of the Dark Peak behind him; we would probably have plenty to talk about regarding walking routes."
+  },
+  "P156": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She seems quite serious and perhaps a bit tired. I expect she is very capable but doesn't suffer fools, which I appreciate."
+  },
+  "P157": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Very approachable and pleasant. She looks like the sort of person who keeps a busy household running without too much fuss."
+  },
+  "P158": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "A kind face and a tidy, organized kitchen. She looks like someone who would be very dependable in a group task."
+  }
+ }
+}

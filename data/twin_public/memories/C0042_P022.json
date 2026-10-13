@@ -1,0 +1,23 @@
+{
+ "call": "C0042",
+ "person": "P022",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Tomasz saying he got passed over for team leader, it went to a bloke who drinks with the manager.",
+  "reason": "Because the exact same thing happened to me last year. Nice to hear it's not just me (favouritism is everywhere, clearly).",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0424",
+ "person": "P205",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Sana talking about her cousin's wedding, doing mehndi on twenty hands & wanting to do it from home!",
+  "reason": "Twenty hands! Mine would be knackered haha",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

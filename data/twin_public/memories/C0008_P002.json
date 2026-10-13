@@ -1,0 +1,23 @@
+{
+ "call": "C0008",
+ "person": "P002",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked about how stress makes people lose their second language, and how that gets missed.",
+  "reason": "It's exactly why I chose my course.",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

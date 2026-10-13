@@ -1,0 +1,23 @@
+{
+ "call": "C0563",
+ "person": "P285",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we ended up having a laugh arguing over what to call a bread roll, third time today ive had that lol",
+  "reason": "cos its been the same all day tbh",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

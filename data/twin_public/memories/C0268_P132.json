@@ -1,0 +1,23 @@
+{
+ "call": "C0268",
+ "person": "P132",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I mentioned the camp near Lublin, he said he'd like to go one day.",
+  "reason": "It was a serious thing to say quietly. He was careful how he said it, not like a tourist. I respected that.",
+  "timing": 95
+ },
+ "requires_av": false,
+ "av_event": null
+}

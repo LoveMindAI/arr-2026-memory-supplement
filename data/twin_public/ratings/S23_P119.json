@@ -1,0 +1,57 @@
+{
+ "session": "S23",
+ "rater": "P119",
+ "ok": true,
+ "ratings": {
+  "P120": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "properly organized, she looks dead clever and kind of serious but i love her bookshelf, very chic"
+  },
+  "P121": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "absolute legend, she looks so fun to chat to and i bet shes got some great stories lol, plus that dog!"
+  },
+  "P122": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "very sweet and reminds me of my mum sort of, she looks like shed be really reliable in a group task yeah?"
+  },
+  "P123": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks a bit tired bless her but id defo chat to her, very uni student vibes with the hoodie and the messy bun"
+  },
+  "P124": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 4,
+   "pair": 0,
+   "gut": "a bit quiet maybe? she looks like she works really hard but might be a bit serious for me lol, love the art on the fridge though"
+  }
+ }
+}

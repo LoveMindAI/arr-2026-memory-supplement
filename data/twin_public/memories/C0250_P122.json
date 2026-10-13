@@ -1,0 +1,23 @@
+{
+ "call": "C0250",
+ "person": "P122",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got talking about church.",
+  "reason": "I don't usually talk about my faith or my dad with people I've just met, but it felt really natural and calm, if that makes sense.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

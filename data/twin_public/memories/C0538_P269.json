@@ -1,0 +1,23 @@
+{
+ "call": "C0538",
+ "person": "P269",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Mark said his grandson called Julie's jar curry spicy, when it had 'as much spice as a custard cream'.",
+  "reason": "It was genuinely funny, and it mirrored my siblings complaining about my cooking, so it felt shared.",
+  "timing": 82
+ },
+ "requires_av": false,
+ "av_event": null
+}

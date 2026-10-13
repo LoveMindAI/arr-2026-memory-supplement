@@ -1,0 +1,103 @@
+{
+ "memory_moment_words": {
+  "log1p_mean": 2.820088058394523,
+  "log1p_sd": 0.6104099360824571,
+  "between_person_sd": 0.5233675937523347,
+  "within_person_sd": 0.3333649510016532,
+  "raw_quantiles": {
+   "p5": 5.0,
+   "p10": 6.0,
+   "p25": 10.0,
+   "p50": 16.0,
+   "p75": 24.0,
+   "p90": 36.0,
+   "p95": 45.0
+  }
+ },
+ "memory_reason_words": {
+  "log1p_mean": 2.572640523041817,
+  "log1p_sd": 0.5730733604033259,
+  "between_person_sd": 0.4643249203973304,
+  "within_person_sd": 0.34694111737625005,
+  "raw_quantiles": {
+   "p5": 4.0,
+   "p10": 5.0,
+   "p25": 8.0,
+   "p50": 12.0,
+   "p75": 18.0,
+   "p90": 26.0,
+   "p95": 32.0
+  }
+ },
+ "call_shape": {
+  "n_calls_measured": 582,
+  "turns_per_call": {
+   "p5": 19.0,
+   "p10": 20.0,
+   "p25": 24.0,
+   "p50": 30.0,
+   "p75": 35.0,
+   "p90": 39.0,
+   "p95": 42.0
+  },
+  "words_per_call": {
+   "p5": 399.05,
+   "p10": 440.1,
+   "p25": 500.0,
+   "p50": 570.0,
+   "p75": 623.75,
+   "p90": 682.9,
+   "p95": 708.9499999999999
+  },
+  "words_per_turn": {
+   "p5": 3.0,
+   "p10": 4.0,
+   "p25": 6.0,
+   "p50": 12.0,
+   "p75": 24.0,
+   "p90": 42.0,
+   "p95": 58.0
+  },
+  "duration_seconds": {
+   "p5": 150.25500000000002,
+   "p10": 176.42399999999998,
+   "p25": 178.32,
+   "p50": 179.14,
+   "p75": 179.70000000000002,
+   "p90": 180.4,
+   "p95": 181.179
+  }
+ },
+ "groups": {
+  "n_groups": 55,
+  "size_mix": {
+   "5": 19,
+   "6": 27,
+   "4": 9
+  },
+  "n_calls": 583
+ },
+ "memory_types": {
+  "note": "person-level types; profile = share of a type's memories with each defining feature (codebook 3.5.1, people's own reports)",
+  "shared_stretch": {
+   "share": 0.5133079847908745,
+   "profile": {
+    "scope:one_moment": 0.33,
+    "scope:stretch": 0.48,
+    "what:did_together": 0.61,
+    "what:partner_said_or_did": 0.22,
+    "new_fact": 0.25
+   }
+  },
+  "what_they_were_told": {
+   "share": 0.4866920152091255,
+   "profile": {
+    "scope:one_moment": 0.65,
+    "scope:stretch": 0.16,
+    "what:did_together": 0.2,
+    "what:partner_said_or_did": 0.62,
+    "new_fact": 0.72
+   }
+  }
+ }
+}

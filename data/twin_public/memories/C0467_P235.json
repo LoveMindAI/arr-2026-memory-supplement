@@ -1,0 +1,23 @@
+{
+ "call": "C0467",
+ "person": "P235",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Swapping notes about our girls. Hers is eight and loves swimming.",
+  "reason": "Fellow mum!",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

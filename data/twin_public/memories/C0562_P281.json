@@ -1,0 +1,23 @@
+{
+ "call": "C0562",
+ "person": "P281",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the berlin bit, me going on about getting in the club first go and telling him the trick is look bored lol",
+  "reason": "proper laugh tbh, felt like id known him ages, same sort of lad",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

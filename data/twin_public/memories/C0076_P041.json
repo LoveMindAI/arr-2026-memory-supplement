@@ -1,0 +1,23 @@
+{
+ "call": "C0076",
+ "person": "P041",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 30,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto reality telly and what we watch of an evening. We had a proper laugh about our husbands moaning about it but sat there glued to it anyway.",
+  "reason": "It were the bit where we really clicked & just chatted.",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

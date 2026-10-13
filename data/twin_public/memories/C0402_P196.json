@@ -1,0 +1,23 @@
+{
+ "call": "C0402",
+ "person": "P196",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The whole call felt easy, like chatting to family. I hadn't known she was a dog groomer.",
+  "reason": "Our backgrounds were remarkably similar, really.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

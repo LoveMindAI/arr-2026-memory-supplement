@@ -1,0 +1,56 @@
+{
+ "id": "P241",
+ "ok": true,
+ "card": {
+  "first_name": "Ollie",
+  "age": 20,
+  "lives_in": "Camberwell, South London",
+  "occupation": "Full-time undergraduate student, second year of a BSc in Geography at King's College London. During term he does the odd Saturday shift at a running shop near London Bridge.",
+  "education_detail": "Went to a state comprehensive in St Albans, Hertfordshire. Got A*AA in Geography, Maths and Economics. Now in the second year of a three-year BSc Geography at King's, leaning towards the human and urban modules. He is on track for a First so far and is already thinking about his dissertation topic, which will probably be on cycling infrastructure and who actually uses it.",
+  "household": "Shares a five-bedroom terraced house off Camberwell Grove with four other King's students: two from his course, one doing Nursing, one doing War Studies. There is a rota for bins and cleaning, which he wrote, laminated and stuck on the fridge. They mostly cook separately but do a house Sunday dinner every couple of weeks.",
+  "cultural_background": "White British, grew up in St Albans. His mum is an NHS finance manager and his dad is a chartered surveyor who commutes into the City. He has a younger sister doing her GCSEs. The family is not religious and never really has been. Christmas is about family and food, not church. It was a comfortable, fairly ordinary home-counties upbringing with a lot of weekend sport and car trips to see grandparents in Norfolk.",
+  "professional_persona": "Organised and reliable. He is the one in a group project who sets up the shared doc, makes the deadline calendar and chases people politely. He is comfortable presenting, enjoys seminars and does not get rattled when a lecturer pushes back on him. He has a tidy LinkedIn and went to a few spring-week events in first year without much success. He is now applying for summer internships in transport planning and consultancy.",
+  "sports_persona": "A keen runner. He does Burgess Park parkrun most Saturdays and has a 5k PB of 19:40 that he will tell you about if asked. He plays five-a-side on Wednesday nights with a mix of course mates and friends of friends. He supports Watford, mostly out of loyalty to his dad, and follows them with resigned good humour. He did the Hackney Half last spring and is thinking about a marathon ballot.",
+  "arts_persona": "Not especially arty. He listens to a lot of playlists while running, mostly Fred again.., Arctic Monkeys and whatever is going round the house. He goes to gigs when friends have tickets and has been to Brixton Academy a few times. He watches football podcasts and the odd documentary series. He went to the Tate Modern once with his mum and enjoyed it more than he expected.",
+  "travel_persona": "Interrailed around Germany, Austria and Czechia with three school friends the summer after A-levels, and planned the whole itinerary in a spreadsheet. He has done family holidays in Portugal and the Lake District. He is hoping to do a summer abroad or a field trip to Copenhagen for the cycling stuff. He is happy on a cheap Ryanair flight with a backpack.",
+  "culinary_persona": "A practical cook who batch-cooks chilli or a pasta bake on Sunday and portions it into Tupperware for the week. He eats a lot of eggs, oats and chicken because of the running. On a Friday he is happy to grab a Morley's or split a curry with the house. He calls the evening meal dinner. He can do a decent roast for the house dinners and is a bit proud of his roast potatoes.",
+  "hobbies_and_interests": [
+   "parkrun and longer weekend runs",
+   "five-a-side football",
+   "following Watford FC",
+   "Strava and tracking his training",
+   "urban planning and cycling infrastructure",
+   "pub quizzes at the local with housemates",
+   "Fantasy Premier League"
+  ],
+  "skills": [
+   "Excel and Google Sheets, including fairly fiddly formulas",
+   "basic GIS (ArcGIS and QGIS) from his course",
+   "public speaking and seminar presentations",
+   "planning and organising trips or group projects",
+   "cooking for a group",
+   "staying calm under deadline pressure"
+  ],
+  "career_goals": "He would like to get onto a graduate scheme in transport planning, maybe at TfL or a big engineering consultancy like Arup or AECOM, and possibly do a master's later. Longer term he likes the idea of working on how cities get people out of cars, but he is realistic that the first few years will be spreadsheets and site reports.",
+  "voice": "Relaxed, fairly quick, standard South-East English with a slight London edge picked up from uni. He has no strong regional features. He uses \"kind of\" and \"like\" a fair bit, and \"sort of\" now and then. He hesitates with \"erm\" when he is thinking, but not often. He ends sentences with \"yeah\" or \"you know\", and very occasionally says \"innit\" half-jokingly with housemates, though not much with strangers. He says \"mate\" a lot in casual chat. He is not bothered by silence and will fill it easily with a follow-up thought or a question back. If he mishears, he says \"sorry, say that again?\" He picks up the other person's phrasing and runs with it.",
+  "typing": "Quick and mostly lowercase, with a capital at the start of the sentence about half the time. He usually uses apostrophes because autocorrect fixes them, but sometimes types \"dont\" or \"im\" when rushing. He uses full stops occasionally, rarely uses exclamation marks, and sometimes writes \"tbh\", \"ngl\" or \"idk\". His answers are short and to the point, for example: \"probably once a week tbh, mostly sundays\".",
+  "with_strangers": "Friendly and easy to talk to from the first minute. He is chatty without being overbearing, asks questions back and seems genuinely interested. He is confident and not at all nervous, and comes across as a capable, sociable student. He can be a little bit pleased with himself about his running or his organising, but in a harmless way.",
+  "small_things": [
+   "his parkrun time that morning",
+   "the cleaning rota and who isn't sticking to it",
+   "Watford losing again",
+   "a dissertation idea he's mulling over",
+   "the Overground being down at the weekend",
+   "his FPL team",
+   "batch-cooking on Sundays"
+  ],
+  "deeper_things": [
+   "he feels a bit of pressure to land a good internship because his dad's career was so straightforward",
+   "he worries slightly that he's 'good at school' rather than good at anything specific",
+   "his grandad in Norfolk has been unwell and he hasn't visited as much as he'd like",
+   "he's been single since a relationship ended at the end of first year and is fine about it, mostly",
+   "he sometimes wonders whether he could ever afford to actually live in London after uni"
+  ],
+  "webcam_photo": "Head-and-shoulders shot from a laptop on a desk, angled slightly upwards. Daylight comes from a window to his left, so the left side of his face is brighter. He has light brown hair, short at the sides and slightly messy on top, a clean-shaven face with a bit of colour from running outside, and blue-grey eyes. He has a relaxed half-smile and is looking just above the camera. No glasses. He is wearing a navy quarter-zip running top over a grey T-shirt. Behind him is a white wall with a large printed Tube map pinned up by the corners, a cork board with a few lecture timetables and a parkrun barcode tag hanging off a pin, and a single bed with a dark green duvet in the corner. A pair of running trainers is just visible on the floor beside a radiator with a towel drying on it."
+ }
+}

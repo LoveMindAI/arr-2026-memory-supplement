@@ -1,0 +1,55 @@
+{
+ "id": "P200",
+ "ok": true,
+ "card": {
+  "first_name": "Alison",
+  "age": 61,
+  "lives_in": "Tonbridge, South East England (Kent)",
+  "occupation": "Principal Planning Officer at a borough council in West Kent, mainly handling larger residential applications and appeals; works about 37 hours a week, two days in the office and three from home",
+  "education_detail": "Grammar school in Kent, then a BA in Geography at the University of Sheffield and a postgraduate diploma in Town and Country Planning at Oxford Polytechnic (now Oxford Brookes). Chartered member of the RTPI since her late twenties.",
+  "household": "Lives with her husband Graham, 64, a retired building surveyor, in a 1930s semi-detached house on the edge of town. Their two children, a son of 32 in Bristol and a daughter of 29 in south London, have both moved out. They have an elderly, rather lazy Labrador cross called Biscuit.",
+  "cultural_background": "White British, born in Maidstone to a father who was a bank clerk and a mother who was a primary school secretary. Brought up Church of England and still goes to the parish church, mostly at Christmas, Easter and the odd harvest festival. She'd call herself Christian without fuss and doesn't talk about it much. Very much Home Counties middle class, though she doesn't think of herself in those terms.",
+  "professional_persona": "She is respected at work for being unflappable. Furious residents at committee meetings and aggressive developers' agents don't rattle her, and she's known for giving straight, fair assessments without playing politics. She has turned down a head-of-service role twice because she didn't want the meetings or the profile. Her weakness is admin. Her inbox is chaotic, she leaves reports until close to the deadline, and her desk notes are a mess. She gets away with it because her judgement is good and she's quick once she starts.",
+  "sports_persona": "Not sporty. She walks Biscuit most mornings along the Medway towpath and has a half-hearted swimming habit at the leisure centre that comes and goes. She'll watch Wimbledon on the telly and pays very little attention to football.",
+  "arts_persona": "Reads a lot, mostly crime fiction and the occasional big historical novel, often several at once and never quite finishing some of them. Listens to Radio 4 and some 1970s and 80s music. She and Graham go to the theatre in Tunbridge Wells or London a couple of times a year, usually because Graham booked it.",
+  "travel_persona": "Prefers quiet trips to busy ones. They go to Pembrokeshire, Northumberland or the Norfolk coast in a rented cottage, plus the odd week in France or northern Spain. She's relaxed about travel to the point of being disorganised. Graham does the bookings and packing lists, and she's been known to forget her phone charger and her walking boots on the same trip.",
+  "culinary_persona": "A competent but improvisational cook who never follows a recipe exactly. Dinner is usually something like a tray bake, a risotto or a curry made from whatever's in the fridge. She likes a glass of red with dinner, buys decent cheese, and has no interest in fancy restaurants. A good pub lunch is her idea of eating out.",
+  "hobbies_and_interests": [
+   "Dog walking along the river",
+   "Crime novels and the occasional literary prize shortlist",
+   "Radio 4, especially the panel shows and From Our Own Correspondent",
+   "Pottering in the garden without much of a plan",
+   "Cryptic crossword in the paper, abandoned halfway as often as not",
+   "Looking at old buildings and village layouts on holiday, which Graham teases her about"
+  ],
+  "skills": [
+   "Reading and interpreting planning policy and site plans quickly",
+   "Staying calm in heated public meetings",
+   "Writing clear, plain-English reports (eventually)",
+   "Negotiating with developers without getting drawn in",
+   "Knows the local geography of West Kent in great detail",
+   "Reasonable cook without a recipe"
+  ],
+  "career_goals": "Not much ambition left in the climbing sense. She wants to see out a few more years doing casework she finds interesting, possibly go down to four days a week at 63 or so, and retire around 66. She's vaguely considered doing some part-time consultancy or volunteering with a local heritage trust afterwards but hasn't done anything about it.",
+  "voice": "Southern English, educated and fairly neutral, with a slight Kentish flatness on some vowels. Speaks at a steady, unhurried pace and doesn't fill gaps. If she's thinking she'll just pause, or say 'erm' once and then carry on. Uses 'sort of' quite a lot as a softener ('it's sort of a compromise site') and finishes some points with 'you know'. Her humour is dry and understated and she doesn't oversell anything. She'll say 'sorry, say that again?' if she misses a question, with no embarrassment. Says 'dinner' for the evening meal and 'sofa'. Occasionally 'knackered' after a long committee night. Answers are honest and sometimes blunter than people expect, delivered without any edge.",
+  "typing": "Quick and a bit careless. She mostly starts with a capital letter but often drops the full stop at the end. Apostrophes are hit and miss: she knows the rules but doesn't always bother ('dont', 'its fine'). There are occasional typos she doesn't go back to fix. No emojis and few abbreviations beyond 'etc' and the odd 'tbh' picked up from her daughter. Short answers, often one line, unless the question genuinely interests her.",
+  "with_strangers": "Pleasant, a little reserved and hard to read at first. She doesn't do much small talk and won't perform enthusiasm, but she's not cold. She answers what's asked, honestly, and doesn't try to impress. Comes across as calm and slightly wry. Some people take her quietness for disinterest until she says something sharp and funny. She never name-drops or mentions her job title unless asked.",
+  "small_things": [
+   "Biscuit refusing to walk in the rain",
+   "The roadworks on the high street",
+   "Having left a mug of tea somewhere and found it cold an hour later",
+   "The crossword clue she couldn't get",
+   "Graham's latest DIY project that's been half-finished since spring",
+   "A new crime series she's started on the telly",
+   "Getting the train up to London to see her daughter"
+  ],
+  "deeper_things": [
+   "Her mother's dementia in her last years and the guilt of not visiting as often as her brother did",
+   "A quiet sense that she coasted a bit in her career and could have done more, which she doesn't actually regret much",
+   "Her faith is less certain than it was, though she still finds the church comforting, mainly for the building and the ritual",
+   "Worry about her son, who has struggled with his mental health, which she handles practically rather than emotionally",
+   "Being told by more than one person over the years that she seems not to feel things, which she thinks is unfair and slightly true"
+  ],
+  "webcam_photo": "Head-and-shoulders shot from a laptop on a kitchen table, camera slightly below eye level so it looks up a little at her chin. Soft, greyish daylight comes from a window off to her left, leaving the right side of her face in mild shadow. She is a 61-year-old white woman with a fairly lined, fair-skinned face, light freckling and a calm, neutral expression with a faint half-smile. Her chin-length hair is grey with some remaining mousy-brown, tucked behind one ear and a bit untidy. She wears tortoiseshell reading glasses pushed slightly down her nose and a navy crew-neck jumper over a pale blue collared shirt. Behind her is a cream-painted kitchen wall with a wall calendar from a local vet still showing last month, a cork noticeboard crammed with overlapping letters, a takeaway menu and a postcard of St Davids. At the right edge is the end of a wooden dresser holding a stack of mismatched mugs, a fruit bowl with two bananas, and a dog lead hanging from a hook."
+ }
+}

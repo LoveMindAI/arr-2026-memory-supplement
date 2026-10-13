@@ -1,0 +1,23 @@
+{
+ "call": "C0441",
+ "person": "P220",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said id been told to soften how i say things and she said thats rubbish, you just tell them",
+  "reason": "nice to have someone agree for once tbh",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

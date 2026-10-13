@@ -1,0 +1,23 @@
+{
+ "call": "C0418",
+ "person": "P204",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "near the end when the kids thing came up, i went a bit quiet and said not yet like always, then laughed it off so it wasnt awkward",
+  "reason": "touchy subject for me tbh",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

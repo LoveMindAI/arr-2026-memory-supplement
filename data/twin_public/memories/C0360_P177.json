@@ -1,0 +1,23 @@
+{
+ "call": "C0360",
+ "person": "P177",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Asking about the Oldboy poster; I hadn't realised he was such a thoughtful, serious film enthusiast underneath.",
+  "reason": "It overturned my first impression from his photo a bit (rather unfairly formed), and he clearly lit up.",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

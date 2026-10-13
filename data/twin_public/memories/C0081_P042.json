@@ -1,0 +1,23 @@
+{
+ "call": "C0081",
+ "person": "P042",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i asked if we was allowed talk about anything lol",
+  "reason": "made me feel less nervous tbh",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

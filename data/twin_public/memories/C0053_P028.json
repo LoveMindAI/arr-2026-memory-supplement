@@ -1,0 +1,23 @@
+{
+ "call": "C0053",
+ "person": "P028",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we both got talking about our mums and their knees, turns out he lives with his parents",
+  "reason": "cos im always worrying about my mum tbh, felt like we clicked",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

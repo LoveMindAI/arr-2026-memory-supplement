@@ -1,0 +1,23 @@
+{
+ "call": "C0152",
+ "person": "P077",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 30,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto holidays and city breaks and realised we'd done a couple of the same places. Then we were chatting about food & restaurants, which is basically my favourite topic",
+  "reason": "It was the bit where it properly clicked tbh. Bit of common ground & we both relaxed (and I got to talk about restaurants)",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

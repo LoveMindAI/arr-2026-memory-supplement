@@ -1,0 +1,23 @@
+{
+ "call": "C0055",
+ "person": "P031",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we had a laugh about my moped in the shed and sheds being for escaping lol",
+  "reason": "made me laugh tbh felt like talking to a mate down the pub not a stranger",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0060",
+ "person": "P031",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about our dads for a bit and i said go see yours while you can",
+  "reason": "made me think about my old man again tbh, miss him",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

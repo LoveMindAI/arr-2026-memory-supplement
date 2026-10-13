@@ -1,0 +1,47 @@
+{
+ "session": "S22",
+ "rater": "P117",
+ "ok": true,
+ "ratings": {
+  "P114": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks a bit shy like me, but very sensible and reliable."
+  },
+  "P115": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 7,
+   "sim": 3,
+   "pair": 0,
+   "gut": "She seems very clever and serious, maybe a bit intimidating to talk to."
+  },
+  "P116": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Very warm and lovely, she looks like someone you'd meet at church."
+  },
+  "P118": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "She looks very posh and busy, I think she might be a bit impatient."
+  }
+ }
+}

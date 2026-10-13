@@ -1,0 +1,23 @@
+{
+ "call": "C0561",
+ "person": "P286",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said i panicked on the puzzle and thought id got it all wrong and he just said he guessed and nobodys marking it lol",
+  "reason": "made me feel less thick tbh",
+  "timing": 72
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0478",
+ "person": "P236",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit about my boiler knocking",
+  "reason": "because it was actually useful tbh, most of these chats are just small talk but he knew his stuff and i got proper advice for free",
+  "timing": 15
+ },
+ "requires_av": false,
+ "av_event": null
+}

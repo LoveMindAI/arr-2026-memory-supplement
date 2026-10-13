@@ -1,0 +1,23 @@
+{
+ "call": "C0357",
+ "person": "P169",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 41,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I was going on at him about getting his eyes tested and blood pressure etc, he went a bit serious and said something quite personal about why he bothers going the gym. it sort of changed the mood, we ended up talking about worrying about husbands",
+  "reason": "Because it hit home tbh, I worry about Martin all the time and he obviously gets it",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

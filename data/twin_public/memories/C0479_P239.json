@@ -1,0 +1,23 @@
+{
+ "call": "C0479",
+ "person": "P239",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 71
+ },
+ "ok": true,
+ "answers": {
+  "moment": "talking about zain going uni and all the forms",
+  "reason": "because its on my mind alot tbh. zain is applying next year and i dont really know nothing about ucas, aleena did hers all by herself so i never learned it. i felt bit embarrassed saying that to a stranger but he was very kind and not rushing me, so i felt ok. i will tell zain about it tonight if he is not eating the fridge lol",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

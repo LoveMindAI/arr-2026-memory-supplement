@@ -1,0 +1,37 @@
+{
+ "session": "S42",
+ "rater": "P221",
+ "ok": true,
+ "ratings": {
+  "P222": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "bit stressed tbh looks like shes got a lot on with the kids and that"
+  },
+  "P223": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems nice enough reminds me of the girls in the office at work"
+  },
+  "P224": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "up the saints lol looks like a decent bloke probably good for a pint"
+  }
+ }
+}

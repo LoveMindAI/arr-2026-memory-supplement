@@ -1,0 +1,23 @@
+{
+ "call": "C0377",
+ "person": "P184",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got talking about our grandchildren for a good while. She has two, five and seven.",
+  "reason": "We both lit up talking about them. Made me think of Poppy and the nativity. Thanks.",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

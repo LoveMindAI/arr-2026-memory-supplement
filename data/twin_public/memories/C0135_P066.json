@@ -1,0 +1,23 @@
+{
+ "call": "C0135",
+ "person": "P066",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she talked about photographing ghost signs, the old faded painted shop signs on walls, and said maps can be beautiful",
+  "reason": "hadn't heard of ghost signs before tbh, and she made maps sound nice",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

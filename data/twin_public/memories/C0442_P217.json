@@ -1,0 +1,23 @@
+{
+ "call": "C0442",
+ "person": "P217",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "him saying he drew that pit thing behind him, did art at college",
+  "reason": "didnt expect that from his picture tbh",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

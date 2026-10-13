@@ -1,0 +1,23 @@
+{
+ "call": "C0094",
+ "person": "P045",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Me asking about bread rolls again, i'd been doing it all afternoon",
+  "reason": "It had sort of become my running joke by then tbh",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

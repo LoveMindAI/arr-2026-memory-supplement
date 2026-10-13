@@ -1,0 +1,23 @@
+{
+ "call": "C0410",
+ "person": "P199",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i blurted out the kids thing about ryan and felt like a weirdo, and he just went no its fine man, youve got time, everybodys different",
+  "reason": "made me feel less awkward tbh",
+  "timing": 62
+ },
+ "requires_av": false,
+ "av_event": null
+}

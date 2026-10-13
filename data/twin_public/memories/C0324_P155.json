@@ -1,0 +1,23 @@
+{
+ "call": "C0324",
+ "person": "P155",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got talking about the worn-out seats on the railway carriage.",
+  "reason": "It was the point where the conversation stopped being polite and became properly enthusiastic on both sides. I'll actually follow it up at the railway.",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0317",
+ "person": "P158",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talk about our parents back home and worrying abt them",
+  "reason": "because i worry about my dad everyday, felt the same",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0156",
+ "person": "P077",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 36,
+  "reason": 29
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Lee was pretty dry the whole way through, short answers & kept gently taking the mick (padel for a client, the spreadsheet for pitch money). Turns out he's a sales rep for a builders' merchants and plays Wednesday five-a-side too",
+  "reason": "Hard work at first tbh, I was doing most of the talking. But he was sharper than his photo suggested and had me sussed pretty quickly (fair play to him)",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

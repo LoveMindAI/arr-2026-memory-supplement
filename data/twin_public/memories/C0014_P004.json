@@ -1,0 +1,23 @@
+{
+ "call": "C0014",
+ "person": "P004",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 51,
+  "reason": 38
+ },
+ "ok": true,
+ "answers": {
+  "moment": "More the whole call than one moment. We kept finding small parallels, e.g. both of us looking after two people at work, both quiet in meetings, both out in the dark mornings now. I didnt know she was an SEN teaching assistant at a primary in Lewisham, that was new to me.",
+  "reason": "It was a calm, easy call and the similarities kept coming without either of us forcing it. And we live quite close, Catford and Thornton Heath, so it felt more like chatting to a neighbour",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

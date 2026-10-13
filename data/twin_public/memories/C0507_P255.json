@@ -1,0 +1,26 @@
+{
+ "call": "C0507",
+ "person": "P255",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 6,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She rubbed her stiff knuckles, briefly wincing.",
+  "reason": "She didn't mention the pain.",
+  "timing": 48
+ },
+ "requires_av": false,
+ "av_event": {
+  "call": "C0507",
+  "turn": 17,
+  "line_text": "I'm cleaner, part-time. Offices and one GP surgery in city centre, in Southampton. I start at six in the morning, sometimes evenings also. Is okay, I like it, I like the reception girls, we talk. But in winter the early bus, oh, is freezing and always late, and is not good for my hands.",
+  "who": "Agnieszka",
+  "what": "She brings both hands up into frame and slowly rubs the knuckles of her right hand with her left thumb, flexing the stiff fingers, and her face tightens in a brief wince before the smile comes back."
+ },
+ "av_excluded": "the transcript hints at the event (av_check.py judge); dropped from the audio/video subset"
+}

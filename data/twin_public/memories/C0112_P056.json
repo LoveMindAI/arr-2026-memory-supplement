@@ -1,0 +1,23 @@
+{
+ "call": "C0112",
+ "person": "P056",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he kept insisting a bacon barm is a cob and wouldnt back down, we went back and forth a bit",
+  "reason": "it was daft but made me laugh",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

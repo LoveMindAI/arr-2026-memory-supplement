@@ -1,0 +1,23 @@
+{
+ "call": "C0449",
+ "person": "P224",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got talking about the football early on and Saturday's result. Went on a bit longer than I expected.",
+  "reason": "Easy subject for me. Didn't have to think about what to say.",
+  "timing": 10
+ },
+ "requires_av": false,
+ "av_event": null
+}

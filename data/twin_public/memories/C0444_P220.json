@@ -1,0 +1,23 @@
+{
+ "call": "C0444",
+ "person": "P220",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the dog chat, kind of won me over",
+  "reason": "dean would never let me forget it lol",
+  "timing": 88
+ },
+ "requires_av": false,
+ "av_event": null
+}

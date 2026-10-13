@@ -1,0 +1,23 @@
+{
+ "call": "C0338",
+ "person": "P159",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 26,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "it was just a really easy chat overall, like she was calm and kind of practical, and i didnt know she was a pharmacy technician in crawley lol",
+  "reason": "it was my last call and i was less nervous by then, and she just felt really down to earth you know",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

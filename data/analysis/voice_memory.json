@@ -1,0 +1,202 @@
+{
+ "features": {
+  "rememberer_speaking:pitch": {
+   "inside_minus_outside": 0.2859,
+   "ci95": [
+    -0.2885,
+    0.8391
+   ],
+   "in_sd_units": 0.049,
+   "n_people": 272
+  },
+  "rememberer_speaking:pitch_var": {
+   "inside_minus_outside": 0.0076,
+   "ci95": [
+    -0.0012,
+    0.0164
+   ],
+   "in_sd_units": 0.083,
+   "n_people": 272
+  },
+  "rememberer_speaking:loud": {
+   "inside_minus_outside": 0.0502,
+   "ci95": [
+    0.0251,
+    0.0754
+   ],
+   "in_sd_units": 0.192,
+   "n_people": 272
+  },
+  "rememberer_speaking:loud_var": {
+   "inside_minus_outside": -0.0836,
+   "ci95": [
+    -0.1427,
+    -0.0276
+   ],
+   "in_sd_units": -0.12,
+   "n_people": 272
+  },
+  "rememberer_speaking:voiced_rate": {
+   "inside_minus_outside": 0.1494,
+   "ci95": [
+    0.0237,
+    0.2712
+   ],
+   "in_sd_units": 0.119,
+   "n_people": 272
+  },
+  "rememberer_speaking:pause_len": {
+   "inside_minus_outside": -0.0552,
+   "ci95": [
+    -0.135,
+    0.0271
+   ],
+   "in_sd_units": -0.051,
+   "n_people": 272
+  },
+  "rememberer_speaking:jitter": {
+   "inside_minus_outside": -0.0001,
+   "ci95": [
+    -0.0015,
+    0.0012
+   ],
+   "in_sd_units": -0.007,
+   "n_people": 272
+  },
+  "rememberer_speaking:shimmer": {
+   "inside_minus_outside": -0.0078,
+   "ci95": [
+    -0.0493,
+    0.0322
+   ],
+   "in_sd_units": -0.017,
+   "n_people": 272
+  },
+  "rememberer_speaking:hnr": {
+   "inside_minus_outside": 0.1667,
+   "ci95": [
+    -0.002,
+    0.3499
+   ],
+   "in_sd_units": 0.087,
+   "n_people": 272
+  },
+  "rememberer_speaking:slope": {
+   "inside_minus_outside": 0.0019,
+   "ci95": [
+    0.0005,
+    0.0032
+   ],
+   "in_sd_units": 0.12,
+   "n_people": 272
+  },
+  "rememberer_speaking:listener_loud": {
+   "inside_minus_outside": -0.2826,
+   "ci95": [
+    -1.9731,
+    1.4262
+   ],
+   "in_sd_units": -0.017,
+   "n_people": 272
+  },
+  "partner_speaking:pitch": {
+   "inside_minus_outside": 0.3664,
+   "ci95": [
+    -0.2435,
+    1.0257
+   ],
+   "in_sd_units": 0.063,
+   "n_people": 259
+  },
+  "partner_speaking:pitch_var": {
+   "inside_minus_outside": 0.0113,
+   "ci95": [
+    0.0035,
+    0.0192
+   ],
+   "in_sd_units": 0.124,
+   "n_people": 259
+  },
+  "partner_speaking:loud": {
+   "inside_minus_outside": 0.0463,
+   "ci95": [
+    0.023,
+    0.0706
+   ],
+   "in_sd_units": 0.177,
+   "n_people": 259
+  },
+  "partner_speaking:loud_var": {
+   "inside_minus_outside": -0.138,
+   "ci95": [
+    -0.1951,
+    -0.0826
+   ],
+   "in_sd_units": -0.199,
+   "n_people": 259
+  },
+  "partner_speaking:voiced_rate": {
+   "inside_minus_outside": 0.2192,
+   "ci95": [
+    0.1135,
+    0.3238
+   ],
+   "in_sd_units": 0.175,
+   "n_people": 259
+  },
+  "partner_speaking:pause_len": {
+   "inside_minus_outside": -0.0822,
+   "ci95": [
+    -0.1698,
+    0.0094
+   ],
+   "in_sd_units": -0.076,
+   "n_people": 259
+  },
+  "partner_speaking:jitter": {
+   "inside_minus_outside": -0.0006,
+   "ci95": [
+    -0.002,
+    0.0007
+   ],
+   "in_sd_units": -0.037,
+   "n_people": 259
+  },
+  "partner_speaking:shimmer": {
+   "inside_minus_outside": -0.011,
+   "ci95": [
+    -0.0522,
+    0.0277
+   ],
+   "in_sd_units": -0.024,
+   "n_people": 259
+  },
+  "partner_speaking:hnr": {
+   "inside_minus_outside": 0.2,
+   "ci95": [
+    0.0211,
+    0.3731
+   ],
+   "in_sd_units": 0.104,
+   "n_people": 259
+  },
+  "partner_speaking:slope": {
+   "inside_minus_outside": 0.0015,
+   "ci95": [
+    0.0,
+    0.0031
+   ],
+   "in_sd_units": 0.092,
+   "n_people": 259
+  },
+  "partner_speaking:listener_loud": {
+   "inside_minus_outside": -0.8043,
+   "ci95": [
+    -2.1134,
+    0.492
+   ],
+   "in_sd_units": -0.048,
+   "n_people": 259
+  }
+ }
+}

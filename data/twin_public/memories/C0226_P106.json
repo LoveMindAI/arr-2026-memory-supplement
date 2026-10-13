@@ -1,0 +1,23 @@
+{
+ "call": "C0226",
+ "person": "P106",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 61,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she asked if i had kids and i said no we havent. i sort of waited for the next bit, people usually say oh you'd be a good mum or whatever, but she just said me neither. i didnt know that about her, i'd sort of assumed she would have. then i asked about a cat cos i didnt know what else to say",
+  "reason": "erm because she didnt make a thing of it. most people do. it was nice not having to explain to be honest",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

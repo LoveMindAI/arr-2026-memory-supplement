@@ -1,0 +1,2350 @@
+{
+ "rows": [
+  {
+   "idx": 0,
+   "key": "mudunuri-etal-2026-bounded",
+   "title": "Bounded Conversational Memory with Hybrid Retrieval and Evidence Highlighting for Multi-Session Dialogue Systems",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LongMemEval"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "790"
+    },
+    {
+     "page": "790"
+    },
+    {
+     "page": "791"
+    }
+   ],
+   "notes": "A: LoCoMo 10-option MC accuracy and LongMemEval QA accuracy (LLM judge, binary) against gold answers. C: session-level Recall@k/Hit@k/MRR against gold evidence sessions, plus 'verbatim storage recall' (gold answer string present in store). No human evaluation; authors note the judge was not calibrated against humans."
+  },
+  {
+   "idx": 6,
+   "key": "xin-etal-2026-metamem",
+   "title": "MetaMem: Evolving Meta-Memory for Knowledge Utilization through Self-Reflective Symbolic Optimization",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LongMemEval"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "5477"
+    },
+    {
+     "page": "5477"
+    }
+   ],
+   "notes": "Accuracy on LongMemEval question types (single-session user/assistant/preference, multi-session, temporal, knowledge update), judged by Qwen3-235B against ground-truth answers (judge-sensitivity check in App. A.7). ShareGPT used only as out-of-domain training data for meta-memory, not as an evaluation of memory."
+  },
+  {
+   "idx": 10,
+   "key": "bian-etal-2026-realmem",
+   "title": "RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "RealMem"
+   ],
+   "human_eval": "two annotators with NLP backgrounds ranked four systems' responses on 30 sampled instances (validation of the automatic QA Score)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "14353"
+    },
+    {
+     "page": "14353"
+    },
+    {
+     "page": "14362"
+    }
+   ],
+   "notes": "C: Recall@k/NDCG@k and LLM-judged 'Mem Recall' of retrieved memory against ground-truth 'used memory' produced by the benchmark's LLM synthesis pipeline (Limitations mention human annotation for label verification). B: GPT-4o judges responses on a 0-3 consistency rubric against user memory and a reference answer; 'Mem Helpful' LLM rating of retrieved memory. Queries are natural user queries, not fact questions, so not coded A. Users are LLM-simulated (User Agent); no human conversation participants."
+  },
+  {
+   "idx": 15,
+   "key": "pan-etal-2026-psycheval",
+   "title": "PsychEval: A Multi-Session and Multi-Therapy Benchmark for High-Realism AI Psychological Counselor",
+   "inclusion": "exclude: dataset/benchmark-quality paper; no AI system's memory of earlier conversation is evaluated. Evaluation rates the clinical quality of GPT-5-synthesized multi-session counseling sessions (LLM-scored psychometric scales; two counseling experts), and memory appears only as one clause in a counselor rubric",
+   "codes": [],
+   "benchmarks": [
+    "PsychEval"
+   ],
+   "human_eval": "two experts in psychological counseling blind-rated 231 sampled benchmark sessions (coherence, depth, goal/process consistency)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "22199"
+    },
+    {
+     "page": "22200"
+    },
+    {
+     "page": "22206"
+    }
+   ],
+   "notes": "Borderline (incl=B). No model is tested on the benchmark in this paper; the 'counselor' turns being rated are the dataset's own GPT-5-generated turns. If the lead decides to include it, the code would be B (LLM-judge + expert ratings of session quality, with 'maintenance of longitudinal memory' as one sub-item of the customized Intervention Strategy rubric). Not E: clients are simulated from published case reports."
+  },
+  {
+   "idx": 20,
+   "key": "cao-etal-2026-higmem",
+   "title": "HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "DialSim"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "33856"
+    },
+    {
+     "page": "33856"
+    }
+   ],
+   "notes": "A: token F1 on LoCoMo10 QA categories (and DialSim QA in App. B.4). C: Precision@K/Recall@K of retrieved turns vs LoCoMo gold evidence turns. Cost/latency also reported."
+  },
+  {
+   "idx": 24,
+   "key": "sun-etal-2026-h",
+   "title": "H-MEM: Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "346"
+    },
+    {
+     "page": "346"
+    }
+   ],
+   "notes": "F1 and BLEU-1 against ground-truth answers on the five LoCoMo QA categories (the 'five task settings'). Also a retrieval-efficiency experiment (compute ops, latency) that does not score memory content. The user-feedback memory-weight update mechanism is described but not evaluated with real users."
+  },
+  {
+   "idx": 28,
+   "key": "zhang-etal-2026-lightweight",
+   "title": "Lightweight LLM Agent Memory with Small Language Models",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "DialSim"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "12918"
+    },
+    {
+     "page": "12920"
+    }
+   ],
+   "notes": "F1/BLEU-1 on LoCoMo QA; on DialSim additionally ROUGE-L/ROUGE-2/METEOR/SBERT similarity to reference answers. Latency (P50/P95), MTM-growth stability and error-injection stress tests are scored with the same answer metrics. No human evaluation found in main text or appendix."
+  },
+  {
+   "idx": 32,
+   "key": "li-etal-2026-locomo",
+   "title": "Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LoCoMo-Plus"
+   ],
+   "human_eval": "two human annotators labeled responses to measure agreement with the LLM judge; cues were also manually verified as 'memory-worthy' and trigger pairs validated by annotators during construction (annotator identity not specified)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "25088"
+    },
+    {
+     "page": "25089"
+    },
+    {
+     "page": "25092"
+    }
+   ],
+   "notes": "A: LoCoMo factual questions judged by LLM (correct/partial/wrong) against reference answers; F1 also analyzed. B: LoCoMo-Plus cognitive-memory items judged (binary) by an LLM for whether the response acknowledges/adapts to an earlier implicit cue. Not E: cues are LLM-generated and 'memory-worthiness' is decided by the authors' annotators, not by a conversation participant."
+  },
+  {
+   "idx": 36,
+   "key": "wu-etal-2026-knowme",
+   "title": "KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions",
+   "inclusion": "exclude: substrate is published literary autobiographical narratives (Knausg\u00e5rd's My Struggle, Ferrante's Neapolitan Novels, Proust), not an AI system's memory of conversation with a user",
+   "codes": [],
+   "benchmarks": [
+    "KnowMe-Bench"
+   ],
+   "human_eval": "3 experts answered benchmark questions (human ceiling); judge-vs-expert agreement on a subjective subset; human literary experts validated the dataset",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "30219"
+    },
+    {
+     "page": "30216"
+    },
+    {
+     "page": "30219"
+    }
+   ],
+   "notes": "Borderline (incl=B). Memory systems (Mem0, MemOS, A-Mem, RAG) are run over narrative text, with no dialogue with a user. If included it would be A (Level I factual tasks vs reference) plus LLM-judged interpretive answers against expert-written references (A/F). Not E: references are written by annotators/experts reading the narrative, not by the narrator."
+  },
+  {
+   "idx": 41,
+   "key": "yue-etal-2026-hypermem",
+   "title": "HyperMem: Hypergraph Memory for Long-Term Conversations",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "PersonaMem"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "35242"
+    },
+    {
+     "page": "35243"
+    }
+   ],
+   "notes": "LLM-as-a-judge accuracy on LoCoMo QA (single-hop, multi-hop, temporal, open-domain) against gold answers; PersonaMem 1-in-4 multiple-choice precision (baseline numbers sourced from prior work). Ablations, hyperparameters and token cost use the same accuracy."
+  },
+  {
+   "idx": 46,
+   "key": "xu-etal-2026-structmem",
+   "title": "StructMem: Structured Memory for Long-Horizon Behavior in LLMs",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "F"
+   ],
+   "benchmarks": [
+    "LoCoMo"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "125"
+    },
+    {
+     "page": "128"
+    },
+    {
+     "page": "129"
+    }
+   ],
+   "notes": "A: LLM judge labels answers CORRECT/WRONG against LoCoMo gold answers (judge prompt in Fig. 16), robustness across three judge models. F: fidelity/hallucination audit of stored memory entries and cross-event links, judged by three LLMs against the source dialogue (not against gold memory items, so not C)."
+  },
+  {
+   "idx": 50,
+   "key": "chen-etal-2025-tcqa2",
+   "title": "TCQA$^2$: A Tiered Conversational Q\\&A Agent in Gaming",
+   "inclusion": "confirm",
+   "codes": [
+    "D"
+   ],
+   "benchmarks": [
+    "in-house gaming QA/Chat test set (500 real player queries)"
+   ],
+   "human_eval": "human evaluators (unspecified) annotated relevance, truthfulness, usefulness, experience and a comprehensive score",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "290"
+    },
+    {
+     "page": "291"
+    },
+    {
+     "page": "291"
+    }
+   ],
+   "notes": "Borderline (incl=B); confirmed because the paper proposes a memory-equipped conversational agent (long-term memory of significant dialogue events plus short-term memory), which meets inclusion item 4 as written. But memory is never isolated: no memory ablation, no multi-session test, and the ratings are general response quality (relevance/truthfulness/usefulness/language), so coded D. Other results: harmlessness rate and router latency. The lead may prefer to exclude it as 'memory not evaluated'."
+  },
+  {
+   "idx": 55,
+   "key": "he-etal-2025-madial",
+   "title": "MADial-Bench: Towards Real-world Evaluation of Memory-Augmented Dialogue Generation",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C",
+    "F"
+   ],
+   "benchmarks": [
+    "MADial-Bench"
+   ],
+   "human_eval": "five annotators (background not specified) scored candidate responses on naturalness, style coherence, memory-injection ability, ES proficiency, emotion improvement, and did side-by-side/pick-the-best intimacy judgments",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "9906"
+    },
+    {
+     "page": "9906"
+    },
+    {
+     "page": "9907"
+    }
+   ],
+   "notes": "C: memory recall task scores embedding retrieval (MAP, MRR, nDCG, Recall, Precision) against a creator-chosen golden memory set. B: human aspect-scoring of generated responses, including memory-injection ability and intimacy. F: BLEU/ROUGE-L/BERTScore overlap with human-crafted reference responses (authors report these disagree with human judgments). Dialogues are GPT-4-generated between simulated child users (Bart, Lisa) and an assistant, refined by humans; no real conversation participants."
+  },
+  {
+   "idx": 61,
+   "key": "ge-etal-2025-tremu",
+   "title": "TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo (augmented temporal multiple-choice QA, TReMu benchmark)"
+   ],
+   "human_eval": "authors manually reviewed each generated QA for quality control (not an evaluation of system outputs)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "18979"
+    },
+    {
+     "page": "18979"
+    }
+   ],
+   "notes": "Multiple-choice temporal QA (anchoring, precedence, interval, unanswerable) built by GPT-4o from LoCoMo dialogues; accuracy against gold options, plus P/R/F1 on unanswerable questions. Execution-failure rate of generated code also reported."
+  },
+  {
+   "idx": 65,
+   "key": "chen-etal-2025-post",
+   "title": "Post Persona Alignment for Multi-Session Dialogue Generation",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "F"
+   ],
+   "benchmarks": [
+    "Generative Agents multi-session dialogues (Park et al., 2023)"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "20186"
+    },
+    {
+     "page": "20187"
+    },
+    {
+     "page": "20187"
+    }
+   ],
+   "notes": "B (automated, not a human or LLM judge): C-Score consistency of the response with persona and history; the paper does not state how C-Score is computed (it cites Madotto et al., 2019; Cao et al., 2022), so the B assignment rests on what it measures. F: Persona-F1 (lexical overlap of the response with persona facts), ROUGE vs reference response, and n-gram entropy for diversity. No human evaluation."
+  },
+  {
+   "idx": 69,
+   "key": "kang-etal-2025-memory",
+   "title": "Memory OS of AI Agent",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "GVD"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "25965"
+    },
+    {
+     "page": "25965"
+    },
+    {
+     "page": "25966"
+    }
+   ],
+   "notes": "A: LoCoMo F1/BLEU-1 against gold answers. B: on GVD, DeepSeek-R1 scores response correctness and contextual coherence. C: GVD 'Memory Retrieval Accuracy' (binary, LLM-scored). The paper does not state what retrieval is checked against; coded C as a retrieval check, but flag it. GVD dialogues are simulated (15 virtual users). Efficiency (tokens, LLM calls) also reported."
+  },
+  {
+   "idx": 73,
+   "key": "wu-etal-2025-interpersonal",
+   "title": "Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C",
+    "D"
+   ],
+   "benchmarks": [
+    "ChMapData-test",
+    "NaturalConv (as history)"
+   ],
+   "human_eval": "six native-Chinese college students (two annotators per sample plus a third tie-breaker) scored engagingness, overall quality, achievement and #turn; separately an online A/B test with >100,000 real users",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "51"
+    },
+    {
+     "page": "52"
+    },
+    {
+     "page": "65"
+    }
+   ],
+   "notes": "C: topic retrieval R10@k/MRR/NDCG against the ground-truth historical topic from data construction; summarization module scored with ROUGE/BLEU/METEOR against GPT-4-generated topic labels (App. D). B: human annotators judge engagingness, quality, and whether the bot transitioned to a relevant past topic (user side simulated by a trained user-role model). D: online A/B test in a deployed role-playing system measuring conversation-turns-per-session and topic-shift ratio; no check of what users remembered or wanted recalled. Not E: 'memorable subjects' were selected by the authors from GPT-4 brainstorming, and real users supplied only behavioral engagement data."
+  },
+  {
+   "idx": 77,
+   "key": "kirmayr-etal-2025-carmem",
+   "title": "CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding",
+   "inclusion": "confirm",
+   "codes": [
+    "C"
+   ],
+   "benchmarks": [
+    "CarMem"
+   ],
+   "human_eval": "three human judges rated the realism/quality of 40 synthetic dataset points (dataset validation only)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "347"
+    },
+    {
+     "page": "347"
+    },
+    {
+     "page": "348"
+    }
+   ],
+   "notes": "All three components (preference extraction P/R/F1 by category level, maintenance function accuracy, top-k retrieval accuracy) are scored against ground-truth preferences/labels assigned by the dataset creators to synthetic GPT-4 conversations from 100 synthetic user profiles. Users can opt out of categories by design, but no user-reported preferences are used in evaluation."
+  },
+  {
+   "idx": 82,
+   "key": "rakotonirina-etal-2025-tools",
+   "title": "From Tools to Teammates: Evaluating LLMs in Multi-Session Coding Interactions",
+   "inclusion": "confirm",
+   "codes": [
+    "F"
+   ],
+   "benchmarks": [
+    "MemoryCode"
+   ],
+   "human_eval": "none (authors manually inspected generated dialogue histories for quality)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "19612"
+    },
+    {
+     "page": "19613"
+    },
+    {
+     "page": "19614"
+    }
+   ],
+   "notes": "Borderline (incl=B); confirmed because it evaluates memory of instructions given across multi-session (synthetic mentor-mentee) dialogue. F: uncued, behavioral recall, scored by regex tests of whether generated code complies with the latest version of instructions stated earlier (creator-defined gold). It is functionally close to A (gold-scored recall of stated content) but is not question answering. The lead may merge it into A. Dialogues are Command R+ generated; no human participants."
+  },
+  {
+   "idx": 88,
+   "key": "du-etal-2024-perltqa",
+   "title": "PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Fusion in Question Answering",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "PerLTQA"
+   ],
+   "human_eval": "three NLP researchers annotated/validated the dataset (memory anchors, QA pairs); no human evaluation of system outputs",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "155"
+    },
+    {
+     "page": "156"
+    },
+    {
+     "page": "156\u2013157"
+    }
+   ],
+   "notes": "A: QA correctness (gpt-3.5 judged) and MAP of exact-match memory anchors against gold answers. B: LLM-judged coherence. C: Recall@K of retrieved memories against reference memories; memory classification P/R/F1/accuracy against gold memory type. Memory base is mostly LLM-generated profiles, relationships and events, plus assistant-character dialogues; included because dialogue history is part of the memory and QA is conversational."
+  },
+  {
+   "idx": 97,
+   "key": "kim-etal-2024-commonsense",
+   "title": "Commonsense-augmented Memory Construction and Management in Long-term Conversations via Context-aware Persona Refinement",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "F"
+   ],
+   "benchmarks": [
+    "MSC (Multi-Session Chat)"
+   ],
+   "human_eval": "3 Amazon Mechanical Turk judges: pairwise comparison of 50 sampled responses; separately judged 89 refined vs unrefined persona pairs",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "107"
+    },
+    {
+     "page": "107"
+    },
+    {
+     "page": "107"
+    }
+   ],
+   "notes": "B: crowd judges compare responses (naturalness, consistency, specificity, engagingness, overall). F: BLEU-1/ROUGE-1/ROUGE-L against MSC reference responses (sessions 2-5), and crowd judgments of the stored (refined) persona memories vs unrefined ones (not against gold items, so not C). Not E: MSC's human-authored personas are used as memory input, not as a scoring target, and the judges are crowd workers."
+  },
+  {
+   "idx": 3,
+   "key": "sun-etal-2026-dual",
+   "title": "A Dual-Phase Self-Evolution Framework for Large Language Models",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo"
+   ],
+   "human_eval": "none for memory (Censor module shown on four feedback examples attributed to 'live users'; the paper also calls these examples synthetic demonstrations)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 777
+    },
+    {
+     "page": 777
+    }
+   ],
+   "notes": "Borderline but confirmed: main contribution is general self-evolution by fine-tuning (SFT+DPO on stored interactions); memory is compared against memory baselines (ReadAgent, MemoryBank, A-MEM) only via LoCoMo single-hop/multi-hop QA. Memory is parametric (fine-tuned on LoCoMo dialogues during 'online' evolution), not training-data leakage. Other evals (AlpacaEval, MT-Bench) are not memory."
+  },
+  {
+   "idx": 7,
+   "key": "an-etal-2026-permemsafe",
+   "title": "PerMemSafe: Benchmarking Implicit Personalized Safety of Long Horizon Self-Evolving Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "PerMemSafe (new)"
+   ],
+   "human_eval": "3 human annotators (Master's/PhD students in AI/NLP) checked the GPT-4o judge on 100 cases; human verifiers filtered synthetic conversations",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 6418
+    },
+    {
+     "page": 6418
+    },
+    {
+     "page": 6419
+    }
+   ],
+   "notes": "C = Recall@3 of creator-defined relevant safety memories; B = GPT-4o judges whether the response uses the implied risk from earlier conversation (PSR) and its helpfulness (PHS). All user conversations are synthetic (LLM-generated, human-verified); noise conversations from PersonaMem."
+  },
+  {
+   "idx": 11,
+   "key": "wang-etal-2026-psychological",
+   "title": "Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C",
+    "D"
+   ],
+   "benchmarks": [
+    "MusPsy-Dataset (new)"
+   ],
+   "human_eval": "2 psychology experts rated dataset quality (not model memory); model evaluation by GPT-4o and an LLM-simulated client",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 16597
+    },
+    {
+     "page": 16599
+    },
+    {
+     "page": 16600
+    }
+   ],
+   "notes": "Borderline but confirmed: memory-augmented multi-session counseling model that must carry client information across sessions. C = Task 1 memory extraction scored by BLEU/F1 against session memories generated by GPT-4o (Appendix D prompt) from synthetic dialogues; B = GPT-4o rates WAI per session in simulated multi-session counseling; D = simulated LLM client's PANAS self-report (an outcome, not a memory check; the 'client' is an LLM, so not E)."
+  },
+  {
+   "idx": 16,
+   "key": "li-etal-2026-longmp",
+   "title": "LongMP-Bench: A Benchmark for Multimodal Persona Understanding in Long-Term Dialogues",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B",
+    "F"
+   ],
+   "benchmarks": [
+    "LongMP-Bench (new)"
+   ],
+   "human_eval": "3 annotators with CS backgrounds rated data quality; unspecified human ratings used to validate the LLM judge (180 QA items; n=50 responses)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 23135
+    },
+    {
+     "page": 23146
+    },
+    {
+     "page": 23137
+    }
+   ],
+   "notes": "A = persona QA scored by Gemini-1.5-Pro against ground-truth answers (plus accuracy for yes/no concept recognition); B = LLM-judged Personalization Score; F = BLEU/BERTScore and an LLM 'Alignment Score' of generated vs reference response. Users are synthetic (LLM-generated dialogues with human refinement)."
+  },
+  {
+   "idx": 21,
+   "key": "huang-etal-2026-licomemory",
+   "title": "LiCoMemory: Lightweight and Cognitive Agentic Memory for Efficient Long-Term Reasoning",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LongMemEval"
+   ],
+   "human_eval": "unspecified human evaluation / 'Golden Label' in a small judge-robustness check (50 generations per benchmark)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 36847
+    },
+    {
+     "page": 36847
+    },
+    {
+     "page": 36847
+    }
+   ],
+   "notes": "A = LLM-judged QA accuracy vs gold answers; C = recall of benchmark ground-truth evidence in top-15 retrieved items. Also efficiency (tokens, latency)."
+  },
+  {
+   "idx": 25,
+   "key": "zhou-etal-2026-amory",
+   "title": "Amory: Building Coherent Narrative-Driven Agent Memory through Agentic Reasoning",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "AgentIF (converted to a long multi-task conversation)"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 3930
+    },
+    {
+     "page": 3932
+    },
+    {
+     "page": 3933
+    }
+   ],
+   "notes": "A = LoCoMo J-score; C = coverage of annotated ground-truth evidence and constraint recall on the AgentIF-derived conversation (agent responses generated by an LLM)."
+  },
+  {
+   "idx": 29,
+   "key": "zhao-etal-2026-inside",
+   "title": "Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "PersonaMem"
+   ],
+   "human_eval": "none (reference operation trajectories for RL training described as manually verified; not an evaluation)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 13434
+    },
+    {
+     "page": 13434
+    },
+    {
+     "page": 13434
+    }
+   ],
+   "notes": "A = multiple-choice accuracy on PersonaMem (gold options). Memory-operation model (MemListener) is assessed only through this downstream PersonaMem accuracy; training reward is an LLM judge against DeepSeek-R1-generated ground-truth operations (HaluMem/PersonaMem subsets)."
+  },
+  {
+   "idx": 33,
+   "key": "hu-etal-2026-memory-need",
+   "title": "Does Memory Need Graphs? A Unified Framework and Empirical Analysis for Long-Term Dialog Memory",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LongMemEval",
+    "HaluMem"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 26762
+    },
+    {
+     "page": 26770
+    },
+    {
+     "page": 26765
+    }
+   ],
+   "notes": "A = LLM-judged QA on LongMemEval-S/M and HaluMem; C = Recall@n/NDCG@n vs ground-truth relevant sessions, and HaluMem memory-extraction metrics vs ground-truth memories."
+  },
+  {
+   "idx": 37,
+   "key": "wu-etal-2026-stratmem",
+   "title": "StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "StratMem-Bench (new, built from LoCoMo)"
+   ],
+   "human_eval": "memory-role labels drafted by GPT-5.1 and reviewed by human annotators/experts (3 annotators, Fleiss \u03ba reported); 1 expert annotator and 2 annotators validated the LLM judges",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 32309
+    },
+    {
+     "page": 32312
+    },
+    {
+     "page": 32314
+    }
+   ],
+   "notes": "C = Strict Memory Compliance / PES / CIR: which memories the response used (LLM-detected) compared against annotator-labeled must/nice/irr roles; B = LLM-judged MIQ. Explicitly 'beyond factual recall', but importance labels come from an LLM + annotators reading LoCoMo virtual-character dialogues, not from a conversation participant. Memory pool is given to the model (tests use, not storage)."
+  },
+  {
+   "idx": 42,
+   "key": "fan-etal-2026-llm",
+   "title": "If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs",
+   "inclusion": "exclude: memory of scripted multi-character theatrical episodes (anonymized Hamlet; Claude-written scripts) with the LLM cast as a character; no conversation with a user/person, framed as lifelong learning / narrative state tracking",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LifeState-Bench (new: Hamlet, synthetic scripts)"
+   ],
+   "human_eval": "authors (master's degrees) annotated the QA; LLM judge 'with human assistance'",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 35850
+    },
+    {
+     "page": 35851
+    },
+    {
+     "page": 35850
+    }
+   ],
+   "notes": "Borderline (incl=B), judged exclude; code A given for reference only, in case inclusion is overridden (fact QA on self-awareness, episode memory, relationship shift vs author-annotated ground truth, DeepSeek judge 1-100). Note the parent includes LoCoMo-style simulated dialogues; the difference here is that the history is a play script and no interlocutor stands in for a user."
+  },
+  {
+   "idx": 47,
+   "key": "fang-etal-2026-personalization",
+   "title": "The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs",
+   "inclusion": "exclude: 'user memory' is a synthetic user profile injected into the system prompt (or retrieved profile sentences), not memory of earlier conversation; the system never has to retain anything the user said earlier; the study measures demographic bias in emotional-intelligence test accuracy",
+   "codes": [
+    "D"
+   ],
+   "benchmarks": [
+    "STEU",
+    "STEM (modified)"
+   ],
+   "human_eval": "Amazon Ground Truth annotators validated personas; 9 annotators screened test items",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 523
+    },
+    {
+     "page": 513
+    },
+    {
+     "page": 512
+    }
+   ],
+   "notes": "Borderline (incl=B), judged exclude. Code D given for reference only (task accuracy with no check of what was remembered). An ablation inserts unrelated WildChat conversations before test items as distractors, which is not the user's own history either."
+  },
+  {
+   "idx": 51,
+   "key": "soloshenko-etal-2025-personalizing",
+   "title": "Personalizing chatbot communication with associative memory",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "MultiSessionChat (author-built 100-question set)"
+   ],
+   "human_eval": "authors manually extracted one fact per dialogue set and manually checked answers against golden answers",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 66
+    },
+    {
+     "page": 66
+    },
+    {
+     "page": 66
+    }
+   ],
+   "notes": "A = recall of one author-chosen fact per MSC dialogue set; MSC crowdworkers were the conversation participants but did not choose the facts, so not E. Student workshop paper (RANLP-stud). Synthetic Persona Chat used for the cold-start agent."
+  },
+  {
+   "idx": 58,
+   "key": "liu-etal-2025-persona",
+   "title": "A Persona-Aware LLM-Enhanced Framework for Multi-Session Personalized Dialogue Generation",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "F"
+   ],
+   "benchmarks": [
+    "MSC",
+    "DuLeMon"
+   ],
+   "human_eval": "6 professional annotators (CS/AI experts, under 35) rated 60 sampled responses on fluency, consistency, sensibleness, engagingness",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 108
+    },
+    {
+     "page": 118
+    },
+    {
+     "page": 118
+    }
+   ],
+   "notes": "B = annotator ratings plus G-Eval (LLM) consistency with persona and dialogue history; F = BLEU/ROUGE/BERTScore overlap with the dataset's gold next response (reference-response matching, not covered by A-E)."
+  },
+  {
+   "idx": 62,
+   "key": "jia-etal-2025-evaluating",
+   "title": "Evaluating the Long-Term Memory of Large Language Models",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LOCCO (new)",
+    "LOCCO-L (new)"
+   ],
+   "human_eval": "crowdworkers rated 200 generated dialogues for data quality; 3 human evaluators verified the consistency-model judgments (200+200 samples)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 19774
+    },
+    {
+     "page": 19774
+    },
+    {
+     "page": 19763
+    }
+   ],
+   "notes": "A = QA on LLM-generated, manually filtered questions; answers scored by a trained consistency model (Qwen1.5-4B). Memory is imparted by LoRA fine-tuning on the dialogues (parametric), but the target is conversation content with a user, so not the training-data-leakage exclusion. Useful for the paper: an LLM decides what is 'worth remembering'. Users are LLM-simulated characters."
+  },
+  {
+   "idx": 66,
+   "key": "kim-etal-2025-pre",
+   "title": "Pre-Storage Reasoning for Episodic Memory: Shifting Inference Burden to Memory for Personalized Dialogue",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LongMemEval-S"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 22100
+    },
+    {
+     "page": 22100
+    },
+    {
+     "page": 22112
+    }
+   ],
+   "notes": "A = QA vs gold answers via lexical/semantic overlap and GPT-4.1-mini judge; adversarial accuracy for unanswerable questions."
+  },
+  {
+   "idx": 70,
+   "key": "salama-etal-2025-meminsight",
+   "title": "MemInsight: Autonomous Memory Augmentation for LLM Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LLM-REDIAL"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 33139
+    },
+    {
+     "page": 33141
+    },
+    {
+     "page": 33142
+    }
+   ],
+   "notes": "A = LoCoMo QA F1; C = Recall@5 of annotated evidence turns and G-Eval of event summaries vs LoCoMo ground-truth event labels; D = recommendation Recall/NDCG vs ground-truth movie; B = LLM-judged persuasiveness and relatedness of recommendations."
+  },
+  {
+   "idx": 74,
+   "key": "chen-etal-2025-compress",
+   "title": "Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "Dolphin (new; real X Eva user-chatbot logs)"
+   ],
+   "human_eval": "3 annotators refined GPT-4-Turbo memory/response labels; two teams of 3 annotators scored (0-3) and ranked Task 3 responses",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 759
+    },
+    {
+     "page": 760
+    },
+    {
+     "page": 766
+    }
+   ],
+   "notes": "Near-miss for E, not E: conversations are real user-chatbot logs from X Eva, and the Memorability rating scale is worded in the first person (e.g., 'The chatbot remembered most of what I said earlier.', p.766), but the raters are hired annotators, not the users; gold memories are GPT-4-Turbo drafts corrected by annotators. C = session/compressive memory vs annotated gold (BLEU/F1); B = annotator scoring/ranking incl. Memorability. PDF title reads 'Beyond Retrieval: Embracing Compressive Memory in Real-World Long-Term Conversations' (Anthology title differs; same COMEDY/Dolphin paper)."
+  },
+  {
+   "idx": 79,
+   "key": "wu-etal-2025-x",
+   "title": "X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents",
+   "inclusion": "exclude: evaluates human-likeness (Turing-test pass rate) of LLM agents after long LLM-generated pseudo-dialogue histories; no memory method or memory of conversation content is proposed or scored",
+   "codes": [
+    "D"
+   ],
+   "benchmarks": [
+    "X-Turing (new)"
+   ],
+   "human_eval": "236 volunteer native-speaker survey judges (not the conversation partners) and LLM judges; real humans chatted with the agent for the final turns",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 5878
+    },
+    {
+     "page": 5878
+    },
+    {
+     "page": 5878
+    }
+   ],
+   "notes": "Flagged '** check **' in screening; judged exclude. Code D given for reference only (judges' human-likeness verdict, no check of what was remembered). The real human interlocutor ('Human 2') gives no judgment, so it would not be E even if included."
+  },
+  {
+   "idx": 84,
+   "key": "xue-etal-2025-mmrc",
+   "title": "MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "MMRC (new; real user conversations from the DialogFlow platform)"
+   ],
+   "human_eval": "dialogues from 354 real platform users (mostly university students/staff); QA pairs annotated by the authors' team; human evaluators did second-round 0-5 scoring for CR, IU, MR",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 22480
+    },
+    {
+     "page": 22481
+    },
+    {
+     "page": 22489
+    }
+   ],
+   "notes": "A = probe questions (incl. Memory Recall) scored by GPT-4o and humans against human-annotated ground truth, plus precision metrics. Near-miss for E, not E: conversations are real user-MLLM chats, but questions/answers were written by the authors' team, not by the users. The ethics text says 'All participants are fully aware of and voluntarily engage in the annotation process' (p.22489), which is ambiguous, but nothing says users reported what they remember."
+  },
+  {
+   "idx": 90,
+   "key": "zhang-etal-2024-llm-based",
+   "title": "LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B"
+   ],
+   "benchmarks": [
+    "MaLP medical dialogue dataset (new, ChatGPT self-chat)"
+   ],
+   "human_eval": "2 master's students with medical background rated data quality; 2 hired master's students judged 100 response pairs to validate the automatic win-rate scorer",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 2391
+    },
+    {
+     "page": 2391
+    },
+    {
+     "page": 2393
+    }
+   ],
+   "notes": "A = Profile/Knowledge QA (ROUGE vs truth from user profile and memory) and preference-classification accuracy vs gold preference; B = response win rate via the scoring method of Wang et al. (2023) (scorer not named in this paper), validated against human pairwise judgments. Patients simulated by ChatGPT from profiles."
+  },
+  {
+   "idx": 98,
+   "key": "yao-etal-2024-sirllm",
+   "title": "SirLLM: Streaming Infinite Retentive LLM",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "D",
+    "F"
+   ],
+   "benchmarks": [
+    "DailyDialog (reformatted)",
+    "Grocery Shopping (new, from CSQA)",
+    "Rock-Paper-Scissors (new)"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": 2617
+    },
+    {
+     "page": 2616
+    },
+    {
+     "page": 2617
+    }
+   ],
+   "notes": "Borderline (incl=B), confirmed: a KV-cache retention method, but evaluated on remembering conversation content (Grocery Shopping), so the KV-cache exclusion does not apply. A = grocery recall accuracy (multiple choice); F = multiple-choice selection of the gold next response on DailyDialog; D = rock-paper-scissors win rate. Users are scripted."
+  },
+  {
+   "idx": 4,
+   "key": "sun-etal-2026-preference",
+   "title": "Preference-Aware Memory Update for Long-Term LLM Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B"
+   ],
+   "benchmarks": [
+    "LoCoMo"
+   ],
+   "human_eval": "10 annotators with bachelor's degrees (alongside GPT-4) scored a designed 5-turn case-study dialogue for preference alignment/consistency",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "788"
+    },
+    {
+     "page": "790"
+    },
+    {
+     "page": "790"
+    }
+   ],
+   "notes": "Main eval: LoCoMo single-hop, multi-hop, temporal QA scored with F1 and BLEU-1 against gold answers (A). Secondary case study: GPT-4 and 10 human annotators score alignment (1-5), consistency, style consistency and preference detection on an author-designed dialogue (B). Annotators are third-party raters, not conversation participants."
+  },
+  {
+   "idx": 8,
+   "key": "zheng-etal-2026-evaluating",
+   "title": "Evaluating Memory Capability in Continuous Lifelog Scenario",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LifeDialBench (EgoMem, LifeMem)"
+   ],
+   "human_eval": "none for system outputs; in-house data annotators reviewed/edited synthesized dialogues and sampled QA",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "7067"
+    },
+    {
+     "page": "7070"
+    },
+    {
+     "page": "7068"
+    }
+   ],
+   "notes": "Multiple-choice QA (exact match) and open-ended QA judged by Qwen3-32B for semantic equivalence to reference answers derived from the correct MCQ option (A). Online streaming evaluation protocol. Inclusion note: memory of ambient multi-person dialogues lifelogged by a wearable (user talking with other people, synthesized from EgoLife summaries / simulated life); treated like LoCoMo's person-person conversations."
+  },
+  {
+   "idx": 13,
+   "key": "zhuoning-etal-2026-mentor",
+   "title": "MENTOR: Mitigating Identity Drift in Dynamic Role-Playing via Dual-Chain Structured Memory",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "BEAM-Switch"
+   ],
+   "human_eval": "3 expert annotators re-scored 100 instances to validate the GPT-4o judge; annotators validated 100 benchmark instances; 200 turns manually annotated with gold triples",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "20868"
+    },
+    {
+     "page": "20880"
+    },
+    {
+     "page": "20881"
+    }
+   ],
+   "notes": "Borderline inclusion: per-role memory (global chain, role chains, KG) for multi-user role switching within one session; evaluation windows are short (W=6 rounds, ~850 tokens), so 'long conversation' is weak, but probes require recalling/respecting a target user's earlier constraint. Main metrics IA/KF/CC scored by GPT-4o judge with rubrics (B). Appendix: LLM triple extractor (memory content) compared with manually annotated gold triples (C)."
+  },
+  {
+   "idx": 18,
+   "key": "uddin-etal-2026-recall",
+   "title": "From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "Memora"
+   ],
+   "human_eval": "3 recruited annotators labeled 100 criteria (Yes/No) to validate the LLM judges (88.3% agreement); annotators verified a 5% sample of generated conversations",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "26818"
+    },
+    {
+     "page": "26819"
+    },
+    {
+     "page": "26819"
+    }
+   ],
+   "notes": "FAMA: per-question binary criteria derived from the simulated memory trace (memory-presence and forgetting-absence), each judged by a 3-LLM majority vote, for Remembering, Reasoning, Recommending tasks. Coded A because answers are checked against gold criteria from the creator's memory state; the Recommending task could arguably be read as B (personalization), but it is still scored against gold criteria."
+  },
+  {
+   "idx": 22,
+   "key": "li-etal-2026-bmam",
+   "title": "BMAM: Brain-inspired Multi-Agent Memory Framework",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B",
+    "F"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LongMemEval",
+    "PersonaMem",
+    "PrefEval"
+   ],
+   "human_eval": "none (manual error analysis only)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "39610"
+    },
+    {
+     "page": "39611"
+    },
+    {
+     "page": "39616"
+    }
+   ],
+   "notes": "A: LoCoMo and LongMemEval accuracy (MemOS LLM-judge protocol), PersonaMem MCQ accuracy. B: PrefEval personalized-response rate (responses classified as personalized / preference-unaware / inconsistent). F: 'Soul Portability Test' compares answers to 20 identity-probing questions after memory export-wipe-restore against the system's own pre-export answers (exact and semantic match)."
+  },
+  {
+   "idx": 26,
+   "key": "ye-etal-2026-h",
+   "title": "H-Mem: Hybrid Multi-Dimensional Memory Management for Long-Context Conversational Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo"
+   ],
+   "human_eval": "10 volunteers (aged 18-25) answered all LoCoMo10 questions as a human comparison; humans did not rate the system",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "7760"
+    },
+    {
+     "page": "7760"
+    },
+    {
+     "page": "7768"
+    }
+   ],
+   "notes": "LoCoMo QA scored with F1, BLEU-1 and an LLM-judge J-score against gold answers (A). Ablations on the same metrics."
+  },
+  {
+   "idx": 30,
+   "key": "zhu-etal-2026-hela",
+   "title": "HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LongMemEval-S"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "13761"
+    },
+    {
+     "page": "13768"
+    },
+    {
+     "page": "13768"
+    }
+   ],
+   "notes": "LoCoMo QA F1 and BLEU-1 (main); appendix LongMemEval-S accuracy with GPT-4o-mini as LLM judge (A). Token cost also reported."
+  },
+  {
+   "idx": 34,
+   "key": "guo-etal-2026-personalization",
+   "title": "When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "F"
+   ],
+   "benchmarks": [
+    "PS-Bench",
+    "PS-Bench-Hard",
+    "LoCoMo"
+   ],
+   "human_eval": "2 trained annotators labeled 160 responses for harmfulness to validate the automatic judge",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "27311"
+    },
+    {
+     "page": "27312"
+    },
+    {
+     "page": "27316"
+    }
+   ],
+   "notes": "Borderline inclusion: a safety study of memory-equipped personalized dialogue agents (LD-Agent, A-Mem, Mem0, MemOS, MemU) whose memories come from LoCoMo multi-session histories; it also proposes a memory-usage intervention. Main metric is attack success rate from the Do-Not-Answer harmful-response detector (F: safety outcome, no check of what was remembered; could also be read as D). Utility of the intervention checked with LoCoMo F1/BLEU-1 (A)."
+  },
+  {
+   "idx": 38,
+   "key": "hu-etal-2026-clonemem",
+   "title": "CloneMem: Benchmarking Long-Term Memory for AI Clones",
+   "inclusion": "exclude: memory is built from non-conversational digital traces (diaries, social media posts, emails/DMs), which the paper explicitly contrasts with conversation histories; not an AI system's memory of earlier conversation with a user",
+   "codes": [
+    "A",
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "CloneMem"
+   ],
+   "human_eval": "a small subset of QA reviewed by human annotators (data quality only)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "33571"
+    },
+    {
+     "page": "33576"
+    },
+    {
+     "page": "33576"
+    }
+   ],
+   "notes": "Codes given for reference only (paper excluded). Choice accuracy and GPT-4o-judged QA consistency vs ground truth (A); GPT-4o 'Memory Helpfulness' score (B); Recall@K of ground-truth evidence media IDs (C)."
+  },
+  {
+   "idx": 44,
+   "key": "bei-etal-2026-mem",
+   "title": "Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "Mem-Gallery"
+   ],
+   "human_eval": "none for system outputs; data annotation/verification done by the author team",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "40756"
+    },
+    {
+     "page": "40756"
+    },
+    {
+     "page": "40754"
+    }
+   ],
+   "notes": "QA over multimodal multi-session conversations scored with F1, BLEU-1, EM and Qwen-2.5-72B LLM-judge against gold answers (A); retrieval Recall/Precision/Hit against annotated evidence-clue turns (C). Dataset quality rated by three LLM judges."
+  },
+  {
+   "idx": 48,
+   "key": "latimer-etal-2026-hindsight",
+   "title": "Hindsight: Structured Agent Memory that Retains, Recalls, and Reflects",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LongMemEval",
+    "LoCoMo"
+   ],
+   "human_eval": "none (limitations state opinion evolution not validated with user studies)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "280"
+    },
+    {
+     "page": "280"
+    },
+    {
+     "page": "282"
+    }
+   ],
+   "notes": "System demo paper; overall and per-category accuracy on LongMemEval-S and LoCoMo summarized from the full paper (A)."
+  },
+  {
+   "idx": 53,
+   "key": "li-etal-2025-hello",
+   "title": "Hello Again! LLM-powered Personalized Agent for Long-term Dialogue",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C",
+    "F"
+   ],
+   "benchmarks": [
+    "MSC",
+    "Conversation Chronicles (CC)",
+    "Ubuntu IRC"
+   ],
+   "human_eval": "8 students: (a) selected relevant memories from the memory bank as retrieval ground truth (taking the role of Speaker B in dataset conversations); (b) chatted with ChatGLM vs LD-Agent over 2-3 sessions and rated coherence, fluency, engagingness (0-100)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "5264"
+    },
+    {
+     "page": "5266"
+    },
+    {
+     "page": "5272"
+    }
+   ],
+   "notes": "F: response generation scored by BLEU-N/ROUGE-L/METEOR against the dataset's reference next utterances. C: persona-extractor accuracy vs MSC persona annotations, and retrieval ACC/Recall vs human-selected relevant memories. B: live human-bot chats rated by the chatting users for coherence/fluency/engagingness. Not E: the live-chat users rated the bot's replies; they never reported what they remembered or found important, and memory was not scored against such a report."
+  },
+  {
+   "idx": 59,
+   "key": "wang-etal-2025-r3mem",
+   "title": "R$^3$Mem: Bridging Memory Retention and Retrieval via Reversible Compression",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C",
+    "F"
+   ],
+   "benchmarks": [
+    "SiliconFriend/MemoryBank dialogues (194 memory-probing questions)",
+    "PG19",
+    "Pile arXiv",
+    "C4 (4K+)",
+    "UltraDomain"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "4546"
+    },
+    {
+     "page": "4546"
+    },
+    {
+     "page": "4546-4547"
+    }
+   ],
+   "notes": "Conversation part: R3Mem replaces MemoryBank inside SiliconFriend; Memory Retrieval Accuracy = F1 vs reference memory (C); Response Correctness by exact substring match of the correct answer (A); Contextual Coherence via BARTScore-Faithfulness (F, automatic metric); Ranking Score from correctness. Other evaluations (perplexity on PG19/arXiv/C4, RAG QA on UltraDomain documents) are not conversational memory and are not coded. Inclusion: implicit (parametric) memory method, but evaluated on remembering conversation content, so not excluded as parametric memorization."
+  },
+  {
+   "idx": 63,
+   "key": "hou-etal-2025-synapticrag",
+   "title": "SynapticRAG: Enhancing Temporal Memory Retrieval in Large Language Models through Synaptic Mechanisms",
+   "inclusion": "confirm",
+   "codes": [
+    "C"
+   ],
+   "benchmarks": [
+    "SMRCs (new)",
+    "PerLTQA"
+   ],
+   "human_eval": "4 annotators labeled trigger-memory pairs (gold); no human rating of outputs",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "20426"
+    },
+    {
+     "page": "20427"
+    },
+    {
+     "page": "20427"
+    }
+   ],
+   "notes": "Retrieval of past dialogue utterances scored with Precision@k, Recall@k and ERC/ERC-MG accuracy against annotated gold memories (C). SMRCs dialogues generated with Claude 3.5 Sonnet."
+  },
+  {
+   "idx": 67,
+   "key": "li-etal-2025-toward",
+   "title": "Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "ImplexConv",
+    "MSC",
+    "CC",
+    "LoCoMo",
+    "LongMemEval"
+   ],
+   "human_eval": "human annotators checked answer correctness on 100 sampled examples per dataset; 3 annotators resolved ambiguous cases in dataset construction",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "11498"
+    },
+    {
+     "page": "11498"
+    },
+    {
+     "page": "11498"
+    }
+   ],
+   "notes": "Retrieval accuracy = F1 overlap between retrieved and ground-truth context (C); answer correctness judged by an LLM for semantic equivalence to ground truth (A); token efficiency. For MSC/CC, the fifth-session target response serves as ground truth."
+  },
+  {
+   "idx": 71,
+   "key": "xu-etal-2025-open",
+   "title": "Open-Theatre: An Open-Source Toolkit for LLM-based Interactive Drama",
+   "inclusion": "confirm",
+   "codes": [
+    "B"
+   ],
+   "benchmarks": [],
+   "human_eval": "none (AI-agent players with 10 personas; GPT-4o judge)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "457"
+    },
+    {
+     "page": "458"
+    },
+    {
+     "page": "458"
+    }
+   ],
+   "notes": "Borderline inclusion: interactive-drama toolkit whose NPC agents have a hierarchical memory of dialogue with the player; evaluated on three custom scripts (Detective Conan, Harry Potter, Romeo and Juliet). GPT-4o judge rates Retrieval Accuracy, Response Plausibility, Narrative Coherence (memory) and architecture metrics on a 1-5 scale from full interaction logs (B). No gold memory and no human players in the evaluation."
+  },
+  {
+   "idx": 75,
+   "key": "yuan-etal-2025-personalized",
+   "title": "Personalized Large Language Model Assistant with Evolving Conditional Memory",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B"
+   ],
+   "benchmarks": [
+    "Custom: Continuing Previous Dialogue",
+    "Custom: Learning New Knowledge (from MSC)",
+    "Custom: Learning from Human Feedback"
+   ],
+   "human_eval": "3 annotators assessed quality of the constructed datasets only",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "3769"
+    },
+    {
+     "page": "3769"
+    },
+    {
+     "page": "3770"
+    }
+   ],
+   "notes": "Learning New Knowledge: questions about the user's persona facts scored with GPT-score (0-2 vs reference answer) and ROUGE-1/2 (A). Learning from Feedback and Continuing Previous Dialogue: GPT-4 Good/Same/Bad and multiple-choice comparisons given a reference response (B). All three test sets are GPT-4-synthesized; 'human feedback' is pseudo feedback generated by GPT-4."
+  },
+  {
+   "idx": 80,
+   "key": "tan-etal-2025-prospect",
+   "title": "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C",
+    "F"
+   ],
+   "benchmarks": [
+    "MSC",
+    "LongMemEval"
+   ],
+   "human_eval": "2 NLP PhD students (non-authors) judged 100 MSC responses (Yes/No match to ground truth) to validate the LLM judge",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "8421"
+    },
+    {
+     "page": "8421"
+    },
+    {
+     "page": "8424"
+    }
+   ],
+   "notes": "LongMemEval: Recall@K against annotated evidence turns (C) and LLM-judged answer accuracy vs ground truth (A). MSC: METEOR and BERTScore vs the human-provided next response, plus LLM-judge and human Yes/No match to that response (F: similarity to a reference utterance). Citation-based reward validity checked with a Gemini judge."
+  },
+  {
+   "idx": 85,
+   "key": "jang-etal-2025-enabling",
+   "title": "Enabling Chatbots with Eyes and Ears: An Immersive Multimodal Conversation System for Dynamic Interactions",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "M3C"
+   ],
+   "human_eval": "8 professional evaluators (via an agency, groups of 3) rated dataset episodes and 100 model-agent conversation episodes on naturalness, immersion, memorability (5-point); o3-mini as machine evaluator",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "31486"
+    },
+    {
+     "page": "31487"
+    },
+    {
+     "page": "31510"
+    }
+   ],
+   "notes": "Borderline inclusion: multimodal multi-session multi-party chatbot with a multimodal memory retriever over previous sessions. Retrieval R@1/R@5/MRR against the dataset's tagged memory elements (C, LLM-generated dataset). Model performance judged by humans and o3-mini, including 'memorability' = whether speakers accurately recall previous sessions (B). Evaluated conversations are agent-agent only; raters are third parties."
+  },
+  {
+   "idx": 92,
+   "key": "wu-yu-2024-stateful",
+   "title": "Stateful Memory-Augmented Transformers for Efficient Dialogue Modeling",
+   "inclusion": "confirm",
+   "codes": [
+    "F"
+   ],
+   "benchmarks": [
+    "PersonaChat",
+    "PersuasionForGood",
+    "MSC",
+    "Arxiv",
+    "PG19"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "859"
+    },
+    {
+     "page": "858"
+    },
+    {
+     "page": "859"
+    }
+   ],
+   "notes": "Borderline inclusion (efficiency-motivated): MemBART, a stateful memory-augmented transformer for dialogue history. Scored only by perplexity (all datasets), word-overlap F1 on PersonaChat, and latency; memory contribution shown by a 'w/o history' memory-reset ablation. No direct check of what was remembered (F). Could be excluded under item 5 (efficiency work) if perplexity on MSC is not considered an evaluation of remembering conversation content."
+  },
+  {
+   "idx": 101,
+   "key": "maharana-etal-2024-evaluating",
+   "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C",
+    "F"
+   ],
+   "benchmarks": [
+    "LoCoMo"
+   ],
+   "human_eval": "human annotators edited the generated conversations; a human QA performance row is reported; no human rating of system outputs",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "13855"
+    },
+    {
+     "page": "13855"
+    },
+    {
+     "page": "13856"
+    }
+   ],
+   "notes": "QA (single-hop, multi-hop, temporal, open-domain, adversarial) scored by partial-match F1 vs gold answers (A); RAG recall@k vs annotated evidence turn IDs and event summarization FactScore vs the creator's temporal event graph (C); multimodal dialogue generation scored by MM-Relevance and BLEU vs ground-truth dialogue (F)."
+  },
+  {
+   "idx": 5,
+   "key": "lan-etal-2026-ema",
+   "title": "EMA: An Episodic Memory Agent for Efficient and Selective Memory",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "Long-MT-Bench+"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "5092"
+    },
+    {
+     "page": "5094"
+    },
+    {
+     "page": "5098"
+    }
+   ],
+   "notes": "Answers to LoCoMo questions (multi-hop, temporal, open-domain, single-hop; 5 conversations unseen by MemDecider) and Long-MT-Bench+ questions scored with F1 and BLEU against gold answers (ROUGE-L and EM also shown in the decision-threshold analysis); token cost also reported. No LLM judge, no human evaluation. Inclusion: memory agent for multi-turn dialogue consistency."
+  },
+  {
+   "idx": 9,
+   "key": "ye-etal-2026-memweaver",
+   "title": "MemWeaver: Weaving Hybrid Memories for Traceable Long-Horizon Agentic Reasoning",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LoCoMo"
+   ],
+   "human_eval": "Five NLP experts (Master's/PhD students) judged, for 25 sampled LoCoMo questions per category, whether the retrieved knowledge suffices to derive the ground-truth reference answer (binary helpful/not helpful)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "12934"
+    },
+    {
+     "page": "12936"
+    },
+    {
+     "page": "12953"
+    }
+   ],
+   "notes": "A: LoCoMo QA scored by token F1 and BLEU-1 vs ground-truth answers (EM, METEOR, ROUGE-L, SBERT and adversarial category in appendix). C: expert check of retrieved memory against dataset reference answers. Annotators are third parties reading questions/answers, not conversation participants."
+  },
+  {
+   "idx": 14,
+   "key": "li-etal-2026-timem",
+   "title": "TiMem: Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "F"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LongMemEval-S"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "21704"
+    },
+    {
+     "page": "21704"
+    },
+    {
+     "page": "21706"
+    }
+   ],
+   "notes": "A: QA accuracy via LLM-as-a-judge against gold answers (Mem0 judge prompt for LoCoMo; official LongMemEval-S judge template, whose >97% human agreement is cited from Wu et al., 2025, not re-measured). F: memory-manifold analysis (UMAP, silhouette/separation of memory embeddings by user group), a descriptive geometry measure with no gold. Also memory tokens and recall latency."
+  },
+  {
+   "idx": 19,
+   "key": "van-etal-2026-memorai",
+   "title": "MemORAI: Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LongMemEval-S",
+    "LoCoMo"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "28239"
+    },
+    {
+     "page": "28239"
+    },
+    {
+     "page": "28245"
+    }
+   ],
+   "notes": "C: Recall@3/5/10 at session and turn level against the benchmarks' annotated evidence. A: answers scored with F1, BLEU, ROUGE, BERTScore and a GPT-4o judge (prompt: does the response contain the reference answer)."
+  },
+  {
+   "idx": 23,
+   "key": "fu-etal-2026-enpmr",
+   "title": "ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "ENPMR-Bench"
+   ],
+   "human_eval": "Two annotators rated a random subset of responses on the same four dimensions as the GPT-4o judge (agreement reported as Cohen's kappa); recruited volunteers did binary validation of generated data (appropriateness, relevance, correctness)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "41914"
+    },
+    {
+     "page": "41915"
+    },
+    {
+     "page": "41915"
+    }
+   ],
+   "notes": "New benchmark built from PersonaHub personas with GPT-4o-generated user-AI histories and support dialogues (no real users). C: memory retrieval scored by Recall/Precision/nDCG against the creator-sampled golden memory; Memory Type Match Rate checks the selected memory type against the predefined need-to-memory mapping. B: GPT-4o judge (Fluency, Humanoid, Information, Empathy) plus human check."
+  },
+  {
+   "idx": 27,
+   "key": "shen-etal-2026-mem2actbench",
+   "title": "Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "Mem2ActBench"
+   ],
+   "human_eval": "Five expert annotators (advanced degrees in CL/CS/AI) verified benchmark construction (fact extraction, conflict resolution, memory dependency); they did not score systems",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "8177"
+    },
+    {
+     "page": "8175"
+    },
+    {
+     "page": "8178"
+    }
+   ],
+   "notes": "Borderline (incl=B), confirmed: the system must apply preferences/constraints the user stated in earlier user-assistant sessions; the remembered content is what the user said, so the 'agent memory for tools' exclusion does not apply even though the output is a tool call. Histories are synthesized from ToolACE/BFCL with OASST1 noise (no real users). A: tool-call parameters (user-stated values) scored by F1/BLEU-1/slot accuracy/Tool Accuracy against a gold invocation built from the memory chain. C: retriever analysis reports Recall@k against ground-truth memories (oracle condition). Tool selection accuracy is task-level. Hyphen in 'memory-based' falls at a line break in the PDF (word is hyphenated elsewhere in the paper)."
+  },
+  {
+   "idx": 31,
+   "key": "banerjee-etal-2026-apex",
+   "title": "APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LongMemEval",
+    "SealQA-Hard"
+   ],
+   "human_eval": "none described (ethics statement says the LLM judge supplemented human evaluation 'where appropriate', but no human evaluation is reported)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "16474"
+    },
+    {
+     "page": "16474"
+    },
+    {
+     "page": "16475"
+    }
+   ],
+   "notes": "A: LLM-as-a-judge scoring of answers against ground truth on LoCoMo and LongMemEval (SealQA-Hard is web search, not conversation). C: construction metrics (precision of extracted facts, schema coverage, entity resolution) on 500 random LoCoMo/LongMemEval turns, judged by GPT-5 (stored-memory content judged by an LLM; no separate gold list)."
+  },
+  {
+   "idx": 35,
+   "key": "shen-etal-2026-membuilder",
+   "title": "MemBuilder: Reinforcing LLMs for Long-Term Memory Construction via Attributed Dense Rewards",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LongMemEval",
+    "LoCoMo",
+    "PerLTQA"
+   ],
+   "human_eval": "Three CS graduate students checked 100 sampled synthetic QA pairs: whether the dominant stored memory type contains the information used for the correct answer (attribution proxy), and synthetic QA quality",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "27873"
+    },
+    {
+     "page": "27873"
+    },
+    {
+     "page": "27883"
+    }
+   ],
+   "notes": "A: QA accuracy with GPT-4.1 judge vs gold answers, answer model fixed to isolate memory construction; RL reward is likewise QA accuracy on Claude-generated questions. C: minor, the human attribution check of stored memory against correct answers (validates a training proxy). Hyphen in 'human-human' falls at a line break (word appears hyphenated elsewhere in the paper)."
+  },
+  {
+   "idx": 40,
+   "key": "wu-etal-2026-gam",
+   "title": "GAM: Hierarchical Graph-based Agentic Memory for LLM Agents",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LongDialQA"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "34653"
+    },
+    {
+     "page": "34653"
+    },
+    {
+     "page": "34653"
+    }
+   ],
+   "notes": "QA scored by F1 and BLEU-1 against gold answers (LoCoMo first four categories; LongDialQA multi-party TV-script dialogue). Appendix comparison with AriGraph also F1/BLEU-1. No judge, no human evaluation."
+  },
+  {
+   "idx": 45,
+   "key": "hu-etal-2026-evermemos",
+   "title": "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning",
+   "inclusion": "confirm",
+   "codes": [
+    "A"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "LongMemEval-S",
+    "PersonaMem-v2"
+   ],
+   "human_eval": "Prolific annotators (five per item, 25 Q&A pairs each from LoCoMo and LongMemEval) judged answer correctness against the reference answer to validate the LLM judge",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "45840"
+    },
+    {
+     "page": "45841"
+    },
+    {
+     "page": "45847"
+    }
+   ],
+   "notes": "A: QA accuracy by an LLM-judge panel (GPT-4o-mini plus two auxiliary judges) against reference answers; PersonaMem-v2 profile ablation reported as accuracy. Memory-augmented chat (profile, foresight) is shown only in qualitative case studies, not scored."
+  },
+  {
+   "idx": 49,
+   "key": "liu-etal-2026-semantic",
+   "title": "Semantic XPath: Structured Agentic Memory Access for Conversational AI",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LoCoMo",
+    "curated travel-itinerary / to-do-list / meal-kit domains"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "290"
+    },
+    {
+     "page": "290"
+    },
+    {
+     "page": "290"
+    }
+   ],
+   "notes": "Demo paper. Confirmed with caution: three of four test domains are structured task-state memory (itineraries, to-do lists, meal plans with revision history across turns), which leans toward task memory, but the system is a conversational memory module and is also evaluated on LoCoMo. C: pass rate requires retrieving the correct structured data and producing output satisfying ground-truth constraints (has a task component). A: LoCoMo LLM-judge accuracy vs reference answers. Quote note: 'LOCOMO' is set in small caps in the PDF; the hyphen in 'ground-truth' falls at a line break and the word does not appear elsewhere, so the source could read 'groundtruth'."
+  },
+  {
+   "idx": 54,
+   "key": "ong-etal-2025-towards",
+   "title": "Towards Lifelong Dialogue Agents via Timeline-based Memory Management",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "MSC",
+    "Conversation Chronicles (CC)",
+    "TeaBag (TeaFarm)"
+   ],
+   "human_eval": "Amazon Mechanical Turk workers (3 per item, majority vote, 100 turns) judged memory linking, timeline refinement, whether responses entail/contradict the past, head-to-head helpfulness of retrieved memories, and conversation-to-memory summaries; authors manually measured retrieval accuracy on 50 instances",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "8636"
+    },
+    {
+     "page": "8636"
+    },
+    {
+     "page": "8638"
+    }
+   ],
+   "notes": "B: response generation vs reference (BLEU-4, ROUGE-L, Mauve, BERTScore), G-Eval (GPT-4), AMT entailment/contradiction judgments. C: manually identified golden memories for 50 contexts (retrieval accuracy), plus human/G-Eval head-to-head on retrieved-memory helpfulness and human checks of memory summaries. A: TeaFarm counterfactual questions (GPT-4 generated from session summaries, with correct answers) scored by success rate. MSC/CC are crowdsourced/LLM-generated; no first-party reports."
+  },
+  {
+   "idx": 60,
+   "key": "zhang-etal-2025-bridging",
+   "title": "Bridging Intuitive Associations and Deliberate Recall: Empowering LLM Personal Assistant with Graph-Structured Long-term Memory",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "C"
+   ],
+   "benchmarks": [
+    "LongMemEval-S",
+    "LongMemEval-M",
+    "LoCoMo"
+   ],
+   "human_eval": "none",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "17539"
+    },
+    {
+     "page": "17539"
+    },
+    {
+     "page": "17539"
+    }
+   ],
+   "notes": "C: retrieval recall@5/10 and nDCG@5/10 against gold evidence. A: QA correctness by GPT-4o-mini judge given the correct answer. Graph-construction dependency analysis uses the same metrics."
+  },
+  {
+   "idx": 64,
+   "key": "wang-etal-2025-annaagent",
+   "title": "AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation",
+   "inclusion": "confirm",
+   "codes": [
+    "B"
+   ],
+   "benchmarks": [
+    "D4",
+    "DAIC-WOZ"
+   ],
+   "human_eval": "none for memory (three psychology experts only reviewed complaint-chain training data)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "23227"
+    },
+    {
+     "page": "23229"
+    },
+    {
+     "page": "23229"
+    }
+   ],
+   "notes": "Borderline (incl=B), confirmed: the AI simulates a counseling seeker and must remember earlier sessions with its interlocutor (the counselor, a person in the intended counselor-training use; LLM counselors in experiments); previous sessions are seeded from real D4/DAIC-WOZ records plus GPT-4o-mini reports. Only memory evaluation: a long-term-memory ablation where the simulated seeker answers seven preset questions about the previous session and GPT-4o (G-Eval) scores 'cognitive accuracy' 1-5 (Figure 5). Coded B because no gold answers are stated (an LLM judges recall quality); could be read as A. Main metrics (BERTScore realism vs real seekers' utterances, G-Eval persona fidelity) do not score memory. Not E: the judge is GPT-4o, not a conversation participant."
+  },
+  {
+   "idx": 68,
+   "key": "ke-etal-2025-flexibly",
+   "title": "Flexibly Utilize Memory for Long-Term Conversation via a Fragment-then-Compose Framework",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "F"
+   ],
+   "benchmarks": [
+    "Conversation Chronicles (CC)",
+    "MSC",
+    "GC",
+    "LongMemEval (LongMemEval_M)"
+   ],
+   "human_eval": "Five in-house annotators did head-to-head comparisons of 50 randomly selected ChatGPT generations (perceived memory utilization and overall response quality)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "21123"
+    },
+    {
+     "page": "21123"
+    },
+    {
+     "page": "21124"
+    }
+   ],
+   "notes": "B: GPT-4o G-Eval (Engagingness, Humanness, Memorability 1-5) and the human head-to-head; also BLEU/ROUGE-L/BERTScore vs reference responses. F: the paper's own memory metrics, MU (BERT similarity of query to retrieved memory), MC (BERT similarity of all utterances to all memories) and M1 (their harmonic mean), with no gold items. LongMemEval is used for response generation, not its QA."
+  },
+  {
+   "idx": 72,
+   "key": "sumida-etal-2025-enhancing",
+   "title": "Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting",
+   "inclusion": "confirm",
+   "codes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "benchmarks": [
+    "LUFY-Dataset (new; human-chatbot conversations)",
+    "CANDOR (weight fitting only)"
+   ],
+   "human_eval": "17 participants each held ten 30-minute text chats with the chatbots over 4 days and wrote three QA pairs per session; third-party annotators rated personalization, flow and overall experience; at least three annotators labeled utterance importance; one annotator checked retrieved memories against ground-truth answers",
+   "E_candidate": true,
+   "E_note": "After each session, each participant (the human in the conversation) wrote three question-and-answer pairs about that conversation containing information they wanted the chatbot to remember about them. After each session (and after forgetting), every system was asked all accumulated questions and GPT-4o scored its answers against the participant's own label answer, reported as precision/recall/F1 (Table 11; Appendix F; judge prompt in Appendix C.1). Caveats: questions had to be binary-gradable and stable over time, and participants revised ones that were not, so the first-party signal is limited to fact-style 'want this kept' items. The importance labels used for weight fitting and the 'memory matching rate' (Table 12) come from annotators, not from the participants.",
+   "evidence": [
+    {
+     "page": "87"
+    },
+    {
+     "page": "87"
+    },
+    {
+     "page": "91"
+    }
+   ],
+   "notes": "Dialogue & Discourse journal article (printed pages 74-110). Also coded A (form of the QA test), C (memory matching rate vs annotator importance labels; Appendix A/D retrieval of the correct memory for participant QA, checked by one annotator), B (third-party ratings of personalization/flow/overall; authors chose third-party raters over user self-ratings to avoid bias and fatigue), D (sentiment of user utterances; GPT-4o rating of user engagement)."
+  },
+  {
+   "idx": 76,
+   "key": "kang-etal-2025-generation",
+   "title": "Generation-Based and Emotion-Reflected Memory Update: Creating the KEEM Dataset for Better Long-Term Conversation",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C",
+    "F"
+   ],
+   "benchmarks": [
+    "KEEM (built from Korean MSC / KMSC)",
+    "CareCallmem (comparison)"
+   ],
+   "human_eval": "Five native speakers familiar with chatbot systems (not informed of the dataset development) rated emotion/cause reflection and memory-update accuracy (0-2) and pairwise preference vs CareCallmem; manual checks for hallucination and generation errors",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "9264"
+    },
+    {
+     "page": "9263"
+    },
+    {
+     "page": "9267"
+    }
+   ],
+   "notes": "C: stored/updated memory judged by human evaluators and ChatGPT against the dialogues (emotion and cause reflection, update accuracy, KEEM vs CareCallmem voting). F: automatic keyword recall of memory vs TextRank/TF-IDF keywords from the full dialogue, ChatGPT NLI conflict rate between memory sentences, perplexity on a designed fifth session. B: ChatGPT 4.0 votes for the most appropriate response generated with each memory. KMSC is crowdsourced; no participant reports."
+  },
+  {
+   "idx": 81,
+   "key": "kim-etal-2025-share",
+   "title": "SHARE: Shared Memory-Aware Open-Domain Long-Term Dialogue Dataset Constructed from Movie Script",
+   "inclusion": "confirm",
+   "codes": [
+    "B"
+   ],
+   "benchmarks": [
+    "SHARE (from movie scripts)"
+   ],
+   "human_eval": "Amazon Mechanical Turk workers (native English speakers, HIT approval >80%), 20 annotators per conversation on 25 conversations; closeness, engagingness, coherence",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "14479"
+    },
+    {
+     "page": "14485"
+    },
+    {
+     "page": "14478"
+    }
+   ],
+   "notes": "Long-term dialogue dataset and EPISODE memory framework; the model generates both speakers (movie-script characters), not a user conversation, but it is a cross-session dialogue memory method like MSC-based work. B: GPT-4o evaluation (coherence, engagingness, closeness, reflectiveness of memory; episode-level consistency) and AMT ratings; automatic BLEU/ROUGE/BERTScore/Distinct/PPL vs reference responses. Memory selection is not scored against annotated memory (gold memory only used as a generation condition)."
+  },
+  {
+   "idx": 86,
+   "key": "xie-etal-2025-ipet",
+   "title": "iPET: An Interactive Emotional Companion Dialogue System with LLM-Powered Virtual Pet World Simulation",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "D"
+   ],
+   "benchmarks": [],
+   "human_eval": "none rated; a seven-day online A/B test with product users measured dialogue engagement rate and usage duration",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "418"
+    },
+    {
+     "page": "421"
+    },
+    {
+     "page": "421"
+    }
+   ],
+   "notes": "Borderline (incl=B), confirmed: deployed companion agent with a memory module that summarizes user information from dialogues into permanent/long-term/short-term memories reused across sessions. Memory is never checked against content: B = GPT-4o rates generated pet schedules (realism, consistency, richness, attraction), including normal vs memory mode; D = online A/B test of iPET (memory + world simulation) vs a dialogue-only system. Also a descriptive plot of memory entries vs dialogue turns."
+  },
+  {
+   "idx": 94,
+   "key": "jang-etal-2024-mixed",
+   "title": "Mixed-Session Conversation with Egocentric Memory",
+   "inclusion": "confirm",
+   "codes": [
+    "B",
+    "C"
+   ],
+   "benchmarks": [
+    "MiSC (new)"
+   ],
+   "human_eval": "20 annotators from a professional agency, in three independent groups: MiSC dialogue consistency/coherence (1-5), pass/fail of egocentric memory summarization, linking and tagging, and EMMA humanness/engagingness/memorability (1-5)",
+   "E_candidate": false,
+   "E_note": "",
+   "evidence": [
+    {
+     "page": "11791"
+    },
+    {
+     "page": "11792"
+    },
+    {
+     "page": "11792"
+    }
+   ],
+   "notes": "C: annotators judge stored egocentric memory (summaries, links, tags) against the conversation, pass/fail. B: annotator ratings of EMMA episodes, where memorability means using memory that accurately reflects previous interactions. EMMA is evaluated on episodes generated by four EMMA instances talking to each other; human live chats appear only as qualitative examples."
+  }
+ ]
+}

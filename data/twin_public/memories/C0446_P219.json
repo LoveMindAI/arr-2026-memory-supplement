@@ -1,0 +1,23 @@
+{
+ "call": "C0446",
+ "person": "P219",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 25
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Kayleigh going off about the Bridgwater carnival, people moaning about the roads can do one, it's one night",
+  "reason": "She'd been pretty flat till then, then suddenly proper proud of it, takes her daughter every year. Nice to see her perk up after a twelve hour shift :)",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

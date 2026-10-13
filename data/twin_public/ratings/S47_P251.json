@@ -1,0 +1,57 @@
+{
+ "session": "S47",
+ "rater": "P251",
+ "ok": true,
+ "ratings": {
+  "P246": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She seems very sweet and creative\u2014I spotted the library books and the canal drawing straight away, so I think we'd have plenty to talk about."
+  },
+  "P247": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "A bit serious-looking, but he reminds me of the tradespeople I used to work with in the shop\u2014practical, no-nonsense, and he has a Moka pot, which I respect."
+  },
+  "P248": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She looks very kind and incredibly organised with her calendar and the school blazer\u2014the sort of person who'd be very reliable in a group task."
+  },
+  "P249": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She has a lovely, open face and her home looks very tastefully put together with that mustard throw and the beach print."
+  },
+  "P250": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks very neat and proper, and those lever-arch files suggest she's quite meticulous with her paperwork, which I can certainly appreciate."
+  }
+ }
+}

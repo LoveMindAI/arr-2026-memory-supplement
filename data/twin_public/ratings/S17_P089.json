@@ -1,0 +1,57 @@
+{
+ "session": "S17",
+ "rater": "P089",
+ "ok": true,
+ "ratings": {
+  "P084": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "he looks very serious and tidy.. maybe an engineer.. someone you can trust for sure"
+  },
+  "P085": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "oh she has a lovely big smile.. reminds me of the girls at the hospital.. very chatty i think :)"
+  },
+  "P086": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "quiet girl but very sweet.. she has a nice plant and her dog looks so comfy.. very kind face"
+  },
+  "P087": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a hard worker.. maybe a bit tired like my tadeusz after his shift.. socks on radiator is funny"
+  },
+  "P088": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "reminds me of my son pawel when he was younger.. needs to tidy his room.. a bit of a cheeky one no?"
+  }
+ }
+}

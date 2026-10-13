@@ -1,0 +1,23 @@
+{
+ "call": "C0512",
+ "person": "P254",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "right at the end he goes apply before you hand in, like proper dad advice lol, i just laughed and said okay okay",
+  "reason": "cos its literally what my parents keep saying and ngl it kind of got to me a bit",
+  "timing": 97
+ },
+ "requires_av": false,
+ "av_event": null
+}

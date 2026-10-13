@@ -1,0 +1,23 @@
+{
+ "call": "C0542",
+ "person": "P275",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked about uni mostly, and how SuDS ponds tie in with wildlife. Found out she's first in her family too.",
+  "reason": "It was the bit of the call that actually connected to my dissertation. Easier to talk about.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,25 @@
+{
+ "call": "C0034",
+ "person": "P015",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 13,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he looked down at the table and sighed, smile went for a sec... about his dad",
+  "reason": "reminded me of me worrying about Steve",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0034",
+  "turn": 22,
+  "line_text": "Yeah, that's exactly what my dad says. Word for word, pretty much. I do worry about him, I'll be honest.",
+  "who": "Callum",
+  "what": "Callum glances down at the table and lets out a slow breath, pausing for about a second before saying 'I do worry about him', his half-smile dropping briefly before it comes back."
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S52",
+ "rater": "P272",
+ "ok": true,
+ "ratings": {
+  "P271": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like a nice student girl, very quiet and polite"
+  },
+  "P273": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems very friendly and i like the football mug"
+  },
+  "P274": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "she looks lovely, reminds me of my friends from work"
+  },
+  "P275": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "a bit serious and quiet, maybe doesnt want to be here"
+  },
+  "P276": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 4,
+   "comp": 4,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks chatty like me but those nails are a bit much"
+  }
+ }
+}

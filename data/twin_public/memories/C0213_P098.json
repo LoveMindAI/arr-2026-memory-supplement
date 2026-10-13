@@ -1,0 +1,23 @@
+{
+ "call": "C0213",
+ "person": "P098",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "him saying his boot is full of turkish snacks and pistachio cream samples lol",
+  "reason": "didnt know he was commercial director at a food importer, explains the box behind him",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0088",
+ "person": "P044",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i asked about my mot being over and he said your not insured properly if its out, book it this week. he fixes vans at a depot so he'd know",
+  "reason": "its been bugging me for weeks and he just told me straight like kerry does. proper useful actually, ill have to ring the garage tomorrow before i forget again",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

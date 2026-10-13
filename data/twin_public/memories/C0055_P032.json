@@ -1,0 +1,23 @@
+{
+ "call": "C0055",
+ "person": "P032",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 4,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We found much in common.",
+  "reason": "We are similar age and have similar life. It was easy to talk, like with a neighbour.",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

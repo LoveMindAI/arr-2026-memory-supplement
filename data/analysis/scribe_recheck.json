@@ -1,0 +1,271 @@
+{
+ "vocal: whisper": {
+  "n": 58,
+  "all_three_same_kind": 0.172,
+  "all_three_agree_fully": 0.0,
+  "locators_placing_it": {
+   "0": 7,
+   "1": 14,
+   "2": 27,
+   "3": 10
+  },
+  "median_gap_to_own_timing": 16.1,
+  "top_kind_patterns": [
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "not_in_transcript"
+    ],
+    11
+   ],
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "in_conversation"
+    ],
+    10
+   ],
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "general"
+    ],
+    8
+   ],
+   [
+    [
+     "in_conversation",
+     "not_in_transcript",
+     "not_in_transcript"
+    ],
+    6
+   ],
+   [
+    [
+     "general",
+     "not_in_transcript",
+     "general"
+    ],
+    5
+   ]
+  ]
+ },
+ "vocal: whisper rerun (retest)": {
+  "n": 58,
+  "all_three_same_kind": 0.293,
+  "all_three_agree_fully": 0.207,
+  "locators_placing_it": {
+   "0": 7,
+   "1": 15,
+   "2": 19,
+   "3": 17
+  },
+  "median_gap_to_own_timing": 13.3,
+  "top_kind_patterns": [
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "in_conversation"
+    ],
+    17
+   ],
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "not_in_transcript"
+    ],
+    8
+   ],
+   [
+    [
+     "general",
+     "not_in_transcript",
+     "general"
+    ],
+    5
+   ],
+   [
+    [
+     "in_conversation",
+     "not_in_transcript",
+     "in_conversation"
+    ],
+    5
+   ],
+   [
+    [
+     "in_conversation",
+     "not_in_transcript",
+     "not_in_transcript"
+    ],
+    5
+   ]
+  ]
+ },
+ "vocal: scribe": {
+  "n": 58,
+  "all_three_same_kind": 0.397,
+  "all_three_agree_fully": 0.328,
+  "locators_placing_it": {
+   "0": 10,
+   "1": 9,
+   "2": 20,
+   "3": 19
+  },
+  "median_gap_to_own_timing": 14.4,
+  "top_kind_patterns": [
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "in_conversation"
+    ],
+    19
+   ],
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "not_in_transcript"
+    ],
+    10
+   ],
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "general"
+    ],
+    6
+   ],
+   [
+    [
+     "general",
+     "not_in_transcript",
+     "general"
+    ],
+    2
+   ],
+   [
+    [
+     "general",
+     "in_conversation",
+     "general"
+    ],
+    2
+   ]
+  ]
+ },
+ "non-vocal control: whisper": {
+  "n": 39,
+  "all_three_same_kind": 0.308,
+  "all_three_agree_fully": 0.0,
+  "locators_placing_it": {
+   "1": 8,
+   "2": 19,
+   "3": 12
+  },
+  "median_gap_to_own_timing": 23.5,
+  "top_kind_patterns": [
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "general"
+    ],
+    16
+   ],
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "in_conversation"
+    ],
+    12
+   ],
+   [
+    [
+     "in_conversation",
+     "general",
+     "general"
+    ],
+    6
+   ],
+   [
+    [
+     "in_conversation",
+     "general",
+     "in_conversation"
+    ],
+    2
+   ],
+   [
+    [
+     "general",
+     "in_conversation",
+     "in_conversation"
+    ],
+    1
+   ]
+  ]
+ },
+ "non-vocal control: scribe": {
+  "n": 39,
+  "all_three_same_kind": 0.41,
+  "all_three_agree_fully": 0.256,
+  "locators_placing_it": {
+   "0": 2,
+   "1": 6,
+   "2": 17,
+   "3": 14
+  },
+  "median_gap_to_own_timing": 21.5,
+  "top_kind_patterns": [
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "in_conversation"
+    ],
+    14
+   ],
+   [
+    [
+     "in_conversation",
+     "in_conversation",
+     "general"
+    ],
+    13
+   ],
+   [
+    [
+     "in_conversation",
+     "general",
+     "general"
+    ],
+    5
+   ],
+   [
+    [
+     "general",
+     "in_conversation",
+     "in_conversation"
+    ],
+    2
+   ],
+   [
+    [
+     "general",
+     "general",
+     "general"
+    ],
+    2
+   ]
+  ]
+ }
+}

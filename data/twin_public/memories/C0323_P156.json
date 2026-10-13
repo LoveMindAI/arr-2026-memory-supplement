@@ -1,0 +1,23 @@
+{
+ "call": "C0323",
+ "person": "P156",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto being somewhere quiet with nobody talking at you, i properly agreed",
+  "reason": "its what i actually want most days tbh, didnt expect that",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

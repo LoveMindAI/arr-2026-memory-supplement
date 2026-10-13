@@ -1,0 +1,57 @@
+{
+ "session": "S35",
+ "rater": "P185",
+ "ok": true,
+ "ratings": {
+  "P184": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "erm he looks really nice actually, reminds me of my dad sort of"
+  },
+  "P186": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks like he plays a lot of games tbh, probably quiet like me"
+  },
+  "P187": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems quite sensible and organized with his office and that, yeah"
+  },
+  "P188": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "i think she looks a bit tired but nice, maybe a bit shy maybe"
+  },
+  "P189": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "reminds me of some of the ladies at church, seems very kind i think"
+  }
+ }
+}

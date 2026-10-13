@@ -1,0 +1,23 @@
+{
+ "call": "C0353",
+ "person": "P170",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he said watch the apr not the monthly on car finance, then admitted his own loans a bit much",
+  "reason": "got a car loan myself tbh",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

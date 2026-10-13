@@ -1,0 +1,23 @@
+{
+ "call": "C0506",
+ "person": "P249",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got onto what we do on days off and just kept finding more and more stuff in common, it was proper funny tbh haha",
+  "reason": "felt like chatting to my twin lol",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0183",
+ "person": "P089",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 39,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "near the end we were talking about pierogi and pasties and how you close the dough, side or top.. we got very serious about pastry and i was showing with my hands the little moon shape. we both laughed a lot :)",
+  "reason": "food is my favourite thing to talk about, and it was funny and silly :)",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

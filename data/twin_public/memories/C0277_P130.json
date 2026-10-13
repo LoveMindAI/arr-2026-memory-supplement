@@ -1,0 +1,23 @@
+{
+ "call": "C0277",
+ "person": "P130",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 25
+ },
+ "ok": true,
+ "answers": {
+  "moment": "us two having a laugh about the sparky telling me off over my summerhouse",
+  "reason": "cos it was a bit of a shared joke tbh, we'd both had a chat with him so it felt like proper banter between us lol",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

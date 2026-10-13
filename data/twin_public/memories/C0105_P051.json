@@ -1,0 +1,23 @@
+{
+ "call": "C0105",
+ "person": "P051",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "mostly just the general feel of it, it was easy and quite warm, i was probably a bit bossy tbh and she didnt seem to mind, ended up saying more than i meant to",
+  "reason": "it felt easier than i expected",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

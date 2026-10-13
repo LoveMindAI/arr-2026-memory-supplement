@@ -1,0 +1,57 @@
+{
+ "session": "S47",
+ "rater": "P250",
+ "ok": true,
+ "ratings": {
+  "P246": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks a bit shy but kind, and I like her cat."
+  },
+  "P247": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Reminds me of a builder I know. Seems quite direct and practical."
+  },
+  "P248": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "A sensible lady who probably works hard and keeps an organized house."
+  },
+  "P249": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Very friendly and looks around my age. We have similar taste in decor."
+  },
+  "P251": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She looks creative and like she would be good to talk to."
+  }
+ }
+}

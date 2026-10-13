@@ -1,0 +1,23 @@
+{
+ "call": "C0285",
+ "person": "P137",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked about books and what we were both reading.",
+  "reason": "It felt easy and natural, like a conversation at my book group.",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

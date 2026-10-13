@@ -1,0 +1,23 @@
+{
+ "call": "C0398",
+ "person": "P195",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 33,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about studying part time in the evenings, how knackering it is after work, and then sort of onto my marks and me always thinking im not clever enough lol",
+  "reason": "because its something i really worry about and it was nice talking it through!",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

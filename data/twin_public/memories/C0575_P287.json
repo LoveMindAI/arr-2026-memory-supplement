@@ -1,0 +1,23 @@
+{
+ "call": "C0575",
+ "person": "P287",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 25,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When she asked me straight out if the job was hard on your back, I was honest then said sorry, and she said no its better you say it",
+  "reason": "I was worried Id put her off but she didnt mind",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

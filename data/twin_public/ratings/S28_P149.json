@@ -1,0 +1,57 @@
+{
+ "session": "S28",
+ "rater": "P149",
+ "ok": true,
+ "ratings": {
+  "P147": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks normal enough, football fan so thats alright"
+  },
+  "P148": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems sensible and has a dog too"
+  },
+  "P150": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "bit high energy but seems decent"
+  },
+  "P151": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks a bit tired, probably just busy like me"
+  },
+  "P152": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "looks like a student, probably not got much in common"
+  }
+ }
+}

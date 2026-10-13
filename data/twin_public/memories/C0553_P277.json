@@ -1,0 +1,23 @@
+{
+ "call": "C0553",
+ "person": "P277",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 34
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got on to holidays and it turned out we both go back to the same place every year. she has a caravan in cornwall near St Ives",
+  "reason": "Just nice that we had that in common really, creatures of habit the pair of us. made me think of norfolk and our two moaning in the back of the car years ago...",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

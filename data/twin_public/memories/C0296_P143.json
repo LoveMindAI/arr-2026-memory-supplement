@@ -1,0 +1,23 @@
+{
+ "call": "C0296",
+ "person": "P143",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked about parents getting older and being so far away...",
+  "reason": "It was the moment it stopped being small talk and felt real... I worry about my dad a lot, so it stayed with me.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

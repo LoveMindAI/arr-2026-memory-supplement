@@ -1,0 +1,23 @@
+{
+ "call": "C0474",
+ "person": "P234",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 34,
+  "reason": 38
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Just the general feel of it really, I was knackered going in but we ended up having a proper chat about school and friendships and stuff, and we were both laughing a bit by the end. Easy, you know",
+  "reason": "Probably because I wasnt expecting much from the last one tbh, and we got onto stuff that actually keeps me up at night. It felt less like small talk and more like two mums comparing notes, which was nice",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

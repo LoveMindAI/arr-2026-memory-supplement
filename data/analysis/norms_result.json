@@ -1,0 +1,510 @@
+{
+ "population": {
+  "claude-haiku-5.5": {
+   "details": {
+    "tvd_none": 0.7,
+    "tvd_norms": 0.544
+   },
+   "feelings": {
+    "tvd_none": 0.546,
+    "tvd_norms": 0.117
+   },
+   "intensity": {
+    "tvd_none": 0.406,
+    "tvd_norms": 0.061
+   },
+   "extent": {
+    "tvd_none": 0.284,
+    "tvd_norms": 0.318
+   },
+   "new_info": {
+    "tvd_none": 0.199,
+    "tvd_norms": 0.285
+   },
+   "moment_text": {
+    "tvd_none": 0.435,
+    "tvd_norms": 0.162
+   },
+   "shared_by": {
+    "tvd_none": 0.402,
+    "tvd_norms": 0.236
+   },
+   "matters_for": {
+    "tvd_none": 0.611,
+    "tvd_norms": 0.053
+   },
+   "remembered": {
+    "tvd_none": 0.875,
+    "tvd_norms": 0.616
+   },
+   "topic": {
+    "tvd_none": 0.301,
+    "tvd_norms": 0.208
+   },
+   "bigger_meaning": {
+    "tvd_none": 0.029,
+    "tvd_norms": 0.081
+   },
+   "reason.first": {
+    "tvd_none": 0.309,
+    "tvd_norms": 0.181
+   },
+   "personal_kinds": {
+    "tvd_none": 0.341,
+    "tvd_norms": 0.251
+   }
+  },
+  "gpt-6-luna": {
+   "details": {
+    "tvd_none": 0.732,
+    "tvd_norms": 0.575
+   },
+   "feelings": {
+    "tvd_none": 0.525,
+    "tvd_norms": 0.124
+   },
+   "intensity": {
+    "tvd_none": 0.45,
+    "tvd_norms": 0.053
+   },
+   "extent": {
+    "tvd_none": 0.284,
+    "tvd_norms": 0.275
+   },
+   "new_info": {
+    "tvd_none": 0.337,
+    "tvd_norms": 0.342
+   },
+   "moment_text": {
+    "tvd_none": 0.479,
+    "tvd_norms": 0.122
+   },
+   "shared_by": {
+    "tvd_none": 0.388,
+    "tvd_norms": 0.189
+   },
+   "matters_for": {
+    "tvd_none": 0.646,
+    "tvd_norms": 0.013
+   },
+   "remembered": {
+    "tvd_none": 0.916,
+    "tvd_norms": 0.571
+   },
+   "topic": {
+    "tvd_none": 0.338,
+    "tvd_norms": 0.221
+   },
+   "bigger_meaning": {
+    "tvd_none": 0.246,
+    "tvd_norms": 0.08
+   },
+   "reason.first": {
+    "tvd_none": 0.322,
+    "tvd_norms": 0.166
+   },
+   "personal_kinds": {
+    "tvd_none": 0.449,
+    "tvd_norms": 0.268
+   }
+  }
+ },
+ "person": {
+  "claude-haiku-5.5": {
+   "appraisal.other_behavior": {
+    "norms": 0.752,
+    "none": 0.771,
+    "diff": [
+     -0.018,
+     -0.03,
+     -0.006,
+     132
+    ]
+   },
+   "appraisal.own_behavior": {
+    "norms": 0.746,
+    "none": 0.702,
+    "diff": [
+     0.045,
+     0.027,
+     0.063,
+     130
+    ]
+   },
+   "appraisal.pleasant": {
+    "norms": 0.763,
+    "none": 0.779,
+    "diff": [
+     -0.017,
+     -0.035,
+     0.002,
+     139
+    ]
+   },
+   "appraisal.unpleasant": {
+    "norms": 0.877,
+    "none": 0.879,
+    "diff": [
+     -0.002,
+     -0.01,
+     0.006,
+     143
+    ]
+   },
+   "bigger_meaning": {
+    "norms": 0.876,
+    "none": 0.794,
+    "diff": [
+     0.082,
+     0.066,
+     0.099,
+     147
+    ]
+   },
+   "details": {
+    "norms": 0.606,
+    "none": 0.582,
+    "diff": [
+     0.025,
+     0.017,
+     0.033,
+     147
+    ]
+   },
+   "extent": {
+    "norms": 0.545,
+    "none": 0.531,
+    "diff": [
+     0.013,
+     -0.003,
+     0.031,
+     147
+    ]
+   },
+   "feelings": {
+    "norms": 0.433,
+    "none": 0.236,
+    "diff": [
+     0.197,
+     0.162,
+     0.23,
+     147
+    ]
+   },
+   "intensity": {
+    "norms": 0.802,
+    "none": 0.709,
+    "diff": [
+     0.093,
+     0.074,
+     0.112,
+     147
+    ]
+   },
+   "matters_for": {
+    "norms": 0.595,
+    "none": 0.302,
+    "diff": [
+     0.292,
+     0.242,
+     0.344,
+     147
+    ]
+   },
+   "moment_text": {
+    "norms": 0.685,
+    "none": 0.392,
+    "diff": [
+     0.293,
+     0.247,
+     0.336,
+     147
+    ]
+   },
+   "new_info": {
+    "norms": 0.477,
+    "none": 0.477,
+    "diff": [
+     0.001,
+     -0.021,
+     0.024,
+     147
+    ]
+   },
+   "personal_kinds": {
+    "norms": 0.478,
+    "none": 0.416,
+    "diff": [
+     0.062,
+     0.045,
+     0.079,
+     147
+    ]
+   },
+   "reason.first": {
+    "norms": 0.313,
+    "none": 0.292,
+    "diff": [
+     0.021,
+     -0.003,
+     0.044,
+     147
+    ]
+   },
+   "reason.memo": {
+    "norms": 0.187,
+    "none": 0.187,
+    "diff": [
+     0.001,
+     -0.013,
+     0.013,
+     147
+    ]
+   },
+   "remembered": {
+    "norms": 0.304,
+    "none": 0.282,
+    "diff": [
+     0.022,
+     0.007,
+     0.035,
+     147
+    ]
+   },
+   "shared_by": {
+    "norms": 0.394,
+    "none": 0.325,
+    "diff": [
+     0.068,
+     0.047,
+     0.09,
+     147
+    ]
+   },
+   "topic": {
+    "norms": 0.404,
+    "none": 0.369,
+    "diff": [
+     0.034,
+     0.017,
+     0.052,
+     147
+    ]
+   }
+  },
+  "gpt-6-luna": {
+   "appraisal.other_behavior": {
+    "norms": 0.745,
+    "none": 0.779,
+    "diff": [
+     -0.034,
+     -0.046,
+     -0.021,
+     133
+    ]
+   },
+   "appraisal.own_behavior": {
+    "norms": 0.672,
+    "none": 0.62,
+    "diff": [
+     0.052,
+     0.029,
+     0.076,
+     134
+    ]
+   },
+   "appraisal.pleasant": {
+    "norms": 0.721,
+    "none": 0.698,
+    "diff": [
+     0.022,
+     -0.003,
+     0.047,
+     138
+    ]
+   },
+   "appraisal.unpleasant": {
+    "norms": 0.858,
+    "none": 0.849,
+    "diff": [
+     0.009,
+     -0.002,
+     0.02,
+     138
+    ]
+   },
+   "bigger_meaning": {
+    "norms": 0.808,
+    "none": 0.578,
+    "diff": [
+     0.23,
+     0.2,
+     0.26,
+     147
+    ]
+   },
+   "details": {
+    "norms": 0.54,
+    "none": 0.513,
+    "diff": [
+     0.027,
+     0.017,
+     0.036,
+     147
+    ]
+   },
+   "extent": {
+    "norms": 0.498,
+    "none": 0.492,
+    "diff": [
+     0.006,
+     -0.01,
+     0.022,
+     147
+    ]
+   },
+   "feelings": {
+    "norms": 0.368,
+    "none": 0.21,
+    "diff": [
+     0.158,
+     0.124,
+     0.192,
+     147
+    ]
+   },
+   "intensity": {
+    "norms": 0.799,
+    "none": 0.702,
+    "diff": [
+     0.097,
+     0.078,
+     0.117,
+     147
+    ]
+   },
+   "matters_for": {
+    "norms": 0.717,
+    "none": 0.289,
+    "diff": [
+     0.428,
+     0.371,
+     0.481,
+     147
+    ]
+   },
+   "moment_text": {
+    "norms": 0.614,
+    "none": 0.37,
+    "diff": [
+     0.244,
+     0.185,
+     0.297,
+     147
+    ]
+   },
+   "new_info": {
+    "norms": 0.502,
+    "none": 0.502,
+    "diff": [
+     0.0,
+     -0.015,
+     0.015,
+     147
+    ]
+   },
+   "personal_kinds": {
+    "norms": 0.465,
+    "none": 0.392,
+    "diff": [
+     0.073,
+     0.056,
+     0.091,
+     147
+    ]
+   },
+   "reason.first": {
+    "norms": 0.329,
+    "none": 0.323,
+    "diff": [
+     0.007,
+     -0.016,
+     0.028,
+     147
+    ]
+   },
+   "reason.memo": {
+    "norms": 0.191,
+    "none": 0.191,
+    "diff": [
+     0.0,
+     -0.012,
+     0.013,
+     147
+    ]
+   },
+   "remembered": {
+    "norms": 0.313,
+    "none": 0.309,
+    "diff": [
+     0.004,
+     -0.012,
+     0.02,
+     147
+    ]
+   },
+   "shared_by": {
+    "norms": 0.376,
+    "none": 0.317,
+    "diff": [
+     0.059,
+     0.033,
+     0.086,
+     147
+    ]
+   },
+   "topic": {
+    "norms": 0.364,
+    "none": 0.331,
+    "diff": [
+     0.032,
+     0.011,
+     0.053,
+     147
+    ]
+   }
+  }
+ },
+ "judges": {
+  "similarity": {
+   "diff": 0.003,
+   "lo": -0.011,
+   "hi": 0.017,
+   "n": 2717
+  },
+  "same_focus": {
+   "diff": 0.022,
+   "lo": -0.001,
+   "hi": 0.046,
+   "n": 2717
+  },
+  "same_reason": {
+   "diff": -0.102,
+   "lo": -0.129,
+   "hi": -0.074,
+   "n": 2715
+  },
+  "event_match": {
+   "diff": -0.001,
+   "lo": -0.02,
+   "hi": 0.019,
+   "n": 2717
+  },
+  "topic_match": {
+   "diff": -0.014,
+   "lo": -0.032,
+   "hi": 0.006,
+   "n": 2716
+  }
+ }
+}

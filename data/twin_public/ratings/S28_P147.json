@@ -1,0 +1,57 @@
+{
+ "session": "S28",
+ "rater": "P147",
+ "ok": true,
+ "ratings": {
+  "P148": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks dead friendly, probably easy to talk to like"
+  },
+  "P149": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks a bit tired, like he's just finished a long shift er fair enough"
+  },
+  "P150": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems like a laugh, got the footy scarf there as well"
+  },
+  "P151": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "seems nice and quiet, sort of sensible you know"
+  },
+  "P152": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "bit younger, probably knows what shes doing with the tech stuff"
+  }
+ }
+}

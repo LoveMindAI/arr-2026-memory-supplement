@@ -1,0 +1,23 @@
+{
+ "call": "C0414",
+ "person": "P209",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The end when we was talking about finishing what you start. I got serious and told her about my course",
+  "reason": "Because it still bothers me. Nobody gives you the time back and I wanted her to hear it",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

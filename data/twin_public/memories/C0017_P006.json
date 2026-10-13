@@ -1,0 +1,23 @@
+{
+ "call": "C0017",
+ "person": "P006",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We had a good laugh about warming up properly before football n looking after your knees. Then we got on to the gym being heaving in January and dead by February lol",
+  "reason": "Its my job really, I go on about it",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

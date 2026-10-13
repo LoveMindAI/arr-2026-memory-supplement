@@ -1,0 +1,23 @@
+{
+ "call": "C0345",
+ "person": "P167",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he just kept asking stuff, easy to talk to tbh",
+  "reason": "thought hed be a bit much from his photo but it was alright actually, didnt feel like work",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

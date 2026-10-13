@@ -1,0 +1,23 @@
+{
+ "call": "C0154",
+ "person": "P075",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 31,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said about not knowing if im strict enough with kieran, it was the teacher in him, he taught geography thirty year, made me feel better tbh, didnt expect that",
+  "reason": "its summat i worry about really",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

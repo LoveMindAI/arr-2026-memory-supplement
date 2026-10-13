@@ -1,0 +1,23 @@
+{
+ "call": "C0218",
+ "person": "P102",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I said there's always an excuse for not seeing my mum and she just said \"Yeah. There is.\"",
+  "reason": "Felt a bit called out tbh, she didn't let me off the hook.",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

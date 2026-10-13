@@ -1,0 +1,47 @@
+{
+ "session": "S41",
+ "rater": "P220",
+ "ok": true,
+ "ratings": {
+  "P216": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like a nice mum sort of person and her kitchen is tidy like mine"
+  },
+  "P217": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "looks knackered after a shift i get that feeling tbh"
+  },
+  "P218": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "dont really know what to make of him he looks a bit wary"
+  },
+  "P219": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems decent and he likes gillingham so he knows about football i guess"
+  }
+ }
+}

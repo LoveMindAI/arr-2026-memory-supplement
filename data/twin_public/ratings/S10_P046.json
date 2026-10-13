@@ -1,0 +1,57 @@
+{
+ "session": "S10",
+ "rater": "P046",
+ "ok": true,
+ "ratings": {
+  "P044": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "He looks a bit tired, but he seems like a regular lad, maybe a bit messy at home."
+  },
+  "P045": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks very kind and reminds me a bit of the teachers at Saima's school."
+  },
+  "P047": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "He looks very calm and professional. I noticed the prayer mat, so we might have that in common."
+  },
+  "P048": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He seems very organised and tidy, which I appreciate. Probably quite clever."
+  },
+  "P049": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He looks like a sensible and serious person. The engineering books suggest he's good with technical things."
+  }
+ }
+}

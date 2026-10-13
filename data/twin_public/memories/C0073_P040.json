@@ -1,0 +1,25 @@
+{
+ "call": "C0073",
+ "person": "P040",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 24,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i was talking about ellie and josh her smile sort of went and she looked down to the left for a few seconds then smiled again",
+  "reason": "dont know tbh it just felt a bit sad and made me wonder if she wants kids herself",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0073",
+  "turn": 20,
+  "line_text": "Yeah, two. Ellie's twelve, she's in Year 8, and Josh is nine. Ellie's on at us for a phone with TikTok at the minute, we keep arguing about it. Every night. Darren says no, I sort of say maybe, so she just comes to me, you know.",
+  "who": "Charlotte",
+  "what": "While Kerry talks about her children, Charlotte's smile fades. She looks down and away to the left of the camera for about three seconds, then looks back up with her smile back in place."
+ }
+}

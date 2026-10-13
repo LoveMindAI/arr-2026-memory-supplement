@@ -1,0 +1,23 @@
+{
+ "call": "C0496",
+ "person": "P246",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about my drawing of the lock down from me on the canal, the rope marks and the geese hissing, i went on a bit tbh",
+  "reason": "its the bit i care about most tbh and it felt nice someone was interested",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

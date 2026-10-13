@@ -1,0 +1,23 @@
+{
+ "call": "C0147",
+ "person": "P068",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She did most of the talking, cheerful the whole way through. Turned out she's a hospital pharmacy technician who keeps a spreadsheet of every near-miss",
+  "reason": "I'd guessed NHS from the lanyard, and I'm the same with writing things down",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

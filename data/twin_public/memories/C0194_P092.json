@@ -1,0 +1,23 @@
+{
+ "call": "C0194",
+ "person": "P092",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we talked about esis bike thats had a flat tyre since the summer and how to actually fix it lol",
+  "reason": "because that bit felt like a proper chat tbh and i can actually use it",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

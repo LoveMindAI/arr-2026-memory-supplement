@@ -1,0 +1,37 @@
+{
+ "session": "S46",
+ "rater": "P242",
+ "ok": true,
+ "ratings": {
+  "P243": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "er, well, she looks serious and quite organised, sort of like she might work in a similar technical role or maybe a school. i quite like that it's quiet."
+  },
+  "P244": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like she's just finished a shift, sort of tired but reliable. the dog lead in the back makes her seem like a sensible sort of person."
+  },
+  "P245": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "very tidy kitchen, i suppose. she looks like she'd just get on with the task without much fuss or mardy behavior, which is good."
+  }
+ }
+}

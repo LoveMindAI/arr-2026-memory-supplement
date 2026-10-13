@@ -1,0 +1,23 @@
+{
+ "call": "C0057",
+ "person": "P031",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we had a proper laugh about me moped in the shed taking six years lol",
+  "reason": "cos it was just easy chat tbh, like talking to a mate down the pub, nothing posh about it, made me feel alright",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

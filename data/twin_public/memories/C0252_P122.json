@@ -1,0 +1,23 @@
+{
+ "call": "C0252",
+ "person": "P122",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We had a laugh about barms.",
+  "reason": "It made us both laugh, and the same thing came up in my earlier call too.",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0316",
+ "person": "P150",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 25
+ },
+ "ok": true,
+ "answers": {
+  "moment": "right at the end we got onto how you switch off, i was on about putting a record on",
+  "reason": "first bit that felt like a proper chat not just me firing questions at her tbh, caught me a bit off guard, got cut off right as it got good",
+  "timing": 92
+ },
+ "requires_av": false,
+ "av_event": null
+}

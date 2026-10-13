@@ -1,0 +1,23 @@
+{
+ "call": "C0407",
+ "person": "P201",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we just chatted easy the whole way through like old mates haha",
+  "reason": "felt proper relaxed tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

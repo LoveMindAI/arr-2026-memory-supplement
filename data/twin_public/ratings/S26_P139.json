@@ -1,0 +1,57 @@
+{
+ "session": "S26",
+ "rater": "P139",
+ "ok": true,
+ "ratings": {
+  "P135": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Erm, she looks very warm and approachable; her home feels lived-in and comfortable."
+  },
+  "P136": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She seems quite methodical and perhaps a little reserved (much like myself)."
+  },
+  "P137": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "A very quiet, steady presence; I think we would work well together without fuss."
+  },
+  "P138": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "She looks quite serious and perhaps a bit formidable, but very capable."
+  },
+  "P140": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "He seems a bit impatient with the process, which I might find slightly stressful."
+  }
+ }
+}

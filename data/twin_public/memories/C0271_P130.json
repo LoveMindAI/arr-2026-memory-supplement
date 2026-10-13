@@ -1,0 +1,23 @@
+{
+ "call": "C0271",
+ "person": "P130",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about cooking and i ended up explaining patties lol",
+  "reason": "cos i always bang on about patties to anyone not from Hull and we had a laugh",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

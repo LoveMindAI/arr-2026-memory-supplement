@@ -1,0 +1,23 @@
+{
+ "call": "C0222",
+ "person": "P106",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 40,
+  "reason": 25
+ },
+ "ok": true,
+ "answers": {
+  "moment": "not one bit really, just the whole thing. she kept saying sorry and erm all the way through, more nervous than me I think. but she actually listened and asked about me and didnt just go on about herself",
+  "reason": "I thought from her photo she'd be a bit flighty and she wasnt. made me feel a bit easier, like nobody was judging me",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

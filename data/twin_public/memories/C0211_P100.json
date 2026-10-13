@@ -1,0 +1,23 @@
+{
+ "call": "C0211",
+ "person": "P100",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Chatting about his kids losing their Arabic.",
+  "reason": "It felt quite personal, and I could tell he really cared. It reminded me of my nan.",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0373",
+ "person": "P181",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 30,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said tenerife same hotel twice she went no! and said shed just booked tenerife for september, and she gets really nervous on flights too, she was so excited lol",
+  "reason": "because it was so random that were the same, and i get nervous travelling too tbh",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0234",
+ "person": "P113",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Honestly the whole call, we just clicked straight away and were chatting and laughing the whole time like we'd known each other for years! So easy :)",
+  "reason": "It felt so natural and warm, like talking to an old friend!",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

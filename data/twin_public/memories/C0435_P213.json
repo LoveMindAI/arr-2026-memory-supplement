@@ -1,0 +1,23 @@
+{
+ "call": "C0435",
+ "person": "P213",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 53,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The bit where we got onto the wolves and the easter game against saints. we were both groaning about it and i was telling him how i was mardy all weekend and kerry had to put up with me lol. felt like chatting to a mate down the pub not a stranger on a video call, proper easy",
+  "reason": "its my team and it was just dead easy chat",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

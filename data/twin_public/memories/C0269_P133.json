@@ -1,0 +1,23 @@
+{
+ "call": "C0269",
+ "person": "P133",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we just sort of chatted easy about normal stuff. work and getting up early and holidays and sport. it felt pretty relaxed tbh.",
+  "reason": "easy to talk to really",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

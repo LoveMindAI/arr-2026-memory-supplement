@@ -1,0 +1,23 @@
+{
+ "call": "C0081",
+ "person": "P043",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto flying and found out we're both terrible flyers! We ended up laughing about it together and I admitted I need wine and Tom's hand on take-off.",
+  "reason": "Because it's so me tbh! Really relatable.",
+  "timing": 82
+ },
+ "requires_av": false,
+ "av_event": null
+}

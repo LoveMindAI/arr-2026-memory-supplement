@@ -1,0 +1,23 @@
+{
+ "call": "C0492",
+ "person": "P244",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 4,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we just chatted about dads",
+  "reason": "didnt know his dad had a heart scare too",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

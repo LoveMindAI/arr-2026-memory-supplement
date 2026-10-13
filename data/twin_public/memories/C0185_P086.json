@@ -1,0 +1,23 @@
+{
+ "call": "C0185",
+ "person": "P086",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "it was more the whole call really, we talked about being nervous and tired and my anxiety and flowers and baking, it just felt dead easy and warm",
+  "reason": "it felt like talking to my mum tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

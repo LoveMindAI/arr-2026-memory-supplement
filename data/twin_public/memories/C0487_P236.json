@@ -1,0 +1,23 @@
+{
+ "call": "C0487",
+ "person": "P236",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said i want buy before forty he just said better get saving then",
+  "reason": "bit cheeky tbh but hes not wrong, i havent saved much, it stuck",
+  "timing": 95
+ },
+ "requires_av": false,
+ "av_event": null
+}

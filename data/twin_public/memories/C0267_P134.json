@@ -1,0 +1,23 @@
+{
+ "call": "C0267",
+ "person": "P134",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 60,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto holidays. He said he'd been to Tenerife three times as well, same resort each time, with the lads. He was in Las Americas, just down the road from Costa Adeje where we go. Then he said he's a nightmare with flights and checks in the second it opens, and his girlfriend Hannah laughs at him for it.",
+  "reason": "Didn't expect us to have that much in common tbh. Nice to hear someone else plans flights like I do.",
+  "timing": 82
+ },
+ "requires_av": false,
+ "av_event": null
+}

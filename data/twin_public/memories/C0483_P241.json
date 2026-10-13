@@ -1,0 +1,23 @@
+{
+ "call": "C0483",
+ "person": "P241",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "mostly how easy it all felt, we bonded over surveying, spreadsheets and running. didnt know he was a QS in brum",
+  "reason": "honestly it felt like chatting to one of my dads mates, really familiar vibe, and the surveying link to my dad stuck with me",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

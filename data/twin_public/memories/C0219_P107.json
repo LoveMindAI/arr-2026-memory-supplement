@@ -1,0 +1,25 @@
+{
+ "call": "C0219",
+ "person": "P107",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 18,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said about her sister she looked off at the window for a bit, lips tight, then breathed out slow",
+  "reason": "she didnt say nothing but u could tell it hurt",
+  "timing": 75
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0219",
+  "turn": 29,
+  "line_text": "Yeah.",
+  "who": "Tracey",
+  "what": "Her eyes drop away from the screen towards the window on her left and stay there for a couple of seconds. Her mouth presses into a tight line and her shoulders rise and fall with a slow breath out through her nose before she looks back at the screen."
+ }
+}

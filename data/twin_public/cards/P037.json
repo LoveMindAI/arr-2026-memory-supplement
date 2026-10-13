@@ -1,0 +1,59 @@
+{
+ "id": "P037",
+ "ok": true,
+ "card": {
+  "first_name": "Gareth",
+  "age": 44,
+  "lives_in": "Walthamstow, London",
+  "occupation": "Structural engineer (associate level) at a mid-sized engineering consultancy in Farringdon, mostly working on residential conversions and mid-rise commercial refurbishments",
+  "education_detail": "Grew up in Bromley and went to a comprehensive there. Did A-levels in maths, physics and geography, then a MEng in Civil Engineering at the University of Nottingham. Became a chartered engineer (MIStructE) in his early thirties. He passed the exam on the second attempt, which he puts down to not bothering to revise properly the first time.",
+  "household": "Lives alone in a rented one-bedroom first-floor flat in a converted Victorian terrace off Hoe Street. Never married. He had a long relationship through most of his thirties that ended about five years ago. He has no children and no pets. The landlord has been promising to fix the bathroom extractor fan for two years.",
+  "cultural_background": "White British, born in Farnborough Hospital and raised in Bromley in south-east London. His dad was a heating engineer and his mum was a school receptionist. He was baptised and confirmed Church of England. He still calls himself Christian and goes to a carol service most Christmases with his mum, but otherwise doesn't attend. He has a younger sister in Sevenoaks with two kids. He supports Crystal Palace out of family habit rather than real passion.",
+  "professional_persona": "Competent and quick at the technical side. He's good at spotting what will actually fail and what's just overcautious. He is less good at paperwork: his timesheets are always late and his calc packages get tidied up at the last minute. He's known for being blunt with architects and contractors. Some clients like that, and a couple have asked for someone else. He doesn't get rattled on site or in difficult meetings, so he tends to get sent to the awkward jobs. He mentors graduates, but in a 'work it out and then come and ask me' way.",
+  "sports_persona": "Played five-a-side every Wednesday until he did his knee in at 39. Now he mostly watches. He'll go to Selhurst Park a few times a season with an old school mate and watches the rest in the pub. He has a gym membership he uses maybe twice a month, and he cycles along the Lea some weekends when the weather's decent.",
+  "arts_persona": "Not a big gallery person, though he likes architecture and will happily wander round the Barbican or look at old warehouse conversions. He listens to a lot of 90s indie and some newer guitar bands, and goes to a gig at the Scala or Electric Ballroom a few times a year. He reads non-fiction, mostly history and the odd engineering-disaster book. He has started more novels than he's finished.",
+  "travel_persona": "Goes on one or two trips abroad a year, usually booked fairly late. City breaks suit him: Lisbon, Berlin, Copenhagen. He's done a lads' trip to Porto for a fortieth. He doesn't plan much beyond the flight and a hotel and is happy to wander about on his own. He once did a walking holiday in the Lake District and spent most of it in pubs.",
+  "culinary_persona": "Cooks a handful of things competently, like chilli, a decent curry and a roast when his sister visits. Most weeknights he has something quick or a takeaway, Turkish or Vietnamese from round the corner. He drinks a bit more than his GP would like, mostly pale ale and the odd bottle of red. Calls the evening meal dinner.",
+  "hobbies_and_interests": [
+   "Watching Crystal Palace and Premier League football",
+   "Going to gigs, mostly indie and guitar bands",
+   "Weekend cycling along the River Lea",
+   "Reading popular history and engineering-failure books",
+   "Pub quizzes with work colleagues, where he's the one who argues with the quizmaster",
+   "Walking round London looking at old buildings",
+   "Half-heartedly doing up an old road bike"
+  ],
+  "skills": [
+   "Structural calculations and design in steel, timber and concrete",
+   "Using analysis software like Tekla and RAM",
+   "Reading drawings and spotting problems quickly",
+   "Staying calm in tense site meetings",
+   "Basic DIY and bike maintenance",
+   "Mental arithmetic",
+   "Telling people plainly when something won't work"
+  ],
+  "career_goals": "Expects to be made a director at some point, though he's not chasing it hard and dislikes the business-development side. He sometimes thinks about going freelance and doing smaller domestic jobs, mainly so he can pick his hours and stop doing timesheets. He hasn't got round to looking into it seriously.",
+  "voice": "Relaxed, fairly flat South London delivery with a light Estuary edge: some dropped t's ('a bi' of'), and 'yeah' as a tag. He speaks at a medium pace and gets to the point without much padding. He uses 'er' rather than 'erm' when thinking, and 'sort of' quite a bit when explaining something technical. He'll say 'mate' occasionally, even to people he's just met. Silence doesn't bother him. He'll leave a gap rather than fill it, and if a question is vague he'll say 'sorry, what d'you mean by that?' rather than guess. He can sound a bit dismissive, with things like 'nah, not really' or 'that's sort of a daft way of looking at it', without meaning to be rude.",
+  "typing": "Mostly lowercase, capitalises 'I' about half the time, and skips apostrophes (dont, its, im). He writes short answers and often leaves off the final full stop. He uses 'tbh' and 'etc' and the odd 'lol' when something's genuinely funny. Typos usually stay in.",
+  "with_strangers": "Pleasant enough but not warm. He answers questions directly and doesn't do much small talk unless the other person starts it. He comes across as unflappable and slightly sardonic. If he thinks a question is pointless he'll say so, half-joking. He isn't shy, just doesn't feel the need to make a good impression. Some people find him refreshingly straight and others find him a bit hard work.",
+  "small_things": [
+   "The bathroom extractor fan that's been broken for two years",
+   "Palace's latest result and whether the manager should go",
+   "The Victoria line being rammed in the mornings",
+   "A new Vietnamese place on Hoe Street that's actually good",
+   "Having to redo a set of calcs because an architect moved a wall",
+   "His knee playing up when it's cold",
+   "His nephew wanting to be a YouTuber",
+   "Meaning to get his bike serviced"
+  ],
+  "deeper_things": [
+   "His long-term relationship ended partly because she wanted kids and a mortgage and he kept putting it off; he doesn't regret it but sometimes wonders",
+   "His GP has told him his blood pressure is too high and he should cut down on drinking, which he's half done",
+   "His dad had a heart attack at sixty-two and survived; Gareth doesn't dwell on it but knows the history",
+   "He's aware he can come across as abrasive and a couple of people at work have stopped asking him for help",
+   "He's not really sure he believes in God but likes the carol service and the old hymns more than he'd admit",
+   "He occasionally thinks it would be nice to own somewhere rather than rent, but the numbers in London annoy him"
+  ],
+  "webcam_photo": "Head-and-shoulders shot from a laptop on a desk, angled slightly upward so the ceiling corner is visible. Light comes from a window to his left, giving uneven daylight with one side of his face brighter. He's a white man in his mid-forties with a slightly fleshy face, a bit of redness across the cheeks, and short dark-brown hair greying at the sides and thinning at the crown. He has a couple of days' stubble and no glasses. His expression is neutral and slightly impatient, one eyebrow a fraction raised, mouth closed. He's wearing a faded navy crew-neck jumper over a grey T-shirt. Behind him is a magnolia wall with a framed black-and-white print of the Forth Bridge hanging slightly crooked, and a tall IKEA bookshelf with paperbacks stacked both upright and sideways, a bike helmet on the top shelf and a rolled-up set of drawings leaning against it. Part of a dark grey sofa with a crumpled throw is visible at the right edge, and a radiator with a towel drying on it."
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "sets": [
+  "set1",
+  "set2"
+ ],
+ "model": {
+  "topic": {
+   "items": 40,
+   "rater_rater_kappa": 0.637,
+   "rater_alpha": 0.635,
+   "gpt-6-luna_rater_kappa": 0.708,
+   "gpt-6-luna_matches_majority": 0.875,
+   "deepseek-v4.1-flash_rater_kappa": 0.524,
+   "deepseek-v4.1-flash_matches_majority": 0.75,
+   "claude-haiku-5.5_rater_kappa": 0.655,
+   "claude-haiku-5.5_matches_majority": 0.85
+  },
+  "event": {
+   "items": 40,
+   "rater_rater_kappa": 0.597,
+   "rater_alpha": 0.587,
+   "gpt-6-luna_rater_kappa": 0.573,
+   "gpt-6-luna_matches_majority": 0.825,
+   "deepseek-v4.1-flash_rater_kappa": 0.519,
+   "deepseek-v4.1-flash_matches_majority": 0.8,
+   "claude-haiku-5.5_rater_kappa": 0.519,
+   "claude-haiku-5.5_matches_majority": 0.8
+  },
+  "focus": {
+   "items": 40,
+   "rater_rater_kappa": 0.363,
+   "rater_alpha": 0.361,
+   "gpt-6-luna_rater_kappa": 0.159,
+   "gpt-6-luna_matches_majority": 0.575,
+   "deepseek-v4.1-flash_rater_kappa": 0.204,
+   "deepseek-v4.1-flash_matches_majority": 0.575,
+   "claude-haiku-5.5_rater_kappa": 0.141,
+   "claude-haiku-5.5_matches_majority": 0.475
+  },
+  "reason": {
+   "items": 40,
+   "rater_rater_kappa": 0.186,
+   "rater_alpha": 0.14,
+   "gpt-6-luna_rater_kappa": 0.341,
+   "gpt-6-luna_matches_majority": 0.7,
+   "deepseek-v4.1-flash_rater_kappa": 0.335,
+   "deepseek-v4.1-flash_matches_majority": 0.7,
+   "claude-haiku-5.5_rater_kappa": 0.241,
+   "claude-haiku-5.5_matches_majority": 0.675
+  },
+  "close": {
+   "rater_rater_spearman": 0.495,
+   "gpt-6-luna_rater_spearman": 0.701,
+   "deepseek-v4.1-flash_rater_spearman": 0.56,
+   "claude-haiku-5.5_rater_spearman": 0.68
+  }
+ },
+ "partner": {
+  "topic": {
+   "items": 10,
+   "rater_rater_kappa": null,
+   "rater_alpha": 0.67,
+   "gpt-6-luna_rater_kappa": null,
+   "gpt-6-luna_matches_majority": 0.9,
+   "deepseek-v4.1-flash_rater_kappa": null,
+   "deepseek-v4.1-flash_matches_majority": 0.9,
+   "claude-haiku-5.5_rater_kappa": 0.0,
+   "claude-haiku-5.5_matches_majority": 0.8
+  },
+  "event": {
+   "items": 10,
+   "rater_rater_kappa": null,
+   "rater_alpha": 0.304,
+   "gpt-6-luna_rater_kappa": null,
+   "gpt-6-luna_matches_majority": 0.8,
+   "deepseek-v4.1-flash_rater_kappa": null,
+   "deepseek-v4.1-flash_matches_majority": 0.8,
+   "claude-haiku-5.5_rater_kappa": null,
+   "claude-haiku-5.5_matches_majority": 0.8
+  },
+  "focus": {
+   "items": 10,
+   "rater_rater_kappa": -0.095,
+   "rater_alpha": -0.015,
+   "gpt-6-luna_rater_kappa": -0.162,
+   "gpt-6-luna_matches_majority": 0.6,
+   "deepseek-v4.1-flash_rater_kappa": 0.124,
+   "deepseek-v4.1-flash_matches_majority": 0.6,
+   "claude-haiku-5.5_rater_kappa": -0.012,
+   "claude-haiku-5.5_matches_majority": 0.5
+  },
+  "reason": {
+   "items": 10,
+   "rater_rater_kappa": 0.0,
+   "rater_alpha": -0.11,
+   "gpt-6-luna_rater_kappa": 0.0,
+   "gpt-6-luna_matches_majority": 0.8,
+   "deepseek-v4.1-flash_rater_kappa": 0.0,
+   "deepseek-v4.1-flash_matches_majority": 0.8,
+   "claude-haiku-5.5_rater_kappa": 0.0,
+   "claude-haiku-5.5_matches_majority": 0.8
+  },
+  "close": {
+   "rater_rater_spearman": 0.285,
+   "gpt-6-luna_rater_spearman": 0.372,
+   "deepseek-v4.1-flash_rater_spearman": 0.377,
+   "claude-haiku-5.5_rater_spearman": 0.341
+  }
+ },
+ "all": {
+  "topic": {
+   "items": 50,
+   "rater_rater_kappa": 0.636,
+   "rater_alpha": 0.649,
+   "gpt-6-luna_rater_kappa": 0.691,
+   "gpt-6-luna_matches_majority": 0.88,
+   "deepseek-v4.1-flash_rater_kappa": 0.539,
+   "deepseek-v4.1-flash_matches_majority": 0.78,
+   "claude-haiku-5.5_rater_kappa": 0.606,
+   "claude-haiku-5.5_matches_majority": 0.84
+  },
+  "event": {
+   "items": 50,
+   "rater_rater_kappa": 0.576,
+   "rater_alpha": 0.565,
+   "gpt-6-luna_rater_kappa": 0.567,
+   "gpt-6-luna_matches_majority": 0.82,
+   "deepseek-v4.1-flash_rater_kappa": 0.519,
+   "deepseek-v4.1-flash_matches_majority": 0.8,
+   "claude-haiku-5.5_rater_kappa": 0.519,
+   "claude-haiku-5.5_matches_majority": 0.8
+  },
+  "focus": {
+   "items": 50,
+   "rater_rater_kappa": 0.289,
+   "rater_alpha": 0.31,
+   "gpt-6-luna_rater_kappa": 0.172,
+   "gpt-6-luna_matches_majority": 0.58,
+   "deepseek-v4.1-flash_rater_kappa": 0.229,
+   "deepseek-v4.1-flash_matches_majority": 0.58,
+   "claude-haiku-5.5_rater_kappa": 0.143,
+   "claude-haiku-5.5_matches_majority": 0.48
+  },
+  "reason": {
+   "items": 50,
+   "rater_rater_kappa": 0.136,
+   "rater_alpha": 0.098,
+   "gpt-6-luna_rater_kappa": 0.333,
+   "gpt-6-luna_matches_majority": 0.72,
+   "deepseek-v4.1-flash_rater_kappa": 0.334,
+   "deepseek-v4.1-flash_matches_majority": 0.72,
+   "claude-haiku-5.5_rater_kappa": 0.256,
+   "claude-haiku-5.5_matches_majority": 0.7
+  },
+  "close": {
+   "rater_rater_spearman": 0.458,
+   "gpt-6-luna_rater_spearman": 0.656,
+   "deepseek-v4.1-flash_rater_spearman": 0.531,
+   "claude-haiku-5.5_rater_spearman": 0.631
+  }
+ },
+ "complete": true
+}

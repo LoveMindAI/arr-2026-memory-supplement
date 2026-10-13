@@ -1,0 +1,47 @@
+{
+ "session": "S36",
+ "rater": "P194",
+ "ok": true,
+ "ratings": {
+  "P190": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Looks like a hard-working student, maybe in nursing? Reminds me a bit of myself at university."
+  },
+  "P191": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks kind but exhausted, like she\u2019s juggling quite a lot at home. Very approachable."
+  },
+  "P192": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Very similar age and background to me, I think. She looks sensible and organized."
+  },
+  "P193": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Reminds me of some of the contractors I deal with at work; a bit of a dry sense of humour."
+  }
+ }
+}

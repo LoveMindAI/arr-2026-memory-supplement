@@ -1,0 +1,295 @@
+{
+ "models": {
+  "deepseek-v4.1-flash": {
+   "reports": 1067,
+   "jaccard_with_person": 0.19,
+   "share_by_fifth_people": [
+    0.116,
+    0.225,
+    0.268,
+    0.234,
+    0.157
+   ],
+   "share_by_fifth_model": [
+    0.032,
+    0.113,
+    0.22,
+    0.31,
+    0.325
+   ],
+   "people_trained_model_on_people": 0.597,
+   "people_trained_model_on_model_choice": 0.568,
+   "family_alone": {
+    "position": {
+     "model_choice": 0.645,
+     "people": 0.582
+    },
+    "speaker": {
+     "model_choice": 0.5,
+     "people": 0.518
+    },
+    "length & timing": {
+     "model_choice": 0.552,
+     "people": 0.561
+    },
+    "lexical": {
+     "model_choice": 0.562,
+     "people": 0.561
+    },
+    "semantic novelty": {
+     "model_choice": 0.545,
+     "people": 0.532
+    },
+    "sentiment": {
+     "model_choice": 0.534,
+     "people": 0.54
+    },
+    "dialogue structure": {
+     "model_choice": 0.553,
+     "people": 0.552
+    },
+    "rememberer traits": {
+     "model_choice": 0.496,
+     "people": 0.513
+    },
+    "content": {
+     "model_choice": 0.575,
+     "people": 0.586
+    }
+   }
+  },
+  "gemini-3.8-flash": {
+   "reports": 1065,
+   "jaccard_with_person": 0.211,
+   "share_by_fifth_people": [
+    0.116,
+    0.225,
+    0.268,
+    0.233,
+    0.158
+   ],
+   "share_by_fifth_model": [
+    0.02,
+    0.088,
+    0.218,
+    0.357,
+    0.317
+   ],
+   "people_trained_model_on_people": 0.597,
+   "people_trained_model_on_model_choice": 0.577,
+   "family_alone": {
+    "position": {
+     "model_choice": 0.673,
+     "people": 0.582
+    },
+    "speaker": {
+     "model_choice": 0.501,
+     "people": 0.518
+    },
+    "length & timing": {
+     "model_choice": 0.56,
+     "people": 0.561
+    },
+    "lexical": {
+     "model_choice": 0.558,
+     "people": 0.561
+    },
+    "semantic novelty": {
+     "model_choice": 0.542,
+     "people": 0.533
+    },
+    "sentiment": {
+     "model_choice": 0.54,
+     "people": 0.541
+    },
+    "dialogue structure": {
+     "model_choice": 0.555,
+     "people": 0.551
+    },
+    "rememberer traits": {
+     "model_choice": 0.506,
+     "people": 0.513
+    },
+    "content": {
+     "model_choice": 0.59,
+     "people": 0.586
+    }
+   }
+  },
+  "gemma-4-31b-it": {
+   "reports": 1066,
+   "jaccard_with_person": 0.211,
+   "share_by_fifth_people": [
+    0.117,
+    0.225,
+    0.267,
+    0.234,
+    0.158
+   ],
+   "share_by_fifth_model": [
+    0.021,
+    0.142,
+    0.277,
+    0.32,
+    0.24
+   ],
+   "people_trained_model_on_people": 0.597,
+   "people_trained_model_on_model_choice": 0.591,
+   "family_alone": {
+    "position": {
+     "model_choice": 0.651,
+     "people": 0.582
+    },
+    "speaker": {
+     "model_choice": 0.504,
+     "people": 0.518
+    },
+    "length & timing": {
+     "model_choice": 0.561,
+     "people": 0.561
+    },
+    "lexical": {
+     "model_choice": 0.558,
+     "people": 0.561
+    },
+    "semantic novelty": {
+     "model_choice": 0.533,
+     "people": 0.533
+    },
+    "sentiment": {
+     "model_choice": 0.537,
+     "people": 0.54
+    },
+    "dialogue structure": {
+     "model_choice": 0.545,
+     "people": 0.552
+    },
+    "rememberer traits": {
+     "model_choice": 0.495,
+     "people": 0.513
+    },
+    "content": {
+     "model_choice": 0.588,
+     "people": 0.586
+    }
+   }
+  },
+  "mimo-v2.6-flash": {
+   "reports": 1067,
+   "jaccard_with_person": 0.176,
+   "share_by_fifth_people": [
+    0.116,
+    0.226,
+    0.268,
+    0.233,
+    0.156
+   ],
+   "share_by_fifth_model": [
+    0.027,
+    0.127,
+    0.239,
+    0.3,
+    0.307
+   ],
+   "people_trained_model_on_people": 0.597,
+   "people_trained_model_on_model_choice": 0.569,
+   "family_alone": {
+    "position": {
+     "model_choice": 0.639,
+     "people": 0.582
+    },
+    "speaker": {
+     "model_choice": 0.505,
+     "people": 0.518
+    },
+    "length & timing": {
+     "model_choice": 0.566,
+     "people": 0.561
+    },
+    "lexical": {
+     "model_choice": 0.559,
+     "people": 0.561
+    },
+    "semantic novelty": {
+     "model_choice": 0.545,
+     "people": 0.533
+    },
+    "sentiment": {
+     "model_choice": 0.543,
+     "people": 0.54
+    },
+    "dialogue structure": {
+     "model_choice": 0.551,
+     "people": 0.551
+    },
+    "rememberer traits": {
+     "model_choice": 0.494,
+     "people": 0.513
+    },
+    "content": {
+     "model_choice": 0.592,
+     "people": 0.585
+    }
+   }
+  },
+  "qwen3.8-omni-flash": {
+   "reports": 1067,
+   "jaccard_with_person": 0.176,
+   "share_by_fifth_people": [
+    0.116,
+    0.225,
+    0.268,
+    0.233,
+    0.157
+   ],
+   "share_by_fifth_model": [
+    0.037,
+    0.097,
+    0.214,
+    0.323,
+    0.329
+   ],
+   "people_trained_model_on_people": 0.597,
+   "people_trained_model_on_model_choice": 0.561,
+   "family_alone": {
+    "position": {
+     "model_choice": 0.652,
+     "people": 0.582
+    },
+    "speaker": {
+     "model_choice": 0.502,
+     "people": 0.518
+    },
+    "length & timing": {
+     "model_choice": 0.555,
+     "people": 0.561
+    },
+    "lexical": {
+     "model_choice": 0.558,
+     "people": 0.561
+    },
+    "semantic novelty": {
+     "model_choice": 0.537,
+     "people": 0.532
+    },
+    "sentiment": {
+     "model_choice": 0.531,
+     "people": 0.54
+    },
+    "dialogue structure": {
+     "model_choice": 0.545,
+     "people": 0.552
+    },
+    "rememberer traits": {
+     "model_choice": 0.493,
+     "people": 0.513
+    },
+    "content": {
+     "model_choice": 0.573,
+     "people": 0.586
+    }
+   }
+  }
+ },
+ "partner_jaccard_with_person": 0.143
+}

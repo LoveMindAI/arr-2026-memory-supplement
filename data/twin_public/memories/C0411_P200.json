@@ -1,0 +1,23 @@
+{
+ "call": "C0411",
+ "person": "P200",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The whole thing, it was quick banter really",
+  "reason": "She was sharper and funnier than most and I liked that. Hadnt guessed from the photo she had arthritis, she's only 39",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

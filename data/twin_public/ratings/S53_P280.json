@@ -1,0 +1,37 @@
+{
+ "session": "S53",
+ "rater": "P280",
+ "ok": true,
+ "ratings": {
+  "P277": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Looks lovely, sort of like my dad actually. Very steady and reliable, you know?"
+  },
+  "P278": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Very much like a lot of the ladies I know here. She seems proper nice tbh x"
+  },
+  "P279": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Reminds me of my Callum in a few years, bit bored but probably alright really."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0344",
+ "person": "P166",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 49,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "near the start i said i thought i'd talked too much about a book in my last call, and she just said straight away 'no such thing as too much about a book' and asked what it was. i'd been kind of embarrassed about it so it made me relax a lot.",
+  "reason": "because i'd been worrying about rambling and she made it okay",
+  "timing": 10
+ },
+ "requires_av": false,
+ "av_event": null
+}

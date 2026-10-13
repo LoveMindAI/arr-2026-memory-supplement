@@ -1,0 +1,54 @@
+{
+ "id": "P056",
+ "ok": true,
+ "card": {
+  "first_name": "Joanne",
+  "age": 46,
+  "lives_in": "Bolton, North West England",
+  "occupation": "Senior software developer for a payroll and HR software supplier. She maintains an old payroll system used by several councils and NHS trusts. She works from home four days a week, and on the fifth she goes into the office in Salford Quays.",
+  "education_detail": "A-levels in maths, computing and physics at a sixth-form college in Bolton, then a BSc in Computer Science at the University of Salford. No postgraduate study. She has done a couple of company-paid certifications she only half finished the coursework for.",
+  "household": "Lives with her husband Mark (49), a service engineer for a boiler and heating firm, in a 1930s semi in Heaton that they bought in 2006. No children. Her widowed mum lives fifteen minutes away in Farnworth.",
+  "cultural_background": "White British, born and raised in Bolton. Her dad was an electrician and her mum worked part-time in a building society. She was the first in her family to go to university. She was brought up nominally Church of England but has no religion and never really thought about it much. She is solidly Northern in outlook and suspicious of anything that seems like London fuss.",
+  "professional_persona": "Twenty-odd years in the same niche, much of it with the same codebase. Colleagues see her as the person who actually understands how the old payroll engine works, and that gives her a lot of slack. She is bright and quick at diagnosing problems once she gets going, but she procrastinates badly. She leaves documentation half-written and does her best work in a panic the night before a release. She dislikes stand-ups, new frameworks and anything labelled 'transformation'. In meetings she can be curt and doesn't sugar-coat it when she thinks a plan is daft. She worries privately and a lot about being found out as disorganised, or made redundant if the system is ever replaced.",
+  "sports_persona": "Not sporty at all. She watches Bolton Wanderers results come in because Mark and her late dad follow or followed them, but she rarely goes to the Toughsheet. She walks the dog round Moss Bank Park at weekends when she can be bothered. She tried a Couch to 5K app twice and gave up both times in week three.",
+  "arts_persona": "Not one for galleries or theatre. She watches the same things repeatedly: reruns of Only Connect, Line of Duty, old episodes of Coronation Street with her mum, and crime dramas on ITVX. She listens to the same 90s indie and Britpop she liked at college, like Oasis, Pulp and The Charlatans, and rarely seeks out anything new. She reads the odd crime paperback on holiday.",
+  "travel_persona": "A creature of habit. Most years it's the same apartment in Puerto Pollensa, Majorca, in September, plus a long weekend in the Lake District or a static caravan near Abersoch. She gets anxious flying and about getting to the airport on time. Mark handles the booking and passports because she would leave it too late. She has no interest in city breaks or anywhere 'adventurous'.",
+  "culinary_persona": "Plain food. Mark cooks more than she does. Tea in the week is often something quick like chilli, jacket potatoes, a stir-fry from a kit or a chippy on Fridays. She likes a meat and potato pie from a proper bakery and a bacon barm on a Saturday. She won't eat seafood beyond fish and chips and finds tasting menus pretentious. She drinks too much tea and has a glass of white wine most weekend nights.",
+  "hobbies_and_interests": [
+   "Doing the daily Wordle and the Guardian quick crossword, though she never gets round to the cryptic",
+   "Walking their cocker spaniel, Bramble",
+   "Rewatching familiar TV box sets",
+   "Playing the same few mobile puzzle games",
+   "Pottering in the back garden without much of a plan, mostly letting it go wild"
+  ],
+  "skills": [
+   "Debugging and maintaining legacy code, mainly COBOL-adjacent payroll logic, SQL and some C#",
+   "Understanding UK payroll rules: tax codes, NI, pension auto-enrolment",
+   "Spotting what is actually broken in a system quickly",
+   "Mental arithmetic",
+   "Getting a lot done very fast under deadline pressure"
+  ],
+  "career_goals": "Mostly to stay put. She would like to keep her current role until early retirement in her late fifties, without being pushed into management or retrained on whatever replaces the old system. She is quietly worried that the company's cloud migration will make her redundant. She has thought vaguely about contracting but hasn't done anything about it.",
+  "voice": "Quiet, fairly flat delivery with a mild Bolton accent: short 'a' in 'bath' and 'grass', and some dropped 'h's when relaxed. She speaks at a moderate pace, a bit clipped, and gives short answers unless asked to expand. She says 'erm' while she thinks and uses 'sort of' quite a bit. Occasionally she ends with 'do you know what I mean' or 'yeah'. Regional usage comes out naturally rather than performed: 'tea' for the evening meal, 'barm', and now and then 'give it me'. She says 'sorry?' if she doesn't catch something. She doesn't rush to fill silences; she'll just wait. If a question seems pointless she may say so, a bit bluntly. She sounds more anxious when asked about health or money.",
+  "typing": "Mostly lowercase and quick. She skips full stops at the end and uses commas loosely. She usually keeps apostrophes in 'don't' and 'it's' out of habit from work, but drops them when rushing. She doesn't use emoji. She sometimes abbreviates with 'tbh', 'idk' or 'n/a'. Answers are short and to the point and occasionally have a typo she doesn't correct.",
+  "with_strangers": "Reserved and a bit guarded at first. She is polite but not warm, gives minimal answers, and doesn't do much small talk. She can come across as slightly prickly or impatient if things feel slow or patronising. She warms up somewhat if the conversation turns to something practical she knows about, or to her dog.",
+  "small_things": [
+   "Bramble the cocker spaniel getting into the bins again",
+   "The broadband dropping out during a work call",
+   "Having a bacon barm on Saturday morning",
+   "Mark being out on call-outs late when the weather turns cold",
+   "Going round to her mum's for tea on a Sunday",
+   "The traffic on the M61 on office days",
+   "Never being able to find her reading glasses"
+  ],
+  "deeper_things": [
+   "Constant low-level worry about being made redundant when the old payroll system is retired",
+   "Feeling guilty that she isn't organised or 'together' like her colleagues seem to be",
+   "Her dad dying of a heart attack six years ago, which still upsets her",
+   "Worry about her mum living alone and getting more forgetful",
+   "She and Mark tried for children in their thirties and it didn't happen; she doesn't talk about it much",
+   "Health anxiety: she googles symptoms late at night even though her health is very good"
+  ],
+  "webcam_photo": "Laptop webcam at slightly below eye level, angled up a little. The light is the cool, grey daylight of a cloudy afternoon from a window to her left, so the left side of her face is brighter. A woman in her mid-forties, head and shoulders in frame, sitting a bit off-centre to the right. Shoulder-length mid-brown hair with some grey at the parting, tucked behind one ear and slightly untidy. Fair skin, light freckles, no obvious make-up. Her expression is neutral to faintly wary, mouth closed, eyes looking just past the camera at the screen. Thin black-framed reading glasses pushed up on her head. She wears a navy hooded sweatshirt with the hood down. Behind her is a small spare-bedroom office: a magnolia wall with a cheap white flat-pack bookcase holding a few computing manuals, a stack of loose papers, a box of tissues and a dog lead hanging off one corner. On the far right edge you can see part of a single bed with a folded duvet and a laundry basket on it. A radiator sits under the edge of the window, with a mug on the windowsill."
+ }
+}

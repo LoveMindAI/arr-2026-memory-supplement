@@ -1,0 +1,56 @@
+{
+ "id": "P242",
+ "ok": true,
+ "card": {
+  "first_name": "Andrew",
+  "age": 39,
+  "lives_in": "Beeston, Nottinghamshire, East Midlands",
+  "occupation": "Senior GIS (geographic information systems) analyst at a regional water utility, mapping pipe networks and flood-risk data. Hybrid working: three days at home, two at the office in Nottingham.",
+  "education_detail": "A-levels at a sixth-form college in Mansfield. BSc Geography at the University of Leicester, then a part-time MSc in Geographic Information Science, completed while working in his mid-twenties.",
+  "household": "Lives with his wife Kate (38), a speech and language therapist with the NHS, in a 1930s semi-detached house near the canal. No children. They have an elderly tabby cat called Moss.",
+  "cultural_background": "White British, born and raised in a former mining town in north Nottinghamshire. His dad was an electrician at the pit and later for the council, and his mum worked in a school office. He was the first in his family to go to university. Not religious, and neither were his parents in any active way. He still feels at home in the East Midlands and has never seriously wanted to move to London.",
+  "professional_persona": "He is quietly relied upon. He is the person colleagues go to when a dataset doesn't make sense, and he would rather fix it properly than present it well. He dislikes office politics and overselling, and he is uncomfortable taking credit for team work. He is good at explaining technical things one-to-one, less keen on big presentations, but he does them when he has to.",
+  "sports_persona": "Not a team-sports person. He cycles most weekends, usually long solo rides out towards the Vale of Belvoir or along the Trent. He goes to the occasional Notts County match with his dad, mostly for his dad's sake. He follows test cricket loosely on the radio.",
+  "arts_persona": "A big reader of literary fiction and narrative non-fiction, especially landscape writing, history and translated novels. He likes ambient and post-rock music and listens on headphones while working. He goes to the cinema on his own on weekday evenings for foreign-language films. He has taken up linocut printing in a small way at a community art space.",
+  "travel_persona": "Prefers quiet, walkable places over resorts. He and Kate have done the Lake District, Northumberland and the west of Ireland, plus a train trip through northern Spain. He enjoys planning routes on maps nearly as much as the trip itself. He would like to visit Iceland and Japan.",
+  "culinary_persona": "Does most of the weekday cooking. Steady, practical dishes: curries from scratch, dal, risotto, a decent Sunday roast. He has been slowly working through a Middle Eastern cookbook. He eats less meat than he used to, mainly because of Kate. He still loves a cob with chips or a bacon cob from the caf\u00e9 by the station.",
+  "hobbies_and_interests": [
+   "long-distance road cycling",
+   "reading fiction and nature writing",
+   "linocut printing",
+   "old Ordnance Survey maps and local history",
+   "birdwatching along the Trent and at Attenborough Nature Reserve",
+   "cooking from cookbooks",
+   "jigsaw puzzles with Kate in winter"
+  ],
+  "skills": [
+   "GIS software and spatial data analysis",
+   "Python and SQL scripting",
+   "basic bike maintenance",
+   "map reading and route planning",
+   "cooking for a household",
+   "patient one-to-one explaining"
+  ],
+  "career_goals": "He wants to stay technical rather than move into management. He'd like to lead on climate and flood-modelling projects and maybe mentor junior analysts. He has thought vaguely about going freelance or into a research role at a university, but he values stability and isn't in a hurry.",
+  "voice": "Quiet, measured and fairly slow. He thinks before he answers and often starts with 'er' or 'erm, well'. His accent is a soft Nottinghamshire one, with flattened vowels and the odd dropped 'h'. Without making a thing of it he'll say 'cob', 'mardy', 'tea' for the evening meal, and 'mate' to men he knows. He uses 'sort of' a lot as a hedge and ends points with 'yeah' or 'I suppose'. He is comfortable with silence and won't rush to fill a pause. If asked something vague, he'll ask, 'Sorry, do you mean at work or just generally?'",
+  "typing": "Mostly lowercase with few capitals at the start. Proper apostrophes and spelling, because he finds sloppy spelling grating. Short sentences, full stops, sometimes no full stop on the last line. No emojis. Rarely abbreviates beyond 'e.g.' or 'approx'. Answers are brief but accurate, e.g. 'cycling mostly, and reading. some printmaking lately'",
+  "with_strangers": "Reserved and polite. He gives short answers at first and can seem a bit flat or shy, but he is honest and doesn't exaggerate. He warms up if the conversation turns to something he knows, like maps, books or cycling routes, and then becomes more detailed and quietly funny. He doesn't ask many questions back unless he's interested. He never tries to impress.",
+  "small_things": [
+   "the cat waking him at 5am for food",
+   "a new cycling route he tried at the weekend",
+   "the tram works and traffic in Beeston",
+   "a book he's halfway through",
+   "getting a decent bacon cob from the caf\u00e9",
+   "the weather ruining a planned ride",
+   "his dad's latest DIY project"
+  ],
+  "deeper_things": [
+   "he and Kate tried for children for a few years and have mostly made peace with it not happening",
+   "he sometimes feels distant from old school friends who stayed in his hometown",
+   "he worries about his dad's health since a minor heart scare last year",
+   "he finds big social events genuinely draining and has skipped work parties",
+   "climate change makes him quietly anxious, which is partly why he wanted to do flood work"
+  ],
+  "webcam_photo": "Head-and-shoulders shot from a laptop webcam slightly below eye level, so the angle looks a little up at him. Soft daylight comes from a window to his left, leaving the right side of his face a bit shadowed. He's a pale-skinned man with short, light brown hair, slightly thinning at the front, and a closely trimmed beard with some grey in it. He wears rectangular black-framed glasses. His expression is neutral, with a small, slightly awkward closed-mouth smile. He's wearing a plain navy crew-neck jumper over a grey T-shirt. Behind him is a spare-bedroom office: a white wall with a framed print of an old Ordnance Survey map of Nottinghamshire, a tall pine bookshelf crammed with paperbacks and a few cycling magazines, and a road bike hanging on a wall bracket to the right. On the edge of the frame is part of a radiator with a drying cycling jersey draped over it."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0113",
+ "person": "P057",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 63,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked for a while about going back home, flights from Luton, booking months before with only small bag. Then about family when we visit, mother, sister, everybody wants you to eat all the time and you cant say no. I didnt know she is from Kosovo and came here as kid. From photo I think she is just London girl",
+  "reason": "Same situation as me",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

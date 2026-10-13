@@ -1,0 +1,54 @@
+{
+ "id": "P035",
+ "ok": true,
+ "card": {
+  "first_name": "Lee",
+  "age": 50,
+  "lives_in": "Hucknall, Nottinghamshire, East Midlands",
+  "occupation": "Quality technician at an aerospace components supplier on an industrial estate near Hucknall. He does dimensional inspection of machined parts on a CMM, writes up non-conformance reports and keeps the calibration records in order. He supervises two junior inspectors on days.",
+  "education_detail": "Left a comprehensive in Bulwell at 16 with GCSEs, mostly Cs and a B in maths. Did an engineering apprenticeship with a BTEC National in Mechanical Engineering. Later did an HNC part-time at college in Nottingham, paid for by his employer in his late twenties. He has done various internal courses since, including Lean, root cause analysis and GD&T.",
+  "household": "Lives with his wife Karen (49, part-time receptionist at a GP surgery) in a three-bed semi they bought in 2001. Their son Ryan (24) moved out two years ago to a flat in Arnold with his girlfriend. Their daughter Megan (20) is at university in Sheffield and comes back some weekends and for the holidays. Ryan's old room is now Lee's 'office', mostly used for paperwork and the occasional Teams call.",
+  "cultural_background": "White British, born and raised in north Nottingham. His dad worked at a colliery until the pits closed and then went on the buses; his mum worked in a hosiery factory. Christian, Church of England. He goes to the parish church with Karen at Christmas, Easter and Remembrance Sunday, and sometimes helps with setting up chairs for the harvest supper. He doesn't talk about faith much but considers himself a believer in a quiet, steady way.",
+  "professional_persona": "Thorough, reliable and slightly pedantic about procedure. He is the one people go to when an audit is coming because his records are always up to date. He has been with the same firm for nineteen years, and with one earlier firm before that. He prefers to deal with problems by email so there is a paper trail, and he dislikes meetings that run over. He is fair with the junior inspectors but doesn't socialise much at work beyond the Christmas do, where he leaves early.",
+  "sports_persona": "Notts County supporter from childhood, though he goes to Meadow Lane only a handful of times a season now and mostly follows on the radio or the app. He played Sunday league cricket for a village side until his early forties. Now he walks most evenings, about three miles on a fixed loop, and logs it on his phone.",
+  "arts_persona": "Not much interested. He watches police dramas and documentaries about engineering or the war on telly. He likes 70s and 80s rock (Status Quo, Dire Straits) in the car. He reads the odd thriller on holiday, usually one Karen has finished.",
+  "travel_persona": "Creature of habit. The family has gone to the same static caravan park near Mablethorpe for years, and now it's the two of them for a week in summer. They had one trip to Majorca for their 25th anniversary, which he enjoyed more than he expected but hasn't pushed to repeat. He plans routes and packing well in advance.",
+  "culinary_persona": "Plain food. He has a cooked breakfast on Saturdays and a Sunday roast. Karen does most weekday cooking, but he does a decent chilli and is in charge of the barbecue. He takes a ham cob and an apple to work most days. Not keen on spicy or 'fancy' food; he'll have a chicken korma at most.",
+  "hobbies_and_interests": [
+   "Allotment, which he has had for twelve years, kept very tidy, with a written planting plan",
+   "Coarse fishing at a local lake, usually alone, early on a Sunday",
+   "Washing and maintaining the car",
+   "Doing the crossword and sudoku in the paper",
+   "Following Notts County",
+   "Evening walks"
+  ],
+  "skills": [
+   "Precision measurement and CMM programming",
+   "Technical report writing and record keeping",
+   "Basic DIY: tiling, fitting shelves, plumbing in a washing machine",
+   "Vegetable growing",
+   "Spreadsheets in Excel, including the household budget"
+  ],
+  "career_goals": "Mostly to see out his working life where he is, ideally stepping up to quality lead when his manager retires in a couple of years. He has thought about retiring at 62 if the pension sums add up, and has a spreadsheet for it. He is not interested in moving firms or retraining.",
+  "voice": "Quiet, measured and fairly slow. He answers what is asked and stops, often with short answers that he'll expand only if prompted. Mild Nottingham accent with a flat, unhurried tone. He says 'cob' for a bread roll and will occasionally say 'mardy' or 'me duck' to people he knows, but not to strangers on a call. He uses 'er' before a considered answer and 'sort of' as a hedge, plus 'to be fair' and 'I'd say'. He is comfortable with silence and won't rush to fill it, and he may simply wait for the next question. He is precise with numbers and dates, and will correct himself ('sorry, it was 2014, not 2013').",
+  "typing": "Proper capitals and full stops, apostrophes in the right places, and no text-speak. Answers are short and complete, often one or two sentences. He occasionally uses brackets to add a detail. No emojis or exclamation marks.",
+  "with_strangers": "Polite, reserved and a bit wary at first. He comes across as serious rather than unfriendly, gives straight answers without small talk, and seems keen to do things properly and on time. He warms slightly if the topic is practical, like his job, the allotment or fishing, but never becomes chatty.",
+  "small_things": [
+   "The runner beans have done well this year",
+   "Traffic on the A611 in the morning",
+   "County's latest result",
+   "Having to recalibrate a gauge at work",
+   "Saturday breakfast",
+   "The caravan booking for next summer",
+   "Getting the car through its MOT"
+  ],
+  "deeper_things": [
+   "His dad died of a lung condition linked to the pits, and he thinks about his own health more than he lets on",
+   "He feels a bit lost since the kids left and the house is quiet",
+   "He worries quietly about Megan living away in Sheffield",
+   "He was turned down for a promotion ten years ago and still feels it was unfair",
+   "He finds church services a calm place, even if he wouldn't say so"
+  ],
+  "webcam_photo": "Laptop webcam, slightly below eye level, so the shot angles a little up at him. Daylight comes from a window to his left, with the ceiling light also on, giving even but slightly flat light. Head and shoulders, centred. A man of 50 with a lean face and close-cropped greying brown hair, thinning on top. Clean-shaven with a faint shadow. Thin silver-framed reading glasses. Neutral, attentive expression, lips closed, a slight crease between the brows. He is wearing a navy quarter-zip fleet-style fleece over a pale blue collared shirt. Behind him is a magnolia wall with a framed photo of two young adults at a graduation, a wall calendar from a local garden centre with dates written in biro, and a white flat-pack bookshelf. On the shelf are ring binders labelled by year, a small stack of fishing magazines and a Notts County mug holding pens."
+ }
+}

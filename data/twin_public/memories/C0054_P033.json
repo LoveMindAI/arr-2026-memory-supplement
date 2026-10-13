@@ -1,0 +1,23 @@
+{
+ "call": "C0054",
+ "person": "P033",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about football for a bit, joking about each others teams and playing on wednesdays",
+  "reason": "felt like the bit where we both relaxed tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

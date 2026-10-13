@@ -1,0 +1,23 @@
+{
+ "call": "C0412",
+ "person": "P199",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got onto me quitting my job for the MA and worrying about debt, turns out shes got a daughter who did the same",
+  "reason": "it was kind of what i needed to hear tbh",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

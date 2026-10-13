@@ -1,0 +1,23 @@
+{
+ "call": "C0181",
+ "person": "P084",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She said the pressed flower pictures on the shelf behind her were ones she'd made.",
+  "reason": "I'd noticed them in her photo beforehand and assumed they were bought from a shop.",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

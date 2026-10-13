@@ -1,0 +1,23 @@
+{
+ "call": "C0320",
+ "person": "P157",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "him saying his garden bench has been nearly done a year, three legs lol",
+  "reason": "made me laugh cos its exactly like Rob and his half a shed, we clicked",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

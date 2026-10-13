@@ -1,0 +1,23 @@
+{
+ "call": "C0115",
+ "person": "P060",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Mostly how we went from a slightly awkward start to chatting easily about work worries and everyday stuff",
+  "reason": "I was a bit nervous at first, so it felt nice when we properly relaxed and found common ground",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

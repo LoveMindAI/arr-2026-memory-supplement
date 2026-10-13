@@ -1,0 +1,25 @@
+{
+ "call": "C0188",
+ "person": "P091",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 35,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I asked what he does with himself now hes retired he went quiet for a good few seconds, looked off towards the window, sort of breathed out slow and rubbed his jaw before saying not really",
+  "reason": "Bit of a pause, stuck with me tbh",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0188",
+  "turn": 20,
+  "line_text": "Er... not really. Shed, mostly. Got a lawnmower engine in bits. Two year it's been in bits.",
+  "who": "Graham",
+  "what": "Before answering, Graham goes silent for about five seconds. He looks down and away to his right towards the window, lets out an audible slow breath through his nose and rubs his jaw with one hand, then looks back just below the camera and speaks."
+ }
+}

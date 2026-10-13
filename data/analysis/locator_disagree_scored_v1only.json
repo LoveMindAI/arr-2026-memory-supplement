@@ -1,0 +1,16 @@
+{
+ "n_items": 79,
+ "judged": 77,
+ "right": {
+  "sonnet_v1": 54,
+  "gemini_v1": 62,
+  "luna_v1": 50
+ },
+ "any": 74,
+ "verdicts": {
+  "ticked": 72,
+  "none": 1,
+  "av": 4,
+  "cant": 2
+ }
+}

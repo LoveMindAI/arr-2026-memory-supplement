@@ -1,0 +1,23 @@
+{
+ "call": "C0513",
+ "person": "P260",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i mentioned saving for australia and it suddenly felt proper real, like i actually should just go for it lol",
+  "reason": "its kind of my dream tbh",
+  "timing": 82
+ },
+ "requires_av": false,
+ "av_event": null
+}

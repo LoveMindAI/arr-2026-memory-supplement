@@ -1,0 +1,25 @@
+{
+ "call": "C0015",
+ "person": "P009",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 3,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her lad raiding the fridge",
+  "reason": "made me smile",
+  "timing": 65
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0015",
+  "turn": 15,
+  "line_text": "So is that all week then, the pharmacy?",
+  "who": "Tracey",
+  "what": "A tall teenage boy in a hoodie walks through the kitchen behind Tracey. He opens the fridge, takes out a carton and leaves the frame. Tracey doesn't turn round."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0387",
+ "person": "P188",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about mar charts and tablets not coming and everybody blaming each other, we both know this problem too well",
+  "reason": "because it happens to me all the time at work and was nice somebody understands for once",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

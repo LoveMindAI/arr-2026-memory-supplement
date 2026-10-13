@@ -1,0 +1,23 @@
+{
+ "call": "C0462",
+ "person": "P230",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 29
+ },
+ "ok": true,
+ "answers": {
+  "moment": "us both going on about pie barms near the end and agreeing meat and potato is the only kind worth having",
+  "reason": "felt like proper home stuff tbh, nobody else on these calls knew what a barm even was so it was nice having a natter with someone local who just gets it",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

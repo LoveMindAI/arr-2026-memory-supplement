@@ -1,0 +1,23 @@
+{
+ "call": "C0097",
+ "person": "P055",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Jago describing his gig rowing documentary, out on the sea at six in the morning with rowers in their seventies.",
+  "reason": "It sounded lovely, and so different from my job.",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

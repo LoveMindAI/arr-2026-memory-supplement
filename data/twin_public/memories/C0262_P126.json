@@ -1,0 +1,23 @@
+{
+ "call": "C0262",
+ "person": "P126",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he talked a lot and said sorry every minute, also learned he shares derby season ticket with cousin",
+  "reason": "he cut me off all the time but was alright, not fake",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

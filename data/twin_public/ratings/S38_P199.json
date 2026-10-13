@@ -1,0 +1,47 @@
+{
+ "session": "S38",
+ "rater": "P199",
+ "ok": true,
+ "ratings": {
+  "P200": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "reminds me of my mum tbh, looks like she knows where her keys are"
+  },
+  "P201": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "proper friendly, plus he's a sparky like ryan lol"
+  },
+  "P202": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 4,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "defo an artsy type, love the prints on the wall"
+  },
+  "P203": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "looks a bit stressed out with all them shifts on the calendar"
+  }
+ }
+}

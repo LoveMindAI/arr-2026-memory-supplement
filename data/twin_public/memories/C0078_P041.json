@@ -1,0 +1,23 @@
+{
+ "call": "C0078",
+ "person": "P041",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Dorota talking about her mum being eighty and back in Poland, only visiting each summer.",
+  "reason": "Made me think about Dad.",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

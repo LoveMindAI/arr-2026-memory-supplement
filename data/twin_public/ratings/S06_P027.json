@@ -1,0 +1,37 @@
+{
+ "session": "S06",
+ "rater": "P027",
+ "ok": true,
+ "ratings": {
+  "P025": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Looks like she knows what she's doing, er, maybe a bit firm but fair."
+  },
+  "P026": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Quietly confident and tidy, sort of professional like he's got his life sorted."
+  },
+  "P028": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Seems decent and busy, you know? Like she's juggling a lot at home."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0380",
+ "person": "P184",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We had a good natter about forklifts. Turns out her husband drives one near Wakefield.",
+  "reason": "Felt like talking to someone off my old shift. Made me smile. Thanks.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

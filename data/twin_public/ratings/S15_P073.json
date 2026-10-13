@@ -1,0 +1,57 @@
+{
+ "session": "S15",
+ "rater": "P073",
+ "ok": true,
+ "ratings": {
+  "P074": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "proper nice grandfatherly vibe, looks like he'd have a good story about exmoor or something"
+  },
+  "P075": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 0,
+   "gut": "looks like he's just finished a shift and wants to be anywhere else tbh... quite relatable though"
+  },
+  "P076": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "very calm energy and i love the bauhaus poster... feels like she knows exactly what shes doing"
+  },
+  "P077": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "bit of a professional type, probably does a lot of miles on that bike... makes me feel guilty about mine"
+  },
+  "P078": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "reminds me of my mam's friends, dead friendly and probably makes a brilliant cup of tea"
+  }
+ }
+}

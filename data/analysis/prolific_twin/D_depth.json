@@ -1,0 +1,41 @@
+{
+ "sets": [
+  "set1",
+  "set2"
+ ],
+ "question": "depth",
+ "agreement": {
+  "items": 180,
+  "rater_rater_kappa": 0.2,
+  "rater_alpha": 0.183,
+  "claude-haiku-5.5_rater_kappa": 0.269,
+  "claude-haiku-5.5_matches_majority": 0.672,
+  "gpt-6-luna_rater_kappa": 0.107,
+  "gpt-6-luna_matches_majority": 0.622,
+  "gemini-3-flash-preview_rater_kappa": 0.197,
+  "gemini-3-flash-preview_matches_majority": 0.706
+ },
+ "rates": {
+  "raters": {
+   "no": 0.188,
+   "surface": 0.713,
+   "deep": 0.099
+  },
+  "claude-haiku-5.5": {
+   "no": 0.283,
+   "surface": 0.622,
+   "deep": 0.094
+  },
+  "gpt-6-luna": {
+   "no": 0.189,
+   "surface": 0.706,
+   "deep": 0.106
+  },
+  "gemini-3-flash-preview": {
+   "no": 0.128,
+   "surface": 0.744,
+   "deep": 0.128
+  }
+ },
+ "complete": true
+}

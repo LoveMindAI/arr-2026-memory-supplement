@@ -1,0 +1,57 @@
+{
+ "session": "S13",
+ "rater": "P063",
+ "ok": true,
+ "ratings": {
+  "P062": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks a bit nervous bless her, like me when I'm trying new things lol!! seems dead sweet n down to earth though"
+  },
+  "P064": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "aw she looks lovely!! proper warm smile and her kitchen looks like she's always busy, definitely someone i could chat to for hours"
+  },
+  "P065": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 4,
+   "pair": 0,
+   "gut": "looks a bit fed up tbh, maybe he just wants to get back to his playstation lol! cute cat in the back though"
+  },
+  "P066": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems like a nice enough lad, a bit quiet maybe? his room looks a bit of a mess with that washing out, reminds me of my house on a monday!!"
+  },
+  "P067": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks a bit more artsy than me but she seems alright, bit serious maybe? bet she's dead clever with all those books n that"
+  }
+ }
+}

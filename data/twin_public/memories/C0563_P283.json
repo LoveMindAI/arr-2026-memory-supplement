@@ -1,0 +1,23 @@
+{
+ "call": "C0563",
+ "person": "P283",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 3,
+  "reason": 27
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Me doing my phone voice",
+  "reason": "Because I got caught out right at the start! Bit embarrassing tbh, didnt even realise I was doing it. Felt more myself after that, sort of relaxed into it",
+  "timing": 5
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0235",
+ "person": "P110",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 38,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we found out we both do lettings admin and just moaned about it for ages, getting rung on our days off, useless negotiators, the craig thing. didnt know shes doing an AAT course to get into property accounts",
+  "reason": "dead weird, exact same job at the other end of the country",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

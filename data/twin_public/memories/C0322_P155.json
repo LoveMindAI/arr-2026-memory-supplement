@@ -1,0 +1,23 @@
+{
+ "call": "C0322",
+ "person": "P155",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The whole call felt easy, rather like two walkers comparing notes on a stile. I hadn't realised he was a mature ecology student.",
+  "reason": "We had more in common than I'd expected; it was a genuinely comfortable conversation.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

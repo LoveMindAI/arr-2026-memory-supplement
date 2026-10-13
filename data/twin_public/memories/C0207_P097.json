@@ -1,0 +1,23 @@
+{
+ "call": "C0207",
+ "person": "P097",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "talking about holidays near the end, turns out she saves all year for one trip",
+  "reason": "felt like the bit where we sort of clicked, and she was less intimidating than i thought",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

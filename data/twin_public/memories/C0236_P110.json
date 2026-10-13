@@ -1,0 +1,23 @@
+{
+ "call": "C0236",
+ "person": "P110",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "tbh just the whole thing felt way less awkward than i expected, i thought shed be too much but it was actually kind of nice",
+  "reason": "because i judged her off the photo and was wrong (annoyingly)",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

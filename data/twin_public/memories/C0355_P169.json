@@ -1,0 +1,23 @@
+{
+ "call": "C0355",
+ "person": "P169",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 33,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto eye tests and I ended up telling him about the man with a curtain over one eye for a week who kept driving, we were both a bit horrified at that tbh",
+  "reason": "Because its my job and it still bothers me, people leave things far too long",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

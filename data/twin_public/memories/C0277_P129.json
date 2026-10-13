@@ -1,0 +1,23 @@
+{
+ "call": "C0277",
+ "person": "P129",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 49,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When he asked if a ring was coming with Hannah and I sort of fumbled it. He said nobody's ever got it all sorted first, you just crack on, and that him and his wife Rachel were skint when they bought their house and it was the best thing they did.",
+  "reason": "It's been on my mind tbh.",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

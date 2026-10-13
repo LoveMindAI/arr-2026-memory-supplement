@@ -1,0 +1,23 @@
+{
+ "call": "C0449",
+ "person": "P221",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about saints and how rubbish saturday was, both of us moaning about the second half like wed been sat in the same pub watching it together",
+  "reason": "always good finding another saints fan tbh",
+  "timing": 10
+ },
+ "requires_av": false,
+ "av_event": null
+}

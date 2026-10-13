@@ -1,0 +1,23 @@
+{
+ "call": "C0438",
+ "person": "P212",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 42
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto the whole kids and timing thing",
+  "reason": "i think because i ended up saying way more than i meant to, i got a bit flustered and was talking really fast, but it actually felt nice and reassuring tbh, like i didn't feel judged for once about it, do you know what i mean",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

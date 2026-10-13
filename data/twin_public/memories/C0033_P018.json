@@ -1,0 +1,23 @@
+{
+ "call": "C0033",
+ "person": "P018",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got chatting about chillies and my kimchi jar exploding all up the cupboard",
+  "reason": "made us laugh",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

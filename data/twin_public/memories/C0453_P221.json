@@ -1,0 +1,23 @@
+{
+ "call": "C0453",
+ "person": "P221",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i asked if shed come far and its all on the laptop obviously, felt a bit daft lol",
+  "reason": "cos it was so stupid",
+  "timing": 10
+ },
+ "requires_av": false,
+ "av_event": null
+}

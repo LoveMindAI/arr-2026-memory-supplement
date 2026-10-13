@@ -1,0 +1,37 @@
+{
+ "session": "S24",
+ "rater": "P127",
+ "ok": true,
+ "ratings": {
+  "P125": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 3,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks a bit like the lads i used to live with at uni tbh, probably just needs a proper brew and he would cheer up, bet he plays a lot of ea fc lol"
+  },
+  "P126": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "seems like a decent bloke who just wants to get the job done and get home, see the crucifix so he might go st laurence's or similar, reminds me of my dad a bit"
+  },
+  "P128": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "looks a bit mardy lol, maybe he is just tired like i am most thursdays, west ham though so we could probably talk football for ages if he wanted"
+  }
+ }
+}

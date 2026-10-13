@@ -1,0 +1,57 @@
+{
+ "session": "S05",
+ "rater": "P019",
+ "ok": true,
+ "ratings": {
+  "P020": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "looks like she knows what she is doing, maybe teacher or boss"
+  },
+  "P021": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 3,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "bit quiet and serious, dont think she wants to be here"
+  },
+  "P022": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like normal bloke, probably works shifts, alright to talk to"
+  },
+  "P023": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "shy but hard worker, reminds me of people at shop on caldmore"
+  },
+  "P024": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "very nice lady like the ones agnieszka works with at home"
+  }
+ }
+}

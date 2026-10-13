@@ -1,0 +1,23 @@
+{
+ "call": "C0121",
+ "person": "P061",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got on about tea and sunday dinners and that, didnt know her family was albanian",
+  "reason": "never had albanian food before so it stuck",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

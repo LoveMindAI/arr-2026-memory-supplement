@@ -1,0 +1,23 @@
+{
+ "call": "C0330",
+ "person": "P158",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked a long time about calming worried old people",
+  "reason": "because thats my job so i know it, i felt useful hehe",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

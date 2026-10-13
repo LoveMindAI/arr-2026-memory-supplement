@@ -1,0 +1,23 @@
+{
+ "call": "C0519",
+ "person": "P258",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about my mum struggling down in bridgwater for a bit, turns out shes a practice nurse",
+  "reason": "its been on my mind tbh, me and my brother need sorting",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

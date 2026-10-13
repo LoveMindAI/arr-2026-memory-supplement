@@ -1,0 +1,23 @@
+{
+ "call": "C0347",
+ "person": "P164",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got talking about faith n losing our nans. Found out she sings in a Methodist choir.",
+  "reason": "Didnt expect to end up talking about me nan.",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

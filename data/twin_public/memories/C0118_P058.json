@@ -1,0 +1,23 @@
+{
+ "call": "C0118",
+ "person": "P058",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 22,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We chatted fairly easily about work, the cold and walking. It felt relaxed and we had a few laughs along the way.",
+  "reason": "It was easier going than I thought it would be.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

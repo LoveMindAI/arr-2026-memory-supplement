@@ -1,0 +1,23 @@
+{
+ "call": "C0126",
+ "person": "P063",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 36,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he were explaining his job, he does flood risk modelling, computer models of rivers working out where the water would go, n he said the people whove been flooded never really get over it. made me think of me mums friend",
+  "reason": "it hit home tbh",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

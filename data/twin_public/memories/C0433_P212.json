@@ -1,0 +1,23 @@
+{
+ "call": "C0433",
+ "person": "P212",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I went full physio mode giving gym advice, felt like I was lecturing him a bit haha",
+  "reason": "He was quite hard work so I filled the gaps, cringed a bit after",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

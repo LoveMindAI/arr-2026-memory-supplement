@@ -1,0 +1,47 @@
+{
+ "session": "S51",
+ "rater": "P268",
+ "ok": true,
+ "ratings": {
+  "P266": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "looks like some of the customers i work for, very organised and busy with her business i think."
+  },
+  "P267": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "seems like a normal lad, probably into his football and gaming. a bit quiet like me."
+  },
+  "P269": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "reminds me of my sister with the revision planner and the books. looks very polite and smart."
+  },
+  "P270": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like a laugh, reminds me of some of the older guys on site who are always joking around."
+  }
+ }
+}

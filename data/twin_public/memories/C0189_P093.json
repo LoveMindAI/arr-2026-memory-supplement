@@ -1,0 +1,23 @@
+{
+ "call": "C0189",
+ "person": "P093",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 25,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "near the end when we talked about what we do for ourselves, my henna and her doing hair. i didnt know she did her own braids herself",
+  "reason": "felt like we had the same thing going on tbh",
+  "timing": 82
+ },
+ "requires_av": false,
+ "av_event": null
+}

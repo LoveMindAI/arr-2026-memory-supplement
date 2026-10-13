@@ -1,0 +1,23 @@
+{
+ "call": "C0068",
+ "person": "P038",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the recycling bit, turns out she runs two bubble tea shops",
+  "reason": "wrong stuff in the recycling does my head in every day, nice someone actually gets it",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

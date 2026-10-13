@@ -1,0 +1,23 @@
+{
+ "call": "C0159",
+ "person": "P076",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto my dad passing away. It went quiet for a second, but it felt gentle and we both sort of understood each other",
+  "reason": "It felt genuine",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

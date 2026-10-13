@@ -1,0 +1,23 @@
+{
+ "call": "C0245",
+ "person": "P115",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We spent a while on medication refusal and trust in care homes. I learned she's a senior care assistant in a forty-bed home.",
+  "reason": "It's directly relevant to my thesis, honestly.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

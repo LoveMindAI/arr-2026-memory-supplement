@@ -1,0 +1,25 @@
+{
+ "call": "C0539",
+ "person": "P276",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 8,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the blanket on her guinea pig cage moving about lol",
+  "reason": "it made me laugh and i kept looking at it instead of her lol",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0539",
+  "turn": 18,
+  "line_text": "Honestly, you'd be surprised. Once you start looking you see them everywhere. I saw a kestrel this morning by the bus stop, just hovering over the verge.",
+  "who": "Megan",
+  "what": "In the lower right corner of Megan's frame, the fleece blanket draped over the guinea pig cage visibly shifts and bulges as the animal moves about underneath it, then settles again."
+ }
+}

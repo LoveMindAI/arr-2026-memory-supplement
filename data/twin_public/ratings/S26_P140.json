@@ -1,0 +1,57 @@
+{
+ "session": "S26",
+ "rater": "P140",
+ "ok": true,
+ "ratings": {
+  "P135": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "proper friendly sort reminds me of my mum tbh"
+  },
+  "P136": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "looks like she works in an office maybe accounts or summat"
+  },
+  "P137": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit quiet maybe wont have much to say"
+  },
+  "P138": {
+   "photo": 4,
+   "friendly": 2,
+   "like": 3,
+   "trust": 5,
+   "comp": 6,
+   "sim": 1,
+   "pair": 0,
+   "gut": "looks like she dont take no rubbish bit scary"
+  },
+  "P139": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 7,
+   "sim": 2,
+   "pair": 1,
+   "gut": "looks smart like a teacher or summat clever"
+  }
+ }
+}

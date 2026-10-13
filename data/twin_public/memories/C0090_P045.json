@@ -1,0 +1,23 @@
+{
+ "call": "C0090",
+ "person": "P045",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We had a natter about cooking and what everyone will eat",
+  "reason": "it felt easy and friendly, id properly relaxed by then",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,25 @@
+{
+ "call": "C0178",
+ "person": "P087",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 17,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he said its quiet he looked over his shoulder at the photo of the lass then back same face",
+  "reason": "know that feeling myself",
+  "timing": 78
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0178",
+  "turn": 30,
+  "line_text": "A daughter. Fifteen. She's with me every other weekend and one night a week. The rest of the time it's quiet.",
+  "who": "Craig",
+  "what": "As he says it, Craig briefly turns his head over his left shoulder towards the framed photo of the teenage girl on the bookshelf behind him, holds the look for a second or two, then turns back to the screen with his face unchanged."
+ }
+}

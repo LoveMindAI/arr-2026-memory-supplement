@@ -1,0 +1,23 @@
+{
+ "call": "C0131",
+ "person": "P064",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "asking about the marshes flooding in winter, i felt a bit silly lol",
+  "reason": "i walk there loads so now ill think about it every time",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

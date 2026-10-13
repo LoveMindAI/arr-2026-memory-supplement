@@ -1,0 +1,57 @@
+{
+ "session": "S15",
+ "rater": "P076",
+ "ok": true,
+ "ratings": {
+  "P073": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He looks quite thoughtful, you know? I like the poster and the camera, he seems like someone I'd have a good chat with about art or design."
+  },
+  "P074": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "A very warm smile. He reminds me a bit of some of my older clients, just very settled and easy-going with his dog and his maps."
+  },
+  "P075": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "He looks a bit tired or maybe just bored, erm, like he's had a long day at work. I don't think we'd have much in common tbh."
+  },
+  "P077": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Very tidy and professional-looking. He seems quite high-energy with the bike and the watch, probably good at getting things done quickly."
+  },
+  "P078": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She looks lovely and very down-to-earth. The kitchen reminds me of some of the houses I visit for work, just very lived-in and friendly."
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S52",
+ "rater": "P275",
+ "ok": true,
+ "ratings": {
+  "P271": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like a student, probably works hard."
+  },
+  "P272": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Reminds me of my mam's mates."
+  },
+  "P273": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Decent lad, likes football and gets on with things."
+  },
+  "P274": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Seems sensible and organized. Has a dog."
+  },
+  "P276": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 4,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "A bit messy, might not focus on the work."
+  }
+ }
+}

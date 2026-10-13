@@ -1,0 +1,23 @@
+{
+ "call": "C0450",
+ "person": "P223",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we were talking about work and both not working.",
+  "reason": "It was a relief someone else wasn't working either. I didn't feel so embarrassed about it for once.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0433",
+ "person": "P214",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the warm up bit, i said bit of both but tbh i mostly just go straight in",
+  "reason": "felt like i got caught out a bit, and my hips have actually been tight lately so it sort of stuck",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

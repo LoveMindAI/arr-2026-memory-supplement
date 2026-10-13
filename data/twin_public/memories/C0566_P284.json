@@ -1,0 +1,23 @@
+{
+ "call": "C0566",
+ "person": "P284",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "just the whole thing tbh, we ended up talking about proper stuff like uni and family and that, went a bit deeper than the other calls did, still had a laugh though",
+  "reason": "caught me off guard a bit tbh",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

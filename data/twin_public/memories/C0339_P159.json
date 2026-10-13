@@ -1,0 +1,23 @@
+{
+ "call": "C0339",
+ "person": "P159",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 36,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we found out both our mums live ten minutes away and we were laughing about them ringing us all the time about food. i didnt know he does his mums garden for her, that was sweet",
+  "reason": "cos it was the first bit we properly had something in common and he seemed less rushed, he was quite short before that",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

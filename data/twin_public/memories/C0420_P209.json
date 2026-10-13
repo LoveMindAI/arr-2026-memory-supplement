@@ -1,0 +1,23 @@
+{
+ "call": "C0420",
+ "person": "P209",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She asked about the afternoon agitation and admitted she always argues. I told her stop correcting.",
+  "reason": "Because its my job and I see families do that all the time. Leaflets dont help.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

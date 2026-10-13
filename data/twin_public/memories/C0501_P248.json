@@ -1,0 +1,23 @@
+{
+ "call": "C0501",
+ "person": "P248",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 29
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She said 'But you still did it' when I moaned about the curtains.",
+  "reason": "Because I was only moaning about my hands and she turned it round. I hadn't thought of it like that. It sort of stuck with me, if I'm honest.",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S52",
+ "rater": "P276",
+ "ok": true,
+ "ratings": {
+  "P271": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "she looks dead clever with all them books and the bird chart, kind of quiet but nice"
+  },
+  "P272": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "reminds me of my mam or a lovely auntie, looks like she'd have good biscuits lol"
+  },
+  "P273": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks dead friendly and chatty, probably easy to get on with like one of liams mates"
+  },
+  "P274": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "aww she has a dog too, she looks like a teacher or someone who has her life together"
+  },
+  "P275": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "bit serious isnt he, looks like he spends all his time at the gym or studying"
+  }
+ }
+}

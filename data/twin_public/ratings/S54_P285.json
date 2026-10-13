@@ -1,0 +1,57 @@
+{
+ "session": "S54",
+ "rater": "P285",
+ "ok": true,
+ "ratings": {
+  "P281": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 4,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like a laugh tbh remind me of my brothers x"
+  },
+  "P282": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "proper lovely smile looks like she gets things done"
+  },
+  "P283": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "a bit too posh for me that kitchen is spotless lol"
+  },
+  "P284": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "remind me of my son callum with the decks and that"
+  },
+  "P286": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 7,
+   "pair": 1,
+   "gut": "she looks like she'd have a good gossip over a baileys"
+  }
+ }
+}

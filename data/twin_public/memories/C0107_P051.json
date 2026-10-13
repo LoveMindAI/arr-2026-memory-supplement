@@ -1,0 +1,23 @@
+{
+ "call": "C0107",
+ "person": "P051",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about church and faith near the end, didnt know he was polish catholic",
+  "reason": "it got less surfacey",
+  "timing": 88
+ },
+ "requires_av": false,
+ "av_event": null
+}

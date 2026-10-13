@@ -1,0 +1,23 @@
+{
+ "call": "C0006",
+ "person": "P002",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got chatting about library books and reading certain authors partly out of duty, then swapped recommendations and laughed about our overdue piles.",
+  "reason": "It felt really easy and honest, like we'd both admitted something a bit embarrassing at the same time. Plus I've actually got a book to go and get now!!",
+  "timing": 82
+ },
+ "requires_av": false,
+ "av_event": null
+}

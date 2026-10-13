@@ -1,0 +1,23 @@
+{
+ "call": "C0022",
+ "person": "P013",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 85,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto gardening. I'd just been telling him about my tomatoes finally going red (I'd sent a photo to my mum that morning) and it turned out he grows chillies & coriander in pots on his patio in Hayes, which I really didn't expect. He seemed quite shy at the start, but when it was about the plants he seemed a bit more relaxed and happy. I remember thinking we're both people who get stupidly excited about a few pots  in a small garden :)",
+  "reason": "It was the first proper thing we had in common, so the conversation stopped feeling like small talk. Also it just made me smile.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

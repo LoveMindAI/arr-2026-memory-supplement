@@ -1,0 +1,23 @@
+{
+ "call": "C0522",
+ "person": "P259",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When she asked if Id ever done a proper rescue and said she still thinks about hers sometimes, then apologised for it getting a bit deep",
+  "reason": "Been there myself, know how it sticks",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

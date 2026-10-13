@@ -1,0 +1,23 @@
+{
+ "call": "C0364",
+ "person": "P174",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 42,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The bit where we got talking about college and whether you actually need qualifications to get on. I said I left my btec in second year cos I needed the wage and we went back and forth on it a bit, fair enough really.",
+  "reason": "Hit a bit close tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

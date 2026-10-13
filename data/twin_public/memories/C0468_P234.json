@@ -1,0 +1,23 @@
+{
+ "call": "C0468",
+ "person": "P234",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 46
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The bit where we were chatting about pets and he sort of quietly explained why he was saying no, bit of an awkward pause after",
+  "reason": "Because I'd been going on about the dog and the vet like it was a funny story and then he said that and I felt a bit daft tbh. Made me realise I was doing most of the talking, you know? It just sort of stuck with me",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

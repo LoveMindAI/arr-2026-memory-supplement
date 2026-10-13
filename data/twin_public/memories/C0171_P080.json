@@ -1,0 +1,23 @@
+{
+ "call": "C0171",
+ "person": "P080",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "us going on about machines and the noise they make, didnt know he works a packing line",
+  "reason": "felt like he actually got it, not many people do tbh",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

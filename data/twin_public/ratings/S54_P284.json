@@ -1,0 +1,57 @@
+{
+ "session": "S54",
+ "rater": "P284",
+ "ok": true,
+ "ratings": {
+  "P281": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 4,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "proper lad looks like he enjoys a night out in town dead sound"
+  },
+  "P282": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 7,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "seems like a lovely teacher type dead organized and that"
+  },
+  "P283": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "bit of a glam mum vibe reminds me of customers who want a deal on a range rover"
+  },
+  "P285": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "looks like shes had a long shift needs a brew dead serious"
+  },
+  "P286": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "dead chatty vibe probably talks as much as i do tbh"
+  }
+ }
+}

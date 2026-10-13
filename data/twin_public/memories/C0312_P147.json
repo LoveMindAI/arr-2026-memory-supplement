@@ -1,0 +1,23 @@
+{
+ "call": "C0312",
+ "person": "P147",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 4,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he was quiet but honest",
+  "reason": "didnt say much at first but then he opened up about his dad being poorly and his sister doing most of it, didnt expect that",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0120",
+ "person": "P058",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 37,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I asked a question I thought was just harmless chat, and it turned out to be a bit of a sore point for her. I said sorry and felt a bit daft. She was alright about it though.",
+  "reason": "Felt awkward. I'd put my foot in it.",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

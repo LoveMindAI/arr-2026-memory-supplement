@@ -1,0 +1,23 @@
+{
+ "call": "C0310",
+ "person": "P147",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "ryan being sound the whole call, he runs a bar in manchester",
+  "reason": "he made us feel less daft about being off work and back at me mams, didnt make a thing of it",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

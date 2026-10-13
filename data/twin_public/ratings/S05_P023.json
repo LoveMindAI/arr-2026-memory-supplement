@@ -1,0 +1,57 @@
+{
+ "session": "S05",
+ "rater": "P023",
+ "ok": true,
+ "ratings": {
+  "P019": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "He looks very confident, maybe a bit loud, but he seems like a hard worker, okay?"
+  },
+  "P020": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "A very calm lady.  Her home looks so tidy and organized, I think she would be very kind."
+  },
+  "P021": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She has a sewing machine and a cricket photo, so we might have things to talk about, sorry."
+  },
+  "P022": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "He looks polite and organized with his shift notes.  He seems like a sensible person."
+  },
+  "P024": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Very friendly, sort of like a nice neighbour.  I like that she has a cat."
+  }
+ }
+}

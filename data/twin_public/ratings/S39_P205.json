@@ -1,0 +1,57 @@
+{
+ "session": "S39",
+ "rater": "P205",
+ "ok": true,
+ "ratings": {
+  "P204": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Lovely smile, reminds me of my daughter Becky with all that makeup haha! Seems very sweet."
+  },
+  "P206": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Bless him, looks like he's going through it with that machine but still very polite & organized."
+  },
+  "P207": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "A bit serious but very tidy. Probably good at the logic stuff that I'm mardy with lol."
+  },
+  "P208": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She looks like someone I'd have a proper laugh with at the pub, very down to earth!"
+  },
+  "P209": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Looks knackered poor soul, probably just off a long shift. I bet she's brilliant at her job though."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0517",
+ "person": "P259",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Leanne kept apologising all through the call, turns out shes a practice nurse in Walsall",
+  "reason": "Matched what I guessed from her photo really, quiet and sensible, proper job",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

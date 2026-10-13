@@ -1,0 +1,23 @@
+{
+ "call": "C0156",
+ "person": "P075",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 28,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "tbh it were just a lot of back and forth the whole way through, bit of banter, we talked work and footy and music, me taking the mick mostly, went quick enough",
+  "reason": "decent banter tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

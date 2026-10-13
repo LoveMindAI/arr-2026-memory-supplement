@@ -1,0 +1,37 @@
+{
+ "session": "S53",
+ "rater": "P278",
+ "ok": true,
+ "ratings": {
+  "P277": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He looks very nice, like a retired teacher or someone sort of official. I think he would be very polite."
+  },
+  "P279": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "He reminds me a bit of my son when he was younger and a bit moody. I think he might find me a bit boring."
+  },
+  "P280": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She seems very down to earth, like someone I would know from the school office or chapel. Very familiar  sort of person."
+  }
+ }
+}

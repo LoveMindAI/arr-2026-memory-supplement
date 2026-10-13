@@ -1,0 +1,57 @@
+{
+ "session": "S15",
+ "rater": "P077",
+ "ok": true,
+ "ratings": {
+  "P073": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like a creative type, maybe works in tech or design? Bit serious but seems on it tbh."
+  },
+  "P074": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Properly friendly bloke, reminds me of some of the senior partners back home in Essex."
+  },
+  "P075": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 4,
+   "sim": 4,
+   "pair": 0,
+   "gut": "Looks a bit bored if I'm honest, probably just waiting for the footy to start."
+  },
+  "P076": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Very calm and professional vibe, I reckon she'd be great for a group task & very reliable."
+  },
+  "P078": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "Reminds me of my mum's mates, very chatty & probably knows the whole street."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0076",
+ "person": "P040",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 27
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we found out both our husbands are self employed sparkies, hers is called gary",
+  "reason": "it was a bit spooky tbh same as me and i sort of felt more relaxed after that, like she wasnt as posh as i thought from her photo lol",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

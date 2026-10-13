@@ -1,0 +1,23 @@
+{
+ "call": "C0154",
+ "person": "P074",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 52,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit in the middle where we got onto kids and parenting... I went proper teacher on him tbh, started going on about which kids did ok in my classes and it being about somebody turning up. felt a bit daft after and said sorry but it went quiet in a good way, like it landed",
+  "reason": "it got real for a minute... made me miss my old students a bit",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

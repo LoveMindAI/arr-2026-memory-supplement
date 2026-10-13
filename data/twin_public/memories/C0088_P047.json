@@ -1,0 +1,23 @@
+{
+ "call": "C0088",
+ "person": "P047",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 27
+ },
+ "ok": true,
+ "answers": {
+  "moment": "just us having a laugh about work and football",
+  "reason": "it was easy tbh we had a fair bit in common so it didnt feel awkward just two normal lads chatting like you would on a break at work",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

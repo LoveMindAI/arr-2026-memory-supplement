@@ -1,0 +1,23 @@
+{
+ "call": "C0188",
+ "person": "P094",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 37,
+  "reason": 34
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit at the start when we was talking football. the baggies draw saturday and him being walsall so a bit of ribbing between us. didnt know he lived in aldridge thought hed be from further off",
+  "reason": "football is easy to talk about for me. rest of it was cars and golf and that which i dont know much about so i just sort of listened. felt more at home with the football",
+  "timing": 15
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0523",
+ "person": "P262",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 44
+ },
+ "ok": true,
+ "answers": {
+  "moment": "him noticing the robin drawing behind me.",
+  "reason": "I didn't think he'd even look at it, and I'd been worried he seemed a bit bored. he said it looked proper, which was nice. people don't usually notice my drawings, so it sort of stuck with me. hope that makes sense.",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0368",
+ "person": "P180",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 2,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the dog chat",
+  "reason": "her dog murphy is eleven and costs her loads at the vets too",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

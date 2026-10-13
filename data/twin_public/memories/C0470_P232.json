@@ -1,0 +1,23 @@
+{
+ "call": "C0470",
+ "person": "P232",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We just chatted easily about kids and school runs, really",
+  "reason": "It felt very familiar, like talking to another parent at the gate",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

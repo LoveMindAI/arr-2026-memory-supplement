@@ -1,0 +1,47 @@
+{
+ "session": "S07",
+ "rater": "P029",
+ "ok": true,
+ "ratings": {
+  "P030": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Looks like a good laugh tbh - definitely a tech guy with the CCNP book, but the Chelsea scarf means we'd have plenty to talk about with the football!"
+  },
+  "P031": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Reminds me a bit of my dad's mates back in Chelmsford - salt of the earth type, probably very reliable for a group task."
+  },
+  "P032": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Very proper and organized, isn't he? The crucifix and the wedding photo make him seem like a solid, traditional bloke - probably quite sharp too."
+  },
+  "P033": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Seems like a bright lad, maybe a student or grad? Love the Barbican print - he's clearly got good taste, even if he supports Palace!"
+  }
+ }
+}

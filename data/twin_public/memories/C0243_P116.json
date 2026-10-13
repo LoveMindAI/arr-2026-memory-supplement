@@ -1,0 +1,25 @@
+{
+ "call": "C0243",
+ "person": "P116",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 2,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her watch lit up",
+  "reason": "she glanced down at it mid seal story and i felt a bit like id lost her...",
+  "timing": 65
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0243",
+  "turn": 25,
+  "line_text": "Ha, fair. The whisky makes up for it. And the seals. There was this one seal that followed us along the beach for about a mile, and Joe was convinced it wanted his sandwich. Sorry, I'm rambling, go on.",
+  "who": "Nicola",
+  "what": "While Rachel is talking, the Apple Watch on Nicola's raised wrist lights up. Nicola drops her eyes to it and reads it for a couple of seconds, then looks back at the screen with the same half-smile."
+ }
+}

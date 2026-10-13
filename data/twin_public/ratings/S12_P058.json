@@ -1,0 +1,57 @@
+{
+ "session": "S12",
+ "rater": "P058",
+ "ok": true,
+ "ratings": {
+  "P056": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Reminds me of my mum's colleagues. Seems decent and sort of organized."
+  },
+  "P057": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Looks like he just got home from a shift. Bit quiet, like me."
+  },
+  "P059": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Spotted the architecture books. Might have a lot to talk about there."
+  },
+  "P060": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "Polite enough, but maybe a bit more talkative than I'd like."
+  },
+  "P061": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks like he's worked for a living. Reminds me of the tradesmen I know."
+  }
+ }
+}

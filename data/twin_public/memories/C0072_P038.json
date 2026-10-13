@@ -1,0 +1,23 @@
+{
+ "call": "C0072",
+ "person": "P038",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 34,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit about beer, i said i dont see the point of craft beer its just lager that costs more. bit of back and forth over it, didnt get heated, was alright to be fair",
+  "reason": "cos i had an actual opinion",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S47",
+ "rater": "P246",
+ "ok": true,
+ "ratings": {
+  "P247": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like he just wants to get on with it tbh, reminded me of me dad a bit with the sketch on the wall and the tools"
+  },
+  "P248": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems very tidy and sensible, probably quite kind but a bit nervous like me"
+  },
+  "P249": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "very nice smile and her house looks lovely, she seems easy to talk to"
+  },
+  "P250": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks quite organized with the files and that, wearing a cross too so maybe she goes to church"
+  },
+  "P251": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "made me feel better seeing the art books and the paintbrushes tbh, id love to ask about her prints"
+  }
+ }
+}

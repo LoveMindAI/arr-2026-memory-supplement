@@ -1,0 +1,24 @@
+{
+ "call": "C0580",
+ "person": "P291",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 58,
+  "reason": 47
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we was talking about dogs his dog actually come in behind him through the door thats open in the back, brown and white staffie cross, must be bruno. climbed up on the settee, turned round twice and flopped down on that throw thing on the arm. ryan never even looked round, just carried on talking like nothing happened",
+  "reason": "idk i just clocked it cos id only just asked if he had a dog and there it was. roxy does the exact same turning round twice thing before she lies down. made me laugh a bit tbh, he obviously lets it on the settee whatever chloe says"
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0580",
+  "turn": 20,
+  "line_text": "Ryan: Bruno's only three. Eats everything. Shoes, remote.",
+  "who": "Ryan",
+  "what": "In the background behind Ryan, a brown-and-white staffie cross wanders in through the half-open hallway door, climbs up onto the dark grey settee, turns round twice and lies down on the folded throw. Ryan doesn't look round."
+ }
+}

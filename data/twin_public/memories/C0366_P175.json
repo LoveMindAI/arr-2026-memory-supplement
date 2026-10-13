@@ -1,0 +1,23 @@
+{
+ "call": "C0366",
+ "person": "P175",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto our parents and i went a bit heavy about dad",
+  "reason": "i hadnt meant to bring it up in three minutes, and she was dead kind about it",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0168",
+ "person": "P081",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about old wooden temples and the joints in them, ended up joking about going together",
+  "reason": "old joinery is my thing, felt like mates",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0274",
+ "person": "P130",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got chatting about pets for a bit, me moaning about Bodie barking at the postman when I'm trying to sleep after nights, and we had a proper laugh about it",
+  "reason": "it was the bit where it felt less like a form and more like a normal natter tbh, bit of banter breaks the ice",
+  "timing": 20
+ },
+ "requires_av": false,
+ "av_event": null
+}

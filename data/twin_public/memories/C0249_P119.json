@@ -1,0 +1,23 @@
+{
+ "call": "C0249",
+ "person": "P119",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 39,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit right at the end when i asked her about the worst part of her job, it went from quite jokey to proper heavy really quick and i felt a bit bad for asking tbh, she seemed really genuine and soft about it",
+  "reason": "felt bad, didnt expect it to get real",
+  "timing": 95
+ },
+ "requires_av": false,
+ "av_event": null
+}

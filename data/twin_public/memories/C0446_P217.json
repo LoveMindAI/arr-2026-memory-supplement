@@ -1,0 +1,23 @@
+{
+ "call": "C0446",
+ "person": "P217",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "talking about bridgwater carnival and going off about people who moan about it",
+  "reason": "cos im proud of it tbh",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

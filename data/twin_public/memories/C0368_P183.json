@@ -1,0 +1,23 @@
+{
+ "call": "C0368",
+ "person": "P183",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I said I'm a bit soft and she just went, I'll just say it, totally matter of fact!",
+  "reason": "Made me laugh, she's quiet but tougher than me lol",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

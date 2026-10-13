@@ -1,0 +1,23 @@
+{
+ "call": "C0033",
+ "person": "P016",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Him saying make yourself the one nobody can do without then saying my way was more honest",
+  "reason": "Made me think a bit tbh & nice of him to say that",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

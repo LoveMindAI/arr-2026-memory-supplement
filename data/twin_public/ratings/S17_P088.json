@@ -1,0 +1,57 @@
+{
+ "session": "S17",
+ "rater": "P088",
+ "ok": true,
+ "ratings": {
+  "P084": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "proper serious engineer vibes probably dead smart yeah"
+  },
+  "P085": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a laugh tbh bet she likes a night out"
+  },
+  "P086": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "bit quiet but seems nice enough like proper chilled"
+  },
+  "P087": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 3,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "looks a bit moody ngl like a bloke at the pub"
+  },
+  "P089": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 7,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "proper mum energy she remind me of my nan lol"
+  }
+ }
+}

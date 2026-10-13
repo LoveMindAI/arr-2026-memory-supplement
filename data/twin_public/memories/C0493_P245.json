@@ -1,0 +1,23 @@
+{
+ "call": "C0493",
+ "person": "P245",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She got straight to the point the whole call and actually understood about nobody noticing your work.",
+  "reason": "Doesn't happen often. Most people just waffle.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

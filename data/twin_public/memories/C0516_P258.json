@@ -1,0 +1,23 @@
+{
+ "call": "C0516",
+ "person": "P258",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about care work, turns out shes a care assistant in an old peoples home",
+  "reason": "made me think about my mum tbh, shes late 70s and struggling and me and my brother havent sorted who steps up yet",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

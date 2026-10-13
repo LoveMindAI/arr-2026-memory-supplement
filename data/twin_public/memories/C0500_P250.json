@@ -1,0 +1,23 @@
+{
+ "call": "C0500",
+ "person": "P250",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Her daughter asks how much flour, she says 'enough'.",
+  "reason": "My grandmother gave me the same answer for pierogi. It felt like a real connection.",
+  "timing": 72
+ },
+ "requires_av": false,
+ "av_event": null
+}

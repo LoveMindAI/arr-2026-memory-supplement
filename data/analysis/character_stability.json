@@ -1,0 +1,1914 @@
+{
+ "claude-haiku-5.5": {
+  "appraisal.other_behavior": {
+   "people": [
+    0.024,
+    0.004,
+    0.044,
+    224
+   ],
+   "none": {
+    "pooled": [
+     0.003,
+     -0.004,
+     0.01,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.007,
+     "gemini-3.8-flash": -0.002,
+     "gemma-4-31b-it": 0.001,
+     "mimo-v2.6-flash": 0.003,
+     "qwen3.8-omni-flash": 0.005
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.006,
+     -0.001,
+     0.013,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.002,
+     "gemini-3.8-flash": 0.007,
+     "gemma-4-31b-it": 0.007,
+     "mimo-v2.6-flash": 0.007,
+     "qwen3.8-omni-flash": 0.006
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.01,
+     0.002,
+     0.018,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.004,
+     "gemini-3.8-flash": 0.009,
+     "gemma-4-31b-it": 0.024,
+     "mimo-v2.6-flash": 0.007,
+     "qwen3.8-omni-flash": 0.007
+    }
+   }
+  },
+  "appraisal.own_behavior": {
+   "people": [
+    0.069,
+    0.04,
+    0.097,
+    209
+   ],
+   "none": {
+    "pooled": [
+     0.008,
+     0.002,
+     0.014,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.013,
+     "gemini-3.8-flash": 0.005,
+     "gemma-4-31b-it": 0.0,
+     "mimo-v2.6-flash": 0.013,
+     "qwen3.8-omni-flash": 0.009
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.016,
+     0.008,
+     0.023,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.014,
+     "gemini-3.8-flash": 0.015,
+     "gemma-4-31b-it": 0.022,
+     "mimo-v2.6-flash": 0.005,
+     "qwen3.8-omni-flash": 0.022
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.018,
+     0.01,
+     0.026,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.017,
+     "gemini-3.8-flash": 0.014,
+     "gemma-4-31b-it": 0.024,
+     "mimo-v2.6-flash": 0.012,
+     "qwen3.8-omni-flash": 0.023
+    }
+   }
+  },
+  "appraisal.pleasant": {
+   "people": [
+    0.012,
+    -0.007,
+    0.031,
+    241
+   ],
+   "none": {
+    "pooled": [
+     0.002,
+     -0.005,
+     0.009,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.004,
+     "gemini-3.8-flash": 0.0,
+     "gemma-4-31b-it": 0.005,
+     "mimo-v2.6-flash": 0.001,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.011,
+     0.003,
+     0.019,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.019,
+     "gemini-3.8-flash": 0.003,
+     "gemma-4-31b-it": 0.002,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": 0.023
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.03,
+     0.021,
+     0.04,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.032,
+     "gemini-3.8-flash": 0.039,
+     "gemma-4-31b-it": 0.019,
+     "mimo-v2.6-flash": 0.023,
+     "qwen3.8-omni-flash": 0.04
+    }
+   }
+  },
+  "appraisal.unpleasant": {
+   "people": [
+    0.003,
+    -0.012,
+    0.018,
+    257
+   ],
+   "none": {
+    "pooled": [
+     0.001,
+     -0.006,
+     0.007,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.002,
+     "gemini-3.8-flash": -0.002,
+     "gemma-4-31b-it": -0.001,
+     "mimo-v2.6-flash": 0.004,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.013,
+     0.005,
+     0.022,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.025,
+     "gemini-3.8-flash": -0.0,
+     "gemma-4-31b-it": 0.011,
+     "mimo-v2.6-flash": 0.003,
+     "qwen3.8-omni-flash": 0.026
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.028,
+     0.018,
+     0.039,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.034,
+     "gemini-3.8-flash": 0.03,
+     "gemma-4-31b-it": 0.009,
+     "mimo-v2.6-flash": 0.021,
+     "qwen3.8-omni-flash": 0.046
+    }
+   }
+  },
+  "bigger_meaning": {
+   "people": [
+    0.008,
+    -0.012,
+    0.029,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.002,
+     -0.009,
+     0.014,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.003,
+     "gemini-3.8-flash": 0.003,
+     "gemma-4-31b-it": 0.012,
+     "mimo-v2.6-flash": -0.003,
+     "qwen3.8-omni-flash": 0.002
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.012,
+     -0.001,
+     0.025,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.002,
+     "gemini-3.8-flash": -0.004,
+     "gemma-4-31b-it": 0.034,
+     "mimo-v2.6-flash": 0.005,
+     "qwen3.8-omni-flash": 0.021
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.033,
+     0.018,
+     0.049,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.02,
+     "gemini-3.8-flash": 0.018,
+     "gemma-4-31b-it": 0.081,
+     "mimo-v2.6-flash": 0.011,
+     "qwen3.8-omni-flash": 0.038
+    }
+   }
+  },
+  "details": {
+   "people": [
+    0.086,
+    0.066,
+    0.108,
+    281
+   ],
+   "none": {
+    "pooled": [
+     -0.0,
+     -0.002,
+     0.002,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.0,
+     "gemini-3.8-flash": -0.002,
+     "gemma-4-31b-it": -0.0,
+     "mimo-v2.6-flash": 0.0,
+     "qwen3.8-omni-flash": 0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     -0.0,
+     -0.002,
+     0.002,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.0,
+     "gemini-3.8-flash": -0.0,
+     "gemma-4-31b-it": -0.002,
+     "mimo-v2.6-flash": -0.001,
+     "qwen3.8-omni-flash": 0.001
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     -0.0,
+     -0.002,
+     0.002,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.0,
+     "gemini-3.8-flash": 0.0,
+     "gemma-4-31b-it": 0.0,
+     "mimo-v2.6-flash": -0.001,
+     "qwen3.8-omni-flash": -0.0
+    }
+   }
+  },
+  "extent": {
+   "people": [
+    0.159,
+    0.118,
+    0.201,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.001,
+     -0.009,
+     0.013,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.002,
+     "gemini-3.8-flash": 0.004,
+     "gemma-4-31b-it": 0.005,
+     "mimo-v2.6-flash": -0.008,
+     "qwen3.8-omni-flash": 0.004
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     -0.005,
+     -0.017,
+     0.005,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.0,
+     "gemini-3.8-flash": -0.017,
+     "gemma-4-31b-it": -0.007,
+     "mimo-v2.6-flash": -0.003,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     -0.002,
+     -0.013,
+     0.009,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.001,
+     "gemini-3.8-flash": -0.015,
+     "gemma-4-31b-it": -0.0,
+     "mimo-v2.6-flash": 0.005,
+     "qwen3.8-omni-flash": -0.0
+    }
+   }
+  },
+  "feelings": {
+   "people": [
+    0.058,
+    0.026,
+    0.09,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.008,
+     -0.004,
+     0.02,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.016,
+     "gemini-3.8-flash": 0.01,
+     "gemma-4-31b-it": -0.001,
+     "mimo-v2.6-flash": 0.014,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.031,
+     0.019,
+     0.044,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.023,
+     "gemini-3.8-flash": 0.018,
+     "gemma-4-31b-it": 0.027,
+     "mimo-v2.6-flash": 0.032,
+     "qwen3.8-omni-flash": 0.055
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.087,
+     0.072,
+     0.103,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.066,
+     "gemini-3.8-flash": 0.107,
+     "gemma-4-31b-it": 0.12,
+     "mimo-v2.6-flash": 0.057,
+     "qwen3.8-omni-flash": 0.086
+    }
+   }
+  },
+  "intensity": {
+   "people": [
+    0.034,
+    0.019,
+    0.05,
+    279
+   ],
+   "none": {
+    "pooled": [
+     0.001,
+     -0.004,
+     0.007,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.008,
+     "gemini-3.8-flash": 0.001,
+     "gemma-4-31b-it": 0.0,
+     "mimo-v2.6-flash": -0.001,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.014,
+     0.007,
+     0.021,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.012,
+     "gemini-3.8-flash": 0.009,
+     "gemma-4-31b-it": 0.022,
+     "mimo-v2.6-flash": 0.007,
+     "qwen3.8-omni-flash": 0.019
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.033,
+     0.026,
+     0.04,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.013,
+     "gemini-3.8-flash": 0.051,
+     "gemma-4-31b-it": 0.049,
+     "mimo-v2.6-flash": 0.025,
+     "qwen3.8-omni-flash": 0.027
+    }
+   }
+  },
+  "matters_for": {
+   "people": [
+    0.06,
+    0.03,
+    0.091,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.009,
+     -0.004,
+     0.024,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.006,
+     "gemini-3.8-flash": -0.003,
+     "gemma-4-31b-it": 0.005,
+     "mimo-v2.6-flash": 0.03,
+     "qwen3.8-omni-flash": 0.008
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.029,
+     0.015,
+     0.044,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.017,
+     "gemini-3.8-flash": 0.035,
+     "gemma-4-31b-it": 0.035,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": 0.053
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.049,
+     0.034,
+     0.063,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.031,
+     "gemini-3.8-flash": 0.044,
+     "gemma-4-31b-it": 0.069,
+     "mimo-v2.6-flash": 0.043,
+     "qwen3.8-omni-flash": 0.054
+    }
+   }
+  },
+  "moment_text": {
+   "people": [
+    0.105,
+    0.072,
+    0.138,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.009,
+     -0.005,
+     0.023,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.016,
+     "gemini-3.8-flash": 0.006,
+     "gemma-4-31b-it": 0.029,
+     "mimo-v2.6-flash": 0.026,
+     "qwen3.8-omni-flash": 0.0
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.003,
+     -0.01,
+     0.015,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.003,
+     "gemini-3.8-flash": 0.008,
+     "gemma-4-31b-it": 0.025,
+     "mimo-v2.6-flash": -0.017,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.028,
+     0.014,
+     0.041,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.003,
+     "gemini-3.8-flash": 0.056,
+     "gemma-4-31b-it": 0.078,
+     "mimo-v2.6-flash": 0.009,
+     "qwen3.8-omni-flash": -0.006
+    }
+   }
+  },
+  "new_info": {
+   "people": [
+    0.12,
+    0.083,
+    0.159,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.011,
+     -0.009,
+     0.03,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.007,
+     "gemini-3.8-flash": 0.003,
+     "gemma-4-31b-it": 0.02,
+     "mimo-v2.6-flash": 0.01,
+     "qwen3.8-omni-flash": 0.014
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.009,
+     -0.009,
+     0.026,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.003,
+     "gemini-3.8-flash": 0.016,
+     "gemma-4-31b-it": 0.021,
+     "mimo-v2.6-flash": -0.002,
+     "qwen3.8-omni-flash": 0.006
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     -0.01,
+     -0.026,
+     0.008,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.01,
+     "gemini-3.8-flash": -0.021,
+     "gemma-4-31b-it": 0.014,
+     "mimo-v2.6-flash": -0.035,
+     "qwen3.8-omni-flash": 0.003
+    }
+   }
+  },
+  "personal_kinds": {
+   "people": [
+    0.073,
+    0.038,
+    0.107,
+    280
+   ],
+   "none": {
+    "pooled": [
+     -0.018,
+     -0.033,
+     -0.003,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.007,
+     "gemini-3.8-flash": -0.01,
+     "gemma-4-31b-it": -0.023,
+     "mimo-v2.6-flash": -0.031,
+     "qwen3.8-omni-flash": -0.02
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.006,
+     -0.009,
+     0.021,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.009,
+     "gemini-3.8-flash": 0.003,
+     "gemma-4-31b-it": 0.006,
+     "mimo-v2.6-flash": -0.002,
+     "qwen3.8-omni-flash": 0.012
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.001,
+     -0.014,
+     0.016,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.004,
+     "gemini-3.8-flash": -0.003,
+     "gemma-4-31b-it": -0.007,
+     "mimo-v2.6-flash": -0.009,
+     "qwen3.8-omni-flash": 0.021
+    }
+   }
+  },
+  "reason.first": {
+   "people": [
+    0.091,
+    0.056,
+    0.124,
+    281
+   ],
+   "none": {
+    "pooled": [
+     -0.005,
+     -0.022,
+     0.011,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.014,
+     "gemini-3.8-flash": -0.012,
+     "gemma-4-31b-it": -0.004,
+     "mimo-v2.6-flash": 0.003,
+     "qwen3.8-omni-flash": 0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.025,
+     0.01,
+     0.04,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.023,
+     "gemini-3.8-flash": 0.03,
+     "gemma-4-31b-it": 0.0,
+     "mimo-v2.6-flash": 0.024,
+     "qwen3.8-omni-flash": 0.048
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.044,
+     0.028,
+     0.06,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.015,
+     "gemini-3.8-flash": 0.046,
+     "gemma-4-31b-it": 0.055,
+     "mimo-v2.6-flash": 0.01,
+     "qwen3.8-omni-flash": 0.095
+    }
+   }
+  },
+  "reason.memo": {
+   "people": [
+    0.074,
+    0.05,
+    0.098,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.002,
+     -0.007,
+     0.01,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.006,
+     "gemini-3.8-flash": -0.002,
+     "gemma-4-31b-it": 0.004,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": 0.007
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.01,
+     0.002,
+     0.018,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.0,
+     "gemini-3.8-flash": 0.007,
+     "gemma-4-31b-it": 0.022,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": 0.014
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.018,
+     0.01,
+     0.026,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.018,
+     "gemini-3.8-flash": 0.027,
+     "gemma-4-31b-it": 0.022,
+     "mimo-v2.6-flash": 0.001,
+     "qwen3.8-omni-flash": 0.022
+    }
+   }
+  },
+  "remembered": {
+   "people": [
+    0.149,
+    0.119,
+    0.179,
+    281
+   ],
+   "none": {
+    "pooled": [
+     -0.005,
+     -0.014,
+     0.005,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.009,
+     "gemini-3.8-flash": 0.003,
+     "gemma-4-31b-it": -0.01,
+     "mimo-v2.6-flash": 0.007,
+     "qwen3.8-omni-flash": -0.014
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.006,
+     -0.003,
+     0.014,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.006,
+     "gemini-3.8-flash": -0.0,
+     "gemma-4-31b-it": -0.0,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": 0.017
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.018,
+     0.009,
+     0.025,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.017,
+     "gemini-3.8-flash": -0.001,
+     "gemma-4-31b-it": 0.025,
+     "mimo-v2.6-flash": 0.011,
+     "qwen3.8-omni-flash": 0.038
+    }
+   }
+  },
+  "shared_by": {
+   "people": [
+    0.109,
+    0.074,
+    0.145,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.011,
+     -0.005,
+     0.029,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.026,
+     "gemini-3.8-flash": -0.012,
+     "gemma-4-31b-it": -0.001,
+     "mimo-v2.6-flash": 0.014,
+     "qwen3.8-omni-flash": 0.03
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.017,
+     0.001,
+     0.034,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.007,
+     "gemini-3.8-flash": -0.003,
+     "gemma-4-31b-it": 0.016,
+     "mimo-v2.6-flash": 0.027,
+     "qwen3.8-omni-flash": 0.04
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.027,
+     0.008,
+     0.046,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.038,
+     "gemini-3.8-flash": 0.012,
+     "gemma-4-31b-it": 0.034,
+     "mimo-v2.6-flash": 0.008,
+     "qwen3.8-omni-flash": 0.043
+    }
+   }
+  },
+  "topic": {
+   "people": [
+    0.038,
+    0.014,
+    0.062,
+    281
+   ],
+   "none": {
+    "pooled": [
+     -0.014,
+     -0.027,
+     -0.001,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.014,
+     "gemini-3.8-flash": -0.01,
+     "gemma-4-31b-it": -0.019,
+     "mimo-v2.6-flash": -0.006,
+     "qwen3.8-omni-flash": -0.023
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     -0.004,
+     -0.017,
+     0.009,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.006,
+     "gemini-3.8-flash": -0.003,
+     "gemma-4-31b-it": 0.006,
+     "mimo-v2.6-flash": -0.005,
+     "qwen3.8-omni-flash": -0.011
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.006,
+     -0.007,
+     0.018,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.015,
+     "gemini-3.8-flash": 0.003,
+     "gemma-4-31b-it": 0.013,
+     "mimo-v2.6-flash": -0.015,
+     "qwen3.8-omni-flash": 0.014
+    }
+   }
+  }
+ },
+ "gpt-6-luna": {
+  "appraisal.other_behavior": {
+   "people": [
+    0.022,
+    0.002,
+    0.041,
+    247
+   ],
+   "none": {
+    "pooled": [
+     0.005,
+     -0.0,
+     0.01,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.002,
+     "gemini-3.8-flash": -0.001,
+     "gemma-4-31b-it": 0.012,
+     "mimo-v2.6-flash": 0.009,
+     "qwen3.8-omni-flash": 0.004
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.001,
+     -0.005,
+     0.007,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.002,
+     "gemini-3.8-flash": -0.006,
+     "gemma-4-31b-it": 0.002,
+     "mimo-v2.6-flash": 0.004,
+     "qwen3.8-omni-flash": 0.002
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.008,
+     0.0,
+     0.015,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.009,
+     "gemini-3.8-flash": 0.007,
+     "gemma-4-31b-it": 0.015,
+     "mimo-v2.6-flash": 0.007,
+     "qwen3.8-omni-flash": 0.001
+    }
+   }
+  },
+  "appraisal.own_behavior": {
+   "people": [
+    0.054,
+    0.027,
+    0.08,
+    243
+   ],
+   "none": {
+    "pooled": [
+     0.006,
+     -0.001,
+     0.014,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.006,
+     "gemini-3.8-flash": 0.005,
+     "gemma-4-31b-it": -0.002,
+     "mimo-v2.6-flash": 0.011,
+     "qwen3.8-omni-flash": 0.01
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.012,
+     0.004,
+     0.02,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.015,
+     "gemini-3.8-flash": 0.016,
+     "gemma-4-31b-it": 0.02,
+     "mimo-v2.6-flash": 0.003,
+     "qwen3.8-omni-flash": 0.007
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.019,
+     0.011,
+     0.027,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.025,
+     "gemini-3.8-flash": 0.02,
+     "gemma-4-31b-it": 0.009,
+     "mimo-v2.6-flash": 0.021,
+     "qwen3.8-omni-flash": 0.019
+    }
+   }
+  },
+  "appraisal.pleasant": {
+   "people": [
+    0.022,
+    -0.0,
+    0.044,
+    234
+   ],
+   "none": {
+    "pooled": [
+     0.004,
+     -0.004,
+     0.011,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.004,
+     "gemini-3.8-flash": 0.001,
+     "gemma-4-31b-it": 0.011,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.021,
+     0.013,
+     0.029,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.037,
+     "gemini-3.8-flash": 0.01,
+     "gemma-4-31b-it": 0.017,
+     "mimo-v2.6-flash": 0.007,
+     "qwen3.8-omni-flash": 0.032
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.051,
+     0.04,
+     0.062,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.052,
+     "gemini-3.8-flash": 0.062,
+     "gemma-4-31b-it": 0.048,
+     "mimo-v2.6-flash": 0.038,
+     "qwen3.8-omni-flash": 0.056
+    }
+   }
+  },
+  "appraisal.unpleasant": {
+   "people": [
+    0.016,
+    -0.003,
+    0.035,
+    236
+   ],
+   "none": {
+    "pooled": [
+     0.002,
+     -0.005,
+     0.01,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.002,
+     "gemini-3.8-flash": -0.001,
+     "gemma-4-31b-it": 0.005,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": -0.002
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.017,
+     0.008,
+     0.026,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.026,
+     "gemini-3.8-flash": 0.002,
+     "gemma-4-31b-it": 0.012,
+     "mimo-v2.6-flash": 0.005,
+     "qwen3.8-omni-flash": 0.039
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.034,
+     0.024,
+     0.044,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.039,
+     "gemini-3.8-flash": 0.032,
+     "gemma-4-31b-it": 0.016,
+     "mimo-v2.6-flash": 0.026,
+     "qwen3.8-omni-flash": 0.056
+    }
+   }
+  },
+  "bigger_meaning": {
+   "people": [
+    0.022,
+    -0.004,
+    0.049,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.004,
+     -0.01,
+     0.018,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.005,
+     "gemini-3.8-flash": 0.017,
+     "gemma-4-31b-it": -0.022,
+     "mimo-v2.6-flash": 0.014,
+     "qwen3.8-omni-flash": 0.007
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     -0.004,
+     -0.017,
+     0.01,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.003,
+     "gemini-3.8-flash": -0.021,
+     "gemma-4-31b-it": 0.009,
+     "mimo-v2.6-flash": -0.021,
+     "qwen3.8-omni-flash": 0.01
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     -0.0,
+     -0.015,
+     0.014,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.006,
+     "gemini-3.8-flash": -0.002,
+     "gemma-4-31b-it": -0.008,
+     "mimo-v2.6-flash": 0.019,
+     "qwen3.8-omni-flash": -0.005
+    }
+   }
+  },
+  "details": {
+   "people": [
+    0.089,
+    0.065,
+    0.114,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.0,
+     -0.002,
+     0.002,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.0,
+     "gemini-3.8-flash": -0.001,
+     "gemma-4-31b-it": 0.001,
+     "mimo-v2.6-flash": 0.001,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.001,
+     -0.001,
+     0.003,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.0,
+     "gemini-3.8-flash": 0.002,
+     "gemma-4-31b-it": 0.002,
+     "mimo-v2.6-flash": -0.0,
+     "qwen3.8-omni-flash": 0.001
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.001,
+     -0.001,
+     0.003,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.0,
+     "gemini-3.8-flash": 0.003,
+     "gemma-4-31b-it": 0.002,
+     "mimo-v2.6-flash": -0.0,
+     "qwen3.8-omni-flash": 0.001
+    }
+   }
+  },
+  "extent": {
+   "people": [
+    0.196,
+    0.156,
+    0.235,
+    281
+   ],
+   "none": {
+    "pooled": [
+     -0.003,
+     -0.013,
+     0.009,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.001,
+     "gemini-3.8-flash": -0.009,
+     "gemma-4-31b-it": -0.003,
+     "mimo-v2.6-flash": -0.001,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     -0.008,
+     -0.02,
+     0.005,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.004,
+     "gemini-3.8-flash": -0.016,
+     "gemma-4-31b-it": 0.004,
+     "mimo-v2.6-flash": -0.021,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     -0.002,
+     -0.013,
+     0.01,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.004,
+     "gemini-3.8-flash": -0.002,
+     "gemma-4-31b-it": -0.0,
+     "mimo-v2.6-flash": -0.008,
+     "qwen3.8-omni-flash": -0.004
+    }
+   }
+  },
+  "feelings": {
+   "people": [
+    0.051,
+    0.021,
+    0.082,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.016,
+     0.004,
+     0.029,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.031,
+     "gemini-3.8-flash": 0.017,
+     "gemma-4-31b-it": 0.002,
+     "mimo-v2.6-flash": 0.018,
+     "qwen3.8-omni-flash": 0.015
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.047,
+     0.035,
+     0.061,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.043,
+     "gemini-3.8-flash": 0.05,
+     "gemma-4-31b-it": 0.02,
+     "mimo-v2.6-flash": 0.03,
+     "qwen3.8-omni-flash": 0.094
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.093,
+     0.078,
+     0.11,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.08,
+     "gemini-3.8-flash": 0.116,
+     "gemma-4-31b-it": 0.108,
+     "mimo-v2.6-flash": 0.054,
+     "qwen3.8-omni-flash": 0.108
+    }
+   }
+  },
+  "intensity": {
+   "people": [
+    0.022,
+    0.008,
+    0.037,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.001,
+     -0.005,
+     0.007,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.008,
+     "gemini-3.8-flash": 0.0,
+     "gemma-4-31b-it": 0.002,
+     "mimo-v2.6-flash": -0.002,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.01,
+     0.005,
+     0.016,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.015,
+     "gemini-3.8-flash": 0.007,
+     "gemma-4-31b-it": 0.016,
+     "mimo-v2.6-flash": 0.003,
+     "qwen3.8-omni-flash": 0.009
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.025,
+     0.02,
+     0.031,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.016,
+     "gemini-3.8-flash": 0.039,
+     "gemma-4-31b-it": 0.034,
+     "mimo-v2.6-flash": 0.019,
+     "qwen3.8-omni-flash": 0.02
+    }
+   }
+  },
+  "matters_for": {
+   "people": [
+    0.057,
+    0.026,
+    0.089,
+    271
+   ],
+   "none": {
+    "pooled": [
+     0.008,
+     -0.006,
+     0.023,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.003,
+     "gemini-3.8-flash": 0.016,
+     "gemma-4-31b-it": 0.015,
+     "mimo-v2.6-flash": 0.015,
+     "qwen3.8-omni-flash": -0.009
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.019,
+     0.004,
+     0.035,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.008,
+     "gemini-3.8-flash": 0.014,
+     "gemma-4-31b-it": 0.012,
+     "mimo-v2.6-flash": 0.012,
+     "qwen3.8-omni-flash": 0.049
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.059,
+     0.043,
+     0.075,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.054,
+     "gemini-3.8-flash": 0.034,
+     "gemma-4-31b-it": 0.102,
+     "mimo-v2.6-flash": 0.061,
+     "qwen3.8-omni-flash": 0.043
+    }
+   }
+  },
+  "moment_text": {
+   "people": [
+    0.123,
+    0.086,
+    0.159,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.005,
+     -0.006,
+     0.017,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.001,
+     "gemini-3.8-flash": 0.003,
+     "gemma-4-31b-it": 0.003,
+     "mimo-v2.6-flash": 0.023,
+     "qwen3.8-omni-flash": -0.001
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.001,
+     -0.012,
+     0.014,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.006,
+     "gemini-3.8-flash": 0.001,
+     "gemma-4-31b-it": -0.007,
+     "mimo-v2.6-flash": 0.015,
+     "qwen3.8-omni-flash": 0.0
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.015,
+     0.003,
+     0.028,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.005,
+     "gemini-3.8-flash": 0.033,
+     "gemma-4-31b-it": 0.051,
+     "mimo-v2.6-flash": 0.002,
+     "qwen3.8-omni-flash": -0.003
+    }
+   }
+  },
+  "new_info": {
+   "people": [
+    0.146,
+    0.108,
+    0.186,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.004,
+     -0.011,
+     0.019,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.001,
+     "gemini-3.8-flash": -0.009,
+     "gemma-4-31b-it": -0.004,
+     "mimo-v2.6-flash": 0.025,
+     "qwen3.8-omni-flash": 0.009
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     -0.002,
+     -0.016,
+     0.014,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.011,
+     "gemini-3.8-flash": -0.004,
+     "gemma-4-31b-it": -0.007,
+     "mimo-v2.6-flash": -0.006,
+     "qwen3.8-omni-flash": -0.0
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     -0.004,
+     -0.019,
+     0.012,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.009,
+     "gemini-3.8-flash": 0.005,
+     "gemma-4-31b-it": -0.008,
+     "mimo-v2.6-flash": -0.007,
+     "qwen3.8-omni-flash": -0.0
+    }
+   }
+  },
+  "personal_kinds": {
+   "people": [
+    0.073,
+    0.037,
+    0.107,
+    281
+   ],
+   "none": {
+    "pooled": [
+     -0.014,
+     -0.027,
+     -0.0,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.01,
+     "gemini-3.8-flash": -0.007,
+     "gemma-4-31b-it": -0.01,
+     "mimo-v2.6-flash": -0.022,
+     "qwen3.8-omni-flash": -0.021
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     -0.002,
+     -0.014,
+     0.01,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.002,
+     "gemini-3.8-flash": -0.023,
+     "gemma-4-31b-it": -0.004,
+     "mimo-v2.6-flash": -0.007,
+     "qwen3.8-omni-flash": 0.023
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.006,
+     -0.006,
+     0.018,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.004,
+     "gemini-3.8-flash": 0.002,
+     "gemma-4-31b-it": 0.009,
+     "mimo-v2.6-flash": -0.012,
+     "qwen3.8-omni-flash": 0.025
+    }
+   }
+  },
+  "reason.first": {
+   "people": [
+    0.103,
+    0.066,
+    0.139,
+    281
+   ],
+   "none": {
+    "pooled": [
+     -0.008,
+     -0.024,
+     0.008,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.029,
+     "gemini-3.8-flash": 0.004,
+     "gemma-4-31b-it": -0.023,
+     "mimo-v2.6-flash": 0.016,
+     "qwen3.8-omni-flash": -0.007
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.008,
+     -0.007,
+     0.023,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.003,
+     "gemini-3.8-flash": -0.005,
+     "gemma-4-31b-it": -0.006,
+     "mimo-v2.6-flash": 0.012,
+     "qwen3.8-omni-flash": 0.036
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.035,
+     0.021,
+     0.05,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.014,
+     "gemini-3.8-flash": 0.037,
+     "gemma-4-31b-it": 0.049,
+     "mimo-v2.6-flash": 0.022,
+     "qwen3.8-omni-flash": 0.054
+    }
+   }
+  },
+  "reason.memo": {
+   "people": [
+    0.081,
+    0.055,
+    0.108,
+    277
+   ],
+   "none": {
+    "pooled": [
+     0.006,
+     -0.002,
+     0.013,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.008,
+     "gemini-3.8-flash": -0.0,
+     "gemma-4-31b-it": 0.002,
+     "mimo-v2.6-flash": 0.003,
+     "qwen3.8-omni-flash": 0.016
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.009,
+     0.002,
+     0.016,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.01,
+     "gemini-3.8-flash": 0.006,
+     "gemma-4-31b-it": 0.011,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": 0.013
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.019,
+     0.012,
+     0.026,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.008,
+     "gemini-3.8-flash": 0.026,
+     "gemma-4-31b-it": 0.03,
+     "mimo-v2.6-flash": 0.012,
+     "qwen3.8-omni-flash": 0.017
+    }
+   }
+  },
+  "remembered": {
+   "people": [
+    0.149,
+    0.121,
+    0.176,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.001,
+     -0.007,
+     0.009,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.001,
+     "gemini-3.8-flash": 0.007,
+     "gemma-4-31b-it": 0.001,
+     "mimo-v2.6-flash": -0.001,
+     "qwen3.8-omni-flash": -0.002
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.009,
+     0.001,
+     0.017,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.007,
+     "gemini-3.8-flash": 0.004,
+     "gemma-4-31b-it": 0.015,
+     "mimo-v2.6-flash": -0.003,
+     "qwen3.8-omni-flash": 0.022
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.014,
+     0.006,
+     0.022,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.013,
+     "gemini-3.8-flash": 0.001,
+     "gemma-4-31b-it": 0.017,
+     "mimo-v2.6-flash": 0.017,
+     "qwen3.8-omni-flash": 0.024
+    }
+   }
+  },
+  "shared_by": {
+   "people": [
+    0.131,
+    0.092,
+    0.168,
+    281
+   ],
+   "none": {
+    "pooled": [
+     0.01,
+     -0.008,
+     0.029,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.022,
+     "gemini-3.8-flash": 0.007,
+     "gemma-4-31b-it": 0.003,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": 0.014
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.011,
+     -0.006,
+     0.03,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.014,
+     "gemini-3.8-flash": -0.009,
+     "gemma-4-31b-it": 0.011,
+     "mimo-v2.6-flash": 0.005,
+     "qwen3.8-omni-flash": 0.033
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.017,
+     -0.001,
+     0.034,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.007,
+     "gemini-3.8-flash": 0.027,
+     "gemma-4-31b-it": 0.024,
+     "mimo-v2.6-flash": 0.006,
+     "qwen3.8-omni-flash": 0.018
+    }
+   }
+  },
+  "topic": {
+   "people": [
+    0.037,
+    0.013,
+    0.062,
+    281
+   ],
+   "none": {
+    "pooled": [
+     -0.007,
+     -0.02,
+     0.006,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.008,
+     "gemini-3.8-flash": 0.005,
+     "gemma-4-31b-it": -0.012,
+     "mimo-v2.6-flash": 0.002,
+     "qwen3.8-omni-flash": -0.02
+    }
+   },
+   "card_thin": {
+    "pooled": [
+     0.002,
+     -0.01,
+     0.015,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": -0.018,
+     "gemini-3.8-flash": 0.005,
+     "gemma-4-31b-it": 0.02,
+     "mimo-v2.6-flash": 0.009,
+     "qwen3.8-omni-flash": -0.005
+    }
+   },
+   "card_narr": {
+    "pooled": [
+     0.006,
+     -0.007,
+     0.017,
+     281
+    ],
+    "per_model": {
+     "deepseek-v4.1-flash": 0.013,
+     "gemini-3.8-flash": 0.014,
+     "gemma-4-31b-it": 0.009,
+     "mimo-v2.6-flash": -0.003,
+     "qwen3.8-omni-flash": -0.005
+    }
+   }
+  }
+ }
+}

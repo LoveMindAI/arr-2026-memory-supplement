@@ -1,0 +1,23 @@
+{
+ "call": "C0376",
+ "person": "P183",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 36
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We had a chat about Excel and my attendance spreadsheets and I ended up writing a formula on my hand lol",
+  "reason": "Because it was so funny writing it on my hand! I hadn't known she was an accountant at a housing association, so it made sense she knew all the clever stuff. Really useful for work actually!",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

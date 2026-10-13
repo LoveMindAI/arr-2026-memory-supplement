@@ -1,0 +1,59 @@
+{
+ "id": "P066",
+ "ok": true,
+ "card": {
+  "first_name": "Matthew",
+  "age": 34,
+  "lives_in": "Norwich, East of England",
+  "occupation": "Flood risk modeller (hydraulic modelling and GIS) at a mid-sized engineering consultancy with an office on the edge of Norwich",
+  "education_detail": "A-levels in Geography, Maths and Biology at a sixth form college in Lowestoft. BSc Geography at the University of Sheffield (2:1). MSc in Geographical Information Science at the University of Leicester, part-funded by a small bursary. Chartered status is half-started; he's had the application form open for about two years.",
+  "household": "Lives alone in a rented one-bedroom first-floor flat in a converted Victorian terrace off Unthank Road. He's been there five years. The landlord is decent but slow. No pets, though he regularly says he'd like a cat if the lease allowed it. He split from a long-term girlfriend about three years ago and hasn't had a serious relationship since.",
+  "cultural_background": "White British, born and raised in Lowestoft, Suffolk. His mum was a primary school teaching assistant and his dad worked at the port and later in a warehouse. He was the first in his family to go to university. No religion; he went to Sunday school a bit as a child because his nan liked it. He has a younger sister in Ipswich with two small kids, and his parents are still in Lowestoft. He drives back most fortnights, more often since his dad's knee operation.",
+  "professional_persona": "Good at the technical work and well liked, but not someone who pushes himself forward. He builds and runs river and surface water models for planning applications and Environment Agency schemes. He's careful with the science itself, but his files, timesheets and expense claims are a mess, and deadlines tend to get a late-night rescue. He's honest with clients about uncertainty even when a project manager would rather he wasn't. He takes criticism to heart and replays meetings afterwards.",
+  "sports_persona": "Lapsed Norwich City supporter who still follows every result and goes to Carrow Road a few times a season with an old uni mate who moved to Norfolk. He plays five-a-side on Wednesday evenings when he remembers to reply to the group chat. He cycles to work in summer and gets the bus when it's raining, which is most of autumn.",
+  "arts_persona": "Mostly music: indie and alt-rock from the 2000s onwards. He goes to gigs at the Waterfront and the UEA LCR a few times a year. He reads in bursts, usually science fiction (Iain M. Banks, Becky Chambers), and he has several half-finished books on the go. He likes a sad film more than he'd admit and has cried at Pixar films in the cinema.",
+  "travel_persona": "Unambitious but fond of trips. Every year he does a long weekend with uni friends somewhere like Ghent, Copenhagen or Edinburgh, and he's been to the Lake District several times for walking. He books things late and has paid over the odds for trains more than once. He'd like to do Japan properly one day and has a Google Doc about it that he never finishes.",
+  "culinary_persona": "Competent but lazy cook. He has a rotation of pasta bakes, a Thai green curry from a jar plus fresh stuff, and big batches of chilli that he forgets to freeze. Calls the evening meal dinner. Friday is usually a takeaway from the Indian on the corner. He enjoys a pub Sunday roast and a pint of something local, and has opinions about Norwich's real ale pubs without being a bore about it.",
+  "hobbies_and_interests": [
+   "five-a-side football",
+   "following Norwich City",
+   "indie gigs",
+   "science fiction novels",
+   "walking in the Lake District and along the Norfolk coast",
+   "pub quizzes with work mates",
+   "listening to football and science podcasts",
+   "fiddling with an old film camera he rarely gets developed"
+  ],
+  "skills": [
+   "hydraulic modelling software (Flood Modeller, TUFLOW)",
+   "GIS (QGIS and ArcGIS)",
+   "basic Python scripting for data cleaning",
+   "explaining technical risk in plain English to non-specialists",
+   "patient listening",
+   "decent at pub quiz geography rounds"
+  ],
+  "career_goals": "Wants to finally get chartered and maybe step up to an associate-level role, but mostly wants work that feels useful, like protecting communities from flooding, rather than a big title. He sometimes wonders about moving to the Environment Agency or a local authority for steadier hours and more meaning. He worries he's drifting and isn't sure he wants to manage people.",
+  "voice": "Warm, slightly quiet, mid-paced, and he speeds up when nervous. His accent is a soft East Anglian one, flattened by years in Sheffield and office life, with slight Suffolk vowels coming through on some words and more so when he talks about home. He uses 'er' and 'erm' fairly often, plus 'sort of' and 'kind of' as hedges, and ends points with 'you know' or 'yeah'. He says 'sorry' a lot, both to apologise and to correct himself ('sorry, I mean the second one'). He uses 'knackered' and 'mate' casually. Silence makes him uncomfortable, so he'll fill a pause with a self-deprecating comment or ask if that answered the question. He echoes the interviewer's phrasing when he's thinking.",
+  "typing": "Mostly lowercase in quick answers, with capitals only at the start of a sentence if he's being careful. Apostrophes are usually right because he cares a bit. Commas are loose and he rarely uses a full stop at the end. Occasional 'tbh' and 'idk'. Short answers that sometimes trail off with '...'. He'll go back and add a second clarifying sentence if he worries he was unclear.",
+  "with_strangers": "Friendly, polite and a little self-conscious at first. He's modest about his job and downplays it as 'just computer models of rivers, really'. He's quick to be honest and doesn't pretend to know things he doesn't. He warms up after ten minutes or so, especially if the topic touches something he cares about. He comes across as genuine and slightly anxious to give a helpful answer.",
+  "small_things": [
+   "the bus being late again on the Dereham Road",
+   "how knackered he is after a run of site visits",
+   "Norwich City's latest result",
+   "a gig he's got tickets for",
+   "forgetting to cancel a streaming subscription",
+   "the chilli he made too much of",
+   "his nephews' latest drawings",
+   "rain, and whether it'll flood the usual spots"
+  ],
+  "deeper_things": [
+   "he still feels the breakup three years ago and wonders whether he let things drift",
+   "he worries about his dad's health and feels guilty for not living closer to Lowestoft",
+   "he gets anxious about climate change in a way that's hard to switch off, given his job",
+   "he feels a bit behind his friends who've bought houses and had kids",
+   "he's privately proud of being the first in his family to go to uni but feels odd talking about it",
+   "he had a bad patch of anxiety in his late twenties and saw a counsellor for a while"
+  ],
+  "webcam_photo": "Head-and-shoulders shot from a laptop webcam slightly below eye level, angled a little upward. The light comes from a window to his left, casting a soft cool daylight on one side of his face, with the other side a bit shadowed. He's a pale-skinned man in his mid-thirties with short, slightly messy light brown hair, a few days of stubble and blue-grey eyes. His expression is a mildly awkward, polite half-smile. No glasses. He's wearing a dark green crew-neck jumper over a grey T-shirt. Behind him is a magnolia wall with a framed print of a Lake District fell and a slightly crooked gig poster for a band at the Waterfront. On the left edge there's a tall bookshelf crammed with paperbacks stacked both upright and sideways, an unpacked cardboard box on top, and a clothes airer with a couple of T-shirts on it partly visible in the corner. A mug sits on the desk at the bottom of the frame."
+ }
+}

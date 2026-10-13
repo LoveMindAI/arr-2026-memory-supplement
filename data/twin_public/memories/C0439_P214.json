@@ -1,0 +1,23 @@
+{
+ "call": "C0439",
+ "person": "P214",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got into cars and leases for a bit, i went through mileage charges, bik and electric vs diesel, we went back and forth on it properly",
+  "reason": "its stuff i actually know about so i could talk properly, felt useful tbh not just answering questions",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

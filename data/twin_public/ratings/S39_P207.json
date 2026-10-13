@@ -1,0 +1,57 @@
+{
+ "session": "S39",
+ "rater": "P207",
+ "ok": true,
+ "ratings": {
+  "P204": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 1,
+   "pair": 0,
+   "gut": "Uses a ring light. Seems preoccupied with appearance."
+  },
+  "P205": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Practical kitchen. Looks like a sensible person."
+  },
+  "P206": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Organised medical supplies. Civil engineer. Direct gaze."
+  },
+  "P208": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Tidy cork board. Seems straightforward and honest."
+  },
+  "P209": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Looks tired but efficient. No nonsense."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0543",
+ "person": "P274",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 29
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I asked what she gets up to day to day and instantly worried it sounded nosy.",
+  "reason": "I think because I felt a bit awkward the second I'd said it. I didn't want her to feel put on the spot, and I sort of replayed it afterwards, probably.",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

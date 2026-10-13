@@ -1,0 +1,23 @@
+{
+ "call": "C0467",
+ "person": "P232",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Finding out she's doing an OU degree",
+  "reason": "Didn't expect it, she's juggling so much with Isla tbh",
+  "timing": 20
+ },
+ "requires_av": false,
+ "av_event": null
+}

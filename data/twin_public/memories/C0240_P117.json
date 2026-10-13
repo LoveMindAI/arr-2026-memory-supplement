@@ -1,0 +1,23 @@
+{
+ "call": "C0240",
+ "person": "P117",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Telling her about going round to keep an eye on Mum.",
+  "reason": "Mum's always on my mind really.",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

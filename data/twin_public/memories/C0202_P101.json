@@ -1,0 +1,23 @@
+{
+ "call": "C0202",
+ "person": "P101",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we had a proper daft argument about what you call a bread roll, neither of us backing down",
+  "reason": "made me laugh tbh, felt like wed known each other for ages by then",
+  "timing": 93
+ },
+ "requires_av": false,
+ "av_event": null
+}

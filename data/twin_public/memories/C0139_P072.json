@@ -1,0 +1,23 @@
+{
+ "call": "C0139",
+ "person": "P072",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 36,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said her boys dad is in leicester and just turns up in the holidays to be the fun one, then i said mine does nandos and she said every time!! that made me laugh tbh",
+  "reason": "same situation as me, didnt expect that from her",
+  "timing": 82
+ },
+ "requires_av": false,
+ "av_event": null
+}

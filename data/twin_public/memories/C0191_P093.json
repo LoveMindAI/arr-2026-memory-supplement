@@ -1,0 +1,23 @@
+{
+ "call": "C0191",
+ "person": "P093",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she said id be really good as a TA cos i know the kids",
+  "reason": "cos im really nervous about the course and it was nice someone believed i could actually do it",
+  "timing": 78
+ },
+ "requires_av": false,
+ "av_event": null
+}

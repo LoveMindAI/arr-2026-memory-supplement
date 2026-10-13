@@ -1,0 +1,23 @@
+{
+ "call": "C0331",
+ "person": "P156",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit where i ended up admitting i draw in biro and dont show anyone, which i never say",
+  "reason": "i dont usually tell strangers that, especially not someone id written off as a bit too keen from her photo",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

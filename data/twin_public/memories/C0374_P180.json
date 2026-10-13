@@ -1,0 +1,23 @@
+{
+ "call": "C0374",
+ "person": "P180",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit about me managing the engineers",
+  "reason": "made me think about it different tbh, shes a management accountant at a housing association so she'd know",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

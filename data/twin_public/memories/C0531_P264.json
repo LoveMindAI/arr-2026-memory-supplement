@@ -1,0 +1,23 @@
+{
+ "call": "C0531",
+ "person": "P264",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 2,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "darts bounce out",
+  "reason": "cos it STILL winds me up",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

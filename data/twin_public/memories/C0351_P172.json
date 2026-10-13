@@ -1,0 +1,23 @@
+{
+ "call": "C0351",
+ "person": "P172",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 2,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We compared figures",
+  "reason": "Because its the bit i actually care about tbh. Still annoyed about losing last month by one car, so that stuck",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

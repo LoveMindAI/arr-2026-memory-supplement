@@ -1,0 +1,23 @@
+{
+ "call": "C0098",
+ "person": "P054",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Claire was easy to talk to all through, and the big painting behind her was hers.",
+  "reason": "She listened properly when I talked about Mum and the residents and didn't make me feel silly. I didn't expect her to be an artist as well.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

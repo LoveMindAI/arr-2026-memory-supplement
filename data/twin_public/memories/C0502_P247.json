@@ -1,0 +1,23 @@
+{
+ "call": "C0502",
+ "person": "P247",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we mostly talked about work and getting outdoors. easier going than i expected, three minutes went quick.",
+  "reason": "wasn't what i expected tbh.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,16 @@
+{
+ "id": "C0140",
+ "session": "S14",
+ "round": 0,
+ "A": "P070",
+ "B": "P071",
+ "names": {
+  "A": "Joanne",
+  "B": "Jibin"
+ },
+ "turns": 28,
+ "av_event": null,
+ "words": 519,
+ "ok": true,
+ "text": "A: Oh hello! Is that working? I can see you, can you see me?\nB: Yes, I can see you. Hello.\nA: Hiya, I'm Joanne, I'm up in Batley, that's West Yorkshire, sort of between Leeds and Huddersfield. Sorry, I've got my glasses on my head, I keep forgetting they're there.\nB: No problem. I'm Jibin. I'm near Bristol, Bradley Stoke.\nA: Oh lovely. Did you get on all right with that puzzle at the start? Because I'll be honest with you, I were completely lost on the third one.\nB: Er, it was okay. Basically it was a pattern thing. Once you see the rule it's quite straightforward.\nA: Well, I never saw the rule! I just sort of went with my gut. So what do you do, love? You look like you do something clever. I saw all the books behind you.\nB: I'm a systems engineer. Embedded software, for an aerospace company in Filton.\nA: Ooh. Aeroplanes?\nB: Yes. Actually, I work on flight-control software, mainly verification. So when the software tells the aircraft what to do, we have to prove it does exactly that, every time, in every condition. There's a standard for it, DO-178C, very strict. Most of my day is test rigs, and when a rig behaves oddly, people usually come to me.\nA: Gosh. So you're the one that makes sure it doesn't fall out of the sky.\nB: Er, one of many people. But yes, basically.\nA: Well, I feel better about flying now. I get ever so nervous at airports.\nB: And you? What do you do?\nA: I'm an upholsterer. I've got a little unit on an industrial estate, I do armchairs, dining chairs, headboards, a few contracts for a pub chain and a couple of care homes.\nB: Okay. Self-employed?\nA: Nine years now. Before that I were at a furniture factory in Heckmondwike from when I left school. I love it, I do. I had a lady bring in a 1960s armchair last week with the original maker's label still on underneath, and I sort of got a bit giddy, do you know what I mean? Anyway, I'm rambling.\nB: No, that's interesting, actually. So you do the springs, everything? Not just the fabric?\nA: Oh, everything. Springs, webbing, stuffing, buttoning. People think it's just stapling a bit of fabric on, but it's not. If the base isn't right it doesn't matter how nice the fabric is.\nB: Same in software, to be honest. If the foundation is wrong, people keep patching on top and it gets worse.\nA: Exactly that! Measure twice, my old boss used to say.\nB: Yes. Fair enough.\nA: Have you got kids? I'm guessing that photo's your family.\nB: Yes, two. Aaron is twelve, Ann is nine. Aaron wants a gaming PC now.\nA: Oh, here we go!\nB: But I told him I will choose the parts. Otherwise he'll buy some flashy thing with lights and a weak power supply.\nA: Ha! Bet he loves that. Our Lewis is twenty-three, he's in Leeds now. He went to university, first in the family. He still comes back Sundays for his tea though, he's not daft.\nB: Good. That's important, actually. My mother would be very upset if we didn't\u2014"
+}

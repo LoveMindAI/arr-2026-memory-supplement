@@ -1,0 +1,23 @@
+{
+ "call": "C0373",
+ "person": "P179",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she was so sweet all through, training to be an OT",
+  "reason": "reminded me of my juniors bless her",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

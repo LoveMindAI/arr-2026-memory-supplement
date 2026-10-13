@@ -1,0 +1,23 @@
+{
+ "call": "C0428",
+ "person": "P212",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we realised our dogs had the exact same name haha",
+  "reason": "It was such a random coincidence, like what are the chances, it broke the ice straight away and we were both laughing",
+  "timing": 6
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0435",
+ "person": "P211",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "He was dead easy to talk to the whole way through, like chatting to someone from home",
+  "reason": "We clicked straight away and it never felt like a forced three minutes - he kept the jokes going and asked loads back tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

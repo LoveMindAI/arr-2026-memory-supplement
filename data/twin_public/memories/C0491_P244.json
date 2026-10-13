@@ -1,0 +1,23 @@
+{
+ "call": "C0491",
+ "person": "P244",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 2,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked audits",
+  "reason": "cos ive got audit in 3 weeks n its doing my head in tbh. didnt know she checks tablets for a living",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

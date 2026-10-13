@@ -1,0 +1,23 @@
+{
+ "call": "C0251",
+ "person": "P120",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She was much easier to talk to than I expected. She'd been a hairdresser for twenty years before retraining.",
+  "reason": "It surprised me.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

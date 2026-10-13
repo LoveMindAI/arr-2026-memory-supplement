@@ -1,0 +1,23 @@
+{
+ "call": "C0057",
+ "person": "P030",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 44
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when darren said hes got a granddaughter in bristol whos two and its the best thing thats happened",
+  "reason": "he went from joking about bins and his knee to properly soft about her, you could tell he meant it. and it clicked that the toddler in the photo on his wall was probably her. made me think about my sisters kids tbh",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

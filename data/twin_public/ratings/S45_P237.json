@@ -1,0 +1,57 @@
+{
+ "session": "S45",
+ "rater": "P237",
+ "ok": true,
+ "ratings": {
+  "P236": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 4,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Looks professional, decent watch. Probably a similar line of work to me."
+  },
+  "P238": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Bit of a mess. Reminds me of the junior surveyors who can't keep a diary."
+  },
+  "P239": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "Seems polite and sensible enough. Likely easy to get on with."
+  },
+  "P240": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Straightforward bloke. Looks like he'd get his part of the task done properly."
+  },
+  "P241": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Into his fitness, which is good. Bit young, but seems focused."
+  }
+ }
+}

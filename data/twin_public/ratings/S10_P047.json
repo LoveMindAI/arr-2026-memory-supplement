@@ -1,0 +1,57 @@
+{
+ "session": "S10",
+ "rater": "P047",
+ "ok": true,
+ "ratings": {
+  "P044": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a normal lad he plays fifa as well"
+  },
+  "P045": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "seems nice enough sort of nervous maybe"
+  },
+  "P046": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks decent like someone from my mosque you know"
+  },
+  "P048": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "a bit serious maybe but he looks like he knows his stuff"
+  },
+  "P049": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like a proper worker tbh very reliable"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "units": 48019,
+ "with_earlier": 35169,
+ "compare": {
+  "LR": {
+   "conversation features": {
+    "bal_acc": 0.591,
+    "hit_at_1": 0.286,
+    "chance": 0.133
+   },
+   "+ person's earlier memories": {
+    "bal_acc": 0.605,
+    "hit_at_1": 0.288,
+    "chance": 0.133
+   },
+   "person's earlier memories alone": {
+    "bal_acc": 0.572,
+    "hit_at_1": 0.186,
+    "chance": 0.133
+   },
+   "gain_share_of_splits": 0.99
+  },
+  "RF": {
+   "conversation features": {
+    "bal_acc": 0.604,
+    "hit_at_1": 0.289,
+    "chance": 0.131
+   },
+   "+ person's earlier memories": {
+    "bal_acc": 0.61,
+    "hit_at_1": 0.28,
+    "chance": 0.131
+   },
+   "person's earlier memories alone": {
+    "bal_acc": 0.561,
+    "hit_at_1": 0.164,
+    "chance": 0.131
+   },
+   "gain_share_of_splits": 0.75
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0005",
+ "person": "P005",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit where we got talking about being organised or not, me owning up that i leave rotas till the night before",
+  "reason": "made me feel a bit daft to be honest, she seemed really together and im not. its something i worry about anyway",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

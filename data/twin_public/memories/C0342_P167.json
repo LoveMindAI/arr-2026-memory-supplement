@@ -1,0 +1,23 @@
+{
+ "call": "C0342",
+ "person": "P167",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she went on about that sci fi book, making normal stuff look strange",
+  "reason": "its basically what i think good films do tbh, caught me off guard",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

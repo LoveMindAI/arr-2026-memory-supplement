@@ -1,0 +1,57 @@
+{
+ "session": "S27",
+ "rater": "P146",
+ "ok": true,
+ "ratings": {
+  "P141": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Looks like a decent bloke who just finished a long shift. Probably easy enough to get on with."
+  },
+  "P142": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Very professional and looks like she knows her stuff. Reminds me a bit of Claire's colleagues."
+  },
+  "P143": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Polite and organized. House looks a lot tidier than ours anyway."
+  },
+  "P144": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Seems friendly and steady. Probably into history podcasts too looking at that shelf."
+  },
+  "P145": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Relaxed dad sort of vibe. Bit of a shame about the West Brom top but he seems alright."
+  }
+ }
+}

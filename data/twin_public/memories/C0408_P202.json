@@ -1,0 +1,23 @@
+{
+ "call": "C0408",
+ "person": "P202",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she said gig posters dont pay her ux masters loan off, she just wants a nice house",
+  "reason": "she actually pushed back on me, most people just nod",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

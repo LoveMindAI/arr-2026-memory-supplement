@@ -1,0 +1,25 @@
+{
+ "call": "C0260",
+ "person": "P123",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 16,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Bonnie's tail started thumping in the dog bed, then she stretched and wandered off behind Gemma towards the fridge.",
+  "reason": "I always watch the animals.",
+  "timing": 65
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0260",
+  "turn": 17,
+  "line_text": "Gemma: Oh, the phone's my favourite bit! Calming people down. I get lads ringing up shouting about where their tower is, and I just say, right, let's have a look.",
+  "who": "Gemma",
+  "what": "In the bottom corner of the frame, the black Labrador's tail starts thumping in the dog bed. Then the dog stands up, stretches, and walks out of shot behind Gemma towards the fridge."
+ }
+}

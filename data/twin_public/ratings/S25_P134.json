@@ -1,0 +1,57 @@
+{
+ "session": "S25",
+ "rater": "P134",
+ "ok": true,
+ "ratings": {
+  "P129": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Organised office. Typed labels suggest he is efficient."
+  },
+  "P130": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "Seems relaxed, maybe a bit too casual for work."
+  },
+  "P131": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Standard family man. Reminds me of Darren tbh."
+  },
+  "P132": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Neat kitchen and jars. Looks like he pays attention."
+  },
+  "P133": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Sensible work fleece. Looks like he just gets on with it."
+  }
+ }
+}

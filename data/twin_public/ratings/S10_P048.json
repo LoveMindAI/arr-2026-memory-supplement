@@ -1,0 +1,57 @@
+{
+ "session": "S10",
+ "rater": "P048",
+ "ok": true,
+ "ratings": {
+  "P044": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 3,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Seems a bit disorganized, to be honest. The wedding photo and the mess suggest he hasn't quite moved on, you know?"
+  },
+  "P045": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Pleasant enough. She looks like she'd follow instructions well, though perhaps lacks a bit of confidence, yeah?"
+  },
+  "P046": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks very sharp and professional. The ring binders suggest he is quite organized, which I appreciate, mate."
+  },
+  "P047": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Clean and efficient setup. He looks like a practical sort of person who gets things done without any fuss."
+  },
+  "P049": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Serious and probably quite capable, given the engineering books. A bit of a rigid setup, but reliable, I'd say."
+  }
+ }
+}

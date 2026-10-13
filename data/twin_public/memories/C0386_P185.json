@@ -1,0 +1,23 @@
+{
+ "call": "C0386",
+ "person": "P185",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about both putting off courses for ages",
+  "reason": "made me feel less bad tbh, didn't know he's been putting off an MBA",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

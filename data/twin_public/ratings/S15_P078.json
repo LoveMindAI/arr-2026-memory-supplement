@@ -1,0 +1,57 @@
+{
+ "session": "S15",
+ "rater": "P078",
+ "ok": true,
+ "ratings": {
+  "P073": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "erm he looks a bit quiet but quite nice and clever, like one of the it boys at work lol"
+  },
+  "P074": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "lovely smile, reminds me of my dad a bit and i bet he has some good stories about that dog!"
+  },
+  "P075": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks a bit shattered bless him, probably had a long shift like my dean does"
+  },
+  "P076": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "she looks really calm and lovely, plus i spotted the sewing machine so shes definitely more patient than me :)"
+  },
+  "P077": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 7,
+   "sim": 3,
+   "pair": 0,
+   "gut": "very smart and professional, reminds me of the agents who always know exactly where their paperwork is lol"
+  }
+ }
+}

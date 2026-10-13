@@ -1,0 +1,23 @@
+{
+ "call": "C0371",
+ "person": "P179",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "us sorting through my salon money worries together",
+  "reason": "cos it actually helped, i lie awake about that stuff honestly",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

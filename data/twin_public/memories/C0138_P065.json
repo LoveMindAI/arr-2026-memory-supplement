@@ -1,0 +1,23 @@
+{
+ "call": "C0138",
+ "person": "P065",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "talkin about five a side and why i packed it in",
+  "reason": "dont usually tell people about the row tbh",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

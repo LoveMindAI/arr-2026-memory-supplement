@@ -1,0 +1,37 @@
+{
+ "session": "S24",
+ "rater": "P128",
+ "ok": true,
+ "ratings": {
+  "P125": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks like he cant be bothered same as me mate"
+  },
+  "P126": {
+   "photo": 2,
+   "friendly": 2,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks like a proper worker sort of bloke i know"
+  },
+  "P127": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit too happy for me er probably a teacher"
+  }
+ }
+}

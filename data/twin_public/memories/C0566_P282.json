@@ -1,0 +1,23 @@
+{
+ "call": "C0566",
+ "person": "P282",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When he said packing it in was the best thing that happened to him, then said 'probably' again, and I pointed out he'd said it twice",
+  "reason": "It felt like a little crack in the jokey lad act, like he actually does wonder about it. Bit sad really",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

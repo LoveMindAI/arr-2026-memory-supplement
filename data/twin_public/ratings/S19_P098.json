@@ -1,0 +1,57 @@
+{
+ "session": "S19",
+ "rater": "P098",
+ "ok": true,
+ "ratings": {
+  "P096": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like a nice bloke sort of reminds me of mark's dad with the fleece and the binoculars"
+  },
+  "P097": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks a bit serious tbh maybe a teacher or something with all those books"
+  },
+  "P099": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "really like her style and shes got a cockapoo too lol seems like we'd get on"
+  },
+  "P100": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "seems like a sweet girl reminds me of some of the girls who do the summer placements"
+  },
+  "P101": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks professional like he knows what he's doing yeah probably good for a task"
+  }
+ }
+}

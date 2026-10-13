@@ -1,0 +1,23 @@
+{
+ "call": "C0431",
+ "person": "P212",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "me going on about wanting my own clinic and being my own boss",
+  "reason": "think because I said it out loud to a stranger and it felt a bit real tbh, also bit cringe how much I went on haha",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,72 @@
+{
+ "by_version": {
+  "control|overlaps person's stretch": [
+   0.242,
+   0.18,
+   0.309,
+   260
+  ],
+  "control|overlaps the model's original choice": [
+   0.785,
+   0.725,
+   0.838,
+   260
+  ],
+  "control|relative position of choice": [
+   0.779,
+   0.747,
+   0.81,
+   260
+  ],
+  "swap|overlaps person's stretch": [
+   0.258,
+   0.196,
+   0.325,
+   260
+  ],
+  "swap|overlaps the model's original choice": [
+   0.765,
+   0.706,
+   0.824,
+   260
+  ],
+  "swap|relative position of choice": [
+   0.712,
+   0.679,
+   0.743,
+   260
+  ]
+ },
+ "judges_swap_minus_control": {
+  "similarity": [
+   0.008,
+   -0.023,
+   0.04,
+   246
+  ],
+  "same_focus": [
+   0.022,
+   -0.031,
+   0.077,
+   246
+  ],
+  "event_match": [
+   0.008,
+   -0.039,
+   0.059,
+   246
+  ],
+  "topic_match": [
+   0.004,
+   -0.049,
+   0.063,
+   246
+  ],
+  "same_reason": [
+   0.045,
+   0.0,
+   0.094,
+   246
+  ]
+ }
+}

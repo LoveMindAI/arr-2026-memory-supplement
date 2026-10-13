@@ -1,0 +1,3787 @@
+{
+ "n_people": 263,
+ "A": [
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "kind=commonality",
+   "rho": 0.019884607669494,
+   "p": 0.748233238275928,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.04463996720681146,
+   "p": 0.4710019775285179,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": -0.0025723489193393216,
+   "p": 0.9668830625820657,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "kind=feeling",
+   "rho": -0.025382180243276882,
+   "p": 0.6820002731821997,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "kind=humor",
+   "rho": 0.023216577140432477,
+   "p": 0.7078339724214513,
+   "q": 0.941975635571388,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "kind=impression",
+   "rho": -0.014390986314883688,
+   "p": 0.8163182601322133,
+   "q": 0.958555532731008,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "kind=other",
+   "rho": 0.0234451996826197,
+   "p": 0.7050902443163657,
+   "q": 0.941975635571388,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "kind=personal_fact",
+   "rho": -0.0035133132319854978,
+   "p": 0.9547800744080714,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.002690982789168168,
+   "p": 0.9653566798363327,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "focus=both",
+   "rho": 0.03861429808764172,
+   "p": 0.5329767570747046,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "focus=partner",
+   "rho": -0.02349571952997584,
+   "p": 0.7044844618802169,
+   "q": 0.941975635571388,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "focus=self",
+   "rho": 0.018351272377959464,
+   "p": 0.7670659050873001,
+   "q": 0.9464877992185665,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "focus=task_or_study",
+   "rho": -0.06159473934385696,
+   "p": 0.31969446938338303,
+   "q": 0.7922639548745908,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "reason_type=emotion",
+   "rho": 0.035986783340419076,
+   "p": 0.5612297332900007,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "reason_type=importance",
+   "rho": 0.02918646220216956,
+   "p": 0.6375188446209812,
+   "q": 0.9351278224762773,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "reason_type=novelty",
+   "rho": -0.09758537039569176,
+   "p": 0.1143817253877504,
+   "q": 0.5628813811467329,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "reason_type=other",
+   "rho": -0.08300065812885714,
+   "p": 0.17961237176253864,
+   "q": 0.7315262687766578,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": 0.011044858899147738,
+   "p": 0.8585111245728505,
+   "q": 0.9717548270827906,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "reason_type=social_connection",
+   "rho": 0.05500268049896115,
+   "p": 0.374316213952127,
+   "q": 0.8435109887844832,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "specificity=general",
+   "rho": -0.04963832624711324,
+   "p": 0.4227506632020628,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "specificity=specific_event",
+   "rho": -0.09012562334089502,
+   "p": 0.14495141150446383,
+   "q": 0.635871758014865,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "specificity=topic",
+   "rho": 0.11248445704403934,
+   "p": 0.06856331300255317,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "valence=negative",
+   "rho": 0.048162338945432676,
+   "p": 0.436691080372408,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "valence=neutral",
+   "rho": -0.044503974988215,
+   "p": 0.4723556548700988,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "valence=positive",
+   "rho": 0.02643027785047813,
+   "p": 0.669627021266083,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "timing",
+   "rho": -0.09764964732769112,
+   "p": 0.11414217445416347,
+   "q": 0.5628813811467329,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "arousal",
+   "rho": 0.13869387726141374,
+   "p": 0.024486731540328866,
+   "q": 0.45545320665011696,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "dominance",
+   "rho": 0.022205985973740166,
+   "p": 0.7200070076157989,
+   "q": 0.9449120643534564,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "pleasure",
+   "rho": 0.09746714624343716,
+   "p": 0.1148233569622738,
+   "q": 0.5628813811467329,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "mem_words",
+   "rho": 0.00039556178635043654,
+   "p": 0.994906037758742,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_HH_mean",
+   "feature": "why_words",
+   "rho": 0.031030039288784745,
+   "p": 0.6164088895262798,
+   "q": 0.9246133342894196,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "kind=commonality",
+   "rho": 0.013034978585257323,
+   "p": 0.8333602922304938,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "kind=conversation_process",
+   "rho": 0.02901419506577804,
+   "p": 0.6395067689192606,
+   "q": 0.9351278224762773,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": 0.02659096963134881,
+   "p": 0.6677377384144634,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "kind=feeling",
+   "rho": -0.03028720501416516,
+   "p": 0.6248781505583916,
+   "q": 0.9253768790116309,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "kind=humor",
+   "rho": 0.008287843597984202,
+   "p": 0.893585779431153,
+   "q": 0.9916882755023536,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "kind=impression",
+   "rho": 0.040331864256147265,
+   "p": 0.5149029144180486,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "kind=other",
+   "rho": -0.10756633172069421,
+   "p": 0.08165223699357808,
+   "q": 0.5201318897200998,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "kind=personal_fact",
+   "rho": -0.0656924599985513,
+   "p": 0.28849677723924333,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.024583946156349838,
+   "p": 0.6914813579237651,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "focus=both",
+   "rho": -0.02218433655687199,
+   "p": 0.7202685715736218,
+   "q": 0.9449120643534564,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "focus=partner",
+   "rho": 0.02224396030450439,
+   "p": 0.7195482880039347,
+   "q": 0.9449120643534564,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "focus=self",
+   "rho": 0.0005397657946217275,
+   "p": 0.9930490490652273,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "focus=task_or_study",
+   "rho": -0.054982782674810445,
+   "p": 0.3744893182048391,
+   "q": 0.8435109887844832,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "reason_type=emotion",
+   "rho": 0.03366542607080661,
+   "p": 0.5867752699231618,
+   "q": 0.9111848057092968,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "reason_type=importance",
+   "rho": 0.0388443190455508,
+   "p": 0.5305378860564783,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "reason_type=novelty",
+   "rho": 0.015176037392062075,
+   "p": 0.8064906811281665,
+   "q": 0.9566789967464219,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "reason_type=other",
+   "rho": -0.030695101852349225,
+   "p": 0.6202214128349188,
+   "q": 0.9253768790116309,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": -0.03824039405430573,
+   "p": 0.5369531894698729,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "reason_type=social_connection",
+   "rho": 0.03599638668842379,
+   "p": 0.5611251733504485,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "specificity=general",
+   "rho": -0.11145684707247036,
+   "p": 0.07114621165721556,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "specificity=specific_event",
+   "rho": 0.10039619753216365,
+   "p": 0.10426822710260118,
+   "q": 0.5509627909398813,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "specificity=topic",
+   "rho": -0.06197268139296454,
+   "p": 0.31672845291128376,
+   "q": 0.7922639548745908,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "valence=negative",
+   "rho": 0.11416728842390976,
+   "p": 0.06449937382322332,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "valence=neutral",
+   "rho": -0.05465906707021736,
+   "p": 0.3773124422949946,
+   "q": 0.8435109887844832,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "valence=positive",
+   "rho": -0.028095070611315543,
+   "p": 0.6501565245007681,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "timing",
+   "rho": -0.08281193839204985,
+   "p": 0.18060721865322166,
+   "q": 0.7315262687766578,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "arousal",
+   "rho": 0.0037559752775435844,
+   "p": 0.9516604456281752,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "dominance",
+   "rho": -0.12187039173155134,
+   "p": 0.04834118752662281,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "pleasure",
+   "rho": 0.025082760978565204,
+   "p": 0.6855508984539416,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "mem_words",
+   "rho": -0.012901065634275741,
+   "p": 0.8350476531289618,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_E_mean",
+   "feature": "why_words",
+   "rho": -0.002155006485357562,
+   "p": 0.9722536505701505,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "kind=commonality",
+   "rho": 0.0734295467193241,
+   "p": 0.23532323187215756,
+   "q": 0.7706007240884033,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.002740306468933976,
+   "p": 0.9647221018257179,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": -0.06542904517522324,
+   "p": 0.2904386788516154,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "kind=feeling",
+   "rho": -0.06529134329242507,
+   "p": 0.29145729359642375,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "kind=humor",
+   "rho": 0.0026287309687181982,
+   "p": 0.9661576170359027,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "kind=impression",
+   "rho": -0.025711689105158076,
+   "p": 0.6781009119214865,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "kind=other",
+   "rho": 0.033346329783819725,
+   "p": 0.5903282396203965,
+   "q": 0.9111848057092968,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "kind=personal_fact",
+   "rho": -0.009202166783249238,
+   "p": 0.8819273780104597,
+   "q": 0.9834441985008724,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "kind=task_or_study",
+   "rho": -0.05004988744096665,
+   "p": 0.4189102570847928,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "focus=both",
+   "rho": 0.06554201421641977,
+   "p": 0.28960479949481005,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "focus=partner",
+   "rho": -0.03550596875494454,
+   "p": 0.5664767223978051,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "focus=self",
+   "rho": -0.09476376206251139,
+   "p": 0.12529029837553707,
+   "q": 0.5825998874462474,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "focus=task_or_study",
+   "rho": -0.04791579304604644,
+   "p": 0.4390450530360792,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "reason_type=emotion",
+   "rho": -0.019811832145760454,
+   "p": 0.7491238101572326,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "reason_type=importance",
+   "rho": -0.031810920823277744,
+   "p": 0.6075602592243678,
+   "q": 0.9202459952421208,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "reason_type=novelty",
+   "rho": -0.030362279012338993,
+   "p": 0.6240199451019082,
+   "q": 0.9253768790116309,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "reason_type=other",
+   "rho": 0.0027382529516982303,
+   "p": 0.9647485210865177,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": 0.017207811339249292,
+   "p": 0.7812003497701027,
+   "q": 0.9478257128698867,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "reason_type=social_connection",
+   "rho": 0.03931374901109362,
+   "p": 0.5255781446925705,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "specificity=general",
+   "rho": -0.046871161686951976,
+   "p": 0.44909902290221426,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "specificity=specific_event",
+   "rho": 0.004569214388459957,
+   "p": 0.9412111988320919,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "specificity=topic",
+   "rho": 0.017637036133610028,
+   "p": 0.7758859495582511,
+   "q": 0.9478257128698867,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "valence=negative",
+   "rho": -0.09165011836297195,
+   "p": 0.13824534985082593,
+   "q": 0.6148580595560009,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "valence=neutral",
+   "rho": -0.07406024527870818,
+   "p": 0.2313147907100395,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "valence=positive",
+   "rho": 0.11837731110108685,
+   "p": 0.055192221477077384,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "timing",
+   "rho": 0.03360188470179886,
+   "p": 0.5874819837918495,
+   "q": 0.9111848057092968,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "arousal",
+   "rho": 0.2376613324153376,
+   "p": 9.951696631058842e-05,
+   "q": 0.014677106836971852,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "dominance",
+   "rho": 0.11450490748644297,
+   "p": 0.06370833344373841,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "pleasure",
+   "rho": 0.11531115825538409,
+   "p": 0.06185148711160663,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "mem_words",
+   "rho": 0.1359551816189218,
+   "p": 0.027484544245606347,
+   "q": 0.47640575015636716,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_EX_mean",
+   "feature": "why_words",
+   "rho": 0.019530314614927984,
+   "p": 0.7525719323915694,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "kind=commonality",
+   "rho": 0.10640819148250867,
+   "p": 0.08501080348113459,
+   "q": 0.5201318897200998,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.06681998122072703,
+   "p": 0.28028316634076283,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": -0.010924709597104976,
+   "p": 0.8600344010605974,
+   "q": 0.9717548270827906,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "kind=feeling",
+   "rho": -0.15044595898907226,
+   "p": 0.014601398029821197,
+   "q": 0.3394825041933428,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "kind=humor",
+   "rho": 0.10324799251070307,
+   "p": 0.09474266423365355,
+   "q": 0.5438930724524556,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "kind=impression",
+   "rho": -0.033416621046415455,
+   "p": 0.5895447379544781,
+   "q": 0.9111848057092968,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "kind=other",
+   "rho": -0.034398437883751444,
+   "p": 0.5786511027845368,
+   "q": 0.9090296040365189,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "kind=personal_fact",
+   "rho": -0.018326807809220275,
+   "p": 0.7673675275384937,
+   "q": 0.9464877992185665,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.025617834408133436,
+   "p": 0.6792107080014846,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "focus=both",
+   "rho": 0.10658240191075813,
+   "p": 0.08449861534141886,
+   "q": 0.5201318897200998,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "focus=partner",
+   "rho": -0.03897006997860963,
+   "p": 0.5292069571385691,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "focus=self",
+   "rho": -0.18936872607219482,
+   "p": 0.0020398234489290737,
+   "q": 0.13444052808237927,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "focus=task_or_study",
+   "rho": -0.04178434556535156,
+   "p": 0.49986942614405183,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "reason_type=emotion",
+   "rho": 0.11258910278371305,
+   "p": 0.06830464070651288,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "reason_type=importance",
+   "rho": -0.0440896366457128,
+   "p": 0.47649311562800467,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "reason_type=novelty",
+   "rho": -0.046803958212602685,
+   "p": 0.44975023299986194,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "reason_type=other",
+   "rho": -0.13946337378981463,
+   "p": 0.023696891791608467,
+   "q": 0.45545320665011696,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": -0.006383173286055189,
+   "p": 0.917942620967224,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "reason_type=social_connection",
+   "rho": 0.07415841721058847,
+   "p": 0.23069521674489074,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "specificity=general",
+   "rho": -0.11157836228336639,
+   "p": 0.07083670857466216,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "specificity=specific_event",
+   "rho": -0.058857444164326714,
+   "p": 0.3417133877231908,
+   "q": 0.8148550014937627,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "specificity=topic",
+   "rho": 0.12168900842402147,
+   "p": 0.04867857024581933,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "valence=negative",
+   "rho": -0.03865270283072476,
+   "p": 0.5325691666990022,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "valence=neutral",
+   "rho": -0.1208370381927931,
+   "p": 0.05028968913934865,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "valence=positive",
+   "rho": 0.14131333897053197,
+   "p": 0.02188739911699768,
+   "q": 0.45545320665011696,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "timing",
+   "rho": -0.04259414869923205,
+   "p": 0.4915894805103722,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "arousal",
+   "rho": 0.08648040061896071,
+   "p": 0.1619878123495289,
+   "q": 0.691048924243403,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "dominance",
+   "rho": 0.07105367420067658,
+   "p": 0.2508611946429691,
+   "q": 0.7725195729071564,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "pleasure",
+   "rho": 0.10678307525951682,
+   "p": 0.08391170464528731,
+   "q": 0.5201318897200998,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "mem_words",
+   "rho": 0.05152131615273449,
+   "p": 0.40534784638862165,
+   "q": 0.8738774183658753,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_A_mean",
+   "feature": "why_words",
+   "rho": -0.016756655223505605,
+   "p": 0.7867972584253253,
+   "q": 0.9478257128698867,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "kind=commonality",
+   "rho": 0.06884535843496882,
+   "p": 0.265929066192973,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.10552200640380972,
+   "p": 0.08765500356033658,
+   "q": 0.5293451513708637,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": 0.04838147650727413,
+   "p": 0.4346048784972224,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "kind=feeling",
+   "rho": 0.01962085652989457,
+   "p": 0.7514624049880734,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "kind=humor",
+   "rho": -0.10731961515201005,
+   "p": 0.082358586142938,
+   "q": 0.5201318897200998,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "kind=impression",
+   "rho": 0.0038515853854795097,
+   "p": 0.9504314952528281,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "kind=other",
+   "rho": -0.0395736095903862,
+   "p": 0.522842773769771,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "kind=personal_fact",
+   "rho": -0.020489842900672,
+   "p": 0.7408398638503975,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.04728922474028147,
+   "p": 0.4450599060854745,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "focus=both",
+   "rho": 0.04958743195637634,
+   "p": 0.4232269940178196,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "focus=partner",
+   "rho": -0.07388725928790953,
+   "p": 0.23240938245960732,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "focus=self",
+   "rho": 0.01334291754797314,
+   "p": 0.8294830347776476,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "focus=task_or_study",
+   "rho": 0.03987006541785417,
+   "p": 0.5197310906994468,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "reason_type=emotion",
+   "rho": -0.06439498806336083,
+   "p": 0.29814616355871054,
+   "q": 0.7842628576149863,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "reason_type=importance",
+   "rho": 0.07310517818466666,
+   "p": 0.2374037024923312,
+   "q": 0.7710506033989502,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "reason_type=novelty",
+   "rho": -0.013610898153856322,
+   "p": 0.8261122460722123,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "reason_type=other",
+   "rho": 0.03573694063014708,
+   "p": 0.5639532751018597,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": -0.12486916344184813,
+   "p": 0.04304042865374268,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "reason_type=social_connection",
+   "rho": 0.12772806241871076,
+   "p": 0.03845042801758231,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "specificity=general",
+   "rho": 0.005314733768114154,
+   "p": 0.9316408652895596,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "specificity=specific_event",
+   "rho": -0.056712850003074494,
+   "p": 0.3596225849940693,
+   "q": 0.8278440694170408,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "specificity=topic",
+   "rho": 0.05168313776221225,
+   "p": 0.40387240236473465,
+   "q": 0.8738774183658753,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "valence=negative",
+   "rho": 0.03553690750618477,
+   "p": 0.5661383937496582,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "valence=neutral",
+   "rho": 0.048399720704602016,
+   "p": 0.4344314511450026,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "valence=positive",
+   "rho": -0.06641994857707996,
+   "p": 0.28317900121089934,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "timing",
+   "rho": 0.1274037547203771,
+   "p": 0.038949380651484546,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "arousal",
+   "rho": 0.12323111470524255,
+   "p": 0.045871940125883214,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "dominance",
+   "rho": -0.054255342974284755,
+   "p": 0.3808515438356065,
+   "q": 0.8473491286294594,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "pleasure",
+   "rho": -0.016882468014092895,
+   "p": 0.7852353473097566,
+   "q": 0.9478257128698867,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "mem_words",
+   "rho": 0.10279697707862168,
+   "p": 0.0962012243419717,
+   "q": 0.545531333158742,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_C_mean",
+   "feature": "why_words",
+   "rho": 0.06641868020475339,
+   "p": 0.2831882148883661,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "kind=commonality",
+   "rho": 0.02995538109804187,
+   "p": 0.6286774305692271,
+   "q": 0.9271823476196022,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.0498186422819766,
+   "p": 0.42106556033215525,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": -0.089124165100964,
+   "p": 0.14948972330681035,
+   "q": 0.6465000032237262,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "kind=feeling",
+   "rho": -0.004359330484151202,
+   "p": 0.9439070901036295,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "kind=humor",
+   "rho": 0.03460691281912129,
+   "p": 0.5763501550413777,
+   "q": 0.9084841426923411,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "kind=impression",
+   "rho": 0.05191836065374443,
+   "p": 0.40173341527445705,
+   "q": 0.8738774183658753,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "kind=other",
+   "rho": 0.005406769545811902,
+   "p": 0.9304600425428688,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "kind=personal_fact",
+   "rho": -0.014480856510223027,
+   "p": 0.8151917416126144,
+   "q": 0.958555532731008,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "kind=task_or_study",
+   "rho": -0.004291545338694161,
+   "p": 0.9447779064800202,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "focus=both",
+   "rho": 0.06287785774801392,
+   "p": 0.3096980127959185,
+   "q": 0.7879965920414281,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "focus=partner",
+   "rho": -0.05084220902607501,
+   "p": 0.41157458813387815,
+   "q": 0.8778999242305199,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "focus=self",
+   "rho": -0.006483282414003197,
+   "p": 0.916660319055871,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "focus=task_or_study",
+   "rho": -0.0634103115994161,
+   "p": 0.3056107287245778,
+   "q": 0.7879965920414281,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "reason_type=emotion",
+   "rho": -0.04114337464600643,
+   "p": 0.5064749261007437,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "reason_type=importance",
+   "rho": -0.023118354265617966,
+   "p": 0.7090139192472813,
+   "q": 0.941975635571388,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "reason_type=novelty",
+   "rho": 0.012849315563807157,
+   "p": 0.8356999290744063,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "reason_type=other",
+   "rho": -0.035702581233206625,
+   "p": 0.5643283222765492,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": 0.06058828639440879,
+   "p": 0.32768072688081484,
+   "q": 0.7922639548745908,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "reason_type=social_connection",
+   "rho": -0.02056175922897435,
+   "p": 0.7399629196742696,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "specificity=general",
+   "rho": -0.008119078141099736,
+   "p": 0.8957402609816802,
+   "q": 0.991712431801146,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "specificity=specific_event",
+   "rho": 0.07620616380330508,
+   "p": 0.2180381892780924,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "specificity=topic",
+   "rho": -0.07199682703320827,
+   "p": 0.24460993704082648,
+   "q": 0.7725195729071564,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "valence=negative",
+   "rho": 0.02463901104276969,
+   "p": 0.690825753184385,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "valence=neutral",
+   "rho": -0.11828045163234963,
+   "p": 0.055393107011639166,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "valence=positive",
+   "rho": 0.10436459858036215,
+   "p": 0.09120736827314248,
+   "q": 0.5342645319269785,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "timing",
+   "rho": 0.017777169044996034,
+   "p": 0.7741531525414821,
+   "q": 0.9478257128698867,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "arousal",
+   "rho": 0.1783334359288488,
+   "p": 0.003712605518633974,
+   "q": 0.1618428191967875,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "dominance",
+   "rho": 0.06294645146128133,
+   "p": 0.30916946050118377,
+   "q": 0.7879965920414281,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "pleasure",
+   "rho": 0.13220885306013042,
+   "p": 0.03209131536572558,
+   "q": 0.47640575015636716,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "mem_words",
+   "rho": 0.13553776499527279,
+   "p": 0.027968035277943445,
+   "q": 0.47640575015636716,
+   "n": 263
+  },
+  {
+   "trait": "HEXACO_OP_mean",
+   "feature": "why_words",
+   "rho": 0.04829846941609664,
+   "p": 0.43539443656734755,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "kind=commonality",
+   "rho": -0.07247741697550442,
+   "p": 0.24146672701423877,
+   "q": 0.7710506033989502,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.040932385421783075,
+   "p": 0.5086592071257059,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": 0.012340045463339442,
+   "p": 0.8421248727632614,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "kind=feeling",
+   "rho": 0.02565788705883605,
+   "p": 0.6787370159092285,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "kind=humor",
+   "rho": -0.004008575382073456,
+   "p": 0.9484138374591333,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "kind=impression",
+   "rho": -0.025174915228013423,
+   "p": 0.6844573588970195,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "kind=other",
+   "rho": -0.026396809507463863,
+   "p": 0.6700207769063935,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "kind=personal_fact",
+   "rho": 0.022289675946073128,
+   "p": 0.7189961886532668,
+   "q": 0.9449120643534564,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.16404625962700042,
+   "p": 0.007680659613119007,
+   "q": 0.25505776342433906,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "focus=both",
+   "rho": -0.005358919746037307,
+   "p": 0.9310739385773639,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "focus=partner",
+   "rho": -0.014595113146732697,
+   "p": 0.8137600887915579,
+   "q": 0.958555532731008,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "focus=self",
+   "rho": 0.04707608365906524,
+   "p": 0.4471165904682758,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "focus=task_or_study",
+   "rho": 0.06044449541720629,
+   "p": 0.3288321361092388,
+   "q": 0.7922639548745908,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "reason_type=emotion",
+   "rho": 0.020465108204858317,
+   "p": 0.7411415549678866,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "reason_type=importance",
+   "rho": 0.004246075147263164,
+   "p": 0.9453620858570866,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "reason_type=novelty",
+   "rho": -0.007805067222664148,
+   "p": 0.899750988173346,
+   "q": 0.9932991982404725,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "reason_type=other",
+   "rho": 0.023553463376135855,
+   "p": 0.7037922848236101,
+   "q": 0.941975635571388,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": -0.02345956832973691,
+   "p": 0.7049179312290139,
+   "q": 0.941975635571388,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "reason_type=social_connection",
+   "rho": -0.012610870103956156,
+   "p": 0.8387068237557419,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "specificity=general",
+   "rho": -0.040544145947891685,
+   "p": 0.5126912758849123,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "specificity=specific_event",
+   "rho": -0.03305220776362949,
+   "p": 0.5936118293577869,
+   "q": 0.9111848057092968,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "specificity=topic",
+   "rho": 0.03623537506267531,
+   "p": 0.5585261239913457,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "valence=negative",
+   "rho": 0.07941679421846332,
+   "p": 0.1992056870355746,
+   "q": 0.7470213263834047,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "valence=neutral",
+   "rho": 0.05822867475100908,
+   "p": 0.3469043727530342,
+   "q": 0.8188351945693446,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "valence=positive",
+   "rho": -0.09891490312543813,
+   "p": 0.1095062393065509,
+   "q": 0.5628813811467329,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "timing",
+   "rho": 0.07842230511161091,
+   "p": 0.2049081885530745,
+   "q": 0.7502543911588948,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "arousal",
+   "rho": -0.2750510204513184,
+   "p": 5.98416326535409e-06,
+   "q": 0.0013913179591948258,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "dominance",
+   "rho": -0.13918418397688795,
+   "p": 0.02398088471463066,
+   "q": 0.45545320665011696,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "pleasure",
+   "rho": -0.13490012279963207,
+   "p": 0.028720679022881498,
+   "q": 0.47640575015636716,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "mem_words",
+   "rho": -0.11433276659693634,
+   "p": 0.06411065767399901,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "SIAS_mean",
+   "feature": "why_words",
+   "rho": 0.06057268150898553,
+   "p": 0.3278055573320552,
+   "q": 0.7922639548745908,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "kind=commonality",
+   "rho": 0.07169630131853404,
+   "p": 0.24658992019257597,
+   "q": 0.7725195729071564,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.015915903816420253,
+   "p": 0.7972564360889265,
+   "q": 0.9481438434305648,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": 0.01693120203689056,
+   "p": 0.7846305661510863,
+   "q": 0.9478257128698867,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "kind=feeling",
+   "rho": -0.15458268170717285,
+   "p": 0.012070570878372372,
+   "q": 0.31182308102461964,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "kind=humor",
+   "rho": 0.08136339173338557,
+   "p": 0.188379117918252,
+   "q": 0.7361032758990519,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "kind=impression",
+   "rho": 0.02517555997908785,
+   "p": 0.6844497103333826,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "kind=other",
+   "rho": -0.09181193456739617,
+   "p": 0.137547730437198,
+   "q": 0.6148580595560009,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "kind=personal_fact",
+   "rho": -0.030468458720193103,
+   "p": 0.6228070217528501,
+   "q": 0.9253768790116309,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "kind=task_or_study",
+   "rho": -0.035334601749577164,
+   "p": 0.5683524389145029,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "focus=both",
+   "rho": 0.02561070688257445,
+   "p": 0.6792950165676954,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "focus=partner",
+   "rho": -0.016764100814870554,
+   "p": 0.7867048008307872,
+   "q": 0.9478257128698867,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "focus=self",
+   "rho": -0.10414798385454008,
+   "p": 0.0918848229265683,
+   "q": 0.5342645319269785,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "focus=task_or_study",
+   "rho": -0.01630402337892554,
+   "p": 0.7924235006798273,
+   "q": 0.9480074988078513,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "reason_type=emotion",
+   "rho": 0.12999911048950033,
+   "p": 0.03510554390638287,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "reason_type=importance",
+   "rho": 0.001189043857945672,
+   "p": 0.9846885720605792,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "reason_type=novelty",
+   "rho": 0.011055493197077998,
+   "p": 0.8583763259899075,
+   "q": 0.9717548270827906,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "reason_type=other",
+   "rho": -0.044802049952323654,
+   "p": 0.4693913767088337,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": -0.022092004092416854,
+   "p": 0.721384479237585,
+   "q": 0.9449120643534564,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "reason_type=social_connection",
+   "rho": -0.024731399221935648,
+   "p": 0.6897262937971991,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "specificity=general",
+   "rho": -0.008775017661331772,
+   "p": 0.887370885583767,
+   "q": 0.9871470377905542,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "specificity=specific_event",
+   "rho": 0.004595253151303732,
+   "p": 0.9408767853574727,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "specificity=topic",
+   "rho": 0.019044801684597695,
+   "p": 0.7585301721441942,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "valence=negative",
+   "rho": 0.07419449780705786,
+   "p": 0.23046780305575762,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "valence=neutral",
+   "rho": -0.09951525292514143,
+   "p": 0.10735894531466941,
+   "q": 0.5609203322620369,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "valence=positive",
+   "rho": 0.056322071638771225,
+   "p": 0.36294795849315564,
+   "q": 0.8313832546764403,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "timing",
+   "rho": -0.040487115468625774,
+   "p": 0.5132849590575255,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "arousal",
+   "rho": 0.00660333056043923,
+   "p": 0.9151229019479048,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "dominance",
+   "rho": -0.0016530663595999216,
+   "p": 0.9787145230049243,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "pleasure",
+   "rho": -0.0829748352848905,
+   "p": 0.17974825869129563,
+   "q": 0.7315262687766578,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "mem_words",
+   "rho": -0.038340317345309696,
+   "p": 0.5358890648232002,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Propensity_mean",
+   "feature": "why_words",
+   "rho": -0.014399426830631078,
+   "p": 0.8162124425820467,
+   "q": 0.958555532731008,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "kind=commonality",
+   "rho": 0.1512777708332174,
+   "p": 0.014058040037766138,
+   "q": 0.3394825041933428,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.11305610006545615,
+   "p": 0.06715998264353241,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": 0.06282382430309759,
+   "p": 0.31011478783565877,
+   "q": 0.7879965920414281,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "kind=feeling",
+   "rho": -0.06412079867758932,
+   "p": 0.3002124487214356,
+   "q": 0.7842628576149863,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "kind=humor",
+   "rho": 0.07006079426734158,
+   "p": 0.2575609134819121,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "kind=impression",
+   "rho": 0.027992145995502458,
+   "p": 0.6513535837236895,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "kind=other",
+   "rho": -0.07544441834321068,
+   "p": 0.22268725189783187,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "kind=personal_fact",
+   "rho": -0.06101172571684983,
+   "p": 0.3243051579690567,
+   "q": 0.7922639548745908,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.031408305650827056,
+   "p": 0.6121155015161028,
+   "q": 0.9231837905940121,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "focus=both",
+   "rho": 0.07607333262463373,
+   "p": 0.2188438479506183,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "focus=partner",
+   "rho": -0.04343726629538313,
+   "p": 0.4830473050737455,
+   "q": 0.8875270283594371,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "focus=self",
+   "rho": -0.11181380876169206,
+   "p": 0.0702401431288908,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "focus=task_or_study",
+   "rho": -0.06668458613543002,
+   "p": 0.28126104328541995,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "reason_type=emotion",
+   "rho": 0.04840681397456152,
+   "p": 0.43436403402528345,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "reason_type=importance",
+   "rho": -0.012341822254734024,
+   "p": 0.8421024383525568,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "reason_type=novelty",
+   "rho": -0.054758846942466105,
+   "p": 0.3764408744821195,
+   "q": 0.8435109887844832,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "reason_type=other",
+   "rho": -0.1573541293835995,
+   "p": 0.010599258101969255,
+   "q": 0.30804093858848147,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": 0.03216915788191206,
+   "p": 0.6035198082028865,
+   "q": 0.9201203633257122,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "reason_type=social_connection",
+   "rho": 0.07906928980023036,
+   "p": 0.20118505968241243,
+   "q": 0.7484084220185743,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "specificity=general",
+   "rho": -0.16263692407583694,
+   "p": 0.008227669787881906,
+   "q": 0.25505776342433906,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "specificity=specific_event",
+   "rho": 0.0010708832818748506,
+   "p": 0.9862099777982924,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "specificity=topic",
+   "rho": 0.09669063731770536,
+   "p": 0.11775727197683684,
+   "q": 0.5676216186018888,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "valence=negative",
+   "rho": 0.04105798470897874,
+   "p": 0.5073583404166662,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "valence=neutral",
+   "rho": -0.1316852032786757,
+   "p": 0.03278491183871774,
+   "q": 0.47640575015636716,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "valence=positive",
+   "rho": 0.10187383480395418,
+   "p": 0.099242297253815,
+   "q": 0.5509627909398813,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "timing",
+   "rho": 0.07475438887892791,
+   "p": 0.22695913739574738,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "arousal",
+   "rho": 0.2329244267698009,
+   "p": 0.0001378638175644088,
+   "q": 0.014677106836971852,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "dominance",
+   "rho": 0.04593535332189032,
+   "p": 0.4582148678499264,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "pleasure",
+   "rho": 0.16267873323141635,
+   "p": 0.008210956060398813,
+   "q": 0.25505776342433906,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "mem_words",
+   "rho": 0.1329524893665826,
+   "p": 0.031127848889179983,
+   "q": 0.47640575015636716,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Benevolence_mean",
+   "feature": "why_words",
+   "rho": 0.14661740820322308,
+   "p": 0.017346454785893896,
+   "q": 0.3841000702590791,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "kind=commonality",
+   "rho": 0.045204217313777155,
+   "p": 0.46540818579648924,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.0537274816879067,
+   "p": 0.3855093069166672,
+   "q": 0.8536277510297631,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": -0.06768804460353785,
+   "p": 0.2740682554383455,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "kind=feeling",
+   "rho": -0.04277610379567883,
+   "p": 0.4897391789013822,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "kind=humor",
+   "rho": -0.03359402542157076,
+   "p": 0.587569422750353,
+   "q": 0.9111848057092968,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "kind=impression",
+   "rho": 0.018767810167293984,
+   "p": 0.7619358500353045,
+   "q": 0.9464877992185665,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "kind=other",
+   "rho": 0.04420622985162927,
+   "p": 0.47532685838953503,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "kind=personal_fact",
+   "rho": 0.00442117623148549,
+   "p": 0.9431126335921274,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.016498867237337792,
+   "p": 0.7900002431919728,
+   "q": 0.9480074988078513,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "focus=both",
+   "rho": 0.12960170874729882,
+   "p": 0.03567236325098235,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "focus=partner",
+   "rho": -0.12482407162084941,
+   "p": 0.043116360873975204,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "focus=self",
+   "rho": -0.09817818774554087,
+   "p": 0.11218724164875196,
+   "q": 0.5628813811467329,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "focus=task_or_study",
+   "rho": 0.021864061754532593,
+   "p": 0.7241418563742041,
+   "q": 0.9453434391284783,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "reason_type=emotion",
+   "rho": -0.02342948535439042,
+   "p": 0.7052787124340063,
+   "q": 0.941975635571388,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "reason_type=importance",
+   "rho": 0.010406346299665675,
+   "p": 0.8666121812628484,
+   "q": 0.9717548270827906,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "reason_type=novelty",
+   "rho": -0.025929403941971397,
+   "p": 0.6755291920386445,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "reason_type=other",
+   "rho": 0.036453681865765884,
+   "p": 0.5561570859715921,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": -0.04657631958826177,
+   "p": 0.45196003012570496,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "reason_type=social_connection",
+   "rho": 0.012381181799899822,
+   "p": 0.8416055032121613,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "specificity=general",
+   "rho": 0.04481735175058608,
+   "p": 0.469239480766412,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "specificity=specific_event",
+   "rho": -0.11157225783605733,
+   "p": 0.07085223056380381,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "specificity=topic",
+   "rho": 0.1004271803992439,
+   "p": 0.10416081919242627,
+   "q": 0.5509627909398813,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "valence=negative",
+   "rho": -0.09378462962592286,
+   "p": 0.1292586223756411,
+   "q": 0.5892672490654226,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "valence=neutral",
+   "rho": -0.031288797447729645,
+   "p": 0.6134705189108596,
+   "q": 0.9231837905940121,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "valence=positive",
+   "rho": 0.07493166786452794,
+   "p": 0.2258561196974369,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "timing",
+   "rho": 0.03830882290267985,
+   "p": 0.5362243482468927,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "arousal",
+   "rho": 0.17774998751552235,
+   "p": 0.0038285398089562632,
+   "q": 0.1618428191967875,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "dominance",
+   "rho": 0.123463236166638,
+   "p": 0.045461450678756087,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "pleasure",
+   "rho": 0.08163682368447739,
+   "p": 0.18689359629378863,
+   "q": 0.7361032758990519,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "mem_words",
+   "rho": 0.09626856795639029,
+   "p": 0.11937634891823472,
+   "q": 0.5676216186018888,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Ability_mean",
+   "feature": "why_words",
+   "rho": -0.08184951041275597,
+   "p": 0.1857440578008745,
+   "q": 0.7361032758990519,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "kind=commonality",
+   "rho": 0.12779025031520247,
+   "p": 0.03835537073608655,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.11863277913627455,
+   "p": 0.05466527801746802,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": 0.051457546845685924,
+   "p": 0.4059301556280195,
+   "q": 0.8738774183658753,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "kind=feeling",
+   "rho": 0.003483717742483905,
+   "p": 0.9551605979012361,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "kind=humor",
+   "rho": 0.00021065697537536577,
+   "p": 0.9972871902501252,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "kind=impression",
+   "rho": 0.10701602401455396,
+   "p": 0.08323451789653218,
+   "q": 0.5201318897200998,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "kind=other",
+   "rho": -0.09416633934918905,
+   "p": 0.1277002016281473,
+   "q": 0.5879266708622622,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "kind=personal_fact",
+   "rho": -0.10042884884337853,
+   "p": 0.10415503769893854,
+   "q": 0.5509627909398813,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "kind=task_or_study",
+   "rho": -5.642443105467431e-05,
+   "p": 0.9992733731289809,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "focus=both",
+   "rho": 0.07113134012990277,
+   "p": 0.25034227119473246,
+   "q": 0.7725195729071564,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "focus=partner",
+   "rho": -0.03196240550346944,
+   "p": 0.6058502432294396,
+   "q": 0.9202459952421208,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "focus=self",
+   "rho": -0.04421719666269087,
+   "p": 0.4752172398706258,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "focus=task_or_study",
+   "rho": -0.08428636829391961,
+   "p": 0.17294223839492578,
+   "q": 0.7310740077603681,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "reason_type=emotion",
+   "rho": -0.0018500645365581848,
+   "p": 0.9761786131951973,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "reason_type=importance",
+   "rho": -0.044534588864273986,
+   "p": 0.47205073621933946,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "reason_type=novelty",
+   "rho": -0.06709165538322454,
+   "p": 0.27832796154081374,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "reason_type=other",
+   "rho": -0.08275368997390044,
+   "p": 0.1809150987297111,
+   "q": 0.7315262687766578,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": -0.06786668205730191,
+   "p": 0.2728010041748253,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "reason_type=social_connection",
+   "rho": 0.10935773581844943,
+   "p": 0.07666884168408446,
+   "q": 0.5166813243927431,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "specificity=general",
+   "rho": 0.00028448045076747764,
+   "p": 0.9963365081008184,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "specificity=specific_event",
+   "rho": -0.01355501823489824,
+   "p": 0.8268148698045203,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "specificity=topic",
+   "rho": 0.032772144746445374,
+   "p": 0.596746166925439,
+   "q": 0.9127860776984512,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "valence=negative",
+   "rho": 0.0445034732647156,
+   "p": 0.4723606530071828,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "valence=neutral",
+   "rho": -0.182217390453658,
+   "p": 0.0030183455365690023,
+   "q": 0.1559478527227318,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "valence=positive",
+   "rho": 0.12419316916252672,
+   "p": 0.04419062534519096,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "timing",
+   "rho": 0.03571924109670969,
+   "p": 0.5641464579975783,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "arousal",
+   "rho": 0.279930553792427,
+   "p": 4.015184274612289e-06,
+   "q": 0.0013913179591948258,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "dominance",
+   "rho": 0.05701655670099186,
+   "p": 0.357051343133738,
+   "q": 0.8278440694170408,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "pleasure",
+   "rho": 0.09588866036491007,
+   "p": 0.12084847363782147,
+   "q": 0.5676216186018888,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "mem_words",
+   "rho": 0.12154918346331418,
+   "p": 0.048939991928109626,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "Trust_Integrity_mean",
+   "feature": "why_words",
+   "rho": 0.0836307709227122,
+   "p": 0.17632003290249454,
+   "q": 0.7315262687766578,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "kind=commonality",
+   "rho": -0.01041930663900892,
+   "p": 0.8664476068509814,
+   "q": 0.9717548270827906,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.018409364435328358,
+   "p": 0.7663498316364892,
+   "q": 0.9464877992185665,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": -0.051022621963718276,
+   "p": 0.4099148994043169,
+   "q": 0.8778999242305199,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "kind=feeling",
+   "rho": 0.061134755604732915,
+   "p": 0.32332862559033115,
+   "q": 0.7922639548745908,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "kind=humor",
+   "rho": -0.11212116289234643,
+   "p": 0.06946755475861308,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "kind=impression",
+   "rho": -0.08063080064405569,
+   "p": 0.19240184384873504,
+   "q": 0.7366241953092393,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "kind=other",
+   "rho": 0.09591615733883856,
+   "p": 0.12074145219273563,
+   "q": 0.5676216186018888,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "kind=personal_fact",
+   "rho": 0.06826383098212246,
+   "p": 0.26999793354857027,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.04130794499372898,
+   "p": 0.5047746101927828,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "focus=both",
+   "rho": -0.0004179138085953715,
+   "p": 0.9946181972990128,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "focus=partner",
+   "rho": -7.388579238724672e-05,
+   "p": 0.9990485079626261,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "focus=self",
+   "rho": 0.06568613859109865,
+   "p": 0.28854327668418633,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "focus=task_or_study",
+   "rho": 0.08019060821049322,
+   "p": 0.19484898069470202,
+   "q": 0.7366241953092393,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "reason_type=emotion",
+   "rho": -0.13365956363155046,
+   "p": 0.030234752537371633,
+   "q": 0.47640575015636716,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "reason_type=importance",
+   "rho": -0.024907168029144226,
+   "p": 0.6876363674914245,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "reason_type=novelty",
+   "rho": 0.05315252749948827,
+   "p": 0.3906217916299949,
+   "q": 0.8608489720755812,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "reason_type=other",
+   "rho": 0.039750704353975035,
+   "p": 0.5209827944499846,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": 0.0067640960901150585,
+   "p": 0.9130645260886069,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "reason_type=social_connection",
+   "rho": 0.026367469800707602,
+   "p": 0.670366033243708,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "specificity=general",
+   "rho": 0.019857197412679047,
+   "p": 0.7485686251589456,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "specificity=specific_event",
+   "rho": 0.012626779086603604,
+   "p": 0.8385061315635053,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "specificity=topic",
+   "rho": -0.021645438496298044,
+   "p": 0.7267898503691028,
+   "q": 0.9453434391284783,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "valence=negative",
+   "rho": -0.1272120981043358,
+   "p": 0.039246810041116936,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "valence=neutral",
+   "rho": 0.11168300519128274,
+   "p": 0.07057106026979162,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "valence=positive",
+   "rho": -0.04754774323401231,
+   "p": 0.4425725697087216,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "timing",
+   "rho": 0.07064689850989783,
+   "p": 0.253591249727396,
+   "q": 0.7757890205476259,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "arousal",
+   "rho": -0.18710275721158223,
+   "p": 0.0023129553218473853,
+   "q": 0.13444052808237927,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "dominance",
+   "rho": -0.019821932313929154,
+   "p": 0.7490001920180615,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "pleasure",
+   "rho": -0.06777147519730538,
+   "p": 0.2734759032626237,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "mem_words",
+   "rho": -0.05972212834597565,
+   "p": 0.334655903189513,
+   "q": 0.802139149397544,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Affective_Responsiveness_mean",
+   "feature": "why_words",
+   "rho": -0.00030477328708664557,
+   "p": 0.9960751823578887,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "kind=commonality",
+   "rho": -0.1168391692171478,
+   "p": 0.058454564014024296,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "kind=conversation_process",
+   "rho": 0.06134860027619886,
+   "p": 0.3216358031938781,
+   "q": 0.7922639548745908,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": -0.010439062279510653,
+   "p": 0.8661967546731199,
+   "q": 0.9717548270827906,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "kind=feeling",
+   "rho": 0.08072624738742225,
+   "p": 0.19187420839996844,
+   "q": 0.7366241953092393,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "kind=humor",
+   "rho": 0.01616312411990832,
+   "p": 0.7941770978217385,
+   "q": 0.9480074988078513,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "kind=impression",
+   "rho": -0.07875960817002266,
+   "p": 0.2029609813768292,
+   "q": 0.7490226693668697,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "kind=other",
+   "rho": 0.021561053913114265,
+   "p": 0.7278127982967639,
+   "q": 0.9453434391284783,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "kind=personal_fact",
+   "rho": 0.04467012623164384,
+   "p": 0.47070206078499555,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.04299206278563094,
+   "p": 0.4875479370286162,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "focus=both",
+   "rho": -0.07393686425233759,
+   "p": 0.23209512742576105,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "focus=partner",
+   "rho": 0.019115576962098573,
+   "p": 0.7576607166267562,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "focus=self",
+   "rho": 0.10413789326093718,
+   "p": 0.09191647861109307,
+   "q": 0.5342645319269785,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "focus=task_or_study",
+   "rho": 0.12260755445038686,
+   "p": 0.04699005587649894,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "reason_type=emotion",
+   "rho": -0.054665874367256104,
+   "p": 0.37725294191286607,
+   "q": 0.8435109887844832,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "reason_type=importance",
+   "rho": 0.07693078363953046,
+   "p": 0.21368047432409004,
+   "q": 0.7643186196977068,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "reason_type=novelty",
+   "rho": 0.07799727605729137,
+   "p": 0.20738101043997537,
+   "q": 0.753376326988973,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "reason_type=other",
+   "rho": 0.10805754814252433,
+   "p": 0.08026043773602098,
+   "q": 0.5201318897200998,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": 0.04514023164844739,
+   "p": 0.46604066761112073,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "reason_type=social_connection",
+   "rho": -0.1013827545052277,
+   "p": 0.10089084796722496,
+   "q": 0.5509627909398813,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "specificity=general",
+   "rho": 0.03631491282418504,
+   "p": 0.5576624258039444,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "specificity=specific_event",
+   "rho": 0.04428025084954142,
+   "p": 0.4745872508271487,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "specificity=topic",
+   "rho": -0.06247763882807332,
+   "p": 0.3127937459298511,
+   "q": 0.7904841948770693,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "valence=negative",
+   "rho": -0.04552672967724904,
+   "p": 0.4622274655985247,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "valence=neutral",
+   "rho": 0.20059279244001155,
+   "p": 0.0010721283820992675,
+   "q": 0.08308994961269323,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "valence=positive",
+   "rho": -0.15583511885697712,
+   "p": 0.011384740262738478,
+   "q": 0.31140613071608186,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "timing",
+   "rho": -0.03937095752369596,
+   "p": 0.5249753265200212,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "arousal",
+   "rho": -0.2309311242886715,
+   "p": 0.00015781835308571884,
+   "q": 0.014677106836971852,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "dominance",
+   "rho": -0.08897934287638729,
+   "p": 0.15015483945841385,
+   "q": 0.6465000032237262,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "pleasure",
+   "rho": -0.11749251784930577,
+   "p": 0.05704988499522159,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "mem_words",
+   "rho": -0.08026403926023477,
+   "p": 0.19443918977999014,
+   "q": 0.7366241953092393,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Cognitive_Responsiveness_mean",
+   "feature": "why_words",
+   "rho": -0.05283395072748355,
+   "p": 0.39347212112435836,
+   "q": 0.8630402656737105,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "kind=commonality",
+   "rho": 0.0075053244874635295,
+   "p": 0.9035818513026235,
+   "q": 0.9932991982404725,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "kind=conversation_process",
+   "rho": -0.025754357096176215,
+   "p": 0.6775966084645338,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": 0.003054749697871383,
+   "p": 0.9606771446670619,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "kind=feeling",
+   "rho": -0.10138381638483214,
+   "p": 0.100887259989821,
+   "q": 0.5509627909398813,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "kind=humor",
+   "rho": -0.12110456487075218,
+   "p": 0.049779064472928264,
+   "q": 0.4772388867305535,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "kind=impression",
+   "rho": 0.02690011477034327,
+   "p": 0.6641089524741383,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "kind=other",
+   "rho": -0.06418268617770799,
+   "p": 0.2997452385148206,
+   "q": 0.7842628576149863,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "kind=personal_fact",
+   "rho": 0.06321567776893745,
+   "p": 0.30710065583466895,
+   "q": 0.7879965920414281,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "kind=task_or_study",
+   "rho": -0.04935045070940808,
+   "p": 0.4254490631297888,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "focus=both",
+   "rho": -0.0371978556638714,
+   "p": 0.5481182244773851,
+   "q": 0.901992778482061,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "focus=partner",
+   "rho": 0.07731108537581213,
+   "p": 0.21141857981958764,
+   "q": 0.7620902295822346,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "focus=self",
+   "rho": -0.0723812666336417,
+   "p": 0.2420933077338639,
+   "q": 0.7710506033989502,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "focus=task_or_study",
+   "rho": -0.06544416737604408,
+   "p": 0.2903269615188357,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "reason_type=emotion",
+   "rho": -0.0713226944106052,
+   "p": 0.2490669227624752,
+   "q": 0.7725195729071564,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "reason_type=importance",
+   "rho": -0.013026489063118301,
+   "p": 0.833467241300682,
+   "q": 0.9597746711640112,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "reason_type=novelty",
+   "rho": 0.03491610721527037,
+   "p": 0.5729454863753695,
+   "q": 0.9061892896753292,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "reason_type=other",
+   "rho": 0.009776903879464633,
+   "p": 0.8746118238836246,
+   "q": 0.9776310050622246,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": 0.056811114953038214,
+   "p": 0.35878939158748735,
+   "q": 0.8278440694170408,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "reason_type=social_connection",
+   "rho": -0.04123882393189282,
+   "p": 0.5054883939799986,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "specificity=general",
+   "rho": 0.048127794893377054,
+   "p": 0.4370204642081512,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "specificity=specific_event",
+   "rho": -0.017433007201660543,
+   "p": 0.7784108274978172,
+   "q": 0.9478257128698867,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "specificity=topic",
+   "rho": -0.025589050950123458,
+   "p": 0.6795512001457233,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "valence=negative",
+   "rho": -0.0684005774369995,
+   "p": 0.26903734095545323,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "valence=neutral",
+   "rho": 0.020028437497418772,
+   "p": 0.746474140474086,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "valence=positive",
+   "rho": 0.025371517390602883,
+   "p": 0.6821265977001065,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "timing",
+   "rho": 0.04680219174457188,
+   "p": 0.44976735747241403,
+   "q": 0.8792432490754848,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "arousal",
+   "rho": 0.005979052226045734,
+   "p": 0.9231211480545846,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "dominance",
+   "rho": 0.03304076213864863,
+   "p": 0.5937397766234773,
+   "q": 0.9111848057092968,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "pleasure",
+   "rho": 0.01982880665729706,
+   "p": 0.7489160591124002,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "mem_words",
+   "rho": 0.04074075153352147,
+   "p": 0.510647356940688,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Interpersonal_Manipulation_mean",
+   "feature": "why_words",
+   "rho": 0.056964683760389406,
+   "p": 0.35748969270545605,
+   "q": 0.8278440694170408,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "kind=commonality",
+   "rho": -0.0382129212580847,
+   "p": 0.5372459437039532,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "kind=conversation_process",
+   "rho": 0.038728246802282484,
+   "p": 0.5317678748645409,
+   "q": 0.8890368819300293,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "kind=disagreement_or_negative",
+   "rho": -0.11512919747576866,
+   "p": 0.062266615345601614,
+   "q": 0.48651453559713576,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "kind=feeling",
+   "rho": -0.0034939342853667426,
+   "p": 0.9550292377254301,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "kind=humor",
+   "rho": -0.07587746598105609,
+   "p": 0.22003570946289722,
+   "q": 0.7664564740689178,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "kind=impression",
+   "rho": 0.06895482923583879,
+   "p": 0.2651678330575401,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "kind=other",
+   "rho": -0.017087309630076406,
+   "p": 0.7826941687042903,
+   "q": 0.9478257128698867,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "kind=personal_fact",
+   "rho": 0.025399742727588295,
+   "p": 0.6817922269436023,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "kind=task_or_study",
+   "rho": 0.007623774999942215,
+   "p": 0.9020677223672992,
+   "q": 0.9932991982404725,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "focus=both",
+   "rho": 0.02490481782731808,
+   "p": 0.6876642962612259,
+   "q": 0.9374309954360082,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "focus=partner",
+   "rho": -0.005520704535691707,
+   "p": 0.9289984631074647,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "focus=self",
+   "rho": -0.05758670918574559,
+   "p": 0.35225550197557964,
+   "q": 0.8272667091850734,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "focus=task_or_study",
+   "rho": 0.06436484349945873,
+   "p": 0.29837286909904276,
+   "q": 0.7842628576149863,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "reason_type=emotion",
+   "rho": -0.09742068719744251,
+   "p": 0.11499727141707447,
+   "q": 0.5628813811467329,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "reason_type=importance",
+   "rho": -0.016088757545216735,
+   "p": 0.7951030635162624,
+   "q": 0.9480074988078513,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "reason_type=novelty",
+   "rho": 0.06106181841081567,
+   "p": 0.3239073240580379,
+   "q": 0.7922639548745908,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "reason_type=other",
+   "rho": 0.0915129295408556,
+   "p": 0.1388389166739357,
+   "q": 0.6148580595560009,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "reason_type=self_relevance",
+   "rho": -0.005443893996979529,
+   "p": 0.9299837772630056,
+   "q": 0.9968971709549014,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "reason_type=social_connection",
+   "rho": -0.04326365358096448,
+   "p": 0.4847997101146172,
+   "q": 0.8875270283594371,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "specificity=general",
+   "rho": 0.08142377272273663,
+   "p": 0.18805033281507616,
+   "q": 0.7361032758990519,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "specificity=specific_event",
+   "rho": 0.029832645007088567,
+   "p": 0.6300852082748264,
+   "q": 0.9271823476196022,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "specificity=topic",
+   "rho": -0.06587177939236487,
+   "p": 0.2871798191254009,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "valence=negative",
+   "rho": -0.17046375849997578,
+   "p": 0.005578088654740633,
+   "q": 0.21615093537119956,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "valence=neutral",
+   "rho": 0.07252581333614525,
+   "p": 0.2411517733456189,
+   "q": 0.7710506033989502,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "valence=positive",
+   "rho": 0.018997446823213367,
+   "p": 0.7591120837012432,
+   "q": 0.9463461633272872,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "timing",
+   "rho": 0.058452334615034934,
+   "p": 0.34505219482945226,
+   "q": 0.8186187275290577,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "arousal",
+   "rho": -0.06663478065637002,
+   "p": 0.2816213367005928,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "dominance",
+   "rho": 0.0693752759006112,
+   "p": 0.2622580323603819,
+   "q": 0.7788944915076841,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "pleasure",
+   "rho": 0.010354936082356244,
+   "p": 0.8672650607298024,
+   "q": 0.9717548270827906,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "mem_words",
+   "rho": 0.0006787864332831377,
+   "p": 0.9912588445986791,
+   "q": 0.9992733731289808,
+   "n": 263
+  },
+  {
+   "trait": "PPTS_Egocentricity_mean",
+   "feature": "why_words",
+   "rho": 0.019123323572022823,
+   "p": 0.7575655700610346,
+   "q": 0.9463461633272872,
+   "n": 263
+  }
+ ],
+ "B": {
+  "HEXACO_HH_mean": {
+   "r": -0.21301231825735797,
+   "p_perm": 0.8208955223880597
+  },
+  "HEXACO_E_mean": {
+   "r": 0.06689071167756844,
+   "p_perm": 0.05472636815920398
+  },
+  "HEXACO_EX_mean": {
+   "r": 0.0970085062648342,
+   "p_perm": 0.03482587064676617
+  },
+  "HEXACO_A_mean": {
+   "r": 0.04209008015445672,
+   "p_perm": 0.07462686567164178
+  },
+  "HEXACO_C_mean": {
+   "r": -0.11797363105429481,
+   "p_perm": 0.31343283582089554
+  },
+  "HEXACO_OP_mean": {
+   "r": 0.14030656644081455,
+   "p_perm": 0.01990049751243781
+  },
+  "SIAS_mean": {
+   "r": -0.10772920381427142,
+   "p_perm": 0.2835820895522388
+  },
+  "Trust_Propensity_mean": {
+   "r": -0.15174988003382364,
+   "p_perm": 0.42786069651741293
+  },
+  "Trust_Benevolence_mean": {
+   "r": 0.08593682159937305,
+   "p_perm": 0.029850746268656716
+  },
+  "Trust_Ability_mean": {
+   "r": 0.0780788763882141,
+   "p_perm": 0.029850746268656716
+  },
+  "Trust_Integrity_mean": {
+   "r": -0.01979412098833085,
+   "p_perm": 0.10945273631840796
+  },
+  "PPTS_Affective_Responsiveness_mean": {
+   "r": -0.20002522853917037,
+   "p_perm": 0.7263681592039801
+  },
+  "PPTS_Cognitive_Responsiveness_mean": {
+   "r": 0.15410961368793222,
+   "p_perm": 0.014925373134328358
+  },
+  "PPTS_Interpersonal_Manipulation_mean": {
+   "r": -0.16330599350688124,
+   "p_perm": 0.5472636815920398
+  },
+  "PPTS_Egocentricity_mean": {
+   "r": -0.13506627721647166,
+   "p_perm": 0.3681592039800995
+  }
+ }
+}

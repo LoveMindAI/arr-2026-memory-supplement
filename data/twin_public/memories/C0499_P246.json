@@ -1,0 +1,23 @@
+{
+ "call": "C0499",
+ "person": "P246",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we just talked easy the whole way, walking and cats and that, shes a nurse in taunton",
+  "reason": "it felt relaxed tbh, i didnt get as nervous as usual",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

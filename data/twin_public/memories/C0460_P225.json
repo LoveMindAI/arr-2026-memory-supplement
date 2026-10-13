@@ -1,0 +1,23 @@
+{
+ "call": "C0460",
+ "person": "P225",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 28
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we just got chatting easy about work and family and that",
+  "reason": "it felt normal tbh, like talking to someone from round here. we moaned about the same stuff and worried about the same stuff, i wasnt expecting that from him",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

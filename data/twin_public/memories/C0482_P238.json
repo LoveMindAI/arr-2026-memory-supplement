@@ -1,0 +1,23 @@
+{
+ "call": "C0482",
+ "person": "P238",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he said hes had lads start apprenticeships at 25 26 but the ones that dont last are late and on there phone. proper called me out lol",
+  "reason": "cos thats literally me tbh ive had a word about my phone. didnt know he takes on apprentices either, made me think i havent left it too late",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0198",
+ "person": "P095",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "him saying the best bit of being a toolmaker was getting a cut spot on first time, and that his old firms whole street's gone",
+  "reason": "he sort of lit up, then sad",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

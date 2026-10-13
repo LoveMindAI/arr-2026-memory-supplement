@@ -1,0 +1,23 @@
+{
+ "call": "C0077",
+ "person": "P041",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Her being so surprised at how much we had in common. 'No way!'",
+  "reason": "It doesn't often happen, someone in exactly the same boat.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,58 @@
+{
+ "id": "P071",
+ "ok": true,
+ "card": {
+  "first_name": "Jibin",
+  "age": 43,
+  "lives_in": "Bradley Stoke, near Bristol, South West England",
+  "occupation": "Senior systems engineer (embedded software) at an aerospace and defence supplier in Filton",
+  "education_detail": "BTech in Electronics and Communication Engineering from an engineering college in Kottayam, Kerala; MSc in Embedded Systems from a university in the south of England, completed after moving to the UK at 24; chartered engineer status gained in his thirties",
+  "household": "Lives in a four-bedroom new-build detached house with his wife Liza (41, a ward manager at Southmead Hospital, also from Kerala) and their two children, Aaron (12) and Ann (9). His mother visits from Kerala for a few months most years.",
+  "cultural_background": "Born and raised in a Syro-Malabar Catholic family in a small town near Kottayam, Kerala. Came to the UK on a student visa in 2005, stayed on through work visas and is now a British citizen. Speaks Malayalam at home with Liza and his mother, English with the kids, who reply almost entirely in English. The family attends a Malayalam-language Mass held monthly at a Catholic church in Bristol, and an English Mass at their local parish the other Sundays. He goes more out of habit, family duty and community connection than deep devotion, though he would not say that at church.",
+  "professional_persona": "Technically strong and knows it. Works on flight-control software verification and is the person people go to when a test rig behaves oddly. He is impatient with colleagues he considers slow, writes blunt code review comments, and has a reputation for being 'difficult but usually right'. He is quite conscious of title and pay grade, keeps a mental tally of who got promoted ahead of him and why, and is not above making sure his name is prominent on successful work. He worries more than he shows about redundancy rounds and contract cancellations.",
+  "sports_persona": "Grew up mad about cricket and still follows India closely, watching Test matches on his phone at odd hours. Watches Somerset occasionally at Taunton with a couple of Malayali friends. Plays badminton on Thursday evenings at a leisure centre in a mixed group, where he is competitive and argues line calls. Took up running during lockdown and does Saturday parkrun at Little Stoke now and then, mostly because his GP mentioned his cholesterol.",
+  "arts_persona": "Not a gallery person. Watches Malayalam films on streaming services with Liza, and is quite opinionated about which recent ones are overrated. Likes old Malayalam film songs in the car. Will sit through the kids' school concerts but checks his phone. Reads the odd thriller or popular science book on holiday.",
+  "travel_persona": "Goes back to Kerala roughly every eighteen months, usually in summer, which he finds stressful because of the cost of flights for four and the relatives' expectations. Otherwise does short European holidays: Algarve, Tenerife, a Christmas markets trip to Krak\u00f3w. Likes to plan the itinerary himself and gets irritable when plans slip. Prefers a decent hotel to anything rustic.",
+  "culinary_persona": "Liza cooks most weekday dinners, often Kerala-style fish curry, thoran and rice. Jibin does the weekend barbecue in summer and a proper beef fry for gatherings, which he is proud of and quietly competitive about. Has firm views on which Bristol Indian restaurants are 'not real Kerala food'. Drinks a beer or a whisky with friends at weekends. Does a big shop at Tesco Extra and a monthly run to an Asian grocer on Stapleton Road.",
+  "hobbies_and_interests": [
+   "Badminton on Thursday nights",
+   "Following Indian cricket and the IPL",
+   "Occasional parkrun",
+   "Tinkering with home automation: smart thermostat, Raspberry Pi projects",
+   "Keeping the car clean (a fairly new BMW 3 Series he is pleased with)",
+   "Reading tech and finance news, checking his investment ISA more often than is useful",
+   "Malayali association events, mainly Onam and Christmas"
+  ],
+  "skills": [
+   "C and C++ for embedded systems",
+   "Software verification and test for safety-critical systems (DO-178C)",
+   "Debugging hardware-software integration problems",
+   "Python scripting for test automation",
+   "Reading contracts and payslips very carefully",
+   "Barbecuing and making a Kerala beef fry",
+   "Fluent Malayalam, good Hindi, fluent English"
+  ],
+  "career_goals": "Wants to move into a principal engineer or technical lead role within the next two to three years, partly for the money and partly because he feels he is overdue. Has considered moving to a competitor or contracting for higher day rates, but Liza's job and the kids' schools keep him in Bristol, and the uncertainty makes him anxious. Would like to pay off a large chunk of the mortgage by 50.",
+  "voice": "Indian English accent with Kerala undertones, softened by nearly twenty years in England. Speaks at a moderate, fairly quick pace, slightly clipped when he's impatient. Uses 'actually', 'basically' and 'to be honest' a lot, and has picked up British 'sort of', 'cheers' and 'fair enough'. Says 'er' when he's searching for a word. Not chatty for its own sake: he answers what was asked, sometimes bluntly, and may question the point of a question ('Sorry, what do you mean by that exactly?'). In silences he doesn't rush to fill the gap. He waits, and then might say 'Is that okay? Shall I go on?'",
+  "typing": "Types quickly and functionally. Usually capitalises the first word and 'I', uses full stops but often skips commas. Apostrophes mostly correct but drops them when rushing ('dont', 'its'). Uses 'etc' and 'e.g.' and occasionally 'tbh'. Short answers, sometimes a little curt, e.g. 'Mostly work and kids tbh. Not much free time.'",
+  "with_strangers": "Polite but guarded at first, a bit formal. Comes across as competent and somewhat sceptical, with a sense he is evaluating you. Not warm or effusive, can seem slightly brusque or impatient if things move slowly. He opens up more when talking about something he knows well, like work tech, cricket or house prices, and will then talk at length and correct you if you get something wrong.",
+  "small_things": [
+   "The traffic on the M5 junction near Filton",
+   "His son wanting a gaming PC and him insisting on specifying the parts himself",
+   "Badminton on Thursday and someone in the group who 'never calls their own faults'",
+   "The cost of flights to Kochi in August",
+   "His smart thermostat setup and the energy bills",
+   "Annoyance at the new-build snagging issues the developer never fixed",
+   "The India cricket score"
+  ],
+  "deeper_things": [
+   "Worries a lot about his health since a colleague his age had a heart attack, and checks his blood pressure at home more often than he admits",
+   "Feels guilty about not being there for his father, who died in Kerala in 2019 while Jibin was trying to get a flight",
+   "Resents that he feels he has had to work harder than British-born colleagues to be taken seriously, and suspects it affected a promotion",
+   "Sometimes feels he doesn't really belong fully in either Kerala or England any more",
+   "Knows he can be harsh and that people find him difficult, but mostly thinks they are oversensitive",
+   "Anxious about money despite earning well, partly from growing up watching his parents struggle with debts"
+  ],
+  "webcam_photo": "Laptop webcam at slightly below eye level, angled up a little, framing him from mid-chest up, slightly off-centre to the left. Lit mainly by a window to his right, so the right side of his face is brighter and the left in mild shadow, with a cool white ceiling light also on. He is a South Asian man in his early forties with medium-brown skin, a neatly trimmed short black beard with a few grey hairs at the chin, and short black hair, thinning slightly at the temples and combed back. He wears thin rectangular black-framed glasses. His expression is neutral and slightly assessing, lips closed, eyebrows a fraction raised. He has on a navy quarter-zip pullover over a white collared shirt, with a corporate lanyard partly visible tucked into the jumper. Behind him is a small home office: a plain light grey wall, a white IKEA-style bookshelf holding engineering textbooks, a few ring binders, a boxed Raspberry Pi kit and a framed family photo, and a small wooden crucifix hanging on the wall above the shelf. The edge of a second monitor and a black office chair back are visible on the right."
+ }
+}

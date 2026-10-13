@@ -1,0 +1,23 @@
+{
+ "call": "C0036",
+ "person": "P024",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 30
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I admitted I lie awake at night wondering if I've put the right code in.",
+  "reason": "I think because it was a bit more honest than I meant to be with a stranger. He was so different about it, and it made me think I should switch off more!!",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

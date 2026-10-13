@@ -1,0 +1,23 @@
+{
+ "call": "C0276",
+ "person": "P132",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked about our dads and being far away from family. His dad had a stroke last year.",
+  "reason": "My dad's back worries me. It was the only part that felt personal.",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

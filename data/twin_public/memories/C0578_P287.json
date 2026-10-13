@@ -1,0 +1,23 @@
+{
+ "call": "C0578",
+ "person": "P287",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I asked about my knees and chest she said I wasnt bothering anyone and to book my asthma review, turns out she's a doctor, just done four nights",
+  "reason": "She said I'm allowed to be a person and not feel guilty about sick days, I went a bit wobbly",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

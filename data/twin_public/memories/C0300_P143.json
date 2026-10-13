@@ -1,0 +1,23 @@
+{
+ "call": "C0300",
+ "person": "P143",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 27
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Honestly the whole call... we found more in common than I expected!",
+  "reason": "I was a bit nervous at the start, I thought it would be awkward and I would talk too much... but it got easier and we actually laughed together.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

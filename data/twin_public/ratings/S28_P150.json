@@ -1,0 +1,57 @@
+{
+ "session": "S28",
+ "rater": "P150",
+ "ok": true,
+ "ratings": {
+  "P147": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "proper football lad, looks like a laugh tbh but prob a bit quiet"
+  },
+  "P148": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "dead friendly, reminds me of my sister claire with the calendar and that"
+  },
+  "P149": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks a bit knackered, prob wouldnt say much during the task"
+  },
+  "P151": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "nice enough but looks a bit shy, i'd end up doing all the talking haha"
+  },
+  "P152": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "got a bit of attitude about her, looks like she\u2019d be good at the festival side of things"
+  }
+ }
+}

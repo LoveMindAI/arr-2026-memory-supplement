@@ -1,0 +1,23 @@
+{
+ "call": "C0167",
+ "person": "P082",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 31
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got talking about the old dyke near me and the Banks where I walk, the coal tips, and my grandad being down Hafod pit, we had a little laugh about it",
+  "reason": "Because its places I walk every day and never think twice about, and it made me look at them different. Bringing my grandad into it was nice too, I dont talk about him much",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

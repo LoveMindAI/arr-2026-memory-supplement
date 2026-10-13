@@ -1,0 +1,21 @@
+{
+ "id": "C0146",
+ "session": "S14",
+ "round": 3,
+ "A": "P071",
+ "B": "P069",
+ "names": {
+  "A": "Jibin",
+  "B": "Hodan"
+ },
+ "turns": 31,
+ "av_event": {
+  "turn": 22,
+  "line_text": "Idris, he's eight. Just me and him, my mum helps. What do you do for fun, apart from spreadsheets?",
+  "who": "Hodan",
+  "what": "A young boy in pyjamas walks across the living room behind Hodan, passing in front of the grey sofa and the folded laundry pile, picks up a book from the shelf and walks back out of frame. Hodan doesn't turn around and keeps talking."
+ },
+ "words": 480,
+ "ok": true,
+ "text": "B: Hi! Can you hear me? I'm Hodan, Wembley.\nA: Yes, I can hear you. Jibin, I'm near Bristol.\nB: Nice. I'm guessing engineer? Your shelves are very organised, I respect that.\nA: Thank you. Yes, systems engineer, embedded software, aerospace. And you're NHS? The lanyard.\nB: Yeah, senior pharmacy technician. Aseptic unit and dispensary, a hospital in North West London.\nA: Okay. My wife is NHS, actually. Ward manager at Southmead.\nB: Oh, so she knows. Ward managers, honestly, they're either amazing or they ring down to pharmacy every five minutes asking where their stuff is.\nA: She's amazing, obviously. I have to say that.\nB: Ha! Obviously. What do you actually do, though, like day to day?\nA: Flight-control software verification. Basically proving the code does what it should, every time. Lots of test rigs. If a rig does something strange, they come to me.\nB: See, that's the same as me. If something's gone wrong in the department, they come to me. I do the final accuracy checks, I run the rota, and I keep my own spreadsheet of every near-miss, because if you don't track it, it didn't happen, you know.\nA: Yes, exactly. Data. People don't like it, but data is data.\nB: People hate it. I've got juniors who think I'm scary. I'm not scary, I just don't want anyone getting the wrong drug.\nA: To be honest, I have the same reputation. Difficult but usually right.\nB: Ha! Difficult but usually right, I'm having that. What band would you be in, if you was NHS?\nA: Er, it doesn't map exactly. I'm senior, I want principal. I think I'm overdue, actually. Two people went ahead of me last round and I'm still not sure why.\nB: You've got to make noise, though. I pushed through a regrading last year. I just kept going to my manager with evidence until she couldn't say no. Now I want Band 6 lead technician in two years, medicines optimisation.\nA: Yes, but sometimes the evidence is there and still. Sorry, what's medicines optimisation exactly?\nB: Kind of making sure patients are on the right meds, reviewing, less firefighting. Better hours, better money.\nA: Better hours is important. You have a son, I saw the photo?\nB: Idris, he's eight. Just me and him, my mum helps. What do you do for fun, apart from spreadsheets?\nA: Badminton, Thursdays. Parkrun sometimes, because my GP mentioned my cholesterol.\nB: Do you track your times?\nA: Of course.\nB: Good. I do weights three mornings a week, I log every lift. I did mine at six this morning.\nA: Six. Okay, that's dedicated. I struggle with eight on a Saturday.\nB: You just get used to it. And badminton, are you competitive?\nA: Very. There's one man in our group who never calls his own faults. Every week.\nB: Oh my days, I'd be fuming. Sorry, go on.\nA: No, it's fine. I argue the line calls. Probably too much, my friends say.\nB: Nah, if he's wrong, he's wrong, innit\u2014"
+}

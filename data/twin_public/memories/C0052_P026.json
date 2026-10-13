@@ -1,0 +1,23 @@
+{
+ "call": "C0052",
+ "person": "P026",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The spreadsheets chat. She runs repairs budgets for a housing association",
+  "reason": "She thinks like an auditor without the qualifications. I respected that",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

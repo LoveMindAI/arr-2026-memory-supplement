@@ -1,0 +1,23 @@
+{
+ "call": "C0212",
+ "person": "P097",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about church near the end and me finding one, turns out he sings in a choir",
+  "reason": "i've been meaning to find a church for ages and it was really nice talking about it without it feeling awkward tbh",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

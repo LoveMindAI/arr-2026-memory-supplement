@@ -1,0 +1,57 @@
+{
+ "session": "S25",
+ "rater": "P133",
+ "ok": true,
+ "ratings": {
+  "P129": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like he knows his stuff. clean and tidy room so hes probably quite organised to be fair."
+  },
+  "P130": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "seems like a decent lad. likes his rugby so we would have something to talk about. got a dog too."
+  },
+  "P131": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a normal bloke just getting on with things. reminds me of some of the lads at the warehouse."
+  },
+  "P132": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "quiet but looks like he gets the job done. noticed the hi-vis so he probably works hard."
+  },
+  "P134": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "reminds me of the head teacher at school. very organised with that meal plan on the fridge."
+  }
+ }
+}

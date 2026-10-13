@@ -1,0 +1,23 @@
+{
+ "call": "C0166",
+ "person": "P081",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "she warmed up a bit as we went",
+  "reason": "felt like we got on",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

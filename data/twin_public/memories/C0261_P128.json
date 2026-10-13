@@ -1,0 +1,23 @@
+{
+ "call": "C0261",
+ "person": "P128",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 21,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we was going on about buying and selling bits online and haggling people down, had a bit of a laugh about not getting done over",
+  "reason": "cos its what i actually do so it stuck",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

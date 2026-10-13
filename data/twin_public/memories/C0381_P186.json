@@ -1,0 +1,25 @@
+{
+ "call": "C0381",
+ "person": "P186",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 8,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her ginger cat walked right across the camera lol",
+  "reason": "couldnt see her face for a sec, was funny",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0381",
+  "turn": 21,
+  "line_text": "Erm. I saw your PlayStation in your photo. What do you play?",
+  "who": "Bethany",
+  "what": "The ginger cat jumps up from the sofa arm onto the table and walks right in front of the laptop. For a second or two its body and tail block most of the webcam view of Bethany's face, and then it steps out of frame to the right."
+ }
+}

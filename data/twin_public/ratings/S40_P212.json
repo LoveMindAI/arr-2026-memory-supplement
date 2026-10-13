@@ -1,0 +1,57 @@
+{
+ "session": "S40",
+ "rater": "P212",
+ "ok": true,
+ "ratings": {
+  "P210": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "he looks lovely, plus he's a derby fan so we'd definitely have a laugh about the rams lol"
+  },
+  "P211": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like a nice normal lad, very similar spare room vibe to ours tbh!"
+  },
+  "P213": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "aww he has a cockapoo too, looks like a proper professional dad type, very trustworthy"
+  },
+  "P214": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "a bit serious and gym-heavy, might be a bit hard work to chat to compared to the others"
+  },
+  "P215": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks dead sensible and nice, probably handles the juggle of kids and work well"
+  }
+ }
+}

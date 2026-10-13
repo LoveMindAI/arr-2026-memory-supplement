@@ -1,0 +1,23 @@
+{
+ "call": "C0045",
+ "person": "P021",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The end bit where we talked about me selling my upcycling online",
+  "reason": "its the thing i keep meaning to do tbh",
+  "timing": 88
+ },
+ "requires_av": false,
+ "av_event": null
+}

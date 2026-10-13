@@ -1,0 +1,57 @@
+{
+ "session": "S01",
+ "rater": "P002",
+ "ok": true,
+ "ratings": {
+  "P000": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "He looks really kind, reminds me of the taxi drivers my dad works with."
+  },
+  "P001": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks a bit tired but very reliable. I think she\u2019d be good at the task, like."
+  },
+  "P003": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Very calm and organised. Her bookshelf looks as tidy as my placement notes!!"
+  },
+  "P004": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He seems quite professional and intelligent. Probably knows a lot about arts etc."
+  },
+  "P005": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 0,
+   "gut": "She looks a bit stressed, sorry. Like she has a lot on her plate today."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0354",
+ "person": "P172",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Us both talking about our dogs",
+  "reason": "Bit of common ground tbh, didnt know she had a cockapoo called Bella till then. Easier after that",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

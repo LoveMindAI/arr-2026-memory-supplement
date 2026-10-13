@@ -1,0 +1,47 @@
+{
+ "session": "S22",
+ "rater": "P116",
+ "ok": true,
+ "ratings": {
+  "P114": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Seems a bit shy or guarded maybe? But definitely someone you could rely on, plus I spotted the little cross on her shelf... kind of a quiet, steady vibe, you know?"
+  },
+  "P115": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "She looks incredibly smart, like she's definitely got her life together way more than me lol. That 'Ch 3' binder makes me think she's a proper researcher or something. A bit serious maybe, but I bet she's brilliant."
+  },
+  "P117": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Oh she looks lovely, reminds me of the women in my choir! The jigsaw and the cardigan... she just seems really kind and approachable. I'd feel really comfortable chatting to her, yeah."
+  },
+  "P118": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "She looks like a real go-getter, very polished and professional. Not sure we'd have much in common though\u2014the Apple watch and the sports bag... she's probably way more organised and 'on it' than I'll ever be!"
+  }
+ }
+}

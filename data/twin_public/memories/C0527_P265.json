@@ -1,0 +1,23 @@
+{
+ "call": "C0527",
+ "person": "P265",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 109,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i asked her why she does teaching if it doesnt pay and she told me about this little girl in her year 4 class on placement who wouldnt come in the door in the mornings, just stood there holding her mums coat. then by the end of the placement the kid was coming in and showing her reading book. chloe said it was kind of the best thing shes done and that it sounded cheesy. didnt sound that cheesy tbh. i said thats more than i can say for my job and kind of meant it. didnt know shes third year primary teaching till then, had her down as just a student",
+  "reason": "idk it was a proper answer, not just something to say. made my job sound a bit pointless next to it",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

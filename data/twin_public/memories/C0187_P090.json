@@ -1,0 +1,23 @@
+{
+ "call": "C0187",
+ "person": "P090",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her dog biscuit gets upset if she changes route",
+  "reason": "cos thats a bit like me tbh same routine",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

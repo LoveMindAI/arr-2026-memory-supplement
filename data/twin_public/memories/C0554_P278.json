@@ -1,0 +1,23 @@
+{
+ "call": "C0554",
+ "person": "P278",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got talking about trainers and how you spot the fake ones, which I'd never have thought about. I hadn't known he buys and sells trainers on the side as well as his Saturday job.",
+  "reason": "It made me think of our Danny at that age. It was the first bit where he seemed interested and it felt a bit easier to chat.",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

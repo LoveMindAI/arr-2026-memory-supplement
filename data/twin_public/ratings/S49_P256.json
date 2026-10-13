@@ -1,0 +1,47 @@
+{
+ "session": "S49",
+ "rater": "P256",
+ "ok": true,
+ "ratings": {
+  "P257": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks a bit frazzled, like she's had a long day with the kids. I think I'd get on with her, yeah."
+  },
+  "P258": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "A very warm smile. He looks like the sort of person who is easy to talk to (and he clearly likes dogs)."
+  },
+  "P259": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He looks very calm and reliable. The sort of person who would be sensible in a group task, I think."
+  },
+  "P260": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Very bubbly and full of energy. She seems lovely, though maybe a bit more outgoing than I am, you know."
+  }
+ }
+}

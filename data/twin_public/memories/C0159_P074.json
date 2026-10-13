@@ -1,0 +1,23 @@
+{
+ "call": "C0159",
+ "person": "P074",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 33,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about bulawayo and the matobo hills... the balancing rocks I used to show my year 8s. didnt know she was from zimbabwe originally. then we ended up on our dads a bit",
+  "reason": "geography and dads... gets me every time tbh",
+  "timing": 20
+ },
+ "requires_av": false,
+ "av_event": null
+}

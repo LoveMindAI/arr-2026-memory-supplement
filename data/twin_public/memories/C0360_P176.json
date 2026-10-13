@@ -1,0 +1,23 @@
+{
+ "call": "C0360",
+ "person": "P176",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got into oldboy and korean stuff, turns out he reads translated korean novels too",
+  "reason": "didnt expect a bridge engineer from lewes to be into that ngl, thought hed be well serious but we actually clicked on films and books tbh",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

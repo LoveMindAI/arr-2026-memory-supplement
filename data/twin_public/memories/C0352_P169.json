@@ -1,0 +1,23 @@
+{
+ "call": "C0352",
+ "person": "P169",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got on to holidays she said theyve done Cornwall three years running and she likes to know what shes getting, same as me with the Algarve really",
+  "reason": "Because shes the same as me, people think its boring tbh",
+  "timing": 92
+ },
+ "requires_av": false,
+ "av_event": null
+}

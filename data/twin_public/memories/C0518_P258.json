@@ -1,0 +1,23 @@
+{
+ "call": "C0518",
+ "person": "P258",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "ellie telling me about the old boy who does twenty lengths at 7 every morning and goes on about his runner beans",
+  "reason": "made me laugh, it's exactly like my builders at the counter tbh, she clearly loves the regulars same as me",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

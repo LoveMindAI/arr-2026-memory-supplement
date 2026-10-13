@@ -1,0 +1,23 @@
+{
+ "call": "C0083",
+ "person": "P048",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We spent a while talking about the pictures behind us, photography and painting.",
+  "reason": "It was the point the conversation actually flowed, rather than just Q&A.",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

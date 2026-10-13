@@ -1,0 +1,57 @@
+{
+ "session": "S35",
+ "rater": "P184",
+ "ok": true,
+ "ratings": {
+  "P185": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Looks a lovely girl, very tidy and likes her cat. Thanks."
+  },
+  "P186": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Bit tired but looks like he knows his way around a computer. Thanks."
+  },
+  "P187": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Reliable sort of bloke, very organised office and likes his football. Thanks."
+  },
+  "P188": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Bit quiet maybe, but seems very sensible and down to earth. Thanks."
+  },
+  "P189": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Very kind face, reminds me of my sister. Very neat home. Thanks."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0158",
+ "person": "P073",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 6,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "his short flat answers the whole way through",
+  "reason": "i kept filling the silences and worried i was annoying him tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

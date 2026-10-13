@@ -1,0 +1,57 @@
+{
+ "session": "S54",
+ "rater": "P281",
+ "ok": true,
+ "ratings": {
+  "P282": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 2,
+   "pair": 1,
+   "gut": "proper teacher vibes, looks nice enough like someone's mum but prob a bit strict lol"
+  },
+  "P283": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks like she spends a fortune in b&m, bit too much for me tbh"
+  },
+  "P284": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 7,
+   "trust": 5,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "absolute legend, into his tunes as well, definitely have a beer with him"
+  },
+  "P285": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like shes had a long shift, real person though, i reckon she'd get the job done"
+  },
+  "P286": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 3,
+   "trust": 3,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "all that velvet is a bit mardy, bet she loves a drama"
+  }
+ }
+}

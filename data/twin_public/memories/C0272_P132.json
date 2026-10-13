@@ -1,0 +1,23 @@
+{
+ "call": "C0272",
+ "person": "P132",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked for a while about EICR testing for rented flats. Landlords leaving it to the last week, and finding messy consumer units with no labels.",
+  "reason": "It's my work, so it was easy to talk about. Practical subject.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

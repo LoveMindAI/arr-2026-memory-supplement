@@ -1,0 +1,23 @@
+{
+ "call": "C0023",
+ "person": "P014",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we was talking about family back home, i said phone them",
+  "reason": "my own father passed when i was here and couldnt get back in time so",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

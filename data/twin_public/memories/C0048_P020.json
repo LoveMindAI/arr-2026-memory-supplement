@@ -1,0 +1,23 @@
+{
+ "call": "C0048",
+ "person": "P020",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Mostly that he kept turning everything into a sale, even asking about our studio's energy supplier. He sells business energy by phone",
+  "reason": "It matched my sense of him from his photo. Confident, a bit loud, but good-humoured, and he did make me laugh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

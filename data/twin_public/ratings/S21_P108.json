@@ -1,0 +1,57 @@
+{
+ "session": "S21",
+ "rater": "P108",
+ "ok": true,
+ "ratings": {
+  "P109": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks lovely and down to earth, sort of like the mums at the school gate! I bet she's chatty."
+  },
+  "P110": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "A bit mardy-looking, sorry, but she's probably just shy or had a long day at uni. Love the moth hoodie though."
+  },
+  "P111": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She seems very similar to me, do you know what I mean? Organized kitchen and she has a dog too!"
+  },
+  "P112": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 0,
+   "gut": "Very serious and focused, erm, maybe a bit quiet for me? I'd be worried I was talking her ear off."
+  },
+  "P113": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "What a brilliant smile! She's in a choir and has her cross on too, so I think we'd get on famous."
+  }
+ }
+}

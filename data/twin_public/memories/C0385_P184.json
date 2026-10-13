@@ -1,0 +1,23 @@
+{
+ "call": "C0385",
+ "person": "P184",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I asked if he'd sorted his CV yet he went erm and just said no.",
+  "reason": "Made me laugh because he was so honest about it. I'm exactly the same really. Thanks.",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0390",
+ "person": "P191",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 46,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i asked if the wonky mugs on her top shelf were the ones she'd made and she laughed and said yeah those are the survivors, she seemed really pleased i'd noticed them, made me laugh, id seen them in her photo before and was wondering about them",
+  "reason": "because it was just a nice daft little moment, felt like chatting to a mate not a stranger, and i love handmade things tbh",
+  "timing": 68
+ },
+ "requires_av": false,
+ "av_event": null
+}

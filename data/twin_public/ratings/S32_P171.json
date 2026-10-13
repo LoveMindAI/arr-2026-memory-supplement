@@ -1,0 +1,47 @@
+{
+ "session": "S32",
+ "rater": "P171",
+ "ok": true,
+ "ratings": {
+  "P169": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "reminds me of my mum tbh, looks a bit strict but probably sound when shes got that wine open"
+  },
+  "P170": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 4,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks like a decent lad, probably works too much like me, bet we'd chat about the football"
+  },
+  "P172": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "very friendly vibe, definitely into her fitness, seems like she'd be easy to talk to in the tasks"
+  },
+  "P173": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "proper organized, got the box files and everything, she'd probably carry me through the paperwork lol"
+  }
+ }
+}

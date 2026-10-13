@@ -1,0 +1,23 @@
+{
+ "call": "C0339",
+ "person": "P160",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 26,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked brakes for a bit. Pads, discs, what a garage should be charging, and getting the old parts back so you know it's been done.",
+  "reason": "Because I actually know about that.",
+  "timing": 20
+ },
+ "requires_av": false,
+ "av_event": null
+}

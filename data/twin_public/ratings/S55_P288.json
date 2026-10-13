@@ -1,0 +1,57 @@
+{
+ "session": "S55",
+ "rater": "P288",
+ "ok": true,
+ "ratings": {
+  "P287": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "Seems like a lovely lady, reminds me of my mum's friends from the church, but perhaps a bit technophobic for this task."
+  },
+  "P289": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Clearly very busy and hard-working, probably knows what it's like to juggle the NHS and home life."
+  },
+  "P290": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Looks a bit stressed with that school jumper in the background, but she seems quite focused and serious."
+  },
+  "P291": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks like someone I'd see at the school gate; a bit tired but she just gets on with it, you know?"
+  },
+  "P292": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "A bit casual with the hoodie and the stubble, erm, gives off a vibe like he'd rather be on that PlayStation."
+  }
+ }
+}

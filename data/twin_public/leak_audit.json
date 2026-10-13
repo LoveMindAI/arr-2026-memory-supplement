@@ -1,0 +1,13 @@
+{
+ "n_texts": 2042,
+ "runs": {
+  "n": 4
+ },
+ "reports": {
+  "n": 0
+ },
+ "rare_capitalized": {
+  "n": 502
+ },
+ "note": "word lists and corpus-intersection runs withheld (they were drawn from the private corpus); LEAK_AUDIT.md explains the reviewed stock-language matches"
+}

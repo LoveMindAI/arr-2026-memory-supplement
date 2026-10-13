@@ -1,0 +1,23 @@
+{
+ "call": "C0122",
+ "person": "P056",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the basketball bit near the end, found out he's lithuanian, sounded just like mark tbh",
+  "reason": "made me laugh, reminded me of mark",
+  "timing": 88
+ },
+ "requires_av": false,
+ "av_event": null
+}

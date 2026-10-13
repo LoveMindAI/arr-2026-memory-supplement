@@ -1,0 +1,23 @@
+{
+ "call": "C0207",
+ "person": "P098",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "near the end we got onto holidays and ended up sort of agreeing the dream is just a pool, a book and a pink gin lol, we both had a laugh at that",
+  "reason": "it was the bit where we actually clicked a bit tbh",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

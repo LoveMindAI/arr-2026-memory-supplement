@@ -1,0 +1,37 @@
+{
+ "session": "S48",
+ "rater": "P253",
+ "ok": true,
+ "ratings": {
+  "P252": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Reminds me of my mum's mates, very chatty and down-to-earth."
+  },
+  "P254": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Seems chill, probably spends as much time on Instagram as Jess."
+  },
+  "P255": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Very professional and looks like he knows his stuff, to be fair."
+  }
+ }
+}

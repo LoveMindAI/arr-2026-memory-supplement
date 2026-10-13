@@ -1,0 +1,25 @@
+{
+ "call": "C0407",
+ "person": "P200",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 18,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "A boy in school jumper came in behind him, drank juice straight from the carton with fridge open, then left",
+  "reason": "Tendai didnt even notice, funny",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0407",
+  "turn": 15,
+  "line_text": "Tendai: Ha, slowly. That's fair. I do kitchen extensions, first fix, and the amount of times the builder says \"planning's fine, planning's fine,\" and then it's not fine. Then everybody's waiting, and I've got jobs booked back to back, so the whole week goes out the window. That's my fault, really, I book too tight. Natalie tells me.",
+  "who": "Tendai",
+  "what": "A teenage boy in a school jumper walks across the kitchen behind Tendai, opens the fridge, takes out a carton of juice, drinks from it standing with the door open, then puts it back and walks out of frame. Tendai doesn't turn round and carries on talking."
+ }
+}

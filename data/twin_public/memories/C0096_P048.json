@@ -1,0 +1,25 @@
+{
+ "call": "C0096",
+ "person": "P048",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 10,
+  "reason": 31
+ },
+ "ok": true,
+ "answers": {
+  "moment": "A woman in a headscarf crossed behind him with two mugs; he glanced back.",
+  "reason": "It was right around when he mentioned his wife wanting Turkey, so I assumed it was her. Nobody said anything, but it made the call feel less like an interview, more real.",
+  "timing": 45
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0096",
+  "turn": 18,
+  "line_text": "Abdirahman: Erm, I think she just wants a beach. Somewhere warm with a pool.",
+  "who": "Abdirahman",
+  "what": "A young woman in a headscarf walks across the room behind him from left to right carrying two mugs, passing in front of the grey sofa and out of frame. He glances briefly over his shoulder towards her, then looks back at the screen."
+ }
+}

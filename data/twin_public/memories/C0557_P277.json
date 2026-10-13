@@ -1,0 +1,23 @@
+{
+ "call": "C0557",
+ "person": "P277",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 35,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got on to church and sundays and that. found out shes Methodist, goes to the chapel, I hadnt guessed that from the cross. then we both ended up talking about people we'd lost... my brother etc",
+  "reason": "It got a bit more personal than I expected for three minutes. she was very easy to talk to really",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

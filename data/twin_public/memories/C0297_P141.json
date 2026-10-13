@@ -1,0 +1,23 @@
+{
+ "call": "C0297",
+ "person": "P141",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 68,
+  "reason": 37
+ },
+ "ok": true,
+ "answers": {
+  "moment": "not one bit really, more the whole call. we just ended up talking about grafting long hours and saving up and how its not moving very fast. we were both kind of in the same boat with it, knackered all the time, doing courses on the side and falling asleep doing them. had a bit of a laugh about the dog too. felt more normal than the other ones tbh, just chatting",
+  "reason": "idk the money and house stuff is whats on my mind most of the time anyway. was easy to talk about cause we were both in it, didnt feel like small talk for once",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

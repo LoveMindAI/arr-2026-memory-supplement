@@ -1,0 +1,57 @@
+{
+ "session": "S21",
+ "rater": "P112",
+ "ok": true,
+ "ratings": {
+  "P108": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Seems nice enough, bit of a busy house though."
+  },
+  "P109": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Reminds me of some of the mums at the school gate, looks kind."
+  },
+  "P110": {
+   "photo": 3,
+   "friendly": 2,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks like she keeps to herself, I like that tbh."
+  },
+  "P111": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Looks sensible and organized, probably quite reliable."
+  },
+  "P113": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Very cheerful, maybe a bit too much for a Monday morning etc."
+  }
+ }
+}

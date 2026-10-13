@@ -1,0 +1,25 @@
+{
+ "call": "C0279",
+ "person": "P139",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 13,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Saying her parents were getting older, she stopped smiling and looked away towards the window.",
+  "reason": "It was the only time she went quiet. I didn't say anything about it, but I recognised the feeling (my mum's getting older too).",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0279",
+  "turn": 21,
+  "line_text": "Mostly. Sometimes she complains. But I want her to talk properly with my parents, they're in Rzesz\u00f3w, they don't speak much English. I fly back twice a year but, erm, they're getting older, so.",
+  "who": "Agnieszka",
+  "what": "As she says 'they're getting older', her smile drops and she looks away to her left towards the window for two or three seconds, pressing her lips together, then looks back at the camera before 'so'."
+ }
+}

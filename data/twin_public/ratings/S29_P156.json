@@ -1,0 +1,57 @@
+{
+ "session": "S29",
+ "rater": "P156",
+ "ok": true,
+ "ratings": {
+  "P153": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 0,
+   "gut": "looks like he wants to be somewhere else, tbh"
+  },
+  "P154": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "likes walking and has a cat, probably alright"
+  },
+  "P155": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks sensible, reminds me of a curator sort of"
+  },
+  "P157": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "bit too keen, probably talks a lot"
+  },
+  "P158": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "seems nice but the religious thing isnt for me"
+  }
+ }
+}

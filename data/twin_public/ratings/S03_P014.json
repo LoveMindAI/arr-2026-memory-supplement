@@ -1,0 +1,47 @@
+{
+ "session": "S03",
+ "rater": "P014",
+ "ok": true,
+ "ratings": {
+  "P010": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "very friendly man he looks like he has a good joke for you"
+  },
+  "P011": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "looks like a good family man maybe a bit tired from work"
+  },
+  "P012": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "very polite and respectful looking man i like his style"
+  },
+  "P013": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "she looks very happy and kind she has a lot of books"
+  }
+ }
+}

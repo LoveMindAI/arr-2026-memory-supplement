@@ -1,0 +1,23 @@
+{
+ "call": "C0103",
+ "person": "P050",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 34
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got into a proper chat about careers and me feeling behind my mates",
+  "reason": "probably cos its something thats been on my mind loads tbh, and it went from small talk to something actually real for a bit, kind of left me feeling less rubbish about it ngl",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

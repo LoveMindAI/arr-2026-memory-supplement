@@ -1,0 +1,23 @@
+{
+ "call": "C0486",
+ "person": "P241",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said my roast potatoes were good he just went 'goose fat?' then 'good lad'",
+  "reason": "made me laugh tbh, he'd been fairly serious up til then",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

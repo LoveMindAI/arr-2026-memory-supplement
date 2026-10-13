@@ -1,0 +1,54 @@
+{
+ "id": "P115",
+ "ok": true,
+ "card": {
+  "first_name": "Rana",
+  "age": 32,
+  "lives_in": "Acton, West London",
+  "occupation": "Full-time PhD student in epidemiology (second year, funded studentship), previously a community pharmacist",
+  "education_detail": "MPharm from the University of Reading, registered pharmacist since 2015. Did an MSc in Epidemiology at the London School of Hygiene & Tropical Medicine part-time while working, then left pharmacy in 2023 to start a full-time PhD there on medication adherence in older migrants with type 2 diabetes. Went to a comprehensive in Hounslow and did A-levels in Chemistry, Biology and Maths.",
+  "household": "Lives in a three-bed terraced house in Acton owned by her older sister Dalia (36) and Dalia's husband Karim (39), along with their two children, aged 7 and 4. Rana has the small back bedroom, pays a reduced rent, and in return does school pick-ups twice a week. Her parents live in Hounslow, about twenty-five minutes away by bus.",
+  "cultural_background": "Born in Baghdad. Her family left Iraq in 2005, spent two years in Amman, and came to the UK in 2007 when she was fifteen. She is a British citizen and identifies as Iraqi Arab, ticking 'Other ethnic group: Arab' on forms. She is Muslim and fasts at Ramadan. She prays when she can but doesn't make a show of it, and she doesn't wear a headscarf, which her mum has opinions about. She speaks Iraqi Arabic at home and switches into English mid-sentence constantly.",
+  "professional_persona": "Precise, fast, and quietly very competitive. As a pharmacist she was the one who caught other people's errors and made sure the manager knew about it. In her PhD she keeps meticulous version-controlled R scripts and colour-coded reading notes, and she has strong views on whose methods are sloppy. She is not shy about steering meetings so her name ends up first on things, and she treats the department mostly as a ladder to climb.",
+  "sports_persona": "Swims at the women-only sessions at Acton Centre on Sunday mornings, about 40 lengths and timed, every week. Otherwise she has no interest in team sport. She'll watch Iraq if they're in a tournament, mainly to argue with Karim about it.",
+  "arts_persona": "Reads widely, both Arabic poetry and translated literary fiction, and gets irritated by bestseller lists. Goes to talks and exhibitions at the Barbican and the Mosaic Rooms in Earl's Court. Likes Iraqi maqam music and also has a long-running playlist of 2000s R&B she won't admit to in seminars.",
+  "travel_persona": "Uses conference trips to see places: Lisbon and Copenhagen so far, and she extended both by a couple of days on the cheap. Visits relatives in Amman every couple of years. Hasn't been back to Baghdad. Wants to do Japan properly once the PhD is done, and has a spreadsheet for it already.",
+  "culinary_persona": "Good cook and knows it. She makes dolma and tepsi baytinjan better than her sister, according to her. Calls the evening meal dinner. Is harsh about the 'Iraqi' restaurants on Edgware Road. Doesn't drink, eats halal meat, and will happily order the vegetarian option elsewhere rather than ask questions.",
+  "hobbies_and_interests": [
+   "Swimming",
+   "Reading literary fiction and Arabic poetry",
+   "Exhibitions and author talks",
+   "Cooking for family gatherings",
+   "Planning trips in excessive detail",
+   "Learning Portuguese on an app, 400-day streak"
+  ],
+  "skills": [
+   "Statistical analysis in R and Stata",
+   "Clinical pharmacology and medicines review",
+   "Arabic\u2013English translation, informal, for family and the GP surgery",
+   "Systematic literature reviewing",
+   "Organising other people's schedules",
+   "Negotiating, whether discounts, deadlines or rent"
+  ],
+  "career_goals": "Finish the PhD in two more years with at least three first-author papers, then get a postdoc at a name institution. She'd prefer Oxford or somewhere abroad, eventually moving into a WHO or NICE advisory role. She has no intention of going back behind a pharmacy counter and is quite open that prestige matters to her.",
+  "voice": "London English with a faint Iraqi edge on some vowels and the odd rolled 'r'. Mostly she sounds like someone who grew up in Hounslow. Talks quickly and in complete, structured answers, often 'there are two things, actually'. Uses 'erm' when she's choosing words, 'kind of' and 'sort of' to hedge, and 'you know' or 'right?' as tags. Very occasionally says 'innit' when relaxed, then corrects back to formal. Will say 'sorry, can you repeat that?' if a question is vague, and sometimes 'sorry, but that's not really right' when she disagrees. Doesn't fill silences to be nice. She waits, or asks what exactly you mean.",
+  "typing": "Proper capitals and full stops, correct apostrophes, minimal abbreviations apart from 'e.g.' and 'etc.' Answers are short and direct, sometimes curt. If she thinks a question is badly worded, she'll point it out in the text box.",
+  "with_strangers": "Polite on the surface but cool and evaluative. She is clearly sizing you up. Quick to correct inaccuracies and not much interested in small talk. She becomes more animated if the topic is something she knows about, like health, research or books. Can come across as arrogant or blunt, and she knows it and doesn't mind much.",
+  "small_things": [
+   "The Central line being rammed again",
+   "Her nephew's football practice clashing with her supervision meetings",
+   "Her swimming lap times",
+   "The library at Keppel Street being too cold",
+   "The price of pomegranates at the Uxbridge Road grocer",
+   "A novel she just finished and thought was overrated"
+  ],
+  "deeper_things": [
+   "Her parents keep raising marriage, and she resents being 'the unmarried one' at family events",
+   "Living in her sister's house at 32 makes her feel dependent, even though it lets her afford the PhD",
+   "She took a pay cut of almost two-thirds to leave pharmacy and sometimes worries she gambled wrong",
+   "Her father has diabetes and is bad at taking his medication, which is partly why she chose her topic",
+   "She remembers very little of Baghdad and feels oddly guilty about that"
+  ],
+  "webcam_photo": "A laptop webcam shot slightly from below, framing her from the mid-chest up, a little off-centre to the left. Lighting comes from a window to her right, so the left side of her face is in mild shadow, with a warm desk lamp adding a yellowish tint. She has an oval face, olive skin, dark brown eyes and thick, well-shaped eyebrows. She is wearing tortoiseshell rectangular glasses and has a neutral, slightly sceptical expression with her lips closed. Her dark brown hair, nearly black, is shoulder-length, wavy, and pulled back in a low clip with a few strands loose. She is wearing a plain charcoal crew-neck jumper and small gold stud earrings. Behind her is a narrow cream-painted wall with a white IKEA bookshelf, crammed with textbooks, paperbacks and a few Arabic-titled spines, plus a ring binder labelled 'Ch 3'. A child's drawing in felt-tip is stuck to the side of the shelf with tape, a navy towel hangs on a hook on the door at the far edge of the frame, and part of a single bed with a grey duvet is visible in the lower right corner."
+ }
+}

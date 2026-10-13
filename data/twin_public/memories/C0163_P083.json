@@ -1,0 +1,23 @@
+{
+ "call": "C0163",
+ "person": "P083",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her insisting its a bap lol",
+  "reason": "gary does them saturdays, she properly perked up",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

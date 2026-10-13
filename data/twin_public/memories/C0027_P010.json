@@ -1,0 +1,23 @@
+{
+ "call": "C0027",
+ "person": "P010",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 4,
+  "reason": 55
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about starting again",
+  "reason": "cos thats the bit that hit me... i was telling about my bcom i never finished and how here ppl see u as just line guy. most calls i just joke about cricket but this one felt like he understood, same kind of life. made me think bit about what if i stayed back home",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

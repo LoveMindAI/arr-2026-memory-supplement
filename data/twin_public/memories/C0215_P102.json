@@ -1,0 +1,23 @@
+{
+ "call": "C0215",
+ "person": "P102",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got onto her back and the swimming I went full trainer mode and lectured her a bit. Felt pushy after tbh. Didn't know she'd given up warehouse nights for it.",
+  "reason": "Because I caught myself doing it again, like Callum says.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

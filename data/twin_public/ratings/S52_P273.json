@@ -1,0 +1,57 @@
+{
+ "session": "S52",
+ "rater": "P273",
+ "ok": true,
+ "ratings": {
+  "P271": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "proper quiet vibe like a student or summot, seems sound enough"
+  },
+  "P272": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 2,
+   "pair": 1,
+   "gut": "reminds me of the dinner ladies at my primary school, dead sweet"
+  },
+  "P274": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like shes ready to get to work tbh, probably dead organized"
+  },
+  "P275": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "into the gym and that, looks a bit serious but prob a good laugh"
+  },
+  "P276": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "proper chatty energy here, bet she doesnt stop talking lol"
+  }
+ }
+}

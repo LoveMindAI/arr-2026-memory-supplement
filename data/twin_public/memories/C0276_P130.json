@@ -1,0 +1,23 @@
+{
+ "call": "C0276",
+ "person": "P130",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 24
+ },
+ "ok": true,
+ "answers": {
+  "moment": "how straight he was all the way through, short answers but clearly knew his stuff, no messing",
+  "reason": "cos I'm the total opposite and waffle on lol. quite refreshing tbh, and he opened up a bit more near the end, seemed a decent bloke",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

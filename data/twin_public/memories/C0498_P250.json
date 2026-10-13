@@ -1,0 +1,25 @@
+{
+ "call": "C0498",
+ "person": "P250",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 6,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Looked down, lips pressed, before talking about work.",
+  "reason": "Seemed hard for her.",
+  "timing": 25
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0498",
+  "turn": 12,
+  "line_text": "Erm. I'm not working at the minute. I was at a food factory, on the line, packing, for nine years, and they cut a shift last year, so. I'm applying for things. Warehouse, mainly.",
+  "who": "Kirsty",
+  "what": "Before answering, Kirsty looks down and away from the screen to her left for about four seconds with her lips pressed together, then looks back at the camera and starts speaking."
+ }
+}

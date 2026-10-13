@@ -1,0 +1,57 @@
+{
+ "session": "S05",
+ "rater": "P024",
+ "ok": true,
+ "ratings": {
+  "P019": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "He looks a friendly sort, reminds me of the lads who come into the surgery for their work medicals. He seems quite open and easy-going, you know."
+  },
+  "P020": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Ever so calm and professional. I imagine she's very capable and probably very well-read with all those books. She has a very kind face, I think."
+  },
+  "P021": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "That's ever so funny, she has the same fleece and a jigsaw box just like mine! She looks a bit nervous, poor soul, but very sensible and down-to-earth."
+  },
+  "P022": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He looks very tidy and organised with his shift calendar. Reminds me a bit of my son with that haircut. Seems like a reliable person to work with."
+  },
+  "P023": {
+   "photo": 5,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks lovely but a bit shy, sort of like she's hoping she's doing the right thing. I see she likes her sewing too, which is nice. I'd be happy to help her along."
+  }
+ }
+}

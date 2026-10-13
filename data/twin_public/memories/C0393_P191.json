@@ -1,0 +1,23 @@
+{
+ "call": "C0393",
+ "person": "P191",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 78,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto food and swapping our big filling dinners, we were comparing her potato dumplings from Lithuania with my scouse and both sort of laughing that its all meat and potato and your full for days. i didnt know she was lithuanian till then, i had a go at saying the name of the dish and probably mangled it lol. it felt like two mums nattering over a brew, really nice and easy",
+  "reason": "because it was warm and daft and we found something in common, plus i learned about a dish ive never heard of",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

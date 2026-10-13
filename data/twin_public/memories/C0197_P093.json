@@ -1,0 +1,23 @@
+{
+ "call": "C0197",
+ "person": "P093",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when i said id love to take zayan to turkey and gary said hes been twice to side near antalya all inclusive and told me to look for deals in january",
+  "reason": "its something i really want to do with zayan and it was a proper useful tip. i might actually look in january tbh he would love a kids pool",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

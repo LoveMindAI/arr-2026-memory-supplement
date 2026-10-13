@@ -1,0 +1,23 @@
+{
+ "call": "C0298",
+ "person": "P143",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked about our dads shouting at the football on TV",
+  "reason": "Because it was the first moment we really connected... I didn't know he's been going to West Brom since he was little, I only saw the shirt before tbh",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

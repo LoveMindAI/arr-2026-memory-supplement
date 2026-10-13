@@ -1,0 +1,23 @@
+{
+ "call": "C0574",
+ "person": "P289",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 37,
+  "reason": 3
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when gemma said she was NHS for ten years, community paediatrics speech and language therapy, then went private after her second baby. she said honestly no she doesnt miss it, caseloads were ridiculous and nobody listened",
+  "reason": "didnt expect ex NHS",
+  "timing": 15
+ },
+ "requires_av": false,
+ "av_event": null
+}

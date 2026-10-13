@@ -1,0 +1,23 @@
+{
+ "call": "C0186",
+ "person": "P087",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he said im just like him but with tools cheeky sod but he werent wrong",
+  "reason": "hit home tbh",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

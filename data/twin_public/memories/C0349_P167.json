@@ -1,0 +1,23 @@
+{
+ "call": "C0349",
+ "person": "P167",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her detective theory, its always the famous actor, reads polish crime",
+  "reason": "its actually true tbh, casting thing, didnt expect it from her",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

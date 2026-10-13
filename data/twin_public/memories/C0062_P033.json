@@ -1,0 +1,23 @@
+{
+ "call": "C0062",
+ "person": "P033",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he was calm and patient the whole call, like he actually listened to me",
+  "reason": "felt like talking to one of the church uncles",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

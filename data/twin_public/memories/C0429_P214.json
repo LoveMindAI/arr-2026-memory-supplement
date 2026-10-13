@@ -1,0 +1,23 @@
+{
+ "call": "C0429",
+ "person": "P214",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 20
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he basically kept asking me stuff the whole call and taking the mick out of himself",
+  "reason": "i dont really say much to people i dont know so it was easy tbh, he did most of the work",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0079",
+ "person": "P040",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said i looked like a love island girl lol",
+  "reason": "made me laugh cos she was spot on tbh and it felt like chatting to a mate",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

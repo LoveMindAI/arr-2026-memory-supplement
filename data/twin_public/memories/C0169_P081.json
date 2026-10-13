@@ -1,0 +1,25 @@
+{
+ "call": "C0169",
+ "person": "P081",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 15,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "a t shirt fell off the airer behind him, soft thump, he didnt even look round",
+  "reason": "made me laugh, maureen would have had it straight back up",
+  "timing": 55
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0169",
+  "turn": 18,
+  "line_text": "Mm. Somebody's whole life, maybe, that roof.",
+  "who": "Tomasz",
+  "what": "At the right edge of the frame a T-shirt slips off the clothes airer behind Tomasz and drops out of view to the floor, with a faint soft thump on the mic; Tomasz doesn't turn round."
+ }
+}

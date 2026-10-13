@@ -1,0 +1,23 @@
+{
+ "call": "C0026",
+ "person": "P012",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "whole call felt very easy like talking to an uncle after gurdwara. we just go one thing to next, lot of laughing, no quiet bit",
+  "reason": "i was little bit nervous before these calls but with him i forgot its a study. felt like i know him already, warm person, very easy to talk to",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

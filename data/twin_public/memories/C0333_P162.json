@@ -1,0 +1,23 @@
+{
+ "call": "C0333",
+ "person": "P162",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 31
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We got onto church and singing right at the end.",
+  "reason": "Singing's a big thing for me, choir & chapel both, so my ears pricked up. Felt like we'd properly clicked just as the time ran out (typical), and I wanted to hear more.",
+  "timing": 92
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0389",
+ "person": "P188",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about team leader job and if money is worth it",
+  "reason": "because they asked me before and i said no but now im thinking maybe if pay is good tbh",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

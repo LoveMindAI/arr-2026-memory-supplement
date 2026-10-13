@@ -1,0 +1,23 @@
+{
+ "call": "C0281",
+ "person": "P139",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 27
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Near the end we talked about singing and choral music; I learned she sings in a choir herself.",
+  "reason": "It was the point where it stopped feeling like a set of questions and became an actual conversation (and a slightly funny one), which doesn't happen to me often.",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

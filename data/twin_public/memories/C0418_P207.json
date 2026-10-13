@@ -1,0 +1,25 @@
+{
+ "call": "C0418",
+ "person": "P207",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 13,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "A man in a dark jacket took the coat from the hallway hook. She glanced round briefly.",
+  "reason": "I'd noticed the coat in her photo beforehand. Then it went.",
+  "timing": 80
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0418",
+  "turn": 13,
+  "line_text": "Oh, erm, I think it's like ninety? Something like that. I don't really look, to be honest. The supervisor looks. I'm chatting with the girls, that's the best bit.",
+  "who": "Sana",
+  "what": "A man in a dark jacket walks past the open doorway to the hallway on the left behind her, taking the coat off the hook. Sana glances briefly over her shoulder towards him, then turns back to the camera still talking."
+ }
+}

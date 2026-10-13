@@ -1,0 +1,23 @@
+{
+ "call": "C0441",
+ "person": "P216",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 30,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "The bit where we got on to staff who cut corners and being told you're too blunt. I went off on one a bit, tbh, but it felt like she actually got it.",
+  "reason": "Nice to talk to someone who sees it the same way.",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

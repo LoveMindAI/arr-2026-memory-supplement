@@ -1,0 +1,23 @@
+{
+ "call": "C0108",
+ "person": "P054",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 24,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "It was the whole chat really. We went from baking to talking about losing people we'd loved, and then we were both laughing again.",
+  "reason": "It felt easy, like talking to a friend.  We had a lot in common, which I wasn't expecting.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

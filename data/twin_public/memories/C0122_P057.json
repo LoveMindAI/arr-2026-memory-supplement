@@ -1,0 +1,23 @@
+{
+ "call": "C0122",
+ "person": "P057",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 42,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I ask about overtime tax she explain properly that guys at work are wrong, its myth, tax evens out over the year and if you pay too much it comes back. Also told me what to check on payslip, I check tonight",
+  "reason": "Practical info, matters for money",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

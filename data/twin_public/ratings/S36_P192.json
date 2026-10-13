@@ -1,0 +1,47 @@
+{
+ "session": "S36",
+ "rater": "P192",
+ "ok": true,
+ "ratings": {
+  "P190": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like student nurse or something very organized"
+  },
+  "P191": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "very tired mum like me she looks nice"
+  },
+  "P193": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like he works hard maybe builder or plumber"
+  },
+  "P194": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit posh with the gallery poster and books"
+  }
+ }
+}

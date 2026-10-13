@@ -1,0 +1,23 @@
+{
+ "call": "C0178",
+ "person": "P084",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Darren said he lives on his own as well and ends up talking to next door's cat.",
+  "reason": "I'm in the same boat when my daughter isn't with me, so it struck a chord.",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

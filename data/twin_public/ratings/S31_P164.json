@@ -1,0 +1,47 @@
+{
+ "session": "S31",
+ "rater": "P164",
+ "ok": true,
+ "ratings": {
+  "P165": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "She looks like a right laugh tbh, plus she has a lurcher n our Dolly would love that."
+  },
+  "P166": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Looks dead studious and proper organized with those plants n that timetable."
+  },
+  "P167": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Looks a bit knackered like he is on the night shift too, seem sound though."
+  },
+  "P168": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 0,
+   "gut": "Reminds me of a few teachers I had, dead serious but youd want her on a quiz team."
+  }
+ }
+}

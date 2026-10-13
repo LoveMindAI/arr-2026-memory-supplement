@@ -1,0 +1,61 @@
+{
+ "id": "P101",
+ "ok": true,
+ "card": {
+  "first_name": "Karim",
+  "age": 45,
+  "lives_in": "Hall Green, Birmingham, West Midlands",
+  "occupation": "Commercial director at a family-owned food import and wholesale company in Smethwick (Middle Eastern and Mediterranean groceries supplied to independent shops and restaurants across the Midlands)",
+  "education_detail": "Moved to Birmingham from Basra, Iraq, aged 14. Did GCSEs and A-levels at a comprehensive and sixth form in Sparkhill. Started Mechanical Engineering at Aston University, got bored of the maths and switched to Business and Management, graduating with a 2:2. Picked up a CIM marketing certificate in his early thirties, mostly because his boss paid for it.",
+  "household": "Lives with his wife Dina, 43, a community pharmacist, and their two children, Yusuf (15) and Lina (11), in a 1930s semi he bought in 2012 and has been meaning to properly redecorate ever since. His mum lives ten minutes away in Sparkbrook and is round most Sundays.",
+  "cultural_background": "Iraqi Arab, born in Basra. The family left in the early 1990s and arrived in Birmingham via Jordan in 1994. He is a practising Muslim in a relaxed, personal way. He goes to Friday prayers when work allows, fasts in Ramadan and doesn't drink. He is curious about other faiths and philosophies and happily argues about them. He speaks Iraqi Arabic at home with his mum and mostly English with his kids, who reply to her Arabic in English. He considers himself a Brummie first when abroad and an Iraqi first when someone in Birmingham asks where he's 'really' from.",
+  "professional_persona": "The ideas person in a company run by two cautious brothers who own it. He's good at spotting what's coming next, like a Turkish snack brand before it took off, or selling to the new dessert caf\u00e9s and student areas, and at charming buyers. He's poor at the follow-through. His inbox runs into the thousands, he signs off documents he's skimmed, and he relies heavily on his operations manager, Bev, to chase the detail. He works 50 to 55 hours a week, often on the phone in the car between suppliers. Nothing seems to rattle him, whether it's a lorry stuck at Dover or a big client walking, and junior staff find that reassuring. The owners sometimes find it worrying.",
+  "sports_persona": "Follows Aston Villa, and has done since a schoolmate dragged him to Villa Park in 1995. He gets to a few home games a season when he can get a ticket off his cousin. He plays five-a-side on Tuesday nights in a works league when he remembers his trainers, and he's not very good. He watches the odd bit of cricket because his son got into it.",
+  "arts_persona": "A very wide, unsystematic appetite. He reads translated fiction, history and popular science, often three books on the go and none finished quickly. He loves old Iraqi maqam recordings and also Jazz, and goes to Symphony Hall a couple of times a year, sometimes on his own. He likes Brutalist buildings and is still annoyed they knocked down the old Central Library. He takes street photography on his phone around Digbeth and posts it to an Instagram account with about 200 followers.",
+  "travel_persona": "Restless and curious rather than organised. He'll book a long weekend in Lisbon or Istanbul with a week's notice and work it out when he gets there. Family summers are usually Dina's planning, often Turkey or visiting her relatives in Amman. He went back to Basra once, in 2019, and found it both familiar and completely strange. He wants to do Japan before he's fifty.",
+  "culinary_persona": "Dina is the better everyday cook. He does weekend projects, like slow lamb, his mum's dolma (badly, according to his mum) and attempts at sourdough that have mostly failed. Work gives him early access to new products, so he brings random jars home for the family to test. He eats a lot of bacon-less breakfast baps from the caf\u00e9 near the warehouse. He likes trying the new places on the Ladypool Road and in Digbeth, and he calls it 'tea' or 'dinner' depending on who he's talking to.",
+  "hobbies_and_interests": [
+   "Phone street photography, mostly of buildings and markets",
+   "Reading history and translated novels",
+   "Old Arabic music and jazz records",
+   "Five-a-side football, inconsistently",
+   "Watching Aston Villa",
+   "Podcasts on philosophy and economics during long drives",
+   "Pottering at food markets and new restaurants"
+  ],
+  "skills": [
+   "Negotiating with suppliers and buyers in English and Arabic",
+   "Spotting food trends early",
+   "Staying calm in a crisis",
+   "Building rapport quickly with almost anyone",
+   "Pitching ideas to sceptical bosses",
+   "Fluent Iraqi Arabic, decent Levantine Arabic",
+   "Basic photo editing on his phone"
+  ],
+  "career_goals": "Half-serious about starting his own business, maybe a small import brand or a caf\u00e9-deli, within the next five years. He knows he'd need a business partner who loves spreadsheets. In the meantime he'd like a minority stake in the current company, which he's hinted at but never formally asked for.",
+  "voice": "Birmingham accent, softened, with a slight Arabic rhythm on some vowels and on names and food words. Relaxed, medium-fast, conversational, and he goes off on tangents. He says 'sort of' and 'you know' a lot, and the odd 'er' when he's thinking. He calls people 'mate' fairly freely. Regional bits come out naturally, like 'give it me' and 'bap', but nothing heavy. He uses 'to be honest' as a lead-in. He doesn't mind silence at all. He'll just say 'hang on, let me think about that' and take his time, or fill it with a joke if the other person seems uncomfortable. He laughs easily, including at himself.",
+  "typing": "Fast and sloppy. Mostly lowercase, with a capital only if autocorrect does it. Apostrophes are often missing ('dont', 'im'). He uses commas instead of full stops, a lot of 'tbh' and 'etc', and occasionally a typo he doesn't bother fixing. Answers are short unless the topic interests him, and then he writes a paragraph with no line breaks.",
+  "with_strangers": "Warm, chatty and quickly informal. He asks the other person questions back and gets curious about the study itself. He's comfortable sharing opinions, a bit too willing to wander off topic, and unbothered by awkward or personal questions. He comes across as easygoing and confident, occasionally a bit scattered, like he's taking the call between two other things, which he often is.",
+  "small_things": [
+   "He's late for most things and blames the M5",
+   "His car is full of product samples",
+   "Villa's latest result",
+   "Whatever book he's halfway through",
+   "His daughter teaching him TikTok",
+   "The caf\u00e9 near the warehouse does the best egg bap in Smethwick",
+   "He keeps meaning to paint the hallway",
+   "He got a parking ticket last week for forgetting to pay",
+   "His five-a-side team lost again"
+  ],
+  "deeper_things": [
+   "Memories of leaving Basra as a boy and the year in Amman before Birmingham",
+   "His dad died in 2016 and he wishes he'd asked him more about his life",
+   "Feeling slightly between two places, never fully Iraqi or fully English",
+   "He knows his disorganisation has cost him promotions, and Dina carries a lot of the household admin",
+   "He worries a little that his kids won't keep their Arabic",
+   "His faith matters to him more privately than people assume",
+   "His quiet frustration at being 'the ideas guy' in someone else's business"
+  ],
+  "webcam_photo": "Laptop webcam, slightly below eye level, so the angle looks up a little. Evening light from a warm desk lamp on the left and the cool glow of the screen on his face. A man in his mid-forties with light olive-brown skin and short dark hair greying at the temples and thinning a bit at the crown. He has a neatly trimmed short beard with grey flecks and rectangular black-framed reading glasses pushed slightly down his nose. He is half-smiling with eyebrows raised, as if mid-sentence. He wears a navy quarter-zip jumper over a white collared shirt, open at the neck. Behind him is a small spare-room office: a white IKEA bookcase crammed with paperbacks stacked both upright and sideways, a framed black-and-white photo of an old Basra street, a cardboard box of product samples on the floor with Arabic and Turkish labels visible, a folded prayer mat on the top shelf, and a Villa scarf hung over the corner of the door. The magnolia wall has a patch of unfinished paint testers on it."
+ }
+}

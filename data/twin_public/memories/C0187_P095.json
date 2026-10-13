@@ -1,0 +1,23 @@
+{
+ "call": "C0187",
+ "person": "P095",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 16,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "he was just really easy to talk to tbh, quite shy like me but kept the chat going",
+  "reason": "i was nervous and he made it feel relaxed",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

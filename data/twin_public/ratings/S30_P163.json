@@ -1,0 +1,47 @@
+{
+ "session": "S30",
+ "rater": "P163",
+ "ok": true,
+ "ratings": {
+  "P159": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "She looks like a very nice girl, a bit shy perhaps."
+  },
+  "P160": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He looks a bit like the lads Daniel works with."
+  },
+  "P161": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "A very sensible and tidy looking woman, I think."
+  },
+  "P162": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He seems very pleasant and easy to talk to."
+  }
+ }
+}

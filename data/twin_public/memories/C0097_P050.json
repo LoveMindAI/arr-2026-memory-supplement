@@ -1,0 +1,23 @@
+{
+ "call": "C0097",
+ "person": "P050",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got chatting about my doc and all the logistics chaos, release forms and that - turns out she does consent forms for clinical trials at a hospital, proper relevant lol",
+  "reason": "because its literally the bit of my project im worst at tbh",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

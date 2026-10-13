@@ -1,0 +1,23 @@
+{
+ "call": "C0114",
+ "person": "P059",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 63,
+  "reason": 22
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Probably the bit where we got properly stuck into old buildings versus new ones - comparing how long stuff is meant to last, then going down a bit of a rabbit hole on mortar and the idea of having a sacrificial bit. We were both sort of nodding along and building on each other's points, felt like a proper nerdy chat rather than small talk",
+  "reason": "It's basically my job from the opposite end so it clicked straight away - felt like we were actually talking shop, not just being polite",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

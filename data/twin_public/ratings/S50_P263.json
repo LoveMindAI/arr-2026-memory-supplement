@@ -1,0 +1,47 @@
+{
+ "session": "S50",
+ "rater": "P263",
+ "ok": true,
+ "ratings": {
+  "P261": {
+   "photo": 1,
+   "friendly": 2,
+   "like": 3,
+   "trust": 4,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "She looks a bit cross, like she's had a long day and doesn't really want to be here. She'd probably be a bit scary to work with, to be honest."
+  },
+  "P262": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 7,
+   "pair": 1,
+   "gut": "She seems really lovely and kind of quiet, like me. Her room looks quite cozy with the books and the plant, and I think we'd get on really well."
+  },
+  "P264": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 4,
+   "pair": 1,
+   "gut": "He looks really friendly and reminds me a bit of my dad or one of my uncles. He seems like he'd be easy to talk to and wouldn't mind if I messed up."
+  },
+  "P265": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "He looks a bit bored or like I'd be annoying him by talking. He's probably really good with computers and that, but he seems a bit serious for me."
+  }
+ }
+}

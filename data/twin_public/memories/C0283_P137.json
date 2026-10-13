@@ -1,0 +1,23 @@
+{
+ "call": "C0283",
+ "person": "P137",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 4
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we talked about being far away from ageing family.",
+  "reason": "I felt properly understood.",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

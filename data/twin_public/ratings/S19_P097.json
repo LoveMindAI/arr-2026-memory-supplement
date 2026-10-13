@@ -1,0 +1,57 @@
+{
+ "session": "S19",
+ "rater": "P097",
+ "ok": true,
+ "ratings": {
+  "P096": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "he looks kind, like someone who likes walking and wouldn't mind if there were awkward silences tbh"
+  },
+  "P098": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "she looks a bit like the mums at st albans school, very put together but maybe a bit intimidating"
+  },
+  "P099": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "super friendly ngl, but she seems way more social and upbeat than i am usually"
+  },
+  "P100": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "i mean she seems lovely, she's even got a little cross necklace and likes netball so we'd probably get on"
+  },
+  "P101": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "he looks really bright and interesting, like he actually knows things about the world and history"
+  }
+ }
+}

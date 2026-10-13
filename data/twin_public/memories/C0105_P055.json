@@ -1,0 +1,23 @@
+{
+ "call": "C0105",
+ "person": "P055",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I admitted I'm finding the book club book a bit boring.",
+  "reason": "I never say that out loud, so it felt honest and slightly naughty.",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

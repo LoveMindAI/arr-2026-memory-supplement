@@ -1,0 +1,23 @@
+{
+ "call": "C0118",
+ "person": "P060",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked for a while about his stonemasonry and me chasing contractors for quotes in my old job. I hadn't realised he works on listed sandstone buildings around Bradford",
+  "reason": "It made me feel a bit guilty about all those chasing emails",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

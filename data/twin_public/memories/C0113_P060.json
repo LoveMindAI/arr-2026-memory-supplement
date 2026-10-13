@@ -1,0 +1,23 @@
+{
+ "call": "C0113",
+ "person": "P060",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we both laughed about family visits back home being nonstop eating",
+  "reason": "It was the first bit where it felt properly easy, like we actually had something in common and he relaxed",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

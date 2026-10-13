@@ -1,0 +1,23 @@
+{
+ "call": "C0270",
+ "person": "P134",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 31,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I brought up his photo and we got talking about being organised at home. I ended up moaning about our kitchen drawer and the meal plan whiteboard Darren and Callum ignore.",
+  "reason": "It's a sore point at home, tbh. Nice to talk to someone who actually gets it.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

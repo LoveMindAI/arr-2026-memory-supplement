@@ -1,0 +1,47 @@
+{
+ "session": "S49",
+ "rater": "P259",
+ "ok": true,
+ "ratings": {
+  "P256": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Seems quiet and sensible, probably gets her head down and does a proper job"
+  },
+  "P257": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Looks like she's had a long day, reminds me a bit of Claire when she's busy"
+  },
+  "P258": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Decent bloke, looks like he enjoys a walk with the dog and a pint tbh"
+  },
+  "P260": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Likely works at a pool given the hoodie, probably one of the casual staff"
+  }
+ }
+}

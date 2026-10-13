@@ -1,0 +1,23 @@
+{
+ "call": "C0496",
+ "person": "P251",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we got chatting properly about art and making things.",
+  "reason": "It's the thing I care about most, and it felt like we properly clicked there rather than just making polite small talk.",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

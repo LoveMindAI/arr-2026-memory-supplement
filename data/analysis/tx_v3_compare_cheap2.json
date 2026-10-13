@@ -1,0 +1,1045 @@
+{
+ "judges": [
+  "openai/gpt-6-luna",
+  "deepseek/deepseek-v4.1-flash",
+  "anthropic/claude-haiku-5.5"
+ ],
+ "cells": {
+  "none|glm-5.3-flashx|gpt-6-luna|similarity": {
+   "v2": 0.3876,
+   "v3": 0.3877,
+   "diff": [
+    0.0001,
+    -0.0137,
+    0.0136,
+    1147,
+    293
+   ]
+  },
+  "none|glm-5.3-flashx|gpt-6-luna|same_focus": {
+   "v2": 0.4769,
+   "v3": 0.4786,
+   "diff": [
+    0.0017,
+    -0.028,
+    0.0332,
+    1147,
+    293
+   ]
+  },
+  "none|glm-5.3-flashx|gpt-6-luna|event_match": {
+   "v2": 0.3601,
+   "v3": 0.3522,
+   "diff": [
+    -0.0078,
+    -0.0299,
+    0.0139,
+    1147,
+    293
+   ]
+  },
+  "none|glm-5.3-flashx|deepseek-v4.1-flash|similarity": {
+   "v2": 0.2987,
+   "v3": 0.29,
+   "diff": [
+    -0.0087,
+    -0.0223,
+    0.0052,
+    1055,
+    292
+   ]
+  },
+  "none|glm-5.3-flashx|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.4682,
+   "v3": 0.4502,
+   "diff": [
+    -0.018,
+    -0.0481,
+    0.0102,
+    1055,
+    292
+   ]
+  },
+  "none|glm-5.3-flashx|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2284,
+   "v3": 0.2199,
+   "diff": [
+    -0.0085,
+    -0.0317,
+    0.0142,
+    1055,
+    292
+   ]
+  },
+  "none|glm-5.3-flashx|claude-haiku-5.5|similarity": {
+   "v2": 0.3163,
+   "v3": 0.3143,
+   "diff": [
+    -0.002,
+    -0.0142,
+    0.0092,
+    1147,
+    293
+   ]
+  },
+  "none|glm-5.3-flashx|claude-haiku-5.5|same_focus": {
+   "v2": 0.4534,
+   "v3": 0.4708,
+   "diff": [
+    0.0174,
+    -0.0131,
+    0.0466,
+    1147,
+    293
+   ]
+  },
+  "none|glm-5.3-flashx|claude-haiku-5.5|event_match": {
+   "v2": 0.272,
+   "v3": 0.2624,
+   "diff": [
+    -0.0096,
+    -0.0334,
+    0.013,
+    1147,
+    293
+   ]
+  },
+  "none|kimi-k2-0905|gpt-6-luna|similarity": {
+   "v2": 0.3743,
+   "v3": 0.3695,
+   "diff": [
+    -0.0048,
+    -0.0192,
+    0.0093,
+    1147,
+    293
+   ]
+  },
+  "none|kimi-k2-0905|gpt-6-luna|same_focus": {
+   "v2": 0.4891,
+   "v3": 0.4638,
+   "diff": [
+    -0.0253,
+    -0.0571,
+    0.0069,
+    1147,
+    293
+   ]
+  },
+  "none|kimi-k2-0905|gpt-6-luna|event_match": {
+   "v2": 0.3452,
+   "v3": 0.3391,
+   "diff": [
+    -0.0061,
+    -0.0295,
+    0.017,
+    1147,
+    293
+   ]
+  },
+  "none|kimi-k2-0905|deepseek-v4.1-flash|similarity": {
+   "v2": 0.2925,
+   "v3": 0.271,
+   "diff": [
+    -0.0215,
+    -0.0358,
+    -0.007,
+    1065,
+    293
+   ]
+  },
+  "none|kimi-k2-0905|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.4638,
+   "v3": 0.4573,
+   "diff": [
+    -0.0066,
+    -0.0361,
+    0.0238,
+    1065,
+    293
+   ]
+  },
+  "none|kimi-k2-0905|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2282,
+   "v3": 0.2,
+   "diff": [
+    -0.0282,
+    -0.0499,
+    -0.0065,
+    1065,
+    293
+   ]
+  },
+  "none|kimi-k2-0905|claude-haiku-5.5|similarity": {
+   "v2": 0.3126,
+   "v3": 0.3016,
+   "diff": [
+    -0.011,
+    -0.0226,
+    0.001,
+    1147,
+    293
+   ]
+  },
+  "none|kimi-k2-0905|claude-haiku-5.5|same_focus": {
+   "v2": 0.4542,
+   "v3": 0.3949,
+   "diff": [
+    -0.0593,
+    -0.0912,
+    -0.0257,
+    1147,
+    293
+   ]
+  },
+  "none|kimi-k2-0905|claude-haiku-5.5|event_match": {
+   "v2": 0.2624,
+   "v3": 0.2371,
+   "diff": [
+    -0.0253,
+    -0.0471,
+    -0.0034,
+    1147,
+    293
+   ]
+  },
+  "none|mimo-v2.5|gpt-6-luna|similarity": {
+   "v2": 0.3602,
+   "v3": 0.3577,
+   "diff": [
+    -0.0025,
+    -0.0168,
+    0.0128,
+    1147,
+    293
+   ]
+  },
+  "none|mimo-v2.5|gpt-6-luna|same_focus": {
+   "v2": 0.4891,
+   "v3": 0.4507,
+   "diff": [
+    -0.0384,
+    -0.0678,
+    -0.0085,
+    1147,
+    293
+   ]
+  },
+  "none|mimo-v2.5|gpt-6-luna|event_match": {
+   "v2": 0.3322,
+   "v3": 0.3269,
+   "diff": [
+    -0.0052,
+    -0.0316,
+    0.0212,
+    1147,
+    293
+   ]
+  },
+  "none|mimo-v2.5|deepseek-v4.1-flash|similarity": {
+   "v2": 0.2764,
+   "v3": 0.2765,
+   "diff": [
+    0.0001,
+    -0.0141,
+    0.0146,
+    1079,
+    293
+   ]
+  },
+  "none|mimo-v2.5|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.4754,
+   "v3": 0.4541,
+   "diff": [
+    -0.0213,
+    -0.0536,
+    0.0129,
+    1079,
+    293
+   ]
+  },
+  "none|mimo-v2.5|deepseek-v4.1-flash|event_match": {
+   "v2": 0.1993,
+   "v3": 0.2076,
+   "diff": [
+    0.0083,
+    -0.0131,
+    0.0295,
+    1079,
+    293
+   ]
+  },
+  "none|mimo-v2.5|claude-haiku-5.5|similarity": {
+   "v2": 0.2925,
+   "v3": 0.2964,
+   "diff": [
+    0.0039,
+    -0.0077,
+    0.0156,
+    1147,
+    293
+   ]
+  },
+  "none|mimo-v2.5|claude-haiku-5.5|same_focus": {
+   "v2": 0.4603,
+   "v3": 0.435,
+   "diff": [
+    -0.0253,
+    -0.0574,
+    0.0071,
+    1147,
+    293
+   ]
+  },
+  "none|mimo-v2.5|claude-haiku-5.5|event_match": {
+   "v2": 0.2319,
+   "v3": 0.2293,
+   "diff": [
+    -0.0026,
+    -0.0272,
+    0.0205,
+    1147,
+    293
+   ]
+  },
+  "none|mimo-v2.5-pro|gpt-6-luna|similarity": {
+   "v2": 0.3516,
+   "v3": 0.3586,
+   "diff": [
+    0.007,
+    -0.0081,
+    0.022,
+    1146,
+    293
+   ]
+  },
+  "none|mimo-v2.5-pro|gpt-6-luna|same_focus": {
+   "v2": 0.4476,
+   "v3": 0.4668,
+   "diff": [
+    0.0192,
+    -0.0115,
+    0.0495,
+    1146,
+    293
+   ]
+  },
+  "none|mimo-v2.5-pro|gpt-6-luna|event_match": {
+   "v2": 0.3028,
+   "v3": 0.3159,
+   "diff": [
+    0.0131,
+    -0.0123,
+    0.0382,
+    1146,
+    293
+   ]
+  },
+  "none|mimo-v2.5-pro|deepseek-v4.1-flash|similarity": {
+   "v2": 0.2765,
+   "v3": 0.272,
+   "diff": [
+    -0.0045,
+    -0.0188,
+    0.0108,
+    1085,
+    292
+   ]
+  },
+  "none|mimo-v2.5-pro|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.4636,
+   "v3": 0.4765,
+   "diff": [
+    0.0129,
+    -0.0176,
+    0.0441,
+    1085,
+    292
+   ]
+  },
+  "none|mimo-v2.5-pro|deepseek-v4.1-flash|event_match": {
+   "v2": 0.1915,
+   "v3": 0.1878,
+   "diff": [
+    -0.0037,
+    -0.0258,
+    0.0206,
+    1086,
+    292
+   ]
+  },
+  "none|mimo-v2.5-pro|claude-haiku-5.5|similarity": {
+   "v2": 0.3065,
+   "v3": 0.3076,
+   "diff": [
+    0.001,
+    -0.0114,
+    0.0137,
+    1146,
+    293
+   ]
+  },
+  "none|mimo-v2.5-pro|claude-haiku-5.5|same_focus": {
+   "v2": 0.4154,
+   "v3": 0.4101,
+   "diff": [
+    -0.0052,
+    -0.0401,
+    0.0299,
+    1146,
+    293
+   ]
+  },
+  "none|mimo-v2.5-pro|claude-haiku-5.5|event_match": {
+   "v2": 0.2243,
+   "v3": 0.2373,
+   "diff": [
+    0.0131,
+    -0.0102,
+    0.0351,
+    1146,
+    293
+   ]
+  },
+  "none|muse-glimmer-30b|gpt-6-luna|similarity": {
+   "v2": 0.3033,
+   "v3": 0.3027,
+   "diff": [
+    -0.0005,
+    -0.0162,
+    0.0159,
+    1147,
+    293
+   ]
+  },
+  "none|muse-glimmer-30b|gpt-6-luna|same_focus": {
+   "v2": 0.4124,
+   "v3": 0.4167,
+   "diff": [
+    0.0044,
+    -0.025,
+    0.0338,
+    1147,
+    293
+   ]
+  },
+  "none|muse-glimmer-30b|gpt-6-luna|event_match": {
+   "v2": 0.2572,
+   "v3": 0.2415,
+   "diff": [
+    -0.0157,
+    -0.041,
+    0.0109,
+    1147,
+    293
+   ]
+  },
+  "none|muse-glimmer-30b|deepseek-v4.1-flash|similarity": {
+   "v2": 0.2184,
+   "v3": 0.2132,
+   "diff": [
+    -0.0052,
+    -0.0195,
+    0.0093,
+    1081,
+    292
+   ]
+  },
+  "none|muse-glimmer-30b|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.408,
+   "v3": 0.4311,
+   "diff": [
+    0.0231,
+    -0.0092,
+    0.0559,
+    1081,
+    292
+   ]
+  },
+  "none|muse-glimmer-30b|deepseek-v4.1-flash|event_match": {
+   "v2": 0.1472,
+   "v3": 0.1472,
+   "diff": [
+    0.0,
+    -0.0192,
+    0.0198,
+    1080,
+    292
+   ]
+  },
+  "none|muse-glimmer-30b|claude-haiku-5.5|similarity": {
+   "v2": 0.2429,
+   "v3": 0.2498,
+   "diff": [
+    0.0069,
+    -0.0051,
+    0.0192,
+    1147,
+    293
+   ]
+  },
+  "none|muse-glimmer-30b|claude-haiku-5.5|same_focus": {
+   "v2": 0.408,
+   "v3": 0.4133,
+   "diff": [
+    0.0052,
+    -0.0264,
+    0.0378,
+    1147,
+    293
+   ]
+  },
+  "none|muse-glimmer-30b|claude-haiku-5.5|event_match": {
+   "v2": 0.1665,
+   "v3": 0.1744,
+   "diff": [
+    0.0078,
+    -0.0122,
+    0.0281,
+    1147,
+    293
+   ]
+  },
+  "history|glm-5.3-flashx|gpt-6-luna|similarity": {
+   "v2": 0.4154,
+   "v3": 0.3953,
+   "diff": [
+    -0.0201,
+    -0.0371,
+    -0.004,
+    1147,
+    293
+   ]
+  },
+  "history|glm-5.3-flashx|gpt-6-luna|same_focus": {
+   "v2": 0.5423,
+   "v3": 0.5179,
+   "diff": [
+    -0.0244,
+    -0.0553,
+    0.0072,
+    1147,
+    293
+   ]
+  },
+  "history|glm-5.3-flashx|gpt-6-luna|event_match": {
+   "v2": 0.3976,
+   "v3": 0.3679,
+   "diff": [
+    -0.0296,
+    -0.0553,
+    -0.0035,
+    1147,
+    293
+   ]
+  },
+  "history|glm-5.3-flashx|deepseek-v4.1-flash|similarity": {
+   "v2": 0.3299,
+   "v3": 0.3106,
+   "diff": [
+    -0.0193,
+    -0.0336,
+    -0.0032,
+    1059,
+    291
+   ]
+  },
+  "history|glm-5.3-flashx|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.5543,
+   "v3": 0.5184,
+   "diff": [
+    -0.0359,
+    -0.0648,
+    -0.0058,
+    1059,
+    291
+   ]
+  },
+  "history|glm-5.3-flashx|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2493,
+   "v3": 0.2427,
+   "diff": [
+    -0.0066,
+    -0.0328,
+    0.021,
+    1059,
+    291
+   ]
+  },
+  "history|glm-5.3-flashx|claude-haiku-5.5|similarity": {
+   "v2": 0.3389,
+   "v3": 0.3262,
+   "diff": [
+    -0.0127,
+    -0.0251,
+    -0.0012,
+    1147,
+    293
+   ]
+  },
+  "history|glm-5.3-flashx|claude-haiku-5.5|same_focus": {
+   "v2": 0.5153,
+   "v3": 0.4882,
+   "diff": [
+    -0.027,
+    -0.0619,
+    0.0102,
+    1147,
+    293
+   ]
+  },
+  "history|glm-5.3-flashx|claude-haiku-5.5|event_match": {
+   "v2": 0.2807,
+   "v3": 0.2668,
+   "diff": [
+    -0.0139,
+    -0.0372,
+    0.0095,
+    1147,
+    293
+   ]
+  },
+  "history|kimi-k2-0905|gpt-6-luna|similarity": {
+   "v2": 0.3893,
+   "v3": 0.3873,
+   "diff": [
+    -0.0019,
+    -0.0175,
+    0.0141,
+    1147,
+    293
+   ]
+  },
+  "history|kimi-k2-0905|gpt-6-luna|same_focus": {
+   "v2": 0.5484,
+   "v3": 0.5318,
+   "diff": [
+    -0.0166,
+    -0.0453,
+    0.0128,
+    1147,
+    293
+   ]
+  },
+  "history|kimi-k2-0905|gpt-6-luna|event_match": {
+   "v2": 0.3479,
+   "v3": 0.3487,
+   "diff": [
+    0.0009,
+    -0.0254,
+    0.0266,
+    1147,
+    293
+   ]
+  },
+  "history|kimi-k2-0905|deepseek-v4.1-flash|similarity": {
+   "v2": 0.3028,
+   "v3": 0.2997,
+   "diff": [
+    -0.0031,
+    -0.0188,
+    0.0129,
+    1075,
+    291
+   ]
+  },
+  "history|kimi-k2-0905|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.5302,
+   "v3": 0.5228,
+   "diff": [
+    -0.0074,
+    -0.0375,
+    0.0246,
+    1075,
+    291
+   ]
+  },
+  "history|kimi-k2-0905|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2214,
+   "v3": 0.2279,
+   "diff": [
+    0.0065,
+    -0.0196,
+    0.035,
+    1075,
+    291
+   ]
+  },
+  "history|kimi-k2-0905|claude-haiku-5.5|similarity": {
+   "v2": 0.3229,
+   "v3": 0.3265,
+   "diff": [
+    0.0036,
+    -0.0097,
+    0.0163,
+    1147,
+    293
+   ]
+  },
+  "history|kimi-k2-0905|claude-haiku-5.5|same_focus": {
+   "v2": 0.5118,
+   "v3": 0.49,
+   "diff": [
+    -0.0218,
+    -0.0534,
+    0.0105,
+    1147,
+    293
+   ]
+  },
+  "history|kimi-k2-0905|claude-haiku-5.5|event_match": {
+   "v2": 0.2624,
+   "v3": 0.2572,
+   "diff": [
+    -0.0052,
+    -0.0304,
+    0.0193,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5|gpt-6-luna|similarity": {
+   "v2": 0.4029,
+   "v3": 0.3763,
+   "diff": [
+    -0.0266,
+    -0.0421,
+    -0.0124,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5|gpt-6-luna|same_focus": {
+   "v2": 0.5283,
+   "v3": 0.4961,
+   "diff": [
+    -0.0323,
+    -0.0633,
+    -0.0017,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5|gpt-6-luna|event_match": {
+   "v2": 0.3871,
+   "v3": 0.3391,
+   "diff": [
+    -0.048,
+    -0.0743,
+    -0.0231,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5|deepseek-v4.1-flash|similarity": {
+   "v2": 0.3041,
+   "v3": 0.2792,
+   "diff": [
+    -0.0249,
+    -0.0394,
+    -0.0105,
+    1074,
+    293
+   ]
+  },
+  "history|mimo-v2.5|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.5242,
+   "v3": 0.5074,
+   "diff": [
+    -0.0168,
+    -0.048,
+    0.0125,
+    1074,
+    293
+   ]
+  },
+  "history|mimo-v2.5|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2337,
+   "v3": 0.2095,
+   "diff": [
+    -0.0242,
+    -0.0477,
+    -0.0009,
+    1074,
+    293
+   ]
+  },
+  "history|mimo-v2.5|claude-haiku-5.5|similarity": {
+   "v2": 0.3164,
+   "v3": 0.3104,
+   "diff": [
+    -0.006,
+    -0.0188,
+    0.0064,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5|claude-haiku-5.5|same_focus": {
+   "v2": 0.4996,
+   "v3": 0.4603,
+   "diff": [
+    -0.0392,
+    -0.0746,
+    -0.0026,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5|claude-haiku-5.5|event_match": {
+   "v2": 0.2581,
+   "v3": 0.2537,
+   "diff": [
+    -0.0044,
+    -0.0296,
+    0.0196,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5-pro|gpt-6-luna|similarity": {
+   "v2": 0.3699,
+   "v3": 0.3681,
+   "diff": [
+    -0.0018,
+    -0.019,
+    0.0153,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5-pro|gpt-6-luna|same_focus": {
+   "v2": 0.5004,
+   "v3": 0.5126,
+   "diff": [
+    0.0122,
+    -0.0201,
+    0.0456,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5-pro|gpt-6-luna|event_match": {
+   "v2": 0.3304,
+   "v3": 0.3173,
+   "diff": [
+    -0.0131,
+    -0.0413,
+    0.0163,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5-pro|deepseek-v4.1-flash|similarity": {
+   "v2": 0.2966,
+   "v3": 0.2874,
+   "diff": [
+    -0.0092,
+    -0.0259,
+    0.0077,
+    1087,
+    293
+   ]
+  },
+  "history|mimo-v2.5-pro|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.5179,
+   "v3": 0.5143,
+   "diff": [
+    -0.0037,
+    -0.0367,
+    0.0281,
+    1087,
+    293
+   ]
+  },
+  "history|mimo-v2.5-pro|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2144,
+   "v3": 0.2024,
+   "diff": [
+    -0.012,
+    -0.0374,
+    0.013,
+    1087,
+    293
+   ]
+  },
+  "history|mimo-v2.5-pro|claude-haiku-5.5|similarity": {
+   "v2": 0.3218,
+   "v3": 0.3207,
+   "diff": [
+    -0.0011,
+    -0.0148,
+    0.0127,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5-pro|claude-haiku-5.5|same_focus": {
+   "v2": 0.469,
+   "v3": 0.4769,
+   "diff": [
+    0.0078,
+    -0.0219,
+    0.0393,
+    1147,
+    293
+   ]
+  },
+  "history|mimo-v2.5-pro|claude-haiku-5.5|event_match": {
+   "v2": 0.2528,
+   "v3": 0.2441,
+   "diff": [
+    -0.0087,
+    -0.0332,
+    0.017,
+    1147,
+    293
+   ]
+  },
+  "history|muse-glimmer-30b|gpt-6-luna|similarity": {
+   "v2": 0.3497,
+   "v3": 0.3448,
+   "diff": [
+    -0.0049,
+    -0.0207,
+    0.0103,
+    1147,
+    293
+   ]
+  },
+  "history|muse-glimmer-30b|gpt-6-luna|same_focus": {
+   "v2": 0.4595,
+   "v3": 0.4856,
+   "diff": [
+    0.0262,
+    -0.007,
+    0.058,
+    1147,
+    293
+   ]
+  },
+  "history|muse-glimmer-30b|gpt-6-luna|event_match": {
+   "v2": 0.3165,
+   "v3": 0.3156,
+   "diff": [
+    -0.0009,
+    -0.027,
+    0.0247,
+    1147,
+    293
+   ]
+  },
+  "history|muse-glimmer-30b|deepseek-v4.1-flash|similarity": {
+   "v2": 0.2707,
+   "v3": 0.2648,
+   "diff": [
+    -0.0058,
+    -0.0211,
+    0.009,
+    1095,
+    293
+   ]
+  },
+  "history|muse-glimmer-30b|deepseek-v4.1-flash|same_focus": {
+   "v2": 0.4831,
+   "v3": 0.5087,
+   "diff": [
+    0.0256,
+    -0.0065,
+    0.0579,
+    1095,
+    293
+   ]
+  },
+  "history|muse-glimmer-30b|deepseek-v4.1-flash|event_match": {
+   "v2": 0.2027,
+   "v3": 0.2055,
+   "diff": [
+    0.0027,
+    -0.0203,
+    0.0245,
+    1095,
+    293
+   ]
+  },
+  "history|muse-glimmer-30b|claude-haiku-5.5|similarity": {
+   "v2": 0.2863,
+   "v3": 0.2811,
+   "diff": [
+    -0.0052,
+    -0.0175,
+    0.0071,
+    1147,
+    293
+   ]
+  },
+  "history|muse-glimmer-30b|claude-haiku-5.5|same_focus": {
+   "v2": 0.4446,
+   "v3": 0.4603,
+   "diff": [
+    0.0157,
+    -0.0167,
+    0.0484,
+    1147,
+    293
+   ]
+  },
+  "history|muse-glimmer-30b|claude-haiku-5.5|event_match": {
+   "v2": 0.2162,
+   "v3": 0.2005,
+   "diff": [
+    -0.0157,
+    -0.0371,
+    0.0069,
+    1147,
+    293
+   ]
+  }
+ },
+ "pooled": {
+  "none|similarity": [
+   -0.0027,
+   -0.009,
+   0.0039,
+   16833,
+   293
+  ],
+  "none|same_focus": [
+   -0.0078,
+   -0.0183,
+   0.0024,
+   16833,
+   293
+  ],
+  "none|event_match": [
+   -0.0046,
+   -0.0145,
+   0.0049,
+   16833,
+   293
+  ],
+  "history|similarity": [
+   -0.0092,
+   -0.0161,
+   -0.0027,
+   16860,
+   293
+  ],
+  "history|same_focus": [
+   -0.0091,
+   -0.0217,
+   0.003,
+   16860,
+   293
+  ],
+  "history|event_match": [
+   -0.0116,
+   -0.0213,
+   -0.0014,
+   16860,
+   293
+  ]
+ },
+ "levels": {},
+ "note": "diff = v3 (Scribe transcript) minus v2 (Whisper transcript), paired on person x model x condition x judge; [mean, lo, hi, n pairs, n people]; pooled = all five models and listed judges"
+}

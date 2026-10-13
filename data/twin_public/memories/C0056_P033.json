@@ -1,0 +1,23 @@
+{
+ "call": "C0056",
+ "person": "P033",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got into lisbon and buildings for a while, hes been twice",
+  "reason": "im saving for lisbon myself so it stuck",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

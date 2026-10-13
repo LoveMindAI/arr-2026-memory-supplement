@@ -1,0 +1,23 @@
+{
+ "call": "C0378",
+ "person": "P188",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 13
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we was talking about tk maxx and bargains, i told about my new bag",
+  "reason": "i like shopping talk tbh and that bag was proper bargain so im happy",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

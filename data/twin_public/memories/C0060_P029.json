@@ -1,0 +1,23 @@
+{
+ "call": "C0060",
+ "person": "P029",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 49,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I mentioned my dad's heart trouble and Darren told me his own dad died about eight years back - I hadn't known that. Then he just said 'Go and see him, though, while you can. That's all I'd say.' Very matter-of-fact, no fuss, but it properly landed",
+  "reason": "Because he's right tbh - I keep saying I will",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

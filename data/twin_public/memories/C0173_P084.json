@@ -1,0 +1,23 @@
+{
+ "call": "C0173",
+ "person": "P084",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 19,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She talked warmly and easily the whole way through, laughing and apologising for talking too much, which made it easy.",
+  "reason": "I'm not much of a talker myself, so it stood out.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

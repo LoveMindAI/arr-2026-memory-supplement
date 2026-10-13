@@ -1,0 +1,23 @@
+{
+ "call": "C0504",
+ "person": "P247",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about old mills and chimneys. she draws them.",
+  "reason": "it's what i care about. didn't expect that from her.",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

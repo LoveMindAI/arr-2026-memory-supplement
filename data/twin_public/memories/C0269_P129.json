@@ -1,0 +1,23 @@
+{
+ "call": "C0269",
+ "person": "P129",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Near the end we had a proper laugh about what everyone calls a bread roll.",
+  "reason": "It were funny and felt dead relaxed.",
+  "timing": 92
+ },
+ "requires_av": false,
+ "av_event": null
+}

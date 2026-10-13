@@ -1,0 +1,47 @@
+{
+ "session": "S34",
+ "rater": "P179",
+ "ok": true,
+ "ratings": {
+  "P180": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like she's got her head screwed on with all those files, bit serious though... remind me of some of my girls when they're doing the stock take lol"
+  },
+  "P181": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "bless her she looks a bit tired, probably studying hard... she's got a dog photo too so she must be alright"
+  },
+  "P182": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "very smart and organized looking... i bet she's the one who knows all the answers, i'd definitely want her on my team for a quiz"
+  },
+  "P183": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 7,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "oh she looks lovely! looks like someone i'd have a proper good natter with over a cuppa, reminds me of my sister sort of"
+  }
+ }
+}

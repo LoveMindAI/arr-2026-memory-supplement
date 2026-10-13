@@ -1,0 +1,23 @@
+{
+ "call": "C0562",
+ "person": "P284",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 17,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto work, found out hes a sparky going into ev chargers, thought straight away theres money in this",
+  "reason": "could genuinely make some cash off that tbh",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S29",
+ "rater": "P153",
+ "ok": true,
+ "ratings": {
+  "P154": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "looks like good lad, likes outdoors and birds, probably easy to talk with"
+  },
+  "P155": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks smart, maybe accountant or teacher, quiet sort of man"
+  },
+  "P156": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 0,
+   "gut": "seems a bit tired or cross, messy house like mine sometimes, but she looks serious"
+  },
+  "P157": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "friendly face, reminds me of my wife Claire with all stuff on fridge"
+  },
+  "P158": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "very friendly, has cross on neck so maybe goes church, looks like hard worker"
+  }
+ }
+}

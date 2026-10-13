@@ -1,0 +1,23 @@
+{
+ "call": "C0084",
+ "person": "P047",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 21
+ },
+ "ok": true,
+ "answers": {
+  "moment": "the bit where we got talking about stuff at work that keeps breaking, fix one thing and something else goes, we had a laugh",
+  "reason": "had that van with three different faults today so it was fresh in my head, and it was nice we both got it tbh",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0369",
+ "person": "P183",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 10,
+  "reason": 38
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Just how much we kept finding we had in common, honestly!",
+  "reason": "Because it kept happening the whole way through and we were both laughing about it by the end. It felt like chatting to an old friend rather than a stranger, which you don't expect on a video call like this!",
+  "timing": 60
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0472",
+ "person": "P235",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When I mentioned the evenings being quiet once they're in bed. It felt quite honest.",
+  "reason": "Because that's the bit I find hardest myself tbh, so it stuck.",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0548",
+ "person": "P273",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her on about drawing the birds she sees and saying it looked like a scribble lol",
+  "reason": "cos its like me with the buildings tbh, didnt expect that in common",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,57 @@
+{
+ "session": "S11",
+ "rater": "P055",
+ "ok": true,
+ "ratings": {
+  "P050": {
+   "photo": 1,
+   "friendly": 7,
+   "like": 6,
+   "trust": 4,
+   "comp": 3,
+   "sim": 3,
+   "pair": 1,
+   "gut": "He looks very happy and relaxed, maybe a bit messy like my brother."
+  },
+  "P051": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Very professional and artistic, she reminds me of my doctor at the hospital."
+  },
+  "P052": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 0,
+   "gut": "A bit quiet and serious, maybe he likes gaming like Tom's friends."
+  },
+  "P053": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Very neat and organised. The crucifix and wedding photo make him seem reliable."
+  },
+  "P054": {
+   "photo": 5,
+   "friendly": 7,
+   "like": 7,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks so kind, like she would bring cake to the book club."
+  }
+ }
+}

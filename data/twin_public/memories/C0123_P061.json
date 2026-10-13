@@ -1,0 +1,23 @@
+{
+ "call": "C0123",
+ "person": "P061",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about our dads, his drove lorries for years, mine were at the pit",
+  "reason": "dont usually bring my dad up with strangers. felt like he come from the same sort",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

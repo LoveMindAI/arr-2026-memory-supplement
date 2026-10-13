@@ -1,0 +1,23 @@
+{
+ "call": "C0440",
+ "person": "P220",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 6
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about both being knackered from long shifts, didnt know she worked in a care home",
+  "reason": "same sort of job, felt normal",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

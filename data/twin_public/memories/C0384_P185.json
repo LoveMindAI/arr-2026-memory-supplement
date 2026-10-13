@@ -1,0 +1,23 @@
+{
+ "call": "C0384",
+ "person": "P185",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 44
+ },
+ "ok": true,
+ "answers": {
+  "moment": "talking about church and me switching to a new one",
+  "reason": "i don't usually tell anyone that, it just sort of came out, she was really easy to be honest with tbh, a bit like the ladies at church, and it didn't feel weird or awkward after, i felt kind of understood i think, idk",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

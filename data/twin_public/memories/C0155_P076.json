@@ -1,0 +1,23 @@
+{
+ "call": "C0155",
+ "person": "P076",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We both got excited about the Designmuseum in Copenhagen. Didn't know he'd been there too",
+  "reason": "Shared excitement",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0519",
+ "person": "P256",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 4,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we talked about Tenby.",
+  "reason": "It's my favourite place, so it was nice talking about it (felt relaxed).",
+  "timing": 75
+ },
+ "requires_av": false,
+ "av_event": null
+}

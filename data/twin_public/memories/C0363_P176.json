@@ -1,0 +1,23 @@
+{
+ "call": "C0363",
+ "person": "P176",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 35
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto me not applying for placements",
+  "reason": "cos everyone kept asking me that today tbh, like 3 calls in a row lol. bit annoying at first ngl but it kinda stuck with me, maybe i should actually look into it idk",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0213",
+ "person": "P101",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 27,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "more the whole thing than one bit tbh, we spent most of it comparing busy weeks and kids and holidays, bit of laughing at ourselves, felt like normal parent chat",
+  "reason": "it was easy and familiar, nothing dramatic just two knackered parents comparing notes, felt like home tbh",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

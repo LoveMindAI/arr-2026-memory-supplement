@@ -1,0 +1,23 @@
+{
+ "call": "C0252",
+ "person": "P119",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 34,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got onto canals and realised we both basically spend our time by old locks and walls, i didnt know she walks Bonnie along the Sankey canal in warrington, we sort of bonded over it",
+  "reason": "because its literally my thesis lol and it felt like a proper research moment tbh",
+  "timing": 65
+ },
+ "requires_av": false,
+ "av_event": null
+}

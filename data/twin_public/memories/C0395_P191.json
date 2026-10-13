@@ -1,0 +1,23 @@
+{
+ "call": "C0395",
+ "person": "P191",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 75,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "honestly the whole call just felt easy, like talking to one of my brothers over a brew, it was funny at the start him being called Darren same as my husband lol. he was down to earth and not full of himself, a proper grafter, I didnt know he was a gas engineer with his own business till then, i was made up cause now i know to get the housing on about my boiler",
+  "reason": "it felt comfortable and familiar, like family, and i came away with something useful to sort out",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

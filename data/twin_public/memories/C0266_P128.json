@@ -1,0 +1,23 @@
+{
+ "call": "C0266",
+ "person": "P128",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 40,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about pub quizzes for a bit, me saying im the telly one and cant do the music round, then the meat raffle at ours and the leg of lamb tracey done for sunday dinner. found out hes at one every week",
+  "reason": "quiz and the lamb, actually had something to say for once",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0058",
+ "person": "P032",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 11,
+  "reason": 33
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked about my home city, my father, and Sunday soup.",
+  "reason": "It was easy conversation and we went from one subject to another without stopping. I spoke more about my family than I expected to. To be honest, it was pleasant to remember my father.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

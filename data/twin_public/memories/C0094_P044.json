@@ -1,0 +1,23 @@
+{
+ "call": "C0094",
+ "person": "P044",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 33,
+  "reason": 31
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about work for a bit, lorries not turning up and that, then her job, shes a kitchen assistant at a primary school doing the dinners. didnt know that, explains the lunch menu on her fridge",
+  "reason": "dunno really, it was easy to talk about cos its basically my whole day. and the fridge thing from her photo sort of clicked then. felt more normal than some of the others",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

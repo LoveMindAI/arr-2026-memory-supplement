@@ -1,0 +1,23 @@
+{
+ "call": "C0510",
+ "person": "P255",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 5,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Easy call. He sells commercial HVAC.",
+  "reason": "Felt like talking to a work peer.",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

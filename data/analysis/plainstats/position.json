@@ -1,0 +1,206 @@
+{
+ "locator_vs_self_report": {
+  "spearman": 0.648,
+  "n": 1068,
+  "by_confidence": {
+   "high": [
+    0.775,
+    350
+   ],
+   "medium": [
+    0.593,
+    674
+   ],
+   "low": [
+    0.266,
+    44
+   ]
+  },
+  "median_abs_diff": 12.9
+ },
+ "locator_kinds": {
+  "in_conversation": 1068,
+  "not_in_transcript": 35,
+  "general": 44
+ },
+ "self_reported_timing": {
+  "partner's own timing answer": [
+   -0.0056,
+   -0.0275,
+   0.0161,
+   841,
+   283
+  ],
+  "person's earlier answers (median)": [
+   0.0461,
+   0.0224,
+   0.0702,
+   854,
+   283
+  ],
+  "model: none": [
+   0.0429,
+   0.0217,
+   0.0636,
+   4270,
+   283
+  ],
+  "model: history": [
+   0.049,
+   0.028,
+   0.0674,
+   4270,
+   283
+  ],
+  "model: history_prior": [
+   0.0382,
+   0.0178,
+   0.0584,
+   4268,
+   283
+  ],
+  "model: history_wrong": [
+   0.0511,
+   0.0307,
+   0.0706,
+   4263,
+   283
+  ],
+  "model: card_thin": [
+   0.0399,
+   0.0206,
+   0.0602,
+   4259,
+   281
+  ],
+  "model: card_narr": [
+   0.0387,
+   0.0185,
+   0.0591,
+   4259,
+   281
+  ],
+  "history minus history_wrong (paired)": [
+   -0.0026,
+   -0.0141,
+   0.0087,
+   4263,
+   283
+  ],
+  "history minus none (paired)": [
+   0.0061,
+   -0.0048,
+   0.0176,
+   4270,
+   283
+  ]
+ },
+ "located": {
+  "located position": {
+   "partner's memory": [
+    0.0616,
+    0.0375,
+    0.0863,
+    735,
+    279
+   ],
+   "person's earlier memories (mean)": [
+    -0.007,
+    -0.0315,
+    0.0157,
+    776,
+    277
+   ],
+   "model: none (located)": [
+    0.0845,
+    0.0636,
+    0.1039,
+    3975,
+    282
+   ],
+   "model: history (located)": [
+    0.1007,
+    0.0815,
+    0.1206,
+    3977,
+    282
+   ],
+   "history minus none (paired, located)": [
+    0.0166,
+    0.0037,
+    0.0301,
+    3972,
+    282
+   ],
+   "model: stranger's history (located)": [
+    0.0943,
+    0.0753,
+    0.1141,
+    3970,
+    282
+   ],
+   "history minus stranger's history (paired, located)": [
+    0.0061,
+    -0.0078,
+    0.0195,
+    3967,
+    282
+   ]
+  },
+  "span (share of call)": {
+   "partner's memory": [
+    0.0246,
+    0.0004,
+    0.0496,
+    735,
+    279
+   ],
+   "person's earlier memories (mean)": [
+    0.0713,
+    0.048,
+    0.0946,
+    776,
+    277
+   ],
+   "model: none (located)": [
+    0.0372,
+    0.0192,
+    0.0552,
+    3975,
+    282
+   ],
+   "model: history (located)": [
+    0.0692,
+    0.0533,
+    0.0862,
+    3977,
+    282
+   ],
+   "history minus none (paired, located)": [
+    0.0318,
+    0.0193,
+    0.0451,
+    3972,
+    282
+   ],
+   "model: stranger's history (located)": [
+    0.0352,
+    0.0172,
+    0.0526,
+    3970,
+    282
+   ],
+   "history minus stranger's history (paired, located)": [
+    0.0339,
+    0.019,
+    0.0481,
+    3967,
+    282
+   ]
+  }
+ },
+ "general_share": {
+  "people": 0.04,
+  "models_none": 0.0
+ }
+}

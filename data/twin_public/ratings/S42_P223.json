@@ -1,0 +1,37 @@
+{
+ "session": "S42",
+ "rater": "P223",
+ "ok": true,
+ "ratings": {
+  "P221": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "He looks like he'd be easy to talk to, and he has a dog."
+  },
+  "P222": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 3,
+   "trust": 4,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "She looks a bit tired, like she has a lot on her plate."
+  },
+  "P224": {
+   "photo": 3,
+   "friendly": 2,
+   "like": 3,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "He seems very serious and a bit like he's at work."
+  }
+ }
+}

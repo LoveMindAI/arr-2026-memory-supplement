@@ -1,0 +1,23 @@
+{
+ "call": "C0494",
+ "person": "P242",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "her telling me off, quite firmly, about buying spices from the supermarket. said to toast them myself and i'd notice straight away. then 'you'll know'",
+  "reason": "it was blunt but sort of kind. felt like proper advice",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,11 @@
+{
+ "what": "same-moment rate (mean of 3 judges' event_match) on the 18 reports the authors predicted",
+ "authors pooled": {
+  "mean": 0.3194,
+  "n_judgments": 72
+ },
+ "LLMs, no info": {
+  "mean": 0.2611,
+  "n_judgments": 540
+ }
+}

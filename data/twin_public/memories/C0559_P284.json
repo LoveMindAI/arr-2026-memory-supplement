@@ -1,0 +1,23 @@
+{
+ "call": "C0559",
+ "person": "P284",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 33,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we got talking about sales and she said its all reading people, you know in ten seconds if theyre serious, and i was like thats exactly it, same on the forecourt, proper clicked",
+  "reason": "felt like talking to someone who does my job tbh",
+  "timing": 35
+ },
+ "requires_av": false,
+ "av_event": null
+}

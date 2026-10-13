@@ -1,0 +1,23 @@
+{
+ "call": "C0044",
+ "person": "P024",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 9
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Mostly just how easy it all felt, like chatting with a friend over a cup of tea.",
+  "reason": "She was so warm I quite forgot the camera...",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

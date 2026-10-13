@@ -1,0 +1,47 @@
+{
+ "session": "S09",
+ "rater": "P042",
+ "ok": true,
+ "ratings": {
+  "P039": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 7,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "she looks really sweet and sort of reminded me of my mum with the cross and that. bet she is lovely to talk to tbh!!"
+  },
+  "P040": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks like a busy mum doesnt she lol. love the cat in the back and she seems like shed just get on with things properly."
+  },
+  "P041": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 7,
+   "sim": 3,
+   "pair": 0,
+   "gut": "very smart and put together! she looks like she might be a bit posh or a manager type so she might be a bit bossy you know."
+  },
+  "P043": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 0,
+   "gut": "shes got lovely hair and her house looks so neat like out of a magazine!! she seems nice but maybe a bit quiet for me."
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0201",
+ "person": "P094",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 23,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking about her lad zayan hes five and learning to ride his bike. chain keeps coming off so i said pull the back wheel back",
+  "reason": "bikes is what i know. same as i do for the grandkids. hope she gets it sorted",
+  "timing": 55
+ },
+ "requires_av": false,
+ "av_event": null
+}

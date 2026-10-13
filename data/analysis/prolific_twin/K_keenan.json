@@ -1,0 +1,71 @@
+{
+ "sets": [
+  "set1",
+  "set2"
+ ],
+ "random": {
+  "compliment": {
+   "items": 45,
+   "rater_rater_kappa": 0.182,
+   "rater_alpha": 0.105,
+   "gpt-6-luna_rater_kappa": 0.404,
+   "gpt-6-luna_matches_majority": 0.911,
+   "deepseek-v4.1-flash_rater_kappa": 0.488,
+   "deepseek-v4.1-flash_matches_majority": 0.909,
+   "rater_yes_rate": 0.207
+  },
+  "surprise": {
+   "items": 45,
+   "rater_rater_kappa": 0.139,
+   "rater_alpha": 0.112,
+   "gpt-6-luna_rater_kappa": 0.4,
+   "gpt-6-luna_matches_majority": 0.689,
+   "deepseek-v4.1-flash_rater_kappa": 0.388,
+   "deepseek-v4.1-flash_matches_majority": 0.697,
+   "rater_yes_rate": 0.459
+  },
+  "humor": {
+   "items": 45,
+   "rater_rater_kappa": 0.195,
+   "rater_alpha": 0.093,
+   "gpt-6-luna_rater_kappa": 0.293,
+   "gpt-6-luna_matches_majority": 0.667,
+   "deepseek-v4.1-flash_rater_kappa": 0.381,
+   "deepseek-v4.1-flash_matches_majority": 0.727,
+   "rater_yes_rate": 0.348
+  }
+ },
+ "all": {
+  "compliment": {
+   "items": 90,
+   "rater_rater_kappa": 0.167,
+   "rater_alpha": 0.089,
+   "gpt-6-luna_rater_kappa": 0.38,
+   "gpt-6-luna_matches_majority": 0.878,
+   "deepseek-v4.1-flash_rater_kappa": 0.457,
+   "deepseek-v4.1-flash_matches_majority": 0.879,
+   "rater_yes_rate": 0.249
+  },
+  "surprise": {
+   "items": 90,
+   "rater_rater_kappa": 0.149,
+   "rater_alpha": 0.127,
+   "gpt-6-luna_rater_kappa": 0.368,
+   "gpt-6-luna_matches_majority": 0.711,
+   "deepseek-v4.1-flash_rater_kappa": 0.393,
+   "deepseek-v4.1-flash_matches_majority": 0.727,
+   "rater_yes_rate": 0.474
+  },
+  "humor": {
+   "items": 90,
+   "rater_rater_kappa": 0.202,
+   "rater_alpha": 0.055,
+   "gpt-6-luna_rater_kappa": 0.238,
+   "gpt-6-luna_matches_majority": 0.656,
+   "deepseek-v4.1-flash_rater_kappa": 0.34,
+   "deepseek-v4.1-flash_matches_majority": 0.742,
+   "rater_yes_rate": 0.349
+  }
+ },
+ "complete": true
+}

@@ -1,0 +1,47 @@
+{
+ "session": "S34",
+ "rater": "P181",
+ "ok": true,
+ "ratings": {
+  "P179": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "she looks really lovely, like the girls i do nails with, her dog is cute too lol"
+  },
+  "P180": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 6,
+   "comp": 7,
+   "sim": 6,
+   "pair": 1,
+   "gut": "looks a bit nervous like me tbh, probably very organized with those files"
+  },
+  "P182": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 7,
+   "sim": 3,
+   "pair": 1,
+   "gut": "seems quite serious and smart, id be scared of saying something wrong to her"
+  },
+  "P183": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "reminds me of my mam or one of the nurses on the ward, very kind face"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0568",
+ "person": "P282",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We just clicked really quickly and chatted like we'd known each other for ages, swapping family stuff and having a good laugh",
+  "reason": "It felt easy and familiar, like talking to someone from round here",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

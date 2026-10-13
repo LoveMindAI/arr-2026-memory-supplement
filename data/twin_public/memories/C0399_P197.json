@@ -1,0 +1,25 @@
+{
+ "call": "C0399",
+ "person": "P197",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 8,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "His voice went thick and he looked down about Leeds.",
+  "reason": "I miss my Megan in Cardiff more than I let on, so it sort of hit home tbh.",
+  "timing": 40
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0399",
+  "turn": 18,
+  "line_text": "I do, yeah. Separated a couple of years. I've got two grown-up kids, son in Nottingham who I see most Sundays, and me daughter's up in Leeds. Don't see her as much as I'd like.",
+  "who": "Graham",
+  "what": "His voice catches and goes thick on 'me daughter's up in Leeds'. He pauses for about two seconds, swallows and glances down away from the camera before finishing the sentence more quietly."
+ }
+}

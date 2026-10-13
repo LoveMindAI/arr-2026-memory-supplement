@@ -1,0 +1,37 @@
+{
+ "session": "S37",
+ "rater": "P197",
+ "ok": true,
+ "ratings": {
+  "P195": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Proper lovely smile, looks like a busy mum who'd be easy to chat with! x"
+  },
+  "P196": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Reminds me of my dad sort of, looks like he's got a few good stories! lol"
+  },
+  "P198": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Bit more serious but seems proper reliable, probably good for the tasks."
+  }
+ }
+}

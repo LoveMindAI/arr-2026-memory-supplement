@@ -1,0 +1,56 @@
+{
+ "raw_text": {
+  "n": 883,
+  "people": 242,
+  "top1": 0.398,
+  "chance": 0.228,
+  "above": 0.17,
+  "lo": 0.127,
+  "hi": 0.214
+ },
+ "neutral_paraphrase": {
+  "n": 883,
+  "people": 242,
+  "top1": 0.299,
+  "chance": 0.228,
+  "above": 0.071,
+  "lo": 0.028,
+  "hi": 0.114
+ },
+ "codebook profile, claude-haiku-5.5, with topic": {
+  "n": 882,
+  "people": 242,
+  "top1": 0.338,
+  "chance": 0.228,
+  "above": 0.11,
+  "lo": 0.07,
+  "hi": 0.15
+ },
+ "codebook profile, claude-haiku-5.5, WITHOUT topic": {
+  "n": 882,
+  "people": 242,
+  "top1": 0.34,
+  "chance": 0.228,
+  "above": 0.112,
+  "lo": 0.073,
+  "hi": 0.153
+ },
+ "codebook profile, gpt-6-luna, with topic": {
+  "n": 883,
+  "people": 242,
+  "top1": 0.368,
+  "chance": 0.228,
+  "above": 0.14,
+  "lo": 0.102,
+  "hi": 0.178
+ },
+ "codebook profile, gpt-6-luna, WITHOUT topic": {
+  "n": 883,
+  "people": 242,
+  "top1": 0.359,
+  "chance": 0.228,
+  "above": 0.131,
+  "lo": 0.093,
+  "hi": 0.171
+ }
+}

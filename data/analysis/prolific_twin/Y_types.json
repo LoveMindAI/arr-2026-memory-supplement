@@ -1,0 +1,19 @@
+{
+ "sets": [
+  "set1",
+  "set2"
+ ],
+ "items": 40,
+ "answers": 117,
+ "match_coded_type": 0.641,
+ "unsure_share": 0.128,
+ "by_coded_type": {
+  "stretch_we_shared": 0.678,
+  "what_they_told_me": 0.603
+ },
+ "majority_matches_coded_type": 0.844,
+ "items_with_strict_majority": 32,
+ "majority_agreeing_items": 27,
+ "rater_alpha": 0.098,
+ "complete": true
+}

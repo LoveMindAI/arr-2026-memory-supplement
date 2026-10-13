@@ -1,0 +1,23 @@
+{
+ "call": "C0211",
+ "person": "P101",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 15,
+  "reason": 12
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got onto my mum and the kids arabic and how you keep a language going etc",
+  "reason": "its something i actually worry about tbh so it stuck with me",
+  "timing": 88
+ },
+ "requires_av": false,
+ "av_event": null
+}

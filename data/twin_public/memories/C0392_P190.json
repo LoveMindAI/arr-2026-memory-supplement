@@ -1,0 +1,23 @@
+{
+ "call": "C0392",
+ "person": "P190",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 5
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked for a bit about me switching courses and feeling behind, and then about both being quite fussy with paperwork at work.",
+  "reason": "It made me feel less behind.",
+  "timing": 45
+ },
+ "requires_av": false,
+ "av_event": null
+}

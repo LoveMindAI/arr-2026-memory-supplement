@@ -1,0 +1,23 @@
+{
+ "call": "C0550",
+ "person": "P275",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 18,
+  "reason": 38
+ },
+ "ok": true,
+ "answers": {
+  "moment": "We talked about dogs for a while, mainly them chewing remotes, and how people get Staffies wrong.",
+  "reason": "It was the only bit that didn't feel like small talk. Tyson's been a nightmare with remotes so it was easy to talk about. Didn't expect to have much in common to be honest, so it stuck.",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

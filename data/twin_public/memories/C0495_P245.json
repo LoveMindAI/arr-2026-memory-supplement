@@ -1,0 +1,23 @@
+{
+ "call": "C0495",
+ "person": "P245",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 34,
+  "reason": 17
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Near the end we got onto holidays. We both go back to the same places every year and agreed there's no point paying to try somewhere new and be disappointed. Nice to talk to someone sensible about it.",
+  "reason": "Most people think it's boring to go back to the same place. It was nice not having to justify it.",
+  "timing": 80
+ },
+ "requires_av": false,
+ "av_event": null
+}

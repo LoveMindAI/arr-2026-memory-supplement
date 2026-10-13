@@ -1,0 +1,23 @@
+{
+ "call": "C0119",
+ "person": "P057",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 46,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When we find out we both do injection moulding. Same job, different factory. We talk about checking settings ourself, temperature, pressure, cycle time, and how other guys just press start and go. I learn he is setter already twenty two years, near Nottingham, does own changeovers",
+  "reason": "Never meet somebody here who does exactly same job",
+  "timing": 12
+ },
+ "requires_av": false,
+ "av_event": null
+}

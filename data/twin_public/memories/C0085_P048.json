@@ -1,0 +1,23 @@
+{
+ "call": "C0085",
+ "person": "P048",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 7,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Him finally loosening up a bit towards the end.",
+  "reason": "He'd been quite monosyllabic up to then, so it stood out when he actually started chatting properly.",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

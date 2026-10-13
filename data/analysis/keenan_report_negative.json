@@ -1,0 +1,110 @@
+{
+ "luna|humor": {
+  "n_report_negative": 962,
+  "n_report_mentions": 63,
+  "remembered_rate": 0.10706860706860707,
+  "control_rate": 0.09043659043659044,
+  "discordant_mem": 86,
+  "discordant_ctl": 70,
+  "p_sign": 0.22965784665432648
+ },
+ "luna|teasing": {
+  "n_report_negative": 1018,
+  "n_report_mentions": 7,
+  "remembered_rate": 0.022593320235756387,
+  "control_rate": 0.012770137524557957,
+  "discordant_mem": 23,
+  "discordant_ctl": 13,
+  "p_sign": 0.13249816396273673
+ },
+ "luna|compliment": {
+  "n_report_negative": 956,
+  "n_report_mentions": 69,
+  "remembered_rate": 0.06903765690376569,
+  "control_rate": 0.03556485355648536,
+  "discordant_mem": 63,
+  "discordant_ctl": 31,
+  "p_sign": 0.0012613865981312992
+ },
+ "luna|self_disclosure": {
+  "n_report_negative": 296,
+  "n_report_mentions": 729,
+  "remembered_rate": 0.7567567567567568,
+  "control_rate": 0.668918918918919,
+  "discordant_mem": 56,
+  "discordant_ctl": 30,
+  "p_sign": 0.006673923142224867
+ },
+ "luna|disagreement": {
+  "n_report_negative": 1013,
+  "n_report_mentions": 12,
+  "remembered_rate": 0.04837117472852912,
+  "control_rate": 0.03652517275419546,
+  "discordant_mem": 44,
+  "discordant_ctl": 32,
+  "p_sign": 0.20673684180839233
+ },
+ "luna|surprise": {
+  "n_report_negative": 907,
+  "n_report_mentions": 118,
+  "remembered_rate": 0.19294377067254687,
+  "control_rate": 0.1378169790518192,
+  "discordant_mem": 139,
+  "discordant_ctl": 89,
+  "p_sign": 0.0011275547447593003
+ },
+ "deepseek|humor": {
+  "n_report_negative": 962,
+  "n_report_mentions": 63,
+  "remembered_rate": 0.1257796257796258,
+  "control_rate": 0.08523908523908524,
+  "discordant_mem": 96,
+  "discordant_ctl": 57,
+  "p_sign": 0.00202489878020022
+ },
+ "deepseek|teasing": {
+  "n_report_negative": 1018,
+  "n_report_mentions": 7,
+  "remembered_rate": 0.03143418467583497,
+  "control_rate": 0.0206286836935167,
+  "discordant_mem": 31,
+  "discordant_ctl": 20,
+  "p_sign": 0.16077960181198847
+ },
+ "deepseek|compliment": {
+  "n_report_negative": 956,
+  "n_report_mentions": 69,
+  "remembered_rate": 0.12656903765690378,
+  "control_rate": 0.0596234309623431,
+  "discordant_mem": 110,
+  "discordant_ctl": 46,
+  "p_sign": 3.1518188541935347e-07
+ },
+ "deepseek|self_disclosure": {
+  "n_report_negative": 296,
+  "n_report_mentions": 729,
+  "remembered_rate": 0.6621621621621622,
+  "control_rate": 0.6655405405405406,
+  "discordant_mem": 53,
+  "discordant_ctl": 54,
+  "p_sign": 1.0
+ },
+ "deepseek|disagreement": {
+  "n_report_negative": 1013,
+  "n_report_mentions": 12,
+  "remembered_rate": 0.07206317867719644,
+  "control_rate": 0.05330700888450148,
+  "discordant_mem": 67,
+  "discordant_ctl": 48,
+  "p_sign": 0.09281592098218937
+ },
+ "deepseek|surprise": {
+  "n_report_negative": 907,
+  "n_report_mentions": 118,
+  "remembered_rate": 0.21168687982359427,
+  "control_rate": 0.16758544652701213,
+  "discordant_mem": 139,
+  "discordant_ctl": 99,
+  "p_sign": 0.011315217519235666
+ }
+}

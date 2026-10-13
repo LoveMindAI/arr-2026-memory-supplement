@@ -1,0 +1,148 @@
+{
+ "by_judge": {
+  "google/gemini-3.1-pro-preview": {
+   "scribe": 54,
+   "whisper": 6,
+   "equal": 0,
+   "scribe_share_decisive": 0.9,
+   "p": 9.722961671898567e-11
+  },
+  "qwen/qwen3.8-omni-flash": {
+   "scribe": 57,
+   "whisper": 3,
+   "equal": 0,
+   "scribe_share_decisive": 0.95,
+   "p": 6.253851603243987e-14
+  },
+  "xiaomi/mimo-v2.6-pro-ultraspeed": {
+   "scribe": 55,
+   "whisper": 4,
+   "equal": 0,
+   "scribe_share_decisive": 0.932,
+   "p": 1.6979681549678105e-12
+  }
+ },
+ "by_judge_stratum": {
+  "google/gemini-3.1-pro-preview|dropped": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "google/gemini-3.1-pro-preview|swapped": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "google/gemini-3.1-pro-preview|fillers": {
+   "scribe": 11,
+   "whisper": 1,
+   "equal": 0,
+   "scribe_share_decisive": 0.917,
+   "p": 0.00634765625
+  },
+  "google/gemini-3.1-pro-preview|laughter": {
+   "scribe": 11,
+   "whisper": 1,
+   "equal": 0,
+   "scribe_share_decisive": 0.917,
+   "p": 0.00634765625
+  },
+  "google/gemini-3.1-pro-preview|extra": {
+   "scribe": 8,
+   "whisper": 4,
+   "equal": 0,
+   "scribe_share_decisive": 0.667,
+   "p": 0.3876953125
+  },
+  "qwen/qwen3.8-omni-flash|dropped": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "qwen/qwen3.8-omni-flash|swapped": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "qwen/qwen3.8-omni-flash|fillers": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "qwen/qwen3.8-omni-flash|laughter": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "qwen/qwen3.8-omni-flash|extra": {
+   "scribe": 9,
+   "whisper": 3,
+   "equal": 0,
+   "scribe_share_decisive": 0.75,
+   "p": 0.14599609375
+  },
+  "xiaomi/mimo-v2.6-pro-ultraspeed|dropped": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "xiaomi/mimo-v2.6-pro-ultraspeed|swapped": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "xiaomi/mimo-v2.6-pro-ultraspeed|fillers": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "xiaomi/mimo-v2.6-pro-ultraspeed|laughter": {
+   "scribe": 12,
+   "whisper": 0,
+   "equal": 0,
+   "scribe_share_decisive": 1.0,
+   "p": 0.00048828125
+  },
+  "xiaomi/mimo-v2.6-pro-ultraspeed|extra": {
+   "scribe": 7,
+   "whisper": 4,
+   "equal": 0,
+   "scribe_share_decisive": 0.636,
+   "p": 0.548828125
+  }
+ },
+ "agreement": {
+  "gemini-3.1-pro-preview vs qwen3.8-omni-flash": {
+   "n": 60,
+   "same": 0.917
+  },
+  "gemini-3.1-pro-preview vs mimo-v2.6-pro-ultraspeed": {
+   "n": 59,
+   "same": 0.949
+  },
+  "qwen3.8-omni-flash vs mimo-v2.6-pro-ultraspeed": {
+   "n": 59,
+   "same": 0.949
+  }
+ },
+ "n_items": 60,
+ "cost": 0.959
+}

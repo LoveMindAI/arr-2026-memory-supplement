@@ -1,0 +1,23 @@
+{
+ "call": "C0002",
+ "person": "P004",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 50,
+  "reason": 44
+ },
+ "ok": true,
+ "answers": {
+  "moment": "When Joanne explained what a shift lead in a dementia home actually does. Medication rounds, care plans, but mainly watching all the time, e.g. someone not eating or walking differently, and noticing before the doctor does. I hadnt known she does twelve hour shifts and that the pottery class is where she goes to not think.",
+  "reason": "It was the first time she really opened up, she was a bit short before that. Also it sort of connected to my own work, spotting small problems early, though hers matters a lot more. It changed how I saw the bowls on the shelf",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0264",
+ "person": "P128",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 26,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we was both moaning about people nicking parking spaces outside the house and the ulez fine on our van, went on a bit, we was both well into it",
+  "reason": "cos it gets on my nerves and we had the same gripe",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

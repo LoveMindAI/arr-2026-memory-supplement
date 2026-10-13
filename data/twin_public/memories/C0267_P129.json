@@ -1,0 +1,25 @@
+{
+ "call": "C0267",
+ "person": "P129",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": null,
+ "length_target": {
+  "moment": 22,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "An old cat jumped up on the worktop behind her, walked slowly past the kettle and toaster and sat by the fruit bowl. She never turned round!",
+  "reason": "Just unexpected tbh.",
+  "timing": 70
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0267",
+  "turn": 15,
+  "line_text": "No, that's, honestly, I think that's a good thing. My dad's a bit like that, he just says it. Saves time.",
+  "who": "Nicola",
+  "what": "An elderly cat jumps up onto the grey worktop behind Nicola, walks slowly past the kettle and toaster, and sits down beside the fruit bowl, all in view of the webcam. Nicola doesn't turn round."
+ }
+}

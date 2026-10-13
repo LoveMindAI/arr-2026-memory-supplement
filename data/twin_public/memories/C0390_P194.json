@@ -1,0 +1,25 @@
+{
+ "call": "C0390",
+ "person": "P194",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 5,
+  "reason": 16
+ },
+ "ok": true,
+ "answers": {
+  "moment": "Her voice caught on 'I miss that'.",
+  "reason": "She looked down at the table for a second, then smiled. It felt real, and I recognised it.",
+  "timing": 42
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0390",
+  "turn": 12,
+  "line_text": "No, not at all. I was a care assistant in a residential home for years, then a school kitchen. I loved the care work, you know. Sitting with people, hearing the same story about their wedding for the fifth time. I miss that, do you know what I mean?",
+  "who": "Nicola",
+  "what": "Her voice catches slightly on 'I miss that'. She drops her eyes to the table for a second or two, then looks back up at the camera with a small half-smile."
+ }
+}

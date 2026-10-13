@@ -1,0 +1,23 @@
+{
+ "call": "C0341",
+ "person": "P165",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 9,
+  "reason": 32
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said she was judging me a bit for sea swimming lol",
+  "reason": "made me proper laugh, totally deadpan. I thought from her photo she'd be v scary and stern but she was actually really funny, just dry with it. kind of won me over tbh",
+  "timing": 95
+ },
+ "requires_av": false,
+ "av_event": null
+}

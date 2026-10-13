@@ -1,0 +1,23 @@
+{
+ "call": "C0282",
+ "person": "P138",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "stretch",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 20,
+  "reason": 23
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we talked about knees and backs and then diabetes and the doctor and sugar for a while.. i didnt know he have type 2 also",
+  "reason": "because i have it myself and every time i go surgery same thing. he is young for it and i dont think he eat properly",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,47 @@
+{
+ "session": "S36",
+ "rater": "P193",
+ "ok": true,
+ "ratings": {
+  "P190": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks like she works hard probably in the nhs seems decent enough"
+  },
+  "P191": {
+   "photo": 2,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "proper nice lady reminds me of my wife karen a bit to be fair"
+  },
+  "P192": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "steady sort of person looks like she just gets on with things"
+  },
+  "P194": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 2,
+   "pair": 0,
+   "gut": "bit more of the academic type maybe but seems alright yeah"
+  }
+ }
+}

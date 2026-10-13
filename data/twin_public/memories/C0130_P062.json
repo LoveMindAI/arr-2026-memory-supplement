@@ -1,0 +1,23 @@
+{
+ "call": "C0130",
+ "person": "P062",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "stretch",
+  "what": "partner_said_or_did",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 11
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when he said chips in the car with rain on the window lol",
+  "reason": "made me laugh cos thats exactly what we do here too",
+  "timing": 88
+ },
+ "requires_av": false,
+ "av_event": null
+}

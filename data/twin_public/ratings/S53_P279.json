@@ -1,0 +1,37 @@
+{
+ "session": "S53",
+ "rater": "P279",
+ "ok": true,
+ "ratings": {
+  "P277": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 3,
+   "trust": 5,
+   "comp": 6,
+   "sim": 1,
+   "pair": 1,
+   "gut": "looks like a teacher or something probably knows his stuff tbh"
+  },
+  "P278": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 1,
+   "pair": 0,
+   "gut": "just a standard mum vibes like someone at the dentist office"
+  },
+  "P280": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "seems sound enough but looks a bit tired ngl"
+  }
+ }
+}

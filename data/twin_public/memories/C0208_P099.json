@@ -1,0 +1,23 @@
+{
+ "call": "C0208",
+ "person": "P099",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "free",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 18
+ },
+ "ok": true,
+ "answers": {
+  "moment": "admitting me and ryan barely see each other cos of my hours, got weirdly honest lol",
+  "reason": "it actually gets to me tbh and i dont usually say that out loud to someone i just met x",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

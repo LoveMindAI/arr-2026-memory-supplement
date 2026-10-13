@@ -1,0 +1,225 @@
+{
+ "people": {
+  "n": 1147,
+  "kinds": {
+   "sonnet": {
+    "in_conversation": 1068,
+    "not_in_transcript": 35,
+    "general": 44
+   },
+   "gemini": {
+    "in_conversation": 1052,
+    "not_in_transcript": 52,
+    "general": 43
+   },
+   "luna": {
+    "in_conversation": 1024,
+    "not_in_transcript": 51,
+    "general": 72
+   }
+  },
+  "all_three_same_kind": 0.935,
+  "pairs": {
+   "sonnet-gemini": {
+    "kind_agree": 0.968,
+    "n": 1147,
+    "both_placed": 1045,
+    "overlap_any": 0.989,
+    "jaccard": 0.716,
+    "median_mid_gap": 0.012
+   },
+   "sonnet-luna": {
+    "kind_agree": 0.949,
+    "n": 1147,
+    "both_placed": 1018,
+    "overlap_any": 0.984,
+    "jaccard": 0.707,
+    "median_mid_gap": 0.011
+   },
+   "gemini-luna": {
+    "kind_agree": 0.951,
+    "n": 1147,
+    "both_placed": 1013,
+    "overlap_any": 0.985,
+    "jaccard": 0.706,
+    "median_mid_gap": 0.011
+   }
+  },
+  "vs_self_timing": {
+   "sonnet": {
+    "spearman": 0.622,
+    "n": 1068
+   },
+   "gemini": {
+    "spearman": 0.639,
+    "n": 1052
+   },
+   "luna": {
+    "spearman": 0.631,
+    "n": 1024
+   },
+   "all three place it and share a turn": {
+    "share_of_all3": 0.978,
+    "n_all3": 1010
+   },
+   "timing rho when all three share a turn / when they don't": [
+    0.642,
+    988,
+    0.486,
+    22
+   ]
+  }
+ },
+ "model guess, none": {
+  "n": 5729,
+  "kinds": {
+   "sonnet": {
+    "in_conversation": 5727,
+    "not_in_transcript": 2
+   },
+   "gemini": {
+    "in_conversation": 5724,
+    "in-conversation": 2,
+    "not_in_transcript": 3
+   },
+   "luna": {
+    "in_conversation": 5715,
+    "not_in_transcript": 13,
+    "general": 1
+   }
+  },
+  "all_three_same_kind": 0.997,
+  "pairs": {
+   "sonnet-gemini": {
+    "kind_agree": 0.999,
+    "n": 5729,
+    "both_placed": 5722,
+    "overlap_any": 1.0,
+    "jaccard": 0.843,
+    "median_mid_gap": 0.0
+   },
+   "sonnet-luna": {
+    "kind_agree": 0.998,
+    "n": 5729,
+    "both_placed": 5715,
+    "overlap_any": 1.0,
+    "jaccard": 0.854,
+    "median_mid_gap": 0.0
+   },
+   "gemini-luna": {
+    "kind_agree": 0.997,
+    "n": 5729,
+    "both_placed": 5711,
+    "overlap_any": 1.0,
+    "jaccard": 0.864,
+    "median_mid_gap": 0.0
+   }
+  },
+  "vs_self_timing": {}
+ },
+ "model guess, history": {
+  "n": 5731,
+  "kinds": {
+   "sonnet": {
+    "in_conversation": 5729,
+    "general": 2
+   },
+   "gemini": {
+    "in_conversation": 5728,
+    "not_in_transcript": 1,
+    "general": 2
+   },
+   "luna": {
+    "in_conversation": 5718,
+    "not_in_transcript": 6,
+    "general": 7
+   }
+  },
+  "all_three_same_kind": 0.998,
+  "pairs": {
+   "sonnet-gemini": {
+    "kind_agree": 0.999,
+    "n": 5731,
+    "both_placed": 5727,
+    "overlap_any": 1.0,
+    "jaccard": 0.819,
+    "median_mid_gap": 0.0
+   },
+   "sonnet-luna": {
+    "kind_agree": 0.998,
+    "n": 5731,
+    "both_placed": 5718,
+    "overlap_any": 1.0,
+    "jaccard": 0.825,
+    "median_mid_gap": 0.0
+   },
+   "gemini-luna": {
+    "kind_agree": 0.998,
+    "n": 5731,
+    "both_placed": 5716,
+    "overlap_any": 1.0,
+    "jaccard": 0.85,
+    "median_mid_gap": 0.0
+   }
+  },
+  "vs_self_timing": {}
+ },
+ "model guess, stranger's history": {
+  "n": 5725,
+  "kinds": {
+   "sonnet": {
+    "in_conversation": 5721,
+    "general": 4
+   },
+   "gemini": {
+    "in_conversation": 5721,
+    "not_in_transcript": 1,
+    "general": 3
+   },
+   "luna": {
+    "in_conversation": 5710,
+    "not_in_transcript": 10,
+    "general": 5
+   }
+  },
+  "all_three_same_kind": 0.997,
+  "pairs": {
+   "sonnet-gemini": {
+    "kind_agree": 0.999,
+    "n": 5725,
+    "both_placed": 5719,
+    "overlap_any": 0.999,
+    "jaccard": 0.828,
+    "median_mid_gap": 0.0
+   },
+   "sonnet-luna": {
+    "kind_agree": 0.997,
+    "n": 5725,
+    "both_placed": 5708,
+    "overlap_any": 0.999,
+    "jaccard": 0.827,
+    "median_mid_gap": 0.0
+   },
+   "gemini-luna": {
+    "kind_agree": 0.997,
+    "n": 5725,
+    "both_placed": 5707,
+    "overlap_any": 1.0,
+    "jaccard": 0.848,
+    "median_mid_gap": 0.0
+   }
+  },
+  "vs_self_timing": {}
+ },
+ "vs_a1_accepted": {
+  "gemini": {
+   "overlaps A1-accepted turns": 89,
+   "elsewhere": 1
+  },
+  "luna": {
+   "overlaps A1-accepted turns": 82,
+   "other kind": 6,
+   "elsewhere": 2
+  }
+ }
+}

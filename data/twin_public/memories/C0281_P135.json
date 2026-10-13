@@ -1,0 +1,23 @@
+{
+ "call": "C0281",
+ "person": "P135",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 8,
+  "reason": 27
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we had a laugh about ABBA counting as a hymn!",
+  "reason": "i think because it felt a bit quiet at first and that was when we both properly relaxed... it felt like we'd sort of clicked, which was lovely tbh!",
+  "timing": 85
+ },
+ "requires_av": false,
+ "av_event": null
+}

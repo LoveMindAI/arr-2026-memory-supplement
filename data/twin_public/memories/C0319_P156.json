@@ -1,0 +1,23 @@
+{
+ "call": "C0319",
+ "person": "P156",
+ "seat": "B",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "mostly just that it turned into an actual conversation fairly quickly, we got onto landscape and walking and galleries and it stopped feeling like a forced study thing, which i didnt expect",
+  "reason": "usually these things are awkward, this one wasnt really",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

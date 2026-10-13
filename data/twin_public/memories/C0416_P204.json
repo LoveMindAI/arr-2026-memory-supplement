@@ -1,0 +1,23 @@
+{
+ "call": "C0416",
+ "person": "P204",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 29,
+  "reason": 10
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when we was laughing about all the different words for bread like barm and that, and how english is so confusing when u first come here lol we was both laughing so much",
+  "reason": "it was funny and felt like we was same tbh",
+  "timing": 90
+ },
+ "requires_av": false,
+ "av_event": null
+}

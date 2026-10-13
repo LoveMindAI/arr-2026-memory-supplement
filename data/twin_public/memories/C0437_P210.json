@@ -1,0 +1,23 @@
+{
+ "call": "C0437",
+ "person": "P210",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 14
+ },
+ "ok": true,
+ "answers": {
+  "moment": "joel saying his girlfriend Hannah is a physio too, MSK on the NHS, couldnt believe it",
+  "reason": "third physio partner today lol, felt like the whole study was going out with physios",
+  "timing": 25
+ },
+ "requires_av": false,
+ "av_event": null
+}

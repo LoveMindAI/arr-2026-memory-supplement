@@ -1,0 +1,57 @@
+{
+ "session": "S20",
+ "rater": "P104",
+ "ok": true,
+ "ratings": {
+  "P102": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 4,
+   "trust": 4,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "honestly she looks dead nice but also like she'd be way more outgoing than me and i'd just be a bit quiet idk"
+  },
+  "P103": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "he looks really chill and like he wouldn't mind if i messed something up or asked a stupid question haha"
+  },
+  "P105": {
+   "photo": 3,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "she looks like she's just finished work and is a bit tired, kind of reminds me of my mum tbh"
+  },
+  "P106": {
+   "photo": 4,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks a bit serious but also reliable, probably gets her admin done on time unlike me lol"
+  },
+  "P107": {
+   "photo": 5,
+   "friendly": 4,
+   "like": 5,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "she looks really calm and i love that throw on her sofa, i've got a half-finished crochet project just like it x"
+  }
+ }
+}

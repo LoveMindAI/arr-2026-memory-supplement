@@ -1,0 +1,57 @@
+{
+ "session": "S12",
+ "rater": "P057",
+ "ok": true,
+ "ratings": {
+  "P056": {
+   "photo": 1,
+   "friendly": 3,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Looks serious and has dog, probably sensible"
+  },
+  "P058": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 0,
+   "gut": "Tidy room and history books, seems okay"
+  },
+  "P059": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 3,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Too much smiling, maybe talks too much"
+  },
+  "P060": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 4,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Polite but house looks like magazine, not like me"
+  },
+  "P061": {
+   "photo": 5,
+   "friendly": 3,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Working man, looks like he gets job done"
+  }
+ }
+}

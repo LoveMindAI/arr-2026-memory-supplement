@@ -1,0 +1,23 @@
+{
+ "call": "C0500",
+ "person": "P248",
+ "seat": "B",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 13,
+  "reason": 26
+ },
+ "ok": true,
+ "answers": {
+  "moment": "She said she makes hundreds of pierogi at Christmas by feel, from her grandmother's recipe.",
+  "reason": "Because it's exactly how I do rotis, no measuring, just enough. I didn't expect that from her, she looked a bit by-the-book in her photo.",
+  "timing": 70
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,47 @@
+{
+ "session": "S34",
+ "rater": "P182",
+ "ok": true,
+ "ratings": {
+  "P179": {
+   "photo": 1,
+   "friendly": 6,
+   "like": 4,
+   "trust": 4,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Appears social and chatty, which I might find distracting during tasks."
+  },
+  "P180": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Organised files and professional setup; she looks focused and no-nonsense."
+  },
+  "P181": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 3,
+   "pair": 1,
+   "gut": "A student, but her timetables are neatly pinned. Likely follows instructions well."
+  },
+  "P183": {
+   "photo": 4,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Pleasant and mature. The busy calendar suggests she manages a household efficiently."
+  }
+ }
+}

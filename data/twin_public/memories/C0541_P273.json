@@ -1,0 +1,23 @@
+{
+ "call": "C0541",
+ "person": "P273",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "one_moment",
+  "what": "did_together",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 12,
+  "reason": 8
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we got talking sparky stuff and turns out her husband rob's an electrician too",
+  "reason": "didnt see that coming, proper common ground straight away",
+  "timing": 30
+ },
+ "requires_av": false,
+ "av_event": null
+}

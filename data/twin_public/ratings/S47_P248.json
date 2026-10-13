@@ -1,0 +1,57 @@
+{
+ "session": "S47",
+ "rater": "P248",
+ "ok": true,
+ "ratings": {
+  "P246": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 4,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Looks a bit shy but quiet and tidy. Not too much bother."
+  },
+  "P247": {
+   "photo": 2,
+   "friendly": 3,
+   "like": 4,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "A bit blunt like me. Probably gets things done properly."
+  },
+  "P249": {
+   "photo": 3,
+   "friendly": 6,
+   "like": 5,
+   "trust": 5,
+   "comp": 4,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Smiles a lot... might be one of those who chats too much."
+  },
+  "P250": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Neat room, looks sensible. Someone who follows the rules."
+  },
+  "P251": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Seems a bit artsy-fartsy with the prints and the hair."
+  }
+ }
+}

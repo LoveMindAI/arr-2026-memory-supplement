@@ -1,0 +1,47 @@
+{
+ "session": "S38",
+ "rater": "P200",
+ "ok": true,
+ "ratings": {
+  "P199": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 5,
+   "trust": 4,
+   "comp": 4,
+   "sim": 2,
+   "pair": 1,
+   "gut": "reminds me of my daughter, seems a bit tired but nice enough"
+  },
+  "P201": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "looks very cheerful and hardworking, probably quite straightforward to deal with"
+  },
+  "P202": {
+   "photo": 3,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 4,
+   "pair": 1,
+   "gut": "looks like she has a dry sense of humour, i like the cat"
+  },
+  "P203": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "very sensible looking and kind, reminds me of people i know at church"
+  }
+ }
+}

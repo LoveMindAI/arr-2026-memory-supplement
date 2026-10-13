@@ -1,0 +1,47 @@
+{
+ "session": "S41",
+ "rater": "P216",
+ "ok": true,
+ "ratings": {
+  "P217": {
+   "photo": 1,
+   "friendly": 5,
+   "like": 6,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Looks like she's just finished a long shift, tbh. I know exactly how that feels."
+  },
+  "P218": {
+   "photo": 2,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Bit quiet maybe, but reminds me of Darren. Just a normal bloke."
+  },
+  "P219": {
+   "photo": 3,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 5,
+   "pair": 1,
+   "gut": "He looks very chatty and cheerful. Probably good to have in a team!!"
+  },
+  "P220": {
+   "photo": 4,
+   "friendly": 4,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Looks like a hard worker. She\u2019s got her scrubs drying, so she's probably in the same boat as me."
+  }
+ }
+}

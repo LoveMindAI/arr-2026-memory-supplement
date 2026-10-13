@@ -1,0 +1,57 @@
+{
+ "session": "S27",
+ "rater": "P144",
+ "ok": true,
+ "ratings": {
+  "P141": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 5,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Looks like he's just finished a long shift, probably a tradesman. Seems like a decent bloke tbh."
+  },
+  "P142": {
+   "photo": 2,
+   "friendly": 5,
+   "like": 6,
+   "trust": 7,
+   "comp": 7,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Very professional and organized. She looks like someone who knows exactly what she's doing."
+  },
+  "P143": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 5,
+   "trust": 5,
+   "comp": 6,
+   "sim": 3,
+   "pair": 1,
+   "gut": "Polite and put together. Her flat looks a lot smarter than my room at my parents'."
+  },
+  "P145": {
+   "photo": 4,
+   "friendly": 6,
+   "like": 6,
+   "trust": 5,
+   "comp": 4,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Seems relaxed, probably watching the football. A bit of a dad vibe about him."
+  },
+  "P146": {
+   "photo": 5,
+   "friendly": 5,
+   "like": 5,
+   "trust": 6,
+   "comp": 6,
+   "sim": 7,
+   "pair": 1,
+   "gut": "Looks like he works in the trade too. The map on the wall is a nice touch."
+  }
+ }
+}

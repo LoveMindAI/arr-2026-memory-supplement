@@ -1,0 +1,47 @@
+{
+ "session": "S33",
+ "rater": "P178",
+ "ok": true,
+ "ratings": {
+  "P174": {
+   "photo": 1,
+   "friendly": 4,
+   "like": 4,
+   "trust": 5,
+   "comp": 6,
+   "sim": 6,
+   "pair": 1,
+   "gut": "Looks sensible. Wearing a lanyard at home so she's probably just finished a shift. Bit like me."
+  },
+  "P175": {
+   "photo": 2,
+   "friendly": 7,
+   "like": 6,
+   "trust": 6,
+   "comp": 5,
+   "sim": 4,
+   "pair": 1,
+   "gut": "Genuinely happy to be there. Looks like she'd be easy to talk to and organized enough."
+  },
+  "P176": {
+   "photo": 3,
+   "friendly": 5,
+   "like": 4,
+   "trust": 3,
+   "comp": 3,
+   "sim": 2,
+   "pair": 0,
+   "gut": "Needs to tidy up & get the laptop off his knees. Might be a laugh but probably unreliable for a task."
+  },
+  "P177": {
+   "photo": 4,
+   "friendly": 5,
+   "like": 5,
+   "trust": 7,
+   "comp": 7,
+   "sim": 5,
+   "pair": 1,
+   "gut": "Proper engineering books on the shelf. Looks like he knows his stuff & wouldn't fudge the data."
+  }
+ }
+}

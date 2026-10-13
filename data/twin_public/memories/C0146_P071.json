@@ -1,0 +1,25 @@
+{
+ "call": "C0146",
+ "person": "P071",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 28,
+  "reason": 7
+ },
+ "ok": true,
+ "answers": {
+  "moment": "While we were talking about parkrun a small boy in pyjamas walked behind her past the sofa and laundry pile, took a book off the shelf and walked out. She didnt turn round.",
+  "reason": "Unexpected. And she just carried on talking.",
+  "timing": 65
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0146",
+  "turn": 22,
+  "line_text": "Idris, he's eight. Just me and him, my mum helps. What do you do for fun, apart from spreadsheets?",
+  "who": "Hodan",
+  "what": "A young boy in pyjamas walks across the living room behind Hodan, passing in front of the grey sofa and the folded laundry pile, picks up a book from the shelf and walks back out of frame. Hodan doesn't turn around and keeps talking."
+ }
+}

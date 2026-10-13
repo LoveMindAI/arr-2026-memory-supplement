@@ -1,0 +1,23 @@
+{
+ "call": "C0378",
+ "person": "P185",
+ "seat": "A",
+ "memory_type": "shared_stretch",
+ "spec": {
+  "scope": "free",
+  "what": "did_together",
+  "new_fact": false
+ },
+ "length_target": {
+  "moment": 14,
+  "reason": 15
+ },
+ "ok": true,
+ "answers": {
+  "moment": "we mostly just chatted about work and stuff, it was a bit awkward at first then easier",
+  "reason": "idk, it just felt like we had a fair bit in common tbh, which was nice",
+  "timing": 50
+ },
+ "requires_av": false,
+ "av_event": null
+}

@@ -1,0 +1,23 @@
+{
+ "call": "C0243",
+ "person": "P118",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": {
+  "scope": "one_moment",
+  "what": "partner_said_or_did",
+  "new_fact": true
+ },
+ "length_target": {
+  "moment": 67,
+  "reason": 19
+ },
+ "ok": true,
+ "answers": {
+  "moment": "when she said she had like nine hundred unread emails and just lets them sit there and judge her lol. i genuinely said oh my god id have a breakdown. this was right after i told her she should go freelance cos her jobs only funded for another 18 months, didnt know arts centre jobs were that precarious tbh, and she said shed be terrible at invoicing",
+  "reason": "cos 900 unread emails is actually mental, id lose my mind, she just laughed it off like it was nothing",
+  "timing": 40
+ },
+ "requires_av": false,
+ "av_event": null
+}

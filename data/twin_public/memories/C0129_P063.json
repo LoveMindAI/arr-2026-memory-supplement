@@ -1,0 +1,25 @@
+{
+ "call": "C0129",
+ "person": "P063",
+ "seat": "A",
+ "memory_type": "what_they_were_told",
+ "spec": null,
+ "length_target": {
+  "moment": 24,
+  "reason": 2
+ },
+ "ok": true,
+ "answers": {
+  "moment": "a man in a work polo came in behind her, got a bottle of water out the fridge n walked off, she didnt even turn round lol",
+  "reason": "made me smile",
+  "timing": 70
+ },
+ "requires_av": true,
+ "av_event": {
+  "call": "C0129",
+  "turn": 19,
+  "line_text": "Leanne: Ooh, that sounds amazing. I go to me mum's for Sunday dinner. She does the Yorkshire puddings and she still won't let me make them. I'm forty-one! She says I open the oven too much.",
+  "who": "Marisol",
+  "what": "A man in his fifties in a work polo shirt walks into frame behind Marisol, opens the fridge door, takes out a bottle of water, closes it and walks back out of shot. Marisol does not turn round and keeps looking at the screen."
+ }
+}
